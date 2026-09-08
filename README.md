@@ -7,7 +7,7 @@
 ## رابط المشروع في Crowdin
 
 تقدر تشارك وتترجم مباشرة من هنا:
-https://crowdin.com/project/norestforthewicked-arabic/sources/files
+https://crwd.in/norestforthewicked-arabic/fc1b80655ae334a1bc50cfe95df60f412872643
 
 ## كيف تشارك؟
 
