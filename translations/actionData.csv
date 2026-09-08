@@ -1,0 +1,6 @@
+﻿key,source,target
+actionData.infiniteDungeon.cinematicData.cerimCryptDoorInteractable.InteractionHint,Press [interact] to <color=#F2E6BD>Make an Offering</color>.,
+actionData.isolaSacra.isolaSacraDyingSoldierCinematic.isolaSacraDyingSoldierData.InteractionHint,Press [interact] to <color=#F2E6BD>talk</color>.,
+actionData.mountainPass.finleyEncounter.finleyPrisonBreakInteractionData.InteractionHint,Press [interact] to clear the debris!,
+actionData.mountains.cuttableWoodenGate.HasToolInteractionHint,Press [interact] to <color=#F2E6BD>chop down the gate using axe</color>.,
+actionData.mountains.cuttableWoodenGate.NoToolInteractionHint,Press [interact] with an axe equipped to <color=#F2E6BD>chop down the gate</color>.,

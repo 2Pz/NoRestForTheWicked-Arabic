@@ -1,0 +1,4 @@
+﻿key,source,target
+keyword.stats.Name,Mechanics,
+keyword.stats.healthRally.Description,After taking damage character can regain lost health by dealing damage to enemies,
+keyword.stats.healthRally.Name,Regainable Health,

@@ -1,0 +1,96 @@
+﻿key,source,target
+keywords.buffs.Name,Status Effect - Buff,
+keywords.debuffs.Name,Status Effect - Debuff,
+keywords.facets.Name,Item Facet,
+keywords.facets.armorIncreased1.Description,"Armor increased
+Poise Defense reduced",
+keywords.facets.armorIncreased1.Name,Bulky,
+keywords.facets.armorIncreased2.Description,"Armor increased
+Weight increased",
+keywords.facets.armorIncreased2.Name,Dense,
+keywords.facets.attackSpeedIncreased1.Description,"Attack Speed increased
+Damage reduced",
+keywords.facets.attackSpeedIncreased1.Name,Quick,
+keywords.facets.attackSpeedIncreased2.Description,"Attack Speed increased
+Stamina Regen reduced",
+keywords.facets.attackSpeedIncreased2.Name,Rapid,
+keywords.facets.attackStaminaCostDecreased1.Description,"Stamina Cost reduced
+Focus Gain reduced",
+keywords.facets.attackStaminaCostDecreased1.Name,Nimble,
+keywords.facets.criticalChanceIncreased1.Description,"Critical Chance increased
+Poise Damage reduced",
+keywords.facets.criticalChanceIncreased1.Name,Keen,
+keywords.facets.criticalChanceIncreased2.Description,"Critical Chance increased
+Durability reduced",
+keywords.facets.criticalChanceIncreased2.Name,Razor,
+keywords.facets.criticalDamageDisabled.Description,"Damage increased
+Poise Damage increased
+Critical Chance removed",
+keywords.facets.criticalDamageDisabled.Name,Reliable,
+keywords.facets.criticalDamageIncreased1.Description,"Critical Damage increased
+Damage reduced",
+keywords.facets.criticalDamageIncreased1.Name,Sharp,
+keywords.facets.damageIncreased1.Description,"Damage increased
+Attack Stamina Cost increased",
+keywords.facets.damageIncreased1.Name,Heavy,
+keywords.facets.damageIncreased2.Description,"Damage increased
+Focus Gain reduced",
+keywords.facets.damageIncreased2.Name,Mundane,
+keywords.facets.damageIncreased3.Description,"Damage increased
+Attack Speed reduced",
+keywords.facets.damageIncreased3.Name,Clumsy,
+keywords.facets.durabilityDisabled.Description,Durability removed,
+keywords.facets.durabilityDisabled.Name,Indestructible,
+keywords.facets.durabilityIncreased.Description,"Durability increased
+Focus Gain reduced",
+keywords.facets.durabilityIncreased.Name,Durable,
+keywords.facets.fireDamageOverride.Description,"Gain Fire Infusion
+Damage reduced",
+keywords.facets.fireDamageOverride.Name,Flaming,
+keywords.facets.fireResistanceIncreased.Description,"Fire Resistance increased
+Weight increased",
+keywords.facets.fireResistanceIncreased.Name,Fireproof,
+keywords.facets.focusGainIncreased2.Description,"Focus Gain increased
+Stamina Regen reduced",
+keywords.facets.focusGainIncreased2.Name,Mystic,
+keywords.facets.focusGainOnBlockIncreased1.Description,"Focus Gain increased
+Poise Damage reduced",
+keywords.facets.focusGainOnBlockIncreased1.Name,Meditative,
+keywords.facets.focusGainOnHitIncreased1.Description,"Focus Gain increased
+Stamina Cost increased",
+keywords.facets.focusGainOnHitIncreased1.Name,Ritualistic,
+keywords.facets.iceDamageOverride.Description,"Gain Ice Infusion
+Damage reduced",
+keywords.facets.iceDamageOverride.Name,Frigid,
+keywords.facets.iceResistanceIncreased.Description,"Ice Resistance increased
+Weight increased",
+keywords.facets.iceResistanceIncreased.Name,Frostwoven,
+keywords.facets.lightningDamageOverride.Description,"Gain Lightning Infusion
+Damage reduced",
+keywords.facets.lightningDamageOverride.Name,Voltaic,
+keywords.facets.lightningResistanceIncreased.Description,"Lightning Resistance increased
+Weight increased",
+keywords.facets.lightningResistanceIncreased.Name,Insulated,
+keywords.facets.movementSpeedIncreased.Description,"Movement Speed increased
+Stamina Regen reduced",
+keywords.facets.movementSpeedIncreased.Name,Frantic,
+keywords.facets.plagueDamageOverride.Description,"Gain Plague Infusion
+Damage reduced",
+keywords.facets.plagueDamageOverride.Name,Festering,
+keywords.facets.plagueResistanceIncreased.Description,"Plague Resistance increased
+Weight increased",
+keywords.facets.plagueResistanceIncreased.Name,Purified,
+keywords.facets.poiseDamageIncreased1.Description,"Poise Damage increased
+Focus Gain reduced",
+keywords.facets.poiseDamageIncreased1.Name,Blunt,
+keywords.facets.poiseDefenseIncreased1.Description,"Poise Defense increased
+Stamina Regen reduced",
+keywords.facets.poiseDefenseIncreased1.Name,Stable,
+keywords.facets.staminaRegenIncreased1.Description,"Stamina Regen increased
+Focus Gain reduced",
+keywords.facets.staminaRegenIncreased1.Name,Agile,
+keywords.triggers.Name,Triggered Effect,
+keywords.triggers.fatality.Description,Triggers when a character is killed with Charged Attack or Rune Attack,
+keywords.triggers.fatality.Name,Fatality,
+keywords.triggers.lowHealth.Description,Is active when a character is below 50% Health,
+keywords.triggers.lowHealth.Name,Low Health,

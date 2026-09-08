@@ -1,0 +1,366 @@
+﻿key,source,target
+readableLore.Inscriptions.bilsgard1Text,"The Founder of Our City
+The Father of Our Future
+
+<i>""Let this slab of useless rock give life to new generations. Let faith in ourselves be our sacrament.""</i>",
+readableLore.Inscriptions.bilsgard2Text,"Across the Waves He Sailed
+Onto Barren Shores He Stepped
+Through the Haze of Wastes He Saw
+Into History He Leapt",
+readableLore.Inscriptions.bilsgard3Text,"<i><nobr>O Hero,</nobr>
+<nobr>O Breaker of the Way!</nobr>
+<nobr>Where no ship had sailed, no Noble foot set</nobr>
+<nobr>Since the days of the Great Plague</nobr>
+<nobr>He brought Life, and Light</nobr>
+<nobr>And built this city.</nobr>
+
+<nobr>O Father,</nobr>
+<nobr>O Child of the Embrace,</nobr>
+<nobr>Through these cobblestones and flags</nobr>
+<nobr>Plowed from earth and bone</nobr>
+<nobr>He brought Order to Heresy</nobr>
+<nobr>And built this city</nobr>.</i>",
+readableLore.Inscriptions.bilsgard4Text,"Kafron Bilsgard, Founder of Sacrament
+
+<i>In your Eyes the stones of these streets
+In your Hands the future of Sacra
+In your Heart the lives of its people</i>",
+readableLore.Inscriptions.cerimChamberStatue,"<align=""center""><i><nobr>let the Gate stand as sentinel</nobr>
+ 
+<nobr>open when the world is in chorus</nobr>
+
+<nobr>closed when it cries out in torment</nobr>
+
+this is the will of the Sayer</i></nobr>",
+readableLore.Inscriptions.cerimCrucibleEchoKnightWarning,"<align=""center""><i><nobr>we remember the chosen few -</nobr>
+<nobr> Cyvion, and his fiercest Unspoken </nobr>
+<nobr>who fought these trials </nobr>
+<nobr>through wrath and silenc--</nobr>
+
+
+
+
+<nobr>--rever the tomb</nobr>
+<nobr>of the Echo Knights</nobr>",
+readableLore.Inscriptions.dashaForsaken1Text,"<align=""center"">The Forsaken
+
+unto her
+we spare no word
+cast no eye
+give no prayer",
+readableLore.Inscriptions.dashaMaker1Text,"<align=""center"">Learned Maker
+
+he shapes the home
+the family
+the law
+the way",
+readableLore.Inscriptions.dashaMother1Text,"<align=""center"">Sacred Mother
+
+she carries the earth
+the harvest
+the heart
+the dawn",
+readableLore.Inscriptions.dashaSeeker1Text,"<align=""center"">Restless Seeker
+
+he strives for growth
+for vision
+for valor
+for more",
+readableLore.Inscriptions.mountainGateText,"<align=""center""><i><nobr>open in --       peace an--</nobr>
+<nobr>closed -- </nobr>
+<nobr>days of sufferi --</nobr> 
+<nobr>whispe--    of the Sayer -- </nobr>
+<nobr>from her -- chambe -- </nobr>
+<nobr>to the west</i></nobr>",
+readableLore.InteractionHints.BookDefault,"Press <color=""yellow"">[interact]</color> to read Book",
+readableLore.InteractionHints.GravestoneDefault,"Press <color=""yellow"">[interact]</color> to read Gravestone ",
+readableLore.InteractionHints.InscriptionDefault,"Press <color=""yellow"">[interact]</color> to read Inscription",
+readableLore.InteractionHints.JournalDefault,"Press <color=""yellow"">[interact]</color> to read Journal",
+readableLore.InteractionHints.NoteDefault,"Press <color=""yellow"">[interact]</color> to read Note",
+readableLore.InteractionHints.PosterDefault,"Press <color=""yellow"">[interact]</color> to view Poster",
+readableLore.InteractionHints.StatueDefault,"Press <color=""yellow"">[interact]</color> to read Statue",
+readableLore.bookExcerpts.ElsaNoteOnMasonryDoor,"<i>The stone masonry is closed due to a cave-in. </i>
+
+<i>For those seeking entry, find the historian Elsa near the town square.</i>",
+readableLore.bookExcerpts.ElsaNoteinCerimAntechamber1,"<i>I find myself talking aloud to the Sayer as I try to tease out her secrets. Yet another reason I suppose I'd make a poor Cerim - the Unspoken thrive in silence. 
+
+But if I am quiet, all I hear is my father's voice in my head - 'history compels patience, Elsa.' And my mother too - 'don't forget to eat, child.'
+
+It seems unfair that the dead can wait an eternity while we living have so little time.</i>",
+readableLore.bookExcerpts.ElsaNoteinCerimAntechamber2,"<i>I knew there was more below, but I never would have guessed how much! A crucible of sorts, enough gauntlets to traverse and inscriptions to decipher to keep both me and the Cerim busy for quite some time. Orum will be furious!
+
+As for the Cerim, well, they're a curious sort. Both not what I expected and just as I imagined. Are they my missing link to the ancients, or are they strangers to their own ancestors?</i>",
+readableLore.bookExcerpts.ElsaNoteinCerimAntechamber3,"<i>A thousand years ago the Cerim paid a terrible price for their victory over the plague, a price we are only beginning to understand. Their greatest warriors driven to madness, their people scattered like seeds in the wind, their very voices banished from their own throats. 
+
+What drove them to such lengths? I feel whispers of it in the margins of every inscription. Something more than just survival or fear or pride. Almost... guilt.</i>",
+readableLore.bookExcerpts.SavorLabNote,"<i>Received your crow, but I don't care what the boys say about leaks in the cauldron - the Silverfish wants 8,000 vials and he's gonna get 8,000 vials. 
+
+Unless you wanna be the one to tell him we can't keep up with Savor demand. I hear the crabs are still picking bits of Gottis out of the surf.</i>",
+readableLore.bookExcerpts.adventuresInTheWild1Text,"I tipped my hat to the surly innkeeper, for I wouldn't be needing her services. I hadn't come to Sacra for creature comforts. No cold ale nor warm bed for me. I'd come to sink my teeth into the isle's wilderness, and see if it would bite back.
+
+Ancient ruins loomed. Unseen birds called out to one another. The sun set over the Ashen Sea. I shouldered my pack and set out through Sacrament's gates...
+
+-from <i>Adventures in the Wild</i> 
+by Sulin Froth",
+readableLore.bookExcerpts.adventuresInTheWild2Text,"The Boarskin drew closer, a foul stench wafting off their filthy bodies. Their pig head masks might've been the cleanest thing about them. 
+
+I had heard rumors that their whole tribe is one family, bizarrely believing itself descended from Sacrament's founder, with the branches of their family tree weaving back in on itself over and over. 
+
+""I too am a distant relative of Kafron the Great,"" I said, as I began a desperate negotiation for my life.
+
+-from <i>Adventures in the Wild</i> 
+by Sulin Froth",
+readableLore.bookExcerpts.adventuresInTheWild3Text,"As I raced through the putrid swamp, the Nith rose up to my left and right. The Pestilence had rotted their minds, the acidic waters their limbs, leaving only savagery and bloodlust.
+
+My sole hope was to reach solid ground, draw my sword, and make a last stand. Even if I were to die, I refused to surrender my corpse to these noxious waters.
+
+-from <i>Adventures in the Wild</i> 
+by Sulin Froth",
+readableLore.bookExcerpts.adventuresInTheWild5Text,"I realized these were not the Cerim of legend - silent, mystical warriors beating back the Pestilence - but rather a foul perversion. Perhaps graverobbers cursed for their greed, ancient armor imprisoning their corrupted spirit.
+
+What torment or foul purpose kept them on their feet? I held my breath in the bushes and willed myself to stillness - answers could come later. For now: survival.
+
+-from <i>Adventures in the Wild</i> 
+by Sulin Froth",
+readableLore.bookExcerpts.adventuresInTheWild6Text,"A ring of birdmen circled me, faces hidden behind elegant assemblages of feather and bone.
+
+I attempted to reason with them, but they responded only in squawks and chirps.
+
+Fight or flight - to the Balak Taw they are perhaps one and the same. But how was I to escape these men gone mad in the treetops?
+
+-from <i>Adventures in the Wild</i>
+by Sulin Froth",
+readableLore.bookExcerpts.adventuresInTheWild7Text,"""Be careful,"" said the villager, ""that fishcake has sat out on the shelf for quite some time.""
+
+I couldn't help but smile at the villager's caution. ""I'm Sulin Froth,"" I remarked, ""I've summited the Nameless Pass with nary a pickaxe. I've skinned sirens and dueled with Risen raiders. But I thank you for your warning.""
+
+And I swallowed the fishcake in a single bite, wondering what must it be like to live in fear.
+
+<i>- book finished posthumously -</i>
+
+-from <i>Adventures in the Wild</i> 
+by Sulin Froth",
+readableLore.bookExcerpts.adventuresInTheWild8Text,"A way out - a light at the end of the tunnel! I clung to that foolish notion, even as the cave sloped downward and walls grew slick. Not until the light began to pulse and throb did I realize my mistake. 
+
+Perhaps they had once been men - buried alive or lost as I was - before the Pestilence dripped down their throats. Now they were The Gloam. And they hungered. 
+
+I held my breath and crept backwards. For once, darkness was my ally. 
+
+-from <i> Adventures in the Wild</i>
+by Sulin Froth",
+readableLore.bookExcerpts.adventuresInTheWild9Text,"One might hear the rasp of a saw, the dull thud of an axe, and mistake it for honest work. But these forests grew wild, and the plagued Harvesters who once labored here had since taken on another grim task. 
+
+I scurried up the nearest trunk, praying they wouldn't glance up as they shuffled past. As my gaze lingered on the dried blood on their tools, the word ""limbed"" took on new, grotesque meaning. But no, I fully intended to leave these woods with all my appendages intact.
+
+-from <i> Adventures in the Wild</i>
+by Sulin Froth",
+readableLore.finleysShop.shopSignDescription,"<align=""center"">When the planes of the realm align,
+I, Finley, and my companion(s), shall come to Sacrament
+to trade items of an exceedingly rare and special nature
+in exchange for stones, trinkets, stories, and glory.
+ 
+My comings and goings are as the wind,
+as unpredictable as the fall of night!
+But usually you will find me from 8PM until midnight",
+readableLore.finleysShop.shopSignTitle,"<align=""center"">Finley's Cabinet of Rare and Magnificent Items",
+readableLore.finleysShop.signpostOpeningHours," <align=""center""><b>- Finley's Rare Item Shop -</b>  I'm currently out on a business trip!  Will be back in {0} Day(s) and {1} Hour(s)!",
+readableLore.finleysShop.signpostOpeningMinutes," <align=""center""><b>- Finley's Rare Item Shop -</b>  I'm currently out on a business trip!  Will be back in {0} Day(s) and {1} Hour(s)!",
+readableLore.finleysShop.signpostPermClosed,Out on a personal errand! Not sure when I'm back!,
+readableLore.gravestone.annoraText,"Blessed Wife, Beloved Mother
+
+<i>hrassa twen</i>",
+readableLore.gravestone.annoraTitle,<i>Annora Bolein</i>,
+readableLore.gravestone.karenaPoolText,"26th Governor of Sacrament
+Traitor to her Family",
+readableLore.gravestone.karenaPoolTitle,<i>Karena Pool</i>,
+readableLore.gravestone.murryGormwadderText,"died 808
+
+<i>""A good meal is never finished.""</i>",
+readableLore.gravestone.murryGormwadderTitle,<i>Murry Gormwadder</i>,
+readableLore.gravestone.thadeusBriarsText,"786 - 824
+
+He Fought With Valor",
+readableLore.gravestone.thadeusBriarsTitle,<i>Thadeus Briars</i>,
+readableLore.journalEntries.caretalkerAlsocLeavingForSacrament,"<i>Tomorrow I set out for Sacrament in search of aid to dispel this monstrous Blight that invades our home.
+
+I know Irmgard worries I cannot make the journey - I hear it in the silences between the words of her blessings. When did I grow so old?
+
+But my people need me. I will brave the forest, one limping step at a time. I pray to the Seeker I will not cross paths with the Balak Taw.</i>",
+readableLore.journalEntries.coupleDuringASMJournal,"<i>Whoever finds this, know I had no other choice - the Pestilence took hold of Noah, and I feel its crawl beneath my skin as well. 
+
+I have to keep her safe. Tell Maeve we love her. Tell her she’s kind and generous and to never let that part of her go. Tell her to eat her carrots and cabbage and not just sweets. Tell her anything please.</i>",
+readableLore.journalEntries.reedGiftToLara,"A gift for you upon our return, daughter – a true huntress deserves a true bow.",
+readableLore.journalEntries.surveyor10Text,"<i>Day 113 surveying I know not what.
+
+I'm finished! I'm through! Even if they throw me out of the Surveyors' Union - I will not abide another step on this cursed isle.
+
+No more horizons. No more blank maps tempting me to fill in their lines. All I ever wish to explore is the bottom of a bowl of warm soup.
+
+Farewell, Sacra! Someone else can complete the damned assignment. I'm departing these cursed shores and I will relish every moment of the journey home.</i>",
+readableLore.journalEntries.surveyor1Text,"<i>Day 1 surveying Isola Sacra.
+
+Today I begin my grand tour of the island of Sacra! It's my first surveying assignment, and admittedly not my first choice, but every journey begins with a single step!
+
+With any luck, I'll be home on the mainland submitting my report within a week's time, two at the most. As for what comes next, I am breathless at the possibility of it all.</i>",
+readableLore.journalEntries.surveyor2Text,"<i>Day 8 surveying this diverse island.
+
+Sacrament, the island's crown jewel. I confess, her sheen seems to have worn off a bit. In truth, the city has the feel of a ruin propped up by those who fail to realize history has moved on. I feel as though I can hear the city crumbling to dust around me.
+
+Still, her people have been hospitable! I have nothing but warm words for the fine ale of the Dusty Loom.</i>",
+readableLore.journalEntries.surveyor3Text,"<i>Day 15 surveying this troubled isle.
+
+A range of inhospitable rock juts from Sacrament's eastern edge. Curious to see the workings of the island's industrial heart, I made for the quarry that teems within the Nameless Pass.
+
+What I found there were conditions so vile, I wished I were back in the keel of the Abalonian, heaving my guts into my satchel. The quarry employs deviant laborers who are forced to mine ore at the bloody end of whip and rod. A disquieting spectacle, but hopefully just a hiccup on my survey.</i>",
+readableLore.journalEntries.surveyor4Text,"<i>Day 22 surveying this disappointing hunk of rock.
+
+Nothing shakes my faith in the one true God like spending days amid the holy men of Caylen. I refuse to believe He wishes us to be so singlemindedly dull in our pursuit of his grace.
+
+Yes, their Cathedral is lovely, but where am I to find a refreshing ale or a decent game of chance? And maybe a bit of music instead of those damn bells?</i>",
+readableLore.journalEntries.surveyor5Text,"<i>Day 35 surveying this miserable rut.
+
+The Orban Glades smell of rot. All day I hear the wet squelch of my boots sucking mud, all night I try and fail to warm my socks by the fire.
+
+Strange figures call this swamp home. Years of bog life has rotted away their lower limbs. Something else perhaps has rotted away their minds. It might be time to petition to bring my survey to a close?</i>",
+readableLore.journalEntries.surveyor6Text,"<i>Day 41 surveying this backcountry hovel.
+
+Is there no inch of Sacra that these wretched people aren't able to let fall to squalor? Do they see the ancient ruins all around them and think ""let us add to this noble tradition""?
+
+I make camp in an abandoned coastal fortress, what I'm sure was once a proud structure, a beacon to arriving ships. Now? A roofless monument to poor masonry. I hope it doesn't rain tonight.</i>",
+readableLore.journalEntries.surveyor7Text,"<i>Day 56 surveying this piddling expanse.
+
+The Lowland Meadows and Hunters' Vale beyond are, frankly, a testament to the weakness of character so prevalent here on Sacra.
+
+Abandoned structures, untilled fields, the wolf population left unchecked - how can some denizens of this island wish to govern themselves, when they can't even tend to their own backyard?</i>",
+readableLore.journalEntries.surveyor8Text,"<i>Day 72 surveying this dreadful land.
+
+My first warm meal in months, albeit at the hands of a godless shaman and her primitive followers. Still, even I can find something bucolic in this hamlet of Marin.
+
+But their prayers to hunks of stone keep me from sleeping. And I don't care one bit for the squawks and caws from the surrounding forest. What bird makes a sound so loud? </i>",
+readableLore.journalEntries.surveyor9Text,"<i>Day 89 surveying this dreary place.
+
+A creaking, groaning cemetery of drifting ship hulls and beached whale carcasses poison the waters east of Sacrament. My god, the stench of it.
+
+The fishermen here are little more than scavangers, picking the bones clean. Why not strap a few hulls together and set sail for anywhere else? Perhaps the mildew dulls their ambitions.</i>",
+readableLore.posters.risenRecruitment1Text,"<nobr>All fall, only some RISE!</nobr>
+
+<nobr>Phalen chokes us and then taxes us.</nobr>
+
+<nobr>We ask for food and medicine, and they send soldiers.</nobr>
+
+<nobr>Ellsworth, Elias Grafston, and the Lords of Tir are just puppets of the mainland.</nobr>
+
+<nobr>Rise up! Take back your home!</nobr>
+
+<nobr>You have always been <uppercase>RISEN</uppercase>.</nobr>
+",
+readableLore.posters.risenRecruitment2Text,"<nobr>Dead, warriors may fall. But we will not.</nobr>
+
+<nobr>Upon deaf ears, prayers may fall. But we will not.</nobr>
+
+<nobr>Struck down, our allies may fall. But we will not.</nobr>
+
+<nobr><uppercase>WE RISE.</uppercase></nobr>",
+readableLore.posters.risenRecruitment3Text,"<nobr>Tolek Duvain was 9 years old when Bolein Knights burned him alive in his own home. His crime? Being the child of parents who dared question their king.</nobr>
+
+<nobr>There are a hundred Toleks on our province of Sacra. A hundred provinces in the Ashen Sea.</nobr>
+
+<nobr>We fight for them all.</nobr>
+
+<nobr>We are many. We are Risen.</nobr>",
+readableLore.posters.wantedBountyTheDefendersOfKnellapGang,"<nobr>Name: Defenders of Knellap</nobr>
+
+<nobr>Crimes: Mayhem, assault, general confusion</nobr>
+
+<nobr>Description: Deranged, heavily armored ""knights"" in the service of House Knellap. As a matter of record, no such House exists. Claim others are trespassers and invaders on their sovereign soil. Sigil appears to be... a chicken?</nobr>
+
+<nobr>-Captain Randolph</nobr>",
+readableLore.posters.wantedBountyTheHuntsmenGang,"<nobr>Name: The Huntsmen</nobr>
+
+<nobr>Crimes: Maiming, torture, murder</nobr>
+
+<nobr>Description: A gang of self-styled ""hunters"" recently arrived on Sacra. Dressed in rare pelts. Claim to compete over the challenge and glory of the ultimate quarry. What or who that is remains a mystery.</nobr>
+
+<nobr>-Captain Randolph</nobr>",
+readableLore.posters.wantedBountyThePlagueDoctorsGang,"<nobr>Name: The Plague Doctors</nobr>
+
+<nobr>Crimes: Poison, arson, murder</nobr>
+
+<nobr>Description: A cabal of former physicians and scholars who lost their families - and their minds - to the Pestilence. Now they wage a personal war against the ""infected"" - very broadly defined. </nobr>
+
+<nobr>-Captain Randolph</nobr>",
+readableLore.posters.wantedBountyTheReapersGang,"<nobr>Name: The Reapers</nobr>
+
+<nobr>Crimes: Murder without cause</nobr>
+
+<nobr>Description: A death cult of sadistic killers. Dressed in cloaks and masks, they believe death is a blessing that should be granted to all. They claim to draw power from some cursed source.</nobr>
+
+<nobr>-Captain Randolph</nobr>",
+readableLore.posters.wantedBountyTheRedGang,"<nobr>Name: The Red</nobr>
+
+<nobr>Crimes: Assassination, robbery, kidnapping</nobr>
+
+<nobr>Description: An all-female gang of brigands. Each wears a signature red scarf as a tribute to their favored method of violence - a slit throat. No known ideology or principles beyond chaos and profit.</nobr>
+
+<nobr>-Captain Randolph</nobr>",
+readableLore.posters.wantedBountyTitle,<uppercase><i>WANTED DEAD</i></uppercase>,
+readableLore.questItems.DanosGallowScaffoldingText,"<uppercase><i>NOTICE</uppercase>: Work has been halted on the scaffolding due to lack of resources.
+
+Seek me in the town square once proper materials are obtained to resume construction.
+
+-Danos Tivian, Makers Guild</i>",
+readableLore.questItems.DanosRookeryText,"<uppercase><i>NOTICE</uppercase>: Work has been halted on the stairway due to lack of resources. 
+
+Seek me in the town square once proper materials are obtained to resume repairs. 
+
+-Danos Tivian, Makers Guild</i>",
+readableLore.questItems.HuntersNoteLowlandMeadows,"<i>Cerim - If you are reading this, Winnick and I will circle the gate through the old mine to the north. I hope you are not far behind. 
+
+-Ellsworth</i>",
+readableLore.questItems.IrmgardsNoteOnDoor,"<i>I am gathering herbs in the forest, through the cavern to the west.
+
+If you are from Marin, do not lose hope.
+
+If you are a traveler, do not linger here!
+
+-Mender Irmgard</i>",
+readableLore.questItems.MarinWoodsDireNettleNote,"<i>The natural world is a study in balance. When a poison spreads, a cure rises to meet it. All predators become prey, all lines become circles.
+
+Gather me the Dire Nettle - a small spore, yes, but I've learned that it alone can expose the creeping Blight's heart. 
+
+We must keep these foul weeds at bay. At least until nature once more tips her scales in our favor.
+
+- Herbalist Trelo</i>",
+readableLore.questItems.WillemNoteAtFarm,"<i>Gone to the southern corner of the Black Trench to harvest faeces petrichorus. The fouler the dung, the richer the grow.
+
+Not sure who I’m writing this note for, no one’s going to read it anyway. Hornswaggle. Pigeons. Marmalade stew.
+
+Willem the Farmer</i>",
+readableLore.questItems.quarryNoteText1,"<i>the bars won't hold them back for long
+
+sacrament abandoned me
+god abandoned me
+
+no one will remember my name</i>",
+readableLore.questItems.quarryNoteText2,"<i>I held out as long as I could
+I'm sorry Tobias
+I can feel it now
+the black rain inside my mind
+thoughts turn to blood
+skin turns to eyes
+do not 
+ccome 
+<line-indent=10%>here
+
+<line-indent=20%>your Barrow</i>",
+readableLore.questItems.quarryTackeNoteOnWall,"<i><nobr>Stark Reddis - 1 count kidnapping</nobr>
+
+<nobr>Torbin Jons - 2 counts burglary</nobr>
+
+<nobr>Josiana Etchling - 3 counts extortion</nobr>
+
+<nobr>Hamis Jute - 1 count murder</nobr>
+
+<nobr>Orchin Brum - 1 count arson</nobr>
+
+<nobr>Jonas and Elia Riven - 6 counts murder, 12 counts assault, 8 counts robbery, 3 counts dismemberment, 5 counts kidnapping, 4 counts attempted murder, 1 count threats made against the crown</nobr></i>",

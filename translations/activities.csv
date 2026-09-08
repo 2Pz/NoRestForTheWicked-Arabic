@@ -1,0 +1,347 @@
+﻿key,source,target
+activities.npc.captainRandolph.bounties.generic.balakTawBounty.description,"Grown men dressed in feathers, chirping and squawking at one another - it would be a joke if not for the sharpness of their spears. Bring these crazed Balak Taw back down to earth, Cerim.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.balakTawBounty.name,Of A Feather,
+activities.npc.captainRandolph.bounties.generic.bloatedMutantSoldierBounty.description,"My men say they saw… well they can’t quite seem to describe it. A scurrying mass of flesh and limbs. But it had teeth. And a terrible hunger. That’s really all you need to know.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.bloatedMutantSoldierBounty.name,Abomination,
+activities.npc.captainRandolph.bounties.generic.boarskinBounty.description,"I take it you’ve heard stories of the Boarskin - feral, inbred pillagers claiming to be the true heirs to Sacrament? Well I wish they were only stories. Cut them down, Cerim - blood is the only language they understand.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.boarskinBounty.name,When Pigs Fall,
+activities.npc.captainRandolph.bounties.generic.bruisersDuoBounty.description,"It seems I finally learned what’s worse than an armored Risen bandit terrorizing our island. Two of them! Take down this pair of hulking brutes and you’ll earn my thanks. 
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.bruisersDuoBounty.name,A Savage Pair,
+activities.npc.captainRandolph.bounties.generic.crawlersBounty.description,"Locals have reported Torn Crawlers burrowing out of the earth. They drag down wild animals when we’re lucky, people when we’re not. The Crawlers have already dug their grave - you just need to finish the job.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.crawlersBounty.name,Dirty Work,
+activities.npc.captainRandolph.bounties.generic.falseOnesBounty.description,"Legends claim The False Ones are graverobbers foolish enough to put on Cerim armor and now cursed for eternity. I’ll leave the children’s stories, and the False Ones, to you.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.falseOnesBounty.name,Lost Truth,
+activities.npc.captainRandolph.bounties.generic.gangTrioBounty.description,"I’ve received word - unlikely as it might sound - that the Knights of Knellap, the Huntsmen, and the Plague Doctors have convened a gathering in secret. I can think of only one common interest that would bring those three factions together - our ruin. Well if it’s union they seek, Cerim, unite them in death.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.gangTrioBounty.name,Deranged Council,
+activities.npc.captainRandolph.bounties.generic.gloamBounty.description,"They say there’s a bright light when you die. Maybe that’s just The Gloam, pulling you down into the dirt. Track down these plagued cave dwellers and snuff out their light for good.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.gloamBounty.name,Seen the Light,
+activities.npc.captainRandolph.bounties.generic.goldenKnight.description,"I've reports of a Golden Titan rampaging through the countryside. Some say it's a cursed graverobber, trapped within the very Cerim armor he tried to steal. But I don't care for rumors, only results.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.goldenKnight.name,All That Glitters,
+activities.npc.captainRandolph.bounties.generic.guardMutantSoldierBounty.description,"One of my Guards was infected by the Pestilence. Poor bastard tried to hide it. Maybe if he'd told us sooner we could've cut off the limb. Now... it all has to go.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.guardMutantSoldierBounty.name,A Man Down,
+activities.npc.captainRandolph.bounties.generic.huntsmanBounty.description,"I hear reports of one of the feared Huntsmen bringing down quarry both animal and man. There’s a fine line between sportsman and madman. Make him your trophy, Cerim. 
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.huntsmanBounty.name,Predator or Prey,
+activities.npc.captainRandolph.bounties.generic.knellapBounty.description,"One of the deranged chicken knights of the so-called “House of Knellap” is on the loose. Knellap might not be real, but these knights sadly are. Dispatch him with prejudice, Cerim. 
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.knellapBounty.name,Flown the Coop,
+activities.npc.captainRandolph.bounties.generic.lumberjackFemaleBounty.description,"It took two of my men to drag home the remains of a poor soul who had a run-in with a Harvester giantess - one carried his top half, the other his lower. Cut her down to size before she hurts anyone else.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.lumberjackFemaleBounty.name,Fury Felled,
+activities.npc.captainRandolph.bounties.generic.lumberjacksBounty.description,"The Harvesters once felled trees in service of Sacrament. Now it’s our duty to cut these poor souls down. If only the plague poisoned our isle’s dilettantes and socialites instead of her laborers and loggers.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.lumberjacksBounty.name,Forest for the Trees,
+activities.npc.captainRandolph.bounties.generic.nithBounty.description,"More of those Nith tribe monstrosities have crawled out of the swamp. The plague has rotted their souls, and the bog has rotted their bodies. Drive them back beneath the muck.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.nithBounty.name,The Swamp Rises,
+activities.npc.captainRandolph.bounties.generic.plagueDoctorBounty.description,"One of the unhinged Plague Doctors has been spotted in the wild, attacking anyone she deems “infected.” I pity whatever loss drove her to madness, but she’s beyond saving now.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.plagueDoctorBounty.name,A Deadly Cure,
+activities.npc.captainRandolph.bounties.generic.plagueHeartBounty.description,"What foul abomination is this, what sin against God? Slithering across the ground, its malformed face retching up Torn foes? But no, I don't need to understand it. I just need you to kill it.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.plagueHeartBounty.name,A Monstrous Visage,
+activities.npc.captainRandolph.bounties.generic.plaguedBeastsBounty.description,"It seems the plague can poison the mind of man and beast alike. These rabid animals need to be put down, Cerim, or else the sickness might spread.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.plaguedBeastsBounty.name,Burden of Beasts,
+activities.npc.captainRandolph.bounties.generic.plaguedHumansBounty.description,"That they used to be men is not our concern, Cerim. The plague has taken their minds, and now it falls upon us to dispatch what remains of their bodies. It’s not murder - it’s janitorial work.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.plaguedHumansBounty.name,Lost Souls,
+activities.npc.captainRandolph.bounties.generic.prisonersBounty.description,"This might be an unpopular opinion, but I’ve no pity for the plagued prisoners. I reserve my sympathies for the innocent, thank you. Whatever their crime once was, the punishment now is death.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.prisonersBounty.name,Rattle the Cage,
+activities.npc.captainRandolph.bounties.generic.risenBounty.description,"My scouts say they’ve spotted another Risen patrol. Criminals pretending to be revolutionaries. We must stem the tide of their so-called rebellion before it boils over into outright war.  
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.risenBounty.name,Risen Raid,
+activities.npc.captainRandolph.bounties.generic.sacramentGuardPlagedLeader.description,"I take no pleasure in sending one of my own Guard to an early grave, but we must remind ourselves it is a mercy, not a punishment. The Pestilence already killed his soul, now you just need to make sure the body follows suit.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.sacramentGuardPlagedLeader.name,Dishonorable Discharge,
+activities.npc.captainRandolph.bounties.generic.sirensBounty.description,"Nasty little buggers, aren’t they? You strike down one Siren only for two more to wriggle free. Cut through the swarm, Cerim, before a nuisance becomes an infestation.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.sirensBounty.name,Siren Song,
+activities.npc.captainRandolph.bounties.generic.tanthBounty.description,"I’ve no idea who’s footing the bill for these haughty Tanth mercenaries to be terrorizing our shores, but their gold is no match for our steel. If we can’t send them back to Tanth, let’s send them to an early grave.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.tanthBounty.name,Bloody Business,
+activities.npc.captainRandolph.bounties.generic.wingedBroodBounty.description,"With the Mountain Gate destroyed, it seems we've opened a door to evil itself. Those grotesque bat creatures have poured forth all over the island. Show no mercy - they must be eradicated if Sacra is to survive.
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.wingedBroodBounty.name,A Brooding Threat,
+activities.npc.captainRandolph.bounties.generic.witchesBounty.description,"Strange rumors have been circulating about the plagued women who escaped from the prison. Supernatural hokum, I’m sure. I’ll squash these rumors, and you squash these “witches.”
+
+<color=#89888b>Location:</color>",
+activities.npc.captainRandolph.bounties.generic.witchesBounty.name,Witch Unbound,
+activities.npc.captainRandolph.bounties.tier1.weekly.warRoomPlaguedLeaderBounty.warRoomPlaguedLeaderBounty.name,Within Our Walls,
+activities.npc.captainRandolph.challenges.gearCollect.name,Gear Retrieval,
+activities.npc.captainRandolph.challenges.harvestResources.catchFish.description,"The natural world offers man her bounty. And what do we offer her in return? Order. The wilderness's rewards await those who tame her – rewards that I trust you'll put to good use.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Fish at Fishing Spots</color>",
+activities.npc.captainRandolph.challenges.harvestResources.fishingName,Gone Fishing,
+activities.npc.captainRandolph.challenges.harvestResources.genericName,Brought to Heel,
+activities.npc.captainRandolph.challenges.harvestResources.harvestBirchTrees.description,"The natural world offers man her bounty. And what do we offer her in return? Order. The wilderness's rewards await those who tame her – rewards that I trust you'll put to good use.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Chop Down Birch Trees</color>",
+activities.npc.captainRandolph.challenges.harvestResources.harvestCopperOre.description,"The natural world offers man her bounty. And what do we offer her in return? Order. The wilderness's rewards await those who tame her – rewards that I trust you'll put to good use.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Mine Copper Ore Veins</color>",
+activities.npc.captainRandolph.challenges.harvestResources.harvestDigSpots.description,"The natural world offers man her bounty. And what do we offer her in return? Order. The wilderness's rewards await those who tame her – rewards that I trust you'll put to good use.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Unearth Digging Spots</color>",
+activities.npc.captainRandolph.challenges.harvestResources.harvestTreesGeneric.description,"The natural world offers man her bounty. And what do we offer her in return? Order. The wilderness's rewards await those who tame her – rewards that I trust you'll put to good use.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Chop Down Trees</color>",
+activities.npc.captainRandolph.challenges.patrol.description,"Cerim, we're still discovering secrets on this island to this day - You'd be doing us a favor if you could help map out the surrounding areas. Time to go on patrol.
+
+<color=#89888b>Patrol Area:</color>",
+activities.npc.captainRandolph.challenges.patrol.name,Sacra Surveyor,
+activities.npc.captainRandolph.challenges.randomized.randomizedCollectChallenge.description,"An army is more than just men. It’s the food in their bellies, the weapons in their fists, the clothes on their back. Fetch me what I need, and you’ll be handsomely rewarded.
+
+<color=#89888b>OBJECTIVE:</color>",
+activities.npc.captainRandolph.challenges.randomized.randomizedCollectChallenge.nameA,Supply Run,
+activities.npc.captainRandolph.challenges.randomized.randomizedCollectChallenge.nameB,Gather and Give,
+activities.npc.captainRandolph.challenges.randomized.randomizedCollectChallenge.nameC,Delivery Duty,
+activities.npc.captainRandolph.challenges.randomized.randomizedKillChallenge.description,"There’s only one way to live up to your own legend, Cerim. Show me your true mettle and cut down the enemies of Sacrament. There’s good coin in it, if glory and duty aren’t reward enough. 
+
+<color=#89888b>OBJECTIVE:</color>",
+activities.npc.captainRandolph.challenges.randomized.randomizedKillChallenge.nameA,Kill Or Be Killed,
+activities.npc.captainRandolph.challenges.randomized.randomizedKillChallenge.nameB,Blood for Blood,
+activities.npc.captainRandolph.challenges.randomized.randomizedKillChallenge.nameC,Soldier of Sacra,
+activities.npc.captainRandolph.challenges.runeChallenge.attachDescription,"It pains me to say this, Cerim, but survival might require more than traditional weapons alone. Visit Eleanor the enchanter to master runes. An occult weapon is still better than a shattered one.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Attach Runes to Weapons</color>",
+activities.npc.captainRandolph.challenges.runeChallenge.extractDescription,"It pains me to say this, Cerim, but survival might require more than traditional weapons alone. Visit Eleanor the enchanter to master runes. An occult weapon is still better than a shattered one.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Extract Runes from Weapons</color>",
+activities.npc.captainRandolph.challenges.runeChallenge.name,Rune Binding,
+activities.npc.captainRandolph.challenges.shardCollect.name,Shard Shipment,
+activities.npc.captainRandolph.challenges.tier1.daily.enchantWeapon.enchantWeaponChallenge.descriptionA,"With the right materials, Eleanor can enchant your weapons and armor with mystical properties. Show me some enchanted gear, and I'll offer you a reward. You need all the strength you can get.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Enchant Weapons</color>",
+activities.npc.captainRandolph.challenges.tier1.daily.enchantWeapon.enchantWeaponChallenge.descriptionB,"With the right materials, Eleanor can enchant your weapons and armor with mystical properties. Show me some enchanted gear, and I'll offer you a reward. You need all the strength you can get.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Enchant Armors</color>",
+activities.npc.captainRandolph.challenges.tier1.daily.enchantWeapon.enchantWeaponChallenge.name,Enchanted Gear,
+activities.npc.captainRandolph.challenges.tier1.weekly.completeChallenges.completeChallengesChallenge.description,"We all need to lend a helping hand to our fellow comrades in these trying times, Cerim.
+
+Show me that you stand with Sacrament and you shall have this reward.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Complete Challenges</color>",
+activities.npc.captainRandolph.challenges.tier1.weekly.completeChallenges.completeChallengesChallenge.name,Civic Duty,
+activities.npc.captainRandolph.challenges.tier1.weekly.completeDanosProjects.completeDanosProjectsChallenge.description,"Would you like to see Sacrament returned to its former glory, Cerim?
+The citizens of the city are hard at work bringing their home back to its prime.
+
+Seek out Danos at the market and see if you can lend a hand.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Complete Builder Projects</color>",
+activities.npc.captainRandolph.challenges.tier1.weekly.completeDanosProjects.completeDanosProjectsChallenge.name,Sacrament Reborn,
+activities.npc.captainRandolph.challenges.tier2.daily.lootChestsChallenge.lootChestsChallenge.descriptionA,"As you may know, the bandits and raiders roaming Sacra often stash their weaponry in chests scattered across the land. Large chests often have the most valuable offerings.
+
+Cerim, steal back what they stole from us.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Loot Chests</color>",
+activities.npc.captainRandolph.challenges.tier2.daily.lootChestsChallenge.lootChestsChallenge.descriptionB,"As you may know, the bandits and raiders roaming Sacra often stash their weaponry in chests scattered across the land. Large chests often have the most valuable offerings.
+
+Cerim, steal back what they stole from us.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Loot Large Chests</color>",
+activities.npc.captainRandolph.challenges.tier2.daily.lootChestsChallenge.lootChestsChallenge.name,Plunder Seeker,
+activities.npc.captainRandolph.challenges.tier2.daily.parrying.parryingChallenge.description,"I often say that Parry and Riposte are a soldier's bread and butter. The latter fills the stomach, the former keeps it from being split open.
+
+If you want to be of any use to us, you'll need to master this technique.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Perform Successful Parries</color>",
+activities.npc.captainRandolph.challenges.tier2.daily.parrying.parryingChallenge.name,Parry and Riposte,
+activities.npc.captainRandolph.challenges.tier2.daily.upgrade3Weapons.upgradeWeaponsChallenge.descriptionA,"You're going to need some fortified armaments if you wish to survive out there, Cerim.
+
+Talk to Fillmore the blacksmith - he'll reinforce your gear. Once you've done some upgrades, come speak to me.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Upgrade Weapons</color>",
+activities.npc.captainRandolph.challenges.tier2.daily.upgrade3Weapons.upgradeWeaponsChallenge.descriptionB,"You're going to need some fortified armaments if you wish to survive out there, Cerim.
+
+Talk to Mirabelle and Meriweather, the tailor sisters - they will reinforce your gear. Once you've done some upgrades, come speak to me.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Upgrade Armors</color>",
+activities.npc.captainRandolph.challenges.tier2.daily.upgrade3Weapons.upgradeWeaponsChallenge.name,Singing Steel,
+activities.npc.captainRandolph.challenges.tier2.weekly.collectFurniture.description,"If you manage to obtain any stray furnishings, Cerim, I would gladly take them off your hands to help the destitute of Sacrament. But please, don't mention my charitable endeavors to others. I've a reputation to uphold.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Collect Furniture</color>",
+activities.npc.captainRandolph.challenges.tier2.weekly.collectFurniture.name,Some Assembly Required,
+activities.npc.captainRandolph.challenges.tier2.weekly.completeBounties.completeBountiesChallenge.description,"Murderers, plunderers, thieves... It’s a sad fact that we are beset by those who have chosen an ill-fated path.
+
+Bring these lawbreakers to justice.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Complete Bounties</color>",
+activities.npc.captainRandolph.challenges.tier2.weekly.completeBounties.completeBountiesChallenge.name,Law and Order,
+activities.npc.captainRandolph.challenges.tier3.daily.collectScaldingShard.collectScaldingShardChallenge.description,"We've reports of strange embers scattered across Sacra, hot to the touch and said to be fragments of fallen stars. All I care is if they can make my men's shields stronger and spears sharper. I'll reward you handsomely for any you find.
+
+<color=#89888b>OBJECTIVE:</color>",
+activities.npc.captainRandolph.challenges.tier3.daily.collectScaldingShard.collectScaldingShardChallenge.name,A Foreign Element,
+activities.npc.captainRandolph.challenges.tier3.weekly.cleansePlaguedAreas.description,"The plague is a mad dog, and it's finally snapped its leash. My men report fresh outbreaks cropping up all over the island. Scour those areas clean, Cerim, before the whole of Sacra is lost.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Cleanse Pestilence Outbreak Regions</color>",
+activities.npc.captainRandolph.challenges.tier3.weekly.cleansePlaguedAreas.name,Hold Back the Tide,
+activities.npc.captainRandolph.challenges.tier3.weekly.collectPlagueIchor.collectPlagueIchorChallenge.description,"I've heard rumblings of Roan and the old man performing some kind of twisted experiments with the blood of those sick, plague-infected creatures - Whatever he's doing, I don't trust that bumbling idiot with the remains of devils.
+
+Cerim, if you happen to find any of this substance, please show it to me. I'll rest easier knowing it's in my hands.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Collect Plague Ichor</color>",
+activities.npc.captainRandolph.challenges.tier3.weekly.collectPlagueIchor.collectPlagueIchorChallenge.name,Sinister Studies,
+activities.npc.captainRandolph.challenges.tier3.weekly.completeCerimCryptRuns.completeCerimCryptRunsWeeklyChallenge.description,"I heard that Elsa woman found an entrance to some mysterious ruins beneath the cemetery in Sacrament.
+
+If you venture through them, report back to me.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Complete Cerim Crucible Runs</color>",
+activities.npc.captainRandolph.challenges.tier3.weekly.completeCerimCryptRuns.completeCerimCryptRunsWeeklyChallenge.name,Champion of Echoes,
+activities.npc.captainRandolph.challenges.tier3.weekly.rematchBalakTawChampion.description,"The Balak Taw have grown rowdy yet again, raiding parties probing our borders. Perhaps if you face down their champion once more, it will put them back in their place. At least for a time.
+
+<color=#89888b>OBJECTIVE:</color>
+<color=#f2e6bd>Rematch the Unbreakable Egg in Marin Woods</color>",
+activities.npc.captainRandolph.challenges.tier3.weekly.rematchBalakTawChampion.name,The Pecking Order,
+activities.npc.caroline.caroline,Caroline,
+activities.npc.crucibleVendor.structureUpgrades.respecStatue.level1.respecStatueVendorLevel1.name,Iron Corpus,
+activities.npc.crucibleVendor.structureUpgrades.respecStatue.level1.secondCrucibleStatueVendorLevel1.name,Trial of the Wicked,
+activities.npc.crucibleVendor.structureUpgrades.respecStatue.level1.thirdCrucibleStatueVendorLevel1.name,Trial of the Horde,
+activities.npc.danos.danos,Danos,
+activities.npc.danos.structureUpgrades.gallowsScaffolding.gallowsScaffoldingUpgrade.name,Gallows Scaffolding,
+activities.npc.danos.structureUpgrades.gallowsScaffolding.level1.gallowsScaffoldingUpgradeLevel1.name,Gallows Scaffolding Completed,
+activities.npc.danos.structureUpgrades.lodgings.level1.lodgingsUpgradeLevel1.name,Repaired Lodgings,
+activities.npc.danos.structureUpgrades.lodgings.lodgingsUpgrade.name,Lodgings Upgrade,
+activities.npc.danos.structureUpgrades.rookeryElevator.level1.rookeryElevatorVendorLevel1.name,Rookery Elevator Repair,
+activities.npc.danos.vendorUpgrades.caroline.carolineUpgrade.name,Caroline Upgrade,
+activities.npc.danos.vendorUpgrades.caroline.level1.carolineVendorLevel1.name,Caroline Level 1,
+activities.npc.danos.vendorUpgrades.caroline.level2.carolineVendorLevel2.name,Caroline Level 2,
+activities.npc.danos.vendorUpgrades.caroline.level3.carolineVendorLevel3.name,Caroline Level 3,
+activities.npc.danos.vendorUpgrades.caroline.level4.carolineVendorLevel4.name,Caroline Level 4,
+activities.npc.danos.vendorUpgrades.danoWorkers.level1.danosWorkersLevel1.name,Danos' Workers Level 1,
+activities.npc.danos.vendorUpgrades.danoWorkers.level1.danosWorkersLevel2.name,Danos' Workers Level 2,
+activities.npc.danos.vendorUpgrades.danoWorkers.level1.danosWorkersLevel3.name,Danos' Workers Level 3,
+activities.npc.danos.vendorUpgrades.danoWorkers.level1.danosWorkersLevel4.name,Danos' Workers Level 4,
+activities.npc.danos.vendorUpgrades.danos.danosUpgrade.name,Danos Upgrade,
+activities.npc.danos.vendorUpgrades.danos.level1.danosVendorLevel1.name,Danos' Architecture Study Level 1,
+activities.npc.danos.vendorUpgrades.danos.level2.danosVendorLevel2.name,Danos' Architecture Study Level 2,
+activities.npc.danos.vendorUpgrades.danos.level3.danosVendorLevel3.name,Danos' Architecture Study Level 3,
+activities.npc.danos.vendorUpgrades.danos.level4.danosVendorLevel4.name,Danos' Architecture Study Level 4,
+activities.npc.danos.vendorUpgrades.danosWorkers.danosWorkersUpgrade.name,Danos' Workers Upgrade,
+activities.npc.danos.vendorUpgrades.eleanor.enchanterVendorUpgrade.name,Eleanor Upgrade,
+activities.npc.danos.vendorUpgrades.eleanor.level1.enchanterVendorLevel1.name,Eleanor Level 1,
+activities.npc.danos.vendorUpgrades.eleanor.level2.enchanterVendorLevel2.name,Eleanor Level 2,
+activities.npc.danos.vendorUpgrades.eleanor.level3.enchanterVendorLevel3.name,Eleanor Level 3,
+activities.npc.danos.vendorUpgrades.eleanor.level4.enchanterVendorLevel4.name,Eleanor Level 4,
+activities.npc.danos.vendorUpgrades.filmore.blacksmithVendorUpgrade.name,Filmore Upgrade,
+activities.npc.danos.vendorUpgrades.filmore.level1.blacksmithVendorLevel1.name,Filmore Level 1,
+activities.npc.danos.vendorUpgrades.filmore.level2.blacksmithVendorLevel2.name,Filmore Level 2,
+activities.npc.danos.vendorUpgrades.filmore.level3.blacksmithVendorLevel3.name,Filmore Level 3,
+activities.npc.danos.vendorUpgrades.filmore.level4.blacksmithVendorLevel4.name,Filmore Level 4,
+activities.npc.danos.vendorUpgrades.gordon.gordonUpgrade.name,Gordon Upgrade,
+activities.npc.danos.vendorUpgrades.gordon.level1.gordonVendorLevel1.name,Gordon Level 1,
+activities.npc.danos.vendorUpgrades.gordon.level2.gordonVendorLevel2.name,Gordon Level 2,
+activities.npc.danos.vendorUpgrades.gordon.level2.gordonVendorLevel3.name,Gordon Level 3,
+activities.npc.danos.vendorUpgrades.gordon.level4.gordonVendorLevel4.name,Gordon Level 4,
+activities.npc.danos.vendorUpgrades.grinnich.level1.merchantVendorLevel1.name,Grinnich Level 1,
+activities.npc.danos.vendorUpgrades.grinnich.level2.merchantVendorLevel2.name,Grinnich Level 2,
+activities.npc.danos.vendorUpgrades.grinnich.level3.merchantVendorLevel3.name,Grinnich Level 3,
+activities.npc.danos.vendorUpgrades.grinnich.level4.merchantVendorLevel4.name,Grinnich Level 4,
+activities.npc.danos.vendorUpgrades.grinnich.merchantVendorUpgrade.name,Grinnich Upgrade,
+activities.npc.danos.vendorUpgrades.ilaria.ilariaVendorLevel1.name,Ilaria's Sanctum Level 1,
+activities.npc.danos.vendorUpgrades.ilaria.ilariaVendorLevel2.name,Ilaria's Sanctum Level 2,
+activities.npc.danos.vendorUpgrades.ilaria.ilariaVendorLevel3.name,Ilaria's Sanctum Level 3,
+activities.npc.danos.vendorUpgrades.ilaria.ilariaVendorLevel4.name,Ilaria's Sanctum Level 4,
+activities.npc.danos.vendorUpgrades.markos.alchemistVendorUpgrade.name,Markos Upgrade,
+activities.npc.danos.vendorUpgrades.markos.level1.alchemistVendorLevel1.name,Markos Level 1,
+activities.npc.danos.vendorUpgrades.markos.level1.alchemistVendorLevel3.name,Markos Level 3,
+activities.npc.danos.vendorUpgrades.markos.level2.alchemistVendorLevel2.name,Markos Level 2,
+activities.npc.danos.vendorUpgrades.mirabelleAndMeriweather.level1.mirabelleAndMeriweatherVendorLevel1.name,Mira and Meri Level 1,
+activities.npc.danos.vendorUpgrades.mirabelleAndMeriweather.level2.mirabelleAndMeriweatherVendorLevel2.name,Mira and Meri Level 2,
+activities.npc.danos.vendorUpgrades.mirabelleAndMeriweather.level3.mirabelleAndMeriweatherVendorLevel3.name,Mira and Meri Level 3,
+activities.npc.danos.vendorUpgrades.mirabelleAndMeriweather.level4.mirabelleAndMeriweatherVendorLevel4.name,Mira and Meri Level 4,
+activities.npc.danos.vendorUpgrades.mirabelleAndMeriweather.mirabelleAndMeriweatherVendorUpgrade.name,Mira and Meri Upgrade,
+activities.npc.danos.vendorUpgrades.randolph.level1.randolphVendorLevel1.name,Randolph Level 1,
+activities.npc.danos.vendorUpgrades.randolph.randolphUpgrade.name,Randolph Upgrade,
+activities.npc.danos.vendorUpgrades.whittacker.level1.woodcrafterVendorLevel1.name,Whittaker Level 1,
+activities.npc.danos.vendorUpgrades.whittacker.level2.woodcrafterVendorLevel2.name,Whittaker Level 2,
+activities.npc.danos.vendorUpgrades.whittacker.level3.woodcrafterVendorLevel3.name,Whittaker Level 3,
+activities.npc.danos.vendorUpgrades.whittacker.woodcrafterVendorUpgrade.name,Whittaker Upgrade,
+activities.npc.eleanor.eleanor,Eleanor,
+activities.npc.filmore.filmore,Filmore,
+activities.npc.finley.sacrament.sacramentRareItemMerchant.description,Finley's Finest Finds is now open for bussiness.,
+activities.npc.finley.sacrament.sacramentRareItemMerchant.name,Finley's Finest Finds,
+activities.npc.gordon.gordon,Gordon,
+activities.npc.grinnich.grinnich,Grinnich,
+activities.npc.markos.markos,Markos,
+activities.npc.miraAndMeri.miraAndMeri,Mirabelle & Meriweather,
+activities.npc.randolph.randolph,Randolph,
+activities.npc.whittacker.whittacker,Whittacker,
+activities.runnableArea.coast.coastRunA.coastRunA.description,"Clear the Pestilence that has taken hold in the Shallows.
+Affected areas: The Shallows",
+activities.runnableArea.coast.coastRunA.coastRunA.name,The Shallows Pestilence Outbreak,
+activities.runnableArea.fortress.fortressRunA.fortressRunA.description,"Clear the Pestilence that has taken hold in Mariner's Keep.
+Affected areas: Mariner's Keep",
+activities.runnableArea.fortress.fortressRunA.fortressRunA.name,Mariner's Keep Pestilence Outbreak,
+activities.runnableArea.hills.hillsRunA.hillsRunA.description,"Clear the Pestilence that has taken hold in Lowland Meadows.
+Affected areas: Lowland Meadows",
+activities.runnableArea.hills.hillsRunA.hillsRunA.name,Lowland Meadow Pestilence Outbreak,
+activities.runnableArea.marinWoods.marinWoodsRunA.marinWoodsRunA.description,"Clear the Pestilence that has taken hold in Marin Woods.
+Affected areas: Marin Woods",
+activities.runnableArea.marinWoods.marinWoodsRunA.marinWoodsRunA.name,Marin Woods Pestilence Outbreak,
+activities.runnableArea.mountainPass.mountainPassRunA.mountainPassRunA.description,"Clear the Pestilence that has taken hold in the Nameless Pass
+Affected areas: Nameless Pass",
+activities.runnableArea.mountainPass.mountainPassRunA.mountainPassRunA.name,Nameless Pass Pestilence Outbreak,
+activities.runnableArea.outskirts.outskirtsRunA.outskirtsRunA.description,"Clear the Pestilence that has taken hold in Orban Glades
+Affected areas: Orban Glades",
+activities.runnableArea.outskirts.outskirtsRunA.outskirtsRunA.name,Orban Glades Pestilence Outbreak,
+activities.runnableArea.sewers.sewersRunA.sewersRunA.description,"Clear the Pestilence that has taken hold in the Black Trench.
+Affected areas: The Black Trench",
+activities.runnableArea.sewers.sewersRunA.sewersRunA.name,The Black Trench Pestilence Outbreak,
