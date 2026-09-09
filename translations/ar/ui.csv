@@ -26,17 +26,17 @@
 "ui.activityScreen.unpinToLog","Unpin from HUD Log","إلغاء التثبيت من واجهة اللعب"
 "ui.activityVendorScreen.abandonBountyLabel","ABANDON BOUNTY","ABANDON BOUNTY"
 "ui.activityVendorScreen.abandonBountyPromptLabel","All progress will be lost. 
-Would you like to abandon the current Bounty?","All progress will be lost. 
-Would you like to abandon the current Bounty?"
-"ui.activityVendorScreen.abandonChallengeLabel","ABANDON CHALLENGE","ABANDON CHALLENGE"
+Would you like to abandon the current Bounty?","سيتم فقدان كل التقدم.
+هل تريد التخلي عن المكافأة الحالية؟"
+"ui.activityVendorScreen.abandonChallengeLabel","ABANDON CHALLENGE","التخلي عن التحدي"
 "ui.activityVendorScreen.abandonChallengePromptLabel","All progress will be lost.
 Any contributions, if made, will be forfeited.
-Would you like to abandon the current Challenge?","All progress will be lost.
-Any contributions, if made, will be forfeited.
-Would you like to abandon the current Challenge?"
-"ui.activityVendorScreen.acceptBountyLabel","ACCEPT BOUNTY","ACCEPT BOUNTY"
-"ui.activityVendorScreen.acceptChallengeLabel","ACCEPT CHALLENGE","ACCEPT CHALLENGE"
-"ui.activityVendorScreen.bountiesTitleLabel","BOUNTIES","BOUNTIES"
+Would you like to abandon the current Challenge?","سيتم فقدان كل التقدم.
+أي مساهمات، إن وُجدت، سيتم التنازل عنها.
+هل تريد التخلي عن التحدي الحالي؟"
+"ui.activityVendorScreen.acceptBountyLabel","ACCEPT BOUNTY","قبول المكافأة"
+"ui.activityVendorScreen.acceptChallengeLabel","ACCEPT CHALLENGE","قبول التحديات"
+"ui.activityVendorScreen.bountiesTitleLabel","BOUNTIES","مكافآت الصيد"
 "ui.activityVendorScreen.bountyHits","HITS","HITS"
 "ui.activityVendorScreen.bountyHunts","HUNTS","HUNTS"
 "ui.activityVendorScreen.challengeGrand","GRAND CHALLENGES","GRAND CHALLENGES"
