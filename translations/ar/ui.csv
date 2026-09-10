@@ -12,7 +12,7 @@
 "ui.activityScreen.bountiesRewardLabelDay7","Day 7","Day 7"
 "ui.activityScreen.challengesCategoryLabel","CHALLENGES","CHALLENGES"
 "ui.activityScreen.maxPins","Max pins reached","Max pins reached"
-"ui.activityScreen.noBountiesLabel","You have no bounties.","You have no bounties."
+"ui.activityScreen.noBountiesLabel","You have no bounties.","ليس لديك اي مكافآت."
 "ui.activityScreen.noChallengesLabel","You have no challenges.","You have no challenges."
 "ui.activityScreen.noQuestsLabel","You have no quests.","You have no quests."
 "ui.activityScreen.pinToLog","Pin to HUD Log","تثبيت في واجهة اللعب"
@@ -37,28 +37,28 @@ Would you like to abandon the current Challenge?","سيتم فقدان كل ال
 "ui.activityVendorScreen.acceptBountyLabel","ACCEPT BOUNTY","قبول المكافأة"
 "ui.activityVendorScreen.acceptChallengeLabel","ACCEPT CHALLENGE","قبول التحديات"
 "ui.activityVendorScreen.bountiesTitleLabel","BOUNTIES","مكافآت الصيد"
-"ui.activityVendorScreen.bountyHits","HITS","HITS"
-"ui.activityVendorScreen.bountyHunts","HUNTS","HUNTS"
-"ui.activityVendorScreen.challengeGrand","GRAND CHALLENGES","GRAND CHALLENGES"
-"ui.activityVendorScreen.challengeQuick","QUICK DARES","QUICK DARES"
-"ui.activityVendorScreen.challengessTitleLabel","CHALLENGES","CHALLENGES"
+"ui.activityVendorScreen.bountyHits","HITS","ضربات"
+"ui.activityVendorScreen.bountyHunts","HUNTS","مطاردات"
+"ui.activityVendorScreen.challengeGrand","GRAND CHALLENGES","التحديات الكبرى"
+"ui.activityVendorScreen.challengeQuick","QUICK DARES","تحديات سريعة"
+"ui.activityVendorScreen.challengessTitleLabel","CHALLENGES","التحديات"
 "ui.activityVendorScreen.closeLabel","CLOSE","CLOSE"
-"ui.activityVendorScreen.kill","Kill {0}","Kill {0}"
-"ui.activityVendorScreen.kills","Kills","Kills"
-"ui.activityVendorScreen.noLabel","No","No"
+"ui.activityVendorScreen.kill","Kill {0}","اقتل {0}"
+"ui.activityVendorScreen.kills","Kills","القتلى"
+"ui.activityVendorScreen.noLabel","No","لا"
 "ui.activityVendorScreen.outOfBountiesLabel","I'm out of Bounties to give.
-Please check back tomorrow.","I'm out of Bounties to give.
-Please check back tomorrow."
+Please check back tomorrow.","لقد نفذت المكافآت التي يمكنني تقديمها.
+يرجى العودة غدًا."
 "ui.activityVendorScreen.outOfBountiesWeeklyLabel","I'm out of Bounties to give.
-Please check back next week","I'm out of Bounties to give.
-Please check back next week"
+Please check back next week","لقد نفذت المكافآت التي يمكنني تقديمها.
+يرجى العودة الأسبوع المقبل"
 "ui.activityVendorScreen.outOfChallengesLabel","I'm out of Challenges to give.
-Please check back tomorrow.","I'm out of Challenges to give.
-Please check back tomorrow."
+Please check back tomorrow.","لقد نفذت التحديات التي يمكنني تقديمها.
+يرجى العودة غدًا."
 "ui.activityVendorScreen.outOfChallengesWeeklyLabel","I'm out of Challenges to give.
-Please check back next week","I'm out of Challenges to give.
-Please check back next week"
-"ui.activityVendorScreen.replaceBountyLabel","REPLACE BOUNTY","REPLACE BOUNTY"
+Please check back next week","لقد نفدت التحديات التي يمكنني تقديمها.
+يرجى العودة الأسبوع المقبل"
+"ui.activityVendorScreen.replaceBountyLabel","REPLACE BOUNTY","استبدال المكافأة"
 "ui.activityVendorScreen.replaceBountyPromptLabel","Would you like to abandon the current Bounty and accept this one instead?","Would you like to abandon the current Bounty and accept this one instead?"
 "ui.activityVendorScreen.replaceChallengeLabel","REPLACE CHALLENGE","REPLACE CHALLENGE"
 "ui.activityVendorScreen.replaceChallengePromptLabel","Would you like to abandon the current Challenge and accept this one instead?","Would you like to abandon the current Challenge and accept this one instead?"
