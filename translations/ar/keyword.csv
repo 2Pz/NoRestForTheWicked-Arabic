@@ -1,4 +1,4 @@
 ﻿"key","source","target"
-"keyword.stats.Name","Mechanics","Mechanics"
-"keyword.stats.healthRally.Description","After taking damage character can regain lost health by dealing damage to enemies","After taking damage character can regain lost health by dealing damage to enemies"
-"keyword.stats.healthRally.Name","Regainable Health","Regainable Health"
+"keyword.stats.Name","Mechanics","الميكانيكيات"
+"keyword.stats.healthRally.Description","After taking damage character can regain lost health by dealing damage to enemies","بعد تلقي الضرر، يمكن للشخصية استعادة الصحة المفقودة عبر إلحاق الضرر بالأعداء."
+"keyword.stats.healthRally.Name","Regainable Health","الصحة المستردة"
