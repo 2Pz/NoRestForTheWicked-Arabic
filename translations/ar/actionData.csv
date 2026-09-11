@@ -1,6 +1,6 @@
-﻿"key","source","target"
-"actionData.infiniteDungeon.cinematicData.cerimCryptDoorInteractable.InteractionHint","Press [interact] to <color=#F2E6BD>Make an Offering</color>.","Press [interact] to <color=#F2E6BD>Make an Offering</color>."
-"actionData.isolaSacra.isolaSacraDyingSoldierCinematic.isolaSacraDyingSoldierData.InteractionHint","Press [interact] to <color=#F2E6BD>talk</color>.","Press [interact] to <color=#F2E6BD>talk</color>."
-"actionData.mountainPass.finleyEncounter.finleyPrisonBreakInteractionData.InteractionHint","Press [interact] to clear the debris!","Press [interact] to clear the debris!"
-"actionData.mountains.cuttableWoodenGate.HasToolInteractionHint","Press [interact] to <color=#F2E6BD>chop down the gate using axe</color>.","Press [interact] to <color=#F2E6BD>chop down the gate using axe</color>."
-"actionData.mountains.cuttableWoodenGate.NoToolInteractionHint","Press [interact] with an axe equipped to <color=#F2E6BD>chop down the gate</color>.","Press [interact] with an axe equipped to <color=#F2E6BD>chop down the gate</color>."
+key,source,target
+actionData.infiniteDungeon.cinematicData.cerimCryptDoorInteractable.InteractionHint,Press [interact] to <color=#F2E6BD>Make an Offering</color>.,اضغط على [interact] لـ <color=#F2E6BD>تقديم قربان</color>.
+actionData.isolaSacra.isolaSacraDyingSoldierCinematic.isolaSacraDyingSoldierData.InteractionHint,Press [interact] to <color=#F2E6BD>talk</color>.,اضغط على [interact] لـ <color=#F2E6BD>التحدث</color>.
+actionData.mountainPass.finleyEncounter.finleyPrisonBreakInteractionData.InteractionHint,Press [interact] to clear the debris!,اضغط على [interact] لإزالة الأنقاض!
+actionData.mountains.cuttableWoodenGate.HasToolInteractionHint,Press [interact] to <color=#F2E6BD>chop down the gate using axe</color>.,اضغط على [interact] لـ <color=#F2E6BD>تحطيم البوابة باستخدام الفأس</color>.
+actionData.mountains.cuttableWoodenGate.NoToolInteractionHint,Press [interact] with an axe equipped to <color=#F2E6BD>chop down the gate</color>.,اضغط على [interact] مع التجهز بفأس لـ <color=#F2E6BD>تحطيم البوابة</color>.

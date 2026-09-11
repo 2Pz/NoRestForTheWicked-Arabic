@@ -1,77 +1,77 @@
-﻿"key","source","target"
-"classes.archerDescription","Mocked description for Archer.","Mocked description for Archer."
-"classes.archerName","Archer","Archer"
-"classes.asceticDescription","A spiritual martial artist dual-wielding nunchucks with fervent skill.","A spiritual martial artist dual-wielding nunchucks with fervent skill."
-"classes.asceticName","Ascetic","Ascetic"
-"classes.assassinDescription","Stealth, backstabs, off-hand empty.","Stealth, backstabs, off-hand empty."
-"classes.assassinName","Assassin","Assassin"
-"classes.barbarianDescription","Ferocious warriors with raw physicality, wielding huge clubs to smash through enemy lines.","Ferocious warriors with raw physicality, wielding huge clubs to smash through enemy lines."
-"classes.barbarianName","Barbarian","Barbarian"
-"classes.berserkerDescription","Dominant warriors wielding massive greataxes for devastating sweeps. Wades directly into combat and stays there. Benefits from staying in combat and trading blows with enemies.","Dominant warriors wielding massive greataxes for devastating sweeps. Wades directly into combat and stays there. Benefits from staying in combat and trading blows with enemies."
-"classes.berserkerName","Berserker","Berserker"
-"classes.blademasterDescription","A devout swordsman wielding curved greatswords with elegant devastation.","A devout swordsman wielding curved greatswords with elegant devastation."
-"classes.blademasterName","Blademaster","Blademaster"
-"classes.bruteDescription","A brawler that thrives on dodges and aggressive stamina use. Best suited for 1H clubs.","A brawler that thrives on dodges and aggressive stamina use. Best suited for 1H clubs."
-"classes.bruteName","Brute","Brute"
-"classes.clericDescription","Support-focused holy warriors who heal allies and smite foes with divine magic.","Support-focused holy warriors who heal allies and smite foes with divine magic."
-"classes.clericName","Cleric","Cleric"
-"classes.contortionistDescription","Mocked description for Contortionist.","Mocked description for Contortionist."
-"classes.contortionistName","Contortionist","Contortionist"
-"classes.crusaderDescription","A divine warrior wielding massive greathammers to smite evil.","A divine warrior wielding massive greathammers to smite evil."
-"classes.crusaderName","Crusader","Crusader"
-"classes.cutthroatDescription","Agile and flamboyant swordsmen relying on speed and precision.","Agile and flamboyant swordsmen relying on speed and precision."
-"classes.cutthroatName","Cutthroat","Cutthroat"
-"classes.dragoonDescription","Lithe spearmen harnessing faith-based leaps to pierce defenses.","Lithe spearmen harnessing faith-based leaps to pierce defenses."
-"classes.dragoonName","Dragoon","Dragoon"
-"classes.exorcistDescription","Mocked description for Exorcist.","Mocked description for Exorcist."
-"classes.exorcistName","Exorcist","Exorcist"
-"classes.fencerDescription","Elegant duelists adept at swift, precise thrusts and agile footwork.","Elegant duelists adept at swift, precise thrusts and agile footwork."
-"classes.fencerName","Fencer","Fencer"
-"classes.flagellantDescription","Mocked description for Flagellant.","Mocked description for Flagellant."
-"classes.flagellantName","Flagellant","Flagellant"
-"classes.frostMageDescription","A cold-themed mage who freezes, chills, and shatters enemies.","A cold-themed mage who freezes, chills, and shatters enemies."
-"classes.frostMageName","Frost Mage","Frost Mage"
-"classes.guardianDescription","Balanced fighters wielding straight swords, equally adept with Strength and Dexterity.","Balanced fighters wielding straight swords, equally adept with Strength and Dexterity."
-"classes.guardianName","Guardian","Guardian"
-"classes.harbingerDescription","A dark harbinger wielding scythes, merging necrotic spells with unholy fervor.","A dark harbinger wielding scythes, merging necrotic spells with unholy fervor."
-"classes.harbingerName","Harbinger","Harbinger"
-"classes.knightDescription","A stalwart champion swinging massive two-handed greatswords.","A stalwart champion swinging massive two-handed greatswords."
-"classes.knightName","Knight","Knight"
-"classes.marauderDescription","A warrior type class that focuses on in-your-face combos. Trading blows is a plus as it increases damage capabilities. No nonsense axe combos.","A warrior type class that focuses on in-your-face combos. Trading blows is a plus as it increases damage capabilities. No nonsense axe combos."
-"classes.marauderName","Marauder","Marauder"
-"classes.marksmanDescription","Mocked description for Marksman.","Mocked description for Marksman."
-"classes.marksmanName","Marksman","Marksman"
-"classes.monkDescription","Martial artist mixing stamina and focus for powerful spiritual strikes.","Martial artist mixing stamina and focus for powerful spiritual strikes."
-"classes.monkName","Monk","Monk"
-"classes.mysticDescription","Mocked description for Mystic.","Mocked description for Mystic."
-"classes.mysticName","Mystic","Mystic"
-"classes.necromancerDescription","Mocked description for Necromancer.","Mocked description for Necromancer."
-"classes.necromancerName","Necromancer","Necromancer"
-"classes.noneDescription","Mocked description for None.","Mocked description for None."
-"classes.noneName","None","None"
-"classes.paladinDescription","Holy hammer fighter/guardian.","Holy hammer fighter/guardian."
-"classes.paladinName","Paladin","Paladin"
-"classes.pilgrimDescription","Mocked description for Pilgrim.","Mocked description for Pilgrim."
-"classes.pilgrimName","Pilgrim","Pilgrim"
-"classes.plaguebearerDescription","A diseased spellcaster spreading rot and plague across the battlefield.","A diseased spellcaster spreading rot and plague across the battlefield."
-"classes.plaguebearerName","Plaguebearer","Plaguebearer"
-"classes.pyromancerDescription","A mage class centered on fire—setting enemies ablaze, stacking burns, and causing explosions.","A mage class centered on fire—setting enemies ablaze, stacking burns, and causing explosions."
-"classes.pyromancerName","Pyromancer","Pyromancer"
-"classes.rogueDescription","Fast, stamina-heavy dual-wielder that thrives on hit-and-run tactics.","Fast, stamina-heavy dual-wielder that thrives on hit-and-run tactics."
-"classes.rogueName","Rogue","Rogue"
-"classes.sentinelDescription","Polearm specialists who combine extended reach with dexterous sweeps to control the battlefield.","Polearm specialists who combine extended reach with dexterous sweeps to control the battlefield."
-"classes.sentinelName","Sentinel","Sentinel"
-"classes.stormBringerDescription","Lightning-focused mage—fast, volatile combat with chaining effects.","Lightning-focused mage—fast, volatile combat with chaining effects."
-"classes.stormBringerName","Storm Bringer","Storm Bringer"
-"classes.templarDescription","Mocked description for Templar.","Mocked description for Templar."
-"classes.templarName","Templar","Templar"
-"classes.tricksterDescription","Mocked description for Trickster.","Mocked description for Trickster."
-"classes.tricksterName","Trickster","Trickster"
-"classes.viperDescription","A holy exorcist controlling mid-range with whips to purge evil.","A holy exorcist controlling mid-range with whips to purge evil."
-"classes.viperName","Viper","Viper"
-"classes.warlordDescription","An honorable warrior wielding two-handed katanas with disciplined technique and mild arcane flair.","An honorable warrior wielding two-handed katanas with disciplined technique and mild arcane flair."
-"classes.warlordName","Warlord","Warlord"
-"classes.witchDescription","Mocked description for Witch.","Mocked description for Witch."
-"classes.witchName","Witch","Witch"
-"classes.wraithDescription","Swift shinobi using ninjutsu illusions and quick slashes.","Swift shinobi using ninjutsu illusions and quick slashes."
-"classes.wraithName","Wraith","Wraith"
+﻿key,source,target
+classes.archerDescription,Mocked description for Archer.,وصف تجريبي لرامي السهام.
+classes.archerName,Archer,رامي السهام
+classes.asceticDescription,A spiritual martial artist dual-wielding nunchucks with fervent skill.,فنان قتال روحي يستخدم سلاح الننشاكو المزدوج بمهارة حماسية.
+classes.asceticName,Ascetic,الزاهد
+classes.assassinDescription,"Stealth, backstabs, off-hand empty.",تسلل، طعنات في الظهر، اليد الحرة فارغة.
+classes.assassinName,Assassin,القاتل المأجور
+classes.barbarianDescription,"Ferocious warriors with raw physicality, wielding huge clubs to smash through enemy lines.",محاربون شرسون يتمتعون بقوة بدنية هائلة، يحملون هراوات ضخمة لتحطيم خطوط الأعداء.
+classes.barbarianName,Barbarian,البربري
+classes.berserkerDescription,Dominant warriors wielding massive greataxes for devastating sweeps. Wades directly into combat and stays there. Benefits from staying in combat and trading blows with enemies.,محاربون مهيمنون يحملون فؤوساً عظيمة ضخمة لشن هجمات كاسحة مدمرة. يخوضون غمار القتال مباشرة ويبقون فيه. يستفيدون من البقاء في القتال وتبادل الضربات مع الأعداء.
+classes.berserkerName,Berserker,هائج
+classes.blademasterDescription,A devout swordsman wielding curved greatswords with elegant devastation.,سياف متفانٍ يحمل سيوفاً عظيمة منحنية بدمار أنيق.
+classes.blademasterName,Blademaster,سيد السيوف
+classes.bruteDescription,A brawler that thrives on dodges and aggressive stamina use. Best suited for 1H clubs.,مقاتل يعتمد على المراوغات والاستخدام العنيف للتحمل. الأنسب لاستخدام الهراوات بيد واحدة.
+classes.bruteName,Brute,العنيف
+classes.clericDescription,Support-focused holy warriors who heal allies and smite foes with divine magic.,محاربون مقدسون يركزون على الدعم، يشفون الحلفاء ويضربون الأعداء بالسحر الإلهي.
+classes.clericName,Cleric,الكاهن
+classes.contortionistDescription,Mocked description for Contortionist.,وصف تجريبي للبهلواني.
+classes.contortionistName,Contortionist,بهلواني
+classes.crusaderDescription,A divine warrior wielding massive greathammers to smite evil.,محارب إلهي يحمل مطارق عظيمة ضخمة لضرب الشر.
+classes.crusaderName,Crusader,صليبي
+classes.cutthroatDescription,Agile and flamboyant swordsmen relying on speed and precision.,سيافون رشيقون ومتباهون يعتمدون على السرعة والدقة.
+classes.cutthroatName,Cutthroat,قاطع الطرق
+classes.dragoonDescription,Lithe spearmen harnessing faith-based leaps to pierce defenses.,رماحون مرنون يسخرون القفزات القائمة على الإيمان لاختراق الدفاعات.
+classes.dragoonName,Dragoon,الفارس التنين
+classes.exorcistDescription,Mocked description for Exorcist.,وصف تجريبي لطارد الأرواح.
+classes.exorcistName,Exorcist,طارد الأرواح
+classes.fencerDescription,"Elegant duelists adept at swift, precise thrusts and agile footwork.",مبارزون أنيقون بارعون في الطعنات السريعة والدقيقة وحركات الأقدام الرشيقة.
+classes.fencerName,Fencer,مبارز
+classes.flagellantDescription,Mocked description for Flagellant.,وصف تجريبي للجلاد النادم.
+classes.flagellantName,Flagellant,الجلاد النادم
+classes.frostMageDescription,"A cold-themed mage who freezes, chills, and shatters enemies.",ساحر يعتمد على البرودة، يجمّد الأعداء ويصيبهم بالقشعريرة ويحطمهم.
+classes.frostMageName,Frost Mage,ساحر الصقيع
+classes.guardianDescription,"Balanced fighters wielding straight swords, equally adept with Strength and Dexterity.",مقاتلون متوازنون يحملون سيوفاً مستقيمة، بارعون بالتساوي في القوة والبراعة.
+classes.guardianName,Guardian,حارس
+classes.harbingerDescription,"A dark harbinger wielding scythes, merging necrotic spells with unholy fervor.",نذير مظلم يحمل مناجل، يدمج تعاويذ النخر مع حماس غير مقدس.
+classes.harbingerName,Harbinger,نذير
+classes.knightDescription,A stalwart champion swinging massive two-handed greatswords.,بطل قوي يلوح بسيوف عظيمة ضخمة بكلتا يديه.
+classes.knightName,Knight,فارس
+classes.marauderDescription,A warrior type class that focuses on in-your-face combos. Trading blows is a plus as it increases damage capabilities. No nonsense axe combos.,فئة محارب تركز على الهجمات المتسلسلة المباشرة. تبادل الضربات يعد ميزة لأنه يزيد من قدرات الضرر. هجمات فأس متسلسلة وجادة.
+classes.marauderName,Marauder,مغير
+classes.marksmanDescription,Mocked description for Marksman.,وصف تجريبي للقناص.
+classes.marksmanName,Marksman,قناص
+classes.monkDescription,Martial artist mixing stamina and focus for powerful spiritual strikes.,فنان قتالي يمزج بين التحمل والتركيز لشن ضربات روحية قوية.
+classes.monkName,Monk,راهب
+classes.mysticDescription,Mocked description for Mystic.,وصف تجريبي للصوفي.
+classes.mysticName,Mystic,صوفي
+classes.necromancerDescription,Mocked description for Necromancer.,وصف تجريبي لمستحضر الأرواح.
+classes.necromancerName,Necromancer,مستحضر الأرواح
+classes.noneDescription,Mocked description for None.,وصف تجريبي للا شيء.
+classes.noneName,None,لا شيء
+classes.paladinDescription,Holy hammer fighter/guardian.,مقاتل/حارس يحمل مطرقة مقدسة.
+classes.paladinName,Paladin,فارس مقدس
+classes.pilgrimDescription,Mocked description for Pilgrim.,وصف تجريبي للحاج.
+classes.pilgrimName,Pilgrim,حاج
+classes.plaguebearerDescription,A diseased spellcaster spreading rot and plague across the battlefield.,ملقي تعاويذ مريض ينشر العفن والوباء عبر ساحة المعركة.
+classes.plaguebearerName,Plaguebearer,حامل الوباء
+classes.pyromancerDescription,"A mage class centered on fire—setting enemies ablaze, stacking burns, and causing explosions.",فئة ساحر تركز على النار - إشعال النيران في الأعداء، وتكديس الحروق، وإحداث الانفجارات.
+classes.pyromancerName,Pyromancer,ساحر نار
+classes.rogueDescription,"Fast, stamina-heavy dual-wielder that thrives on hit-and-run tactics.",مقاتل سريع يعتمد على التحمل ويحمل سلاحين، يبرع في تكتيكات الكر والفر.
+classes.rogueName,Rogue,مارق
+classes.sentinelDescription,Polearm specialists who combine extended reach with dexterous sweeps to control the battlefield.,متخصصون في الأسلحة الطويلة يجمعون بين المدى الممتد والضربات الكاسحة البارعة للسيطرة على ساحة المعركة.
+classes.sentinelName,Sentinel,حارس
+classes.stormBringerDescription,"Lightning-focused mage—fast, volatile combat with chaining effects.",ساحر يركز على البرق - قتال سريع ومتقلب بتأثيرات متسلسلة.
+classes.stormBringerName,Storm Bringer,جالب العاصفة
+classes.templarDescription,Mocked description for Templar.,وصف تجريبي لفرسان المعبد.
+classes.templarName,Templar,فرسان المعبد
+classes.tricksterDescription,Mocked description for Trickster.,وصف تجريبي للمخادع.
+classes.tricksterName,Trickster,مخادع
+classes.viperDescription,A holy exorcist controlling mid-range with whips to purge evil.,طارد الأرواح المقدس يسيطر على المدى المتوسط باستخدام السياط لتطهير الشر.
+classes.viperName,Viper,أفعى
+classes.warlordDescription,An honorable warrior wielding two-handed katanas with disciplined technique and mild arcane flair.,محارب نبيل يحمل سيوف الكاتانا بكلتا يديه بتقنية منضبطة ولمسة غامضة خفيفة.
+classes.warlordName,Warlord,أمير الحرب
+classes.witchDescription,Mocked description for Witch.,وصف تجريبي للساحرة.
+classes.witchName,Witch,ساحرة
+classes.wraithDescription,Swift shinobi using ninjutsu illusions and quick slashes.,شينوبي سريع يستخدم أوهام النينجوتسو والشرطات السريعة.
+classes.wraithName,Wraith,شبح

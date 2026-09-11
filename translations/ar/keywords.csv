@@ -1,125 +1,125 @@
-﻿"key","source","target"
-"keywords.buffs.Name","Status Effect - Buff","Status Effect - Buff"
-"keywords.debuffs.Name","Status Effect - Debuff","Status Effect - Debuff"
-"keywords.facets.Name","Item Facet","Item Facet"
-"keywords.facets.armorIncreased1.Description","Armor increased
-Poise Defense reduced","Armor increased
-Poise Defense reduced"
-"keywords.facets.armorIncreased1.Name","Bulky","Bulky"
-"keywords.facets.armorIncreased2.Description","Armor increased
-Weight increased","Armor increased
-Weight increased"
-"keywords.facets.armorIncreased2.Name","Dense","Dense"
-"keywords.facets.attackSpeedIncreased1.Description","Attack Speed increased
-Damage reduced","Attack Speed increased
-Damage reduced"
-"keywords.facets.attackSpeedIncreased1.Name","Quick","Quick"
-"keywords.facets.attackSpeedIncreased2.Description","Attack Speed increased
-Stamina Regen reduced","Attack Speed increased
-Stamina Regen reduced"
-"keywords.facets.attackSpeedIncreased2.Name","Rapid","Rapid"
-"keywords.facets.attackStaminaCostDecreased1.Description","Stamina Cost reduced
-Focus Gain reduced","Stamina Cost reduced
-Focus Gain reduced"
-"keywords.facets.attackStaminaCostDecreased1.Name","Nimble","Nimble"
-"keywords.facets.criticalChanceIncreased1.Description","Critical Chance increased
-Poise Damage reduced","Critical Chance increased
-Poise Damage reduced"
-"keywords.facets.criticalChanceIncreased1.Name","Keen","Keen"
-"keywords.facets.criticalChanceIncreased2.Description","Critical Chance increased
-Durability reduced","Critical Chance increased
-Durability reduced"
-"keywords.facets.criticalChanceIncreased2.Name","Razor","Razor"
-"keywords.facets.criticalDamageDisabled.Description","Damage increased
+﻿key,source,target
+keywords.buffs.Name,Status Effect - Buff,تأثير حالة - تعزيز
+keywords.debuffs.Name,Status Effect - Debuff,تأثير حالة - إضعاف
+keywords.facets.Name,Item Facet,جانب العنصر
+keywords.facets.armorIncreased1.Description,"Armor increased
+Poise Defense reduced","زيادة الدرع
+تقليل دفاع التوازن"
+keywords.facets.armorIncreased1.Name,Bulky,ضخم
+keywords.facets.armorIncreased2.Description,"Armor increased
+Weight increased","زيادة الدرع
+زيادة الوزن"
+keywords.facets.armorIncreased2.Name,Dense,كثيف
+keywords.facets.attackSpeedIncreased1.Description,"Attack Speed increased
+Damage reduced","زيادة سرعة الهجوم
+تقليل الضرر"
+keywords.facets.attackSpeedIncreased1.Name,Quick,سريع
+keywords.facets.attackSpeedIncreased2.Description,"Attack Speed increased
+Stamina Regen reduced","زيادة سرعة الهجوم
+تقليل تجدد التحمل"
+keywords.facets.attackSpeedIncreased2.Name,Rapid,خاطف
+keywords.facets.attackStaminaCostDecreased1.Description,"Stamina Cost reduced
+Focus Gain reduced","تقليل تكلفة التحمل
+تقليل اكتساب التركيز"
+keywords.facets.attackStaminaCostDecreased1.Name,Nimble,رشيق
+keywords.facets.criticalChanceIncreased1.Description,"Critical Chance increased
+Poise Damage reduced","زيادة فرصة الضربة الحرجة
+تقليل ضرر التوازن"
+keywords.facets.criticalChanceIncreased1.Name,Keen,حاد
+keywords.facets.criticalChanceIncreased2.Description,"Critical Chance increased
+Durability reduced","زيادة فرصة الضربة الحرجة
+تقليل المتانة"
+keywords.facets.criticalChanceIncreased2.Name,Razor,قاطع
+keywords.facets.criticalDamageDisabled.Description,"Damage increased
 Poise Damage increased
-Critical Chance removed","Damage increased
-Poise Damage increased
-Critical Chance removed"
-"keywords.facets.criticalDamageDisabled.Name","Reliable","Reliable"
-"keywords.facets.criticalDamageIncreased1.Description","Critical Damage increased
-Damage reduced","Critical Damage increased
-Damage reduced"
-"keywords.facets.criticalDamageIncreased1.Name","Sharp","Sharp"
-"keywords.facets.damageIncreased1.Description","Damage increased
-Attack Stamina Cost increased","Damage increased
-Attack Stamina Cost increased"
-"keywords.facets.damageIncreased1.Name","Heavy","Heavy"
-"keywords.facets.damageIncreased2.Description","Damage increased
-Focus Gain reduced","Damage increased
-Focus Gain reduced"
-"keywords.facets.damageIncreased2.Name","Mundane","Mundane"
-"keywords.facets.damageIncreased3.Description","Damage increased
-Attack Speed reduced","Damage increased
-Attack Speed reduced"
-"keywords.facets.damageIncreased3.Name","Clumsy","Clumsy"
-"keywords.facets.durabilityDisabled.Description","Durability removed","Durability removed"
-"keywords.facets.durabilityDisabled.Name","Indestructible","Indestructible"
-"keywords.facets.durabilityIncreased.Description","Durability increased
-Focus Gain reduced","Durability increased
-Focus Gain reduced"
-"keywords.facets.durabilityIncreased.Name","Durable","Durable"
-"keywords.facets.fireDamageOverride.Description","Gain Fire Infusion
-Damage reduced","Gain Fire Infusion
-Damage reduced"
-"keywords.facets.fireDamageOverride.Name","Flaming","Flaming"
-"keywords.facets.fireResistanceIncreased.Description","Fire Resistance increased
-Weight increased","Fire Resistance increased
-Weight increased"
-"keywords.facets.fireResistanceIncreased.Name","Fireproof","Fireproof"
-"keywords.facets.focusGainIncreased2.Description","Focus Gain increased
-Stamina Regen reduced","Focus Gain increased
-Stamina Regen reduced"
-"keywords.facets.focusGainIncreased2.Name","Mystic","Mystic"
-"keywords.facets.focusGainOnBlockIncreased1.Description","Focus Gain increased
-Poise Damage reduced","Focus Gain increased
-Poise Damage reduced"
-"keywords.facets.focusGainOnBlockIncreased1.Name","Meditative","Meditative"
-"keywords.facets.focusGainOnHitIncreased1.Description","Focus Gain increased
-Stamina Cost increased","Focus Gain increased
-Stamina Cost increased"
-"keywords.facets.focusGainOnHitIncreased1.Name","Ritualistic","Ritualistic"
-"keywords.facets.iceDamageOverride.Description","Gain Ice Infusion
-Damage reduced","Gain Ice Infusion
-Damage reduced"
-"keywords.facets.iceDamageOverride.Name","Frigid","Frigid"
-"keywords.facets.iceResistanceIncreased.Description","Ice Resistance increased
-Weight increased","Ice Resistance increased
-Weight increased"
-"keywords.facets.iceResistanceIncreased.Name","Frostwoven","Frostwoven"
-"keywords.facets.lightningDamageOverride.Description","Gain Lightning Infusion
-Damage reduced","Gain Lightning Infusion
-Damage reduced"
-"keywords.facets.lightningDamageOverride.Name","Voltaic","Voltaic"
-"keywords.facets.lightningResistanceIncreased.Description","Lightning Resistance increased
-Weight increased","Lightning Resistance increased
-Weight increased"
-"keywords.facets.lightningResistanceIncreased.Name","Insulated","Insulated"
-"keywords.facets.movementSpeedIncreased.Description","Movement Speed increased
-Stamina Regen reduced","Movement Speed increased
-Stamina Regen reduced"
-"keywords.facets.movementSpeedIncreased.Name","Frantic","Frantic"
-"keywords.facets.plagueDamageOverride.Description","Gain Plague Infusion
-Damage reduced","Gain Plague Infusion
-Damage reduced"
-"keywords.facets.plagueDamageOverride.Name","Festering","Festering"
-"keywords.facets.plagueResistanceIncreased.Description","Plague Resistance increased
-Weight increased","Plague Resistance increased
-Weight increased"
-"keywords.facets.plagueResistanceIncreased.Name","Purified","Purified"
-"keywords.facets.poiseDamageIncreased1.Description","Poise Damage increased
-Focus Gain reduced","Poise Damage increased
-Focus Gain reduced"
-"keywords.facets.poiseDamageIncreased1.Name","Blunt","Blunt"
-"keywords.facets.poiseDefenseIncreased1.Description","Poise Defense increased
-Stamina Regen reduced","Poise Defense increased
-Stamina Regen reduced"
-"keywords.facets.poiseDefenseIncreased1.Name","Stable","Stable"
-"keywords.facets.staminaRegenIncreased1.Description","Stamina Regen increased
-Focus Gain reduced","Stamina Regen increased
-Focus Gain reduced"
-"keywords.facets.staminaRegenIncreased1.Name","Agile","Agile"
-"keywords.triggers.Name","Triggered Effect","Triggered Effect"
-"keywords.triggers.fatality.Description","Triggers when a character is killed with Charged Attack or Rune Attack","Triggers when a character is killed with Charged Attack or Rune Attack"
-"keywords.triggers.fatality.Name","Fatality","Fatality"
-"keywords.triggers.lowHealth.Description","Is active when a character is below 50% Health","Is active when a character is below 50% Health"
-"keywords.triggers.lowHealth.Name","Low Health","Low Health"
+Critical Chance removed","زيادة الضرر
+زيادة ضرر التوازن
+إزالة فرصة الضربة الحرجة"
+keywords.facets.criticalDamageDisabled.Name,Reliable,موثوق
+keywords.facets.criticalDamageIncreased1.Description,"Critical Damage increased
+Damage reduced","زيادة ضرر الضربة الحرجة
+تقليل الضرر"
+keywords.facets.criticalDamageIncreased1.Name,Sharp,مسنن
+keywords.facets.damageIncreased1.Description,"Damage increased
+Attack Stamina Cost increased","زيادة الضرر
+زيادة تكلفة تحمل الهجوم"
+keywords.facets.damageIncreased1.Name,Heavy,ثقيل
+keywords.facets.damageIncreased2.Description,"Damage increased
+Focus Gain reduced","زيادة الضرر
+تقليل اكتساب التركيز"
+keywords.facets.damageIncreased2.Name,Mundane,عادي
+keywords.facets.damageIncreased3.Description,"Damage increased
+Attack Speed reduced","زيادة الضرر
+تقليل سرعة الهجوم"
+keywords.facets.damageIncreased3.Name,Clumsy,أخرق
+keywords.facets.durabilityDisabled.Description,Durability removed,إزالة المتانة
+keywords.facets.durabilityDisabled.Name,Indestructible,منيع
+keywords.facets.durabilityIncreased.Description,"Durability increased
+Focus Gain reduced","زيادة المتانة
+تقليل اكتساب التركيز"
+keywords.facets.durabilityIncreased.Name,Durable,متين
+keywords.facets.fireDamageOverride.Description,"Gain Fire Infusion
+Damage reduced","اكتساب شحن عنصري ناري
+تقليل الضرر"
+keywords.facets.fireDamageOverride.Name,Flaming,مشتعل
+keywords.facets.fireResistanceIncreased.Description,"Fire Resistance increased
+Weight increased","زيادة مقاومة النار
+زيادة الوزن"
+keywords.facets.fireResistanceIncreased.Name,Fireproof,مقاوم للنار
+keywords.facets.focusGainIncreased2.Description,"Focus Gain increased
+Stamina Regen reduced","زيادة اكتساب التركيز
+تقليل تجدد التحمل"
+keywords.facets.focusGainIncreased2.Name,Mystic,غامض
+keywords.facets.focusGainOnBlockIncreased1.Description,"Focus Gain increased
+Poise Damage reduced","زيادة اكتساب التركيز
+تقليل ضرر التوازن"
+keywords.facets.focusGainOnBlockIncreased1.Name,Meditative,تأملي
+keywords.facets.focusGainOnHitIncreased1.Description,"Focus Gain increased
+Stamina Cost increased","زيادة اكتساب التركيز
+زيادة تكلفة التحمل"
+keywords.facets.focusGainOnHitIncreased1.Name,Ritualistic,شعائري
+keywords.facets.iceDamageOverride.Description,"Gain Ice Infusion
+Damage reduced","اكتساب شحن عنصري جليدي
+تقليل الضرر"
+keywords.facets.iceDamageOverride.Name,Frigid,قارس
+keywords.facets.iceResistanceIncreased.Description,"Ice Resistance increased
+Weight increased","زيادة مقاومة الجليد
+زيادة الوزن"
+keywords.facets.iceResistanceIncreased.Name,Frostwoven,منسوج بالصقيع
+keywords.facets.lightningDamageOverride.Description,"Gain Lightning Infusion
+Damage reduced","اكتساب شحن عنصري برقي
+تقليل الضرر"
+keywords.facets.lightningDamageOverride.Name,Voltaic,صاعق
+keywords.facets.lightningResistanceIncreased.Description,"Lightning Resistance increased
+Weight increased","زيادة مقاومة البرق
+زيادة الوزن"
+keywords.facets.lightningResistanceIncreased.Name,Insulated,معزول
+keywords.facets.movementSpeedIncreased.Description,"Movement Speed increased
+Stamina Regen reduced","زيادة سرعة الحركة
+تقليل تجدد التحمل"
+keywords.facets.movementSpeedIncreased.Name,Frantic,محموم
+keywords.facets.plagueDamageOverride.Description,"Gain Plague Infusion
+Damage reduced","اكتساب شحن عنصري وبائي
+تقليل الضرر"
+keywords.facets.plagueDamageOverride.Name,Festering,متقيح
+keywords.facets.plagueResistanceIncreased.Description,"Plague Resistance increased
+Weight increased","زيادة مقاومة الوباء
+زيادة الوزن"
+keywords.facets.plagueResistanceIncreased.Name,Purified,مُطهر
+keywords.facets.poiseDamageIncreased1.Description,"Poise Damage increased
+Focus Gain reduced","زيادة ضرر التوازن
+تقليل اكتساب التركيز"
+keywords.facets.poiseDamageIncreased1.Name,Blunt,كليل
+keywords.facets.poiseDefenseIncreased1.Description,"Poise Defense increased
+Stamina Regen reduced","زيادة دفاع التوازن
+تقليل تجدد التحمل"
+keywords.facets.poiseDefenseIncreased1.Name,Stable,مستقر
+keywords.facets.staminaRegenIncreased1.Description,"Stamina Regen increased
+Focus Gain reduced","زيادة تجدد التحمل
+تقليل اكتساب التركيز"
+keywords.facets.staminaRegenIncreased1.Name,Agile,مرن
+keywords.triggers.Name,Triggered Effect,تأثير مُفعل
+keywords.triggers.fatality.Description,Triggers when a character is killed with Charged Attack or Rune Attack,يُفعل عند قتل شخصية بهجوم مشحون أو هجوم روني
+keywords.triggers.fatality.Name,Fatality,فتك
+keywords.triggers.lowHealth.Description,Is active when a character is below 50% Health,يكون نشطاً عندما تكون صحة الشخصية أقل من 50%
+keywords.triggers.lowHealth.Name,Low Health,صحة منخفضة
