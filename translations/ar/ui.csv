@@ -76,7 +76,7 @@ Please check back next week","لقد نفدت التحديات التي يمكن
 "ui.bonfireScreen.cleanseCooldownTooltip","This area has been recently cleansed and resources can't be burned here to infect it again right now.","تم تطهير هذه المنطقة مؤخرًا، ولا يمكن حرق الموارد فيها حاليًا لإصابتها بالوباء من جديد."
 "ui.bonfireScreen.cook","Cook","اطبخ"
 "ui.boonScreen.BoonTitle","Echoes","Echoes"
-"ui.boonScreen.FloorNr01","I",""
+"ui.boonScreen.FloorNr01","I","I"
 "ui.boonScreen.FloorNr02","II","II"
 "ui.boonScreen.FloorNr03","III","III"
 "ui.boonScreen.FloorNr04","IV","IV"
