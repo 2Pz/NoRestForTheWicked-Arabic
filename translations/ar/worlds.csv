@@ -1,75 +1,75 @@
-﻿key,source,target
-worlds.cerimCrucible.name,Cerim Crucible,بوتقة السيريم
-worlds.cerimCrucible.whisper.name,Crucible Atrium,بهو البوتقة
-worlds.isolaSacra.brineVault.name,Brine Vault,قبو المحلول الملحي
-worlds.isolaSacra.caylen.name,Caylen,كايلن
-worlds.isolaSacra.cerimChamber.name,Cerim Chamber,حجرة السيريم
-worlds.isolaSacra.frozenPeaks.frozenPeaksCaveA.name,Cave,الكهف
-worlds.isolaSacra.irmgardsCottage.name,Irmgard's Cottage,كوخ إيرمغارد
-worlds.isolaSacra.lowlandMeadows.bossWhisper.name,Hunters Vale,وادي الصيادين
-worlds.isolaSacra.lowlandMeadows.caveWhisper.name,Weeping Sisters,الأخوات الباكيات
-worlds.isolaSacra.lowlandMeadows.lumberMill.name,Lumbermill,منشرة الأخشاب
-worlds.isolaSacra.lowlandMeadows.lumberMillWhisper.name,Lumber Mill,منشرة الأخشاب
-worlds.isolaSacra.lowlandMeadows.name,Lowland Meadows,المروج المنخفضة
-worlds.isolaSacra.lowlandMeadows.reedsFarmstead.name,Reed's Farmstead,مزرعة ريد
-worlds.isolaSacra.lowlandMeadows.windmillWhisper.name,Windmill,الطاحونة
-worlds.isolaSacra.marinVillage.marinCemetery.name,Marin Cemetery,مقبرة مارين
-worlds.isolaSacra.marinVillage.name,Marin Village,قرية مارين
-worlds.isolaSacra.marinVillage.sovannCircle.name,Sovann Circle,دائرة سوفان
-worlds.isolaSacra.marinVillage.whisper.name,Marin Village,قرية مارين
-worlds.isolaSacra.marinWoods.initialWhisper.name,Harvest Road,طريق الحصاد
-worlds.isolaSacra.marinWoods.name,Marin Woods,غابات مارين
-worlds.isolaSacra.marinWoods.roostWhisper.name,Balak Taw Roost,عش بالاك تاو
-worlds.isolaSacra.marinWoods.templeWhisper.name,Temple of Day and Night,معبد النهار والليل
-worlds.isolaSacra.marinWoods.wagonsWhisper.name,Seeker's Rest,استراحة الباحث
-worlds.isolaSacra.marinWoods.watermill.name,Marin Watermill,طاحونة مارين المائية
-worlds.isolaSacra.marinWoods.wingedDoorWhisper.name,Winged Door,الباب المجنح
-worlds.isolaSacra.marinersKeep.name,Mariner's Keep,معقل البحارة
-worlds.isolaSacra.marinersKeep.whisper.name,Ramparts,الأسوار
-worlds.isolaSacra.merchantShip.name,Merchant Ship,سفينة تجارية
-worlds.isolaSacra.mountainGate.name,Mountain Gate,بوابة الجبل
-worlds.isolaSacra.mountainGateQuarry.name,Bilsgard's Quarry,مقلع بيلسغارد
-worlds.isolaSacra.orbanGlades.eastWhisper.name,Sage Road,طريق الحكيم
-worlds.isolaSacra.orbanGlades.ionasCavern.whisper.name,Iona's Cavern,كهف إيونا
-worlds.isolaSacra.orbanGlades.name,Orban Glades,مروج أوربان
-worlds.isolaSacra.orbanGlades.westWhisper.name,Forgotten Bridge,الجسر المنسي
-worlds.isolaSacra.outskirts.ionasCavern.name,Iona's Cavern,كهف إيونا
-worlds.isolaSacra.phalen.phalenCathedral.name,Phalen Cathedral,كاتدرائية فالن
-worlds.isolaSacra.sacrament.gordonsPantry.name,Gordon's Pantry,مخزن طعام غوردون
-worlds.isolaSacra.sacrament.lodging.name,Lodgings,المساكن
-worlds.isolaSacra.sacrament.makerDanossStudy.name,Maker Danos's Study,غرفة دراسة الصانع دانوس
-worlds.isolaSacra.sacrament.marketplace.name,Marketplace,السوق
-worlds.isolaSacra.sacrament.masonry.name,Masonry,مبنى البناء
-worlds.isolaSacra.sacrament.miraMerisTailorShop.name,Mira & Meri's Tailor Shop,متجر خياطة ميرا وميري
-worlds.isolaSacra.sacrament.name,Sacrament,ساكرامنت
-worlds.isolaSacra.sacrament.rookery.name,Rookery,روكري
-worlds.isolaSacra.sacrament.rookeryLodgings.name,Rookery Lodgings,مساكن روكري
-worlds.isolaSacra.sacrament.sacramentCemetery.name,Sacrament Cemetery,مقبرة ساكرامنت
-worlds.isolaSacra.sacrament.theBurrow.name,The Burrow,الجحر
-worlds.isolaSacra.sacrament.theDustyLoom.name,The Dusty Loom,النول المغبر
-worlds.isolaSacra.sacrament.theGallows.name,The Gallows,المشنقة
-worlds.isolaSacra.sacrament.theHomestead.name,The Homestead,المسكن
-worlds.isolaSacra.sacrament.theHovel.name,The Hovel,الكوخ
-worlds.isolaSacra.sacrament.theKnot.name,The Knot,العقدة
-worlds.isolaSacra.sacrament.theRoost.name,The Roost,العش
-worlds.isolaSacra.sacrament.warRoom.name,War Room,غرفة الحرب
-worlds.isolaSacra.sacrament.whisper.name,Marketplace,السوق
-worlds.isolaSacra.shipGraveyard.name,Ship Graveyard,مقبرة السفن
-worlds.isolaSacra.sylvanHollow.name,Sylvan Hollow,الجوف الغابي
-worlds.isolaSacra.templeOfDayAndNight.name,Temple of Day and Night,معبد النهار والليل
-worlds.isolaSacra.theBlackTrench.entranceWhisper.name,Central Chamber,الغرفة المركزية
-worlds.isolaSacra.theBlackTrench.name,The Black Trench,الخندق الأسود
-worlds.isolaSacra.theBlackTrench.northWestWhisper.name,The Depths,الأعماق
-worlds.isolaSacra.theBlackTrench.shrineWhisper.name,Fungal Shrine,الضريح الفطري
-worlds.isolaSacra.theHuntersVale.name,The Hunter's Vale,وادي الصيادين
-worlds.isolaSacra.theManor.name,The Manor,القصر
-worlds.isolaSacra.theNamelessPass.cavernWhisper.name,Shrouded Cavern,الكهف المغطى
-worlds.isolaSacra.theNamelessPass.cerimChamberWhisper.name,Cerim Chamber,حجرة السيريم
-worlds.isolaSacra.theNamelessPass.entranceWhisper.name,Ashen Road,طريق الرماد
-worlds.isolaSacra.theNamelessPass.firepitWhisper.name,The Cauldron,المرجل
-worlds.isolaSacra.theNamelessPass.mountianGateWhisper.name,Mountain Gate,بوابة الجبل
-worlds.isolaSacra.theNamelessPass.name,Nameless Pass,الممر المجهول
-worlds.isolaSacra.theNamelessPass.quarryDungeonWhisper.name,Quarry Dungeon,زنزانة المقلع
-worlds.isolaSacra.theNamelessPass.quarryElevatorWhisper.name,Quarry Elevator,مصعد المقلع
-worlds.isolaSacra.theShallows.name,The Shallows,المياه الضحلة
-worlds.isolaSacra.theShallows.whisper.name,Saltborn Tower,برج أبناء الملح
+﻿"key","source","target"
+"worlds.cerimCrucible.name","Cerim Crucible","بوتقة السيريم"
+"worlds.cerimCrucible.whisper.name","Crucible Atrium","بهو البوتقة"
+"worlds.isolaSacra.brineVault.name","Brine Vault","قبو المحلول الملحي"
+"worlds.isolaSacra.caylen.name","Caylen","كايلن"
+"worlds.isolaSacra.cerimChamber.name","Cerim Chamber","حجرة السيريم"
+"worlds.isolaSacra.frozenPeaks.frozenPeaksCaveA.name","Cave","الكهف"
+"worlds.isolaSacra.irmgardsCottage.name","Irmgard's Cottage","كوخ إيرمغارد"
+"worlds.isolaSacra.lowlandMeadows.bossWhisper.name","Hunters Vale","وادي الصيادين"
+"worlds.isolaSacra.lowlandMeadows.caveWhisper.name","Weeping Sisters","الأخوات الباكيات"
+"worlds.isolaSacra.lowlandMeadows.lumberMill.name","Lumbermill","منشرة الأخشاب"
+"worlds.isolaSacra.lowlandMeadows.lumberMillWhisper.name","Lumber Mill","منشرة الأخشاب"
+"worlds.isolaSacra.lowlandMeadows.name","Lowland Meadows","المروج المنخفضة"
+"worlds.isolaSacra.lowlandMeadows.reedsFarmstead.name","Reed's Farmstead","مزرعة ريد"
+"worlds.isolaSacra.lowlandMeadows.windmillWhisper.name","Windmill","الطاحونة"
+"worlds.isolaSacra.marinVillage.marinCemetery.name","Marin Cemetery","مقبرة مارين"
+"worlds.isolaSacra.marinVillage.name","Marin Village","قرية مارين"
+"worlds.isolaSacra.marinVillage.sovannCircle.name","Sovann Circle","دائرة سوفان"
+"worlds.isolaSacra.marinVillage.whisper.name","Marin Village","قرية مارين"
+"worlds.isolaSacra.marinWoods.initialWhisper.name","Harvest Road","طريق الحصاد"
+"worlds.isolaSacra.marinWoods.name","Marin Woods","غابات مارين"
+"worlds.isolaSacra.marinWoods.roostWhisper.name","Balak Taw Roost","عش بالاك تاو"
+"worlds.isolaSacra.marinWoods.templeWhisper.name","Temple of Day and Night","معبد النهار والليل"
+"worlds.isolaSacra.marinWoods.wagonsWhisper.name","Seeker's Rest","استراحة الباحث"
+"worlds.isolaSacra.marinWoods.watermill.name","Marin Watermill","طاحونة مارين المائية"
+"worlds.isolaSacra.marinWoods.wingedDoorWhisper.name","Winged Door","الباب المجنح"
+"worlds.isolaSacra.marinersKeep.name","Mariner's Keep","معقل البحارة"
+"worlds.isolaSacra.marinersKeep.whisper.name","Ramparts","الأسوار"
+"worlds.isolaSacra.merchantShip.name","Merchant Ship","سفينة تجارية"
+"worlds.isolaSacra.mountainGate.name","Mountain Gate","بوابة الجبل"
+"worlds.isolaSacra.mountainGateQuarry.name","Bilsgard's Quarry","مقلع بيلسغارد"
+"worlds.isolaSacra.orbanGlades.eastWhisper.name","Sage Road","طريق الحكيم"
+"worlds.isolaSacra.orbanGlades.ionasCavern.whisper.name","Iona's Cavern","كهف إيونا"
+"worlds.isolaSacra.orbanGlades.name","Orban Glades","مروج أوربان"
+"worlds.isolaSacra.orbanGlades.westWhisper.name","Forgotten Bridge","الجسر المنسي"
+"worlds.isolaSacra.outskirts.ionasCavern.name","Iona's Cavern","كهف إيونا"
+"worlds.isolaSacra.phalen.phalenCathedral.name","Phalen Cathedral","كاتدرائية فالن"
+"worlds.isolaSacra.sacrament.gordonsPantry.name","Gordon's Pantry","مخزن طعام غوردون"
+"worlds.isolaSacra.sacrament.lodging.name","Lodgings","المساكن"
+"worlds.isolaSacra.sacrament.makerDanossStudy.name","Maker Danos's Study","غرفة دراسة الصانع دانوس"
+"worlds.isolaSacra.sacrament.marketplace.name","Marketplace","السوق"
+"worlds.isolaSacra.sacrament.masonry.name","Masonry","مبنى البناء"
+"worlds.isolaSacra.sacrament.miraMerisTailorShop.name","Mira & Meri's Tailor Shop","متجر خياطة ميرا وميري"
+"worlds.isolaSacra.sacrament.name","Sacrament","ساكرامنت"
+"worlds.isolaSacra.sacrament.rookery.name","Rookery","روكري"
+"worlds.isolaSacra.sacrament.rookeryLodgings.name","Rookery Lodgings","مساكن روكري"
+"worlds.isolaSacra.sacrament.sacramentCemetery.name","Sacrament Cemetery","مقبرة ساكرامنت"
+"worlds.isolaSacra.sacrament.theBurrow.name","The Burrow","الجحر"
+"worlds.isolaSacra.sacrament.theDustyLoom.name","The Dusty Loom","النول المغبر"
+"worlds.isolaSacra.sacrament.theGallows.name","The Gallows","المشنقة"
+"worlds.isolaSacra.sacrament.theHomestead.name","The Homestead","المسكن"
+"worlds.isolaSacra.sacrament.theHovel.name","The Hovel","الكوخ"
+"worlds.isolaSacra.sacrament.theKnot.name","The Knot","العقدة"
+"worlds.isolaSacra.sacrament.theRoost.name","The Roost","العش"
+"worlds.isolaSacra.sacrament.warRoom.name","War Room","غرفة الحرب"
+"worlds.isolaSacra.sacrament.whisper.name","Marketplace","السوق"
+"worlds.isolaSacra.shipGraveyard.name","Ship Graveyard","مقبرة السفن"
+"worlds.isolaSacra.sylvanHollow.name","Sylvan Hollow","الجوف الغابي"
+"worlds.isolaSacra.templeOfDayAndNight.name","Temple of Day and Night","معبد النهار والليل"
+"worlds.isolaSacra.theBlackTrench.entranceWhisper.name","Central Chamber","الغرفة المركزية"
+"worlds.isolaSacra.theBlackTrench.name","The Black Trench","الخندق الأسود"
+"worlds.isolaSacra.theBlackTrench.northWestWhisper.name","The Depths","الأعماق"
+"worlds.isolaSacra.theBlackTrench.shrineWhisper.name","Fungal Shrine","الضريح الفطري"
+"worlds.isolaSacra.theHuntersVale.name","The Hunter's Vale","وادي الصيادين"
+"worlds.isolaSacra.theManor.name","The Manor","القصر"
+"worlds.isolaSacra.theNamelessPass.cavernWhisper.name","Shrouded Cavern","الكهف المغطى"
+"worlds.isolaSacra.theNamelessPass.cerimChamberWhisper.name","Cerim Chamber","حجرة السيريم"
+"worlds.isolaSacra.theNamelessPass.entranceWhisper.name","Ashen Road","طريق الرماد"
+"worlds.isolaSacra.theNamelessPass.firepitWhisper.name","The Cauldron","المرجل"
+"worlds.isolaSacra.theNamelessPass.mountianGateWhisper.name","Mountain Gate","بوابة الجبل"
+"worlds.isolaSacra.theNamelessPass.name","Nameless Pass","الممر المجهول"
+"worlds.isolaSacra.theNamelessPass.quarryDungeonWhisper.name","Quarry Dungeon","زنزانة المقلع"
+"worlds.isolaSacra.theNamelessPass.quarryElevatorWhisper.name","Quarry Elevator","مصعد المقلع"
+"worlds.isolaSacra.theShallows.name","The Shallows","المياه الضحلة"
+"worlds.isolaSacra.theShallows.whisper.name","Saltborn Tower","برج أبناء الملح"
