@@ -1871,7 +1871,10 @@ THE FONT SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS
 "ui.settings.controls.AlternativeSchemeDescription","Move using only the mouse. Recommended for bows.
 
 Hold [RMB] for movement.
-Use 1-4 keys to execute runes.",""
+Use 1-4 keys to execute runes.","Move using only the mouse. Recommended for bows.
+
+Hold [RMB] for movement.
+Use 1-4 keys to execute runes."
 "ui.settings.controls.CurrentlySelectedScheme","Your currently selected Scheme","Your currently selected Scheme"
 "ui.settings.controls.Customised","Customized","Customized"
 "ui.settings.controls.GamepadControlsDisplayName","Select to preview gamepad bindings.","Select to preview gamepad bindings."
@@ -1892,16 +1895,26 @@ Use 1-4 keys to execute runes.",""
 [move_wasd] for movement. 
 Hold [space] to walk towards the cursor.
 Use 1-4 keys for rune selection. 
-[RMB] to execute runes.",""
+[RMB] to execute runes.","Allows using the same rune frequently. Recommended for wands and staves.
+
+[move_wasd] for movement. 
+Hold [space] to walk towards the cursor.
+Use 1-4 keys for rune selection. 
+[RMB] to execute runes."
 "ui.settings.controls.TorinsScheme","Combined Movement","Combined Movement"
 "ui.settings.controls.TorinsScheme2","Mouse and WASD","Mouse and WASD"
 "ui.settings.controls.TorinsSchemeDescription","The default scheme. Recommended for playing with shields.
 
 [move_wasd] for movement. 
 Hold [lctrl] to walk towards the cursor. 
-Use 1-4 keys to execute runes.",""
+Use 1-4 keys to execute runes.","The default scheme. Recommended for playing with shields.
+
+[move_wasd] for movement. 
+Hold [lctrl] to walk towards the cursor. 
+Use 1-4 keys to execute runes."
 "ui.settings.controls.abandonChangesMessage","You have unfinished changes. Are you sure you want to quit? 
-Quitting will result in reverting the scheme to the previous settings.",""
+Quitting will result in reverting the scheme to the previous settings.","You have unfinished changes. Are you sure you want to quit? 
+Quitting will result in reverting the scheme to the previous settings."
 "ui.settings.controls.abandonChangesTitle","Abandon Changes","Abandon Changes"
 "ui.settings.controls.advanceDialogue","Advance Dialogue","Advance Dialogue"
 "ui.settings.controls.character","Character","Character"
@@ -1922,22 +1935,30 @@ Quitting will result in reverting the scheme to the previous settings.",""
 "ui.settings.controls.mappingRunesDescription","Rune selection","Rune selection"
 "ui.settings.controls.mappingSaveChanges","SAVE CHANGES","SAVE CHANGES"
 "ui.settings.controls.mappingTorinRunesDescription","This key has two functions: 
-Rune Use  | Hold: Charged Rune Use",""
+Rune Use  | Hold: Charged Rune Use","This key has two functions: 
+Rune Use  | Hold: Charged Rune Use"
 "ui.settings.controls.mappingTorinrunDescription","This key has two functions: 
-Dodge | Hold: Run",""
+Dodge | Hold: Run","This key has two functions: 
+Dodge | Hold: Run"
 "ui.settings.controls.mappingattackDescription","This key has two functions: 
-Attack | Hold: Charge Attack",""
+Attack | Hold: Charge Attack","This key has two functions: 
+Attack | Hold: Charge Attack"
 "ui.settings.controls.mappingfoodDescription","This key has two functions: 
-Consume Food | Hold: Food Picker",""
+Consume Food | Hold: Food Picker","This key has two functions: 
+Consume Food | Hold: Food Picker"
 "ui.settings.controls.mappingholdDescription","This is a hold key","This is a hold key"
 "ui.settings.controls.mappingmainhandoffhandruneDescription","This key has two functions: 
-Mainhand / Offhand Rune | Hold: Charged Rune",""
+Mainhand / Offhand Rune | Hold: Charged Rune","This key has two functions: 
+Mainhand / Offhand Rune | Hold: Charged Rune"
 "ui.settings.controls.mappingoffhandDescription","This key has two functions: 
-Hold: Offhand Use | Hold: Offhand Rune Switch",""
+Hold: Offhand Use | Hold: Offhand Rune Switch","This key has two functions: 
+Hold: Offhand Use | Hold: Offhand Rune Switch"
 "ui.settings.controls.mappingoffhandUseOffhandRuneSwitch","This key has two functions: 
-Hold: Offhand Use  | Hold: Offhand Rune Switch",""
+Hold: Offhand Use  | Hold: Offhand Rune Switch","This key has two functions: 
+Hold: Offhand Use  | Hold: Offhand Rune Switch"
 "ui.settings.controls.mappingquickitemDescription","This key has two functions: 
-Consume Quick Item | Hold: Item Picker",""
+Consume Quick Item | Hold: Item Picker","This key has two functions: 
+Consume Quick Item | Hold: Item Picker"
 "ui.settings.controls.mappingsGestures","Gestures","Gestures"
 "ui.settings.controls.mappingsIteract","Interact","Interact"
 "ui.settings.controls.mappingsJournal","Journal","Journal"
@@ -1955,13 +1976,15 @@ Consume Quick Item | Hold: Item Picker",""
 "ui.settings.controls.mappingsdodge","Dodge","Dodge"
 "ui.settings.controls.mappingsmainhanditem","Mainhand item","Mainhand item"
 "ui.settings.controls.mappingsneakdropdownDescription","This key has two functions: 
-Sneak | Drop Down",""
+Sneak | Drop Down","This key has two functions: 
+Sneak | Drop Down"
 "ui.settings.controls.mappingsoffhanditem","Offhand item","Offhand item"
 "ui.settings.controls.mappingsoffhanduse","Offhand Use","Offhand Use"
 "ui.settings.controls.mappingsruneattack","Rune Attack","Rune Attack"
 "ui.settings.controls.mappingssneakdropdown","Sneak / Drop Down","Sneak / Drop Down"
 "ui.settings.controls.mappingtargetlockDescription","This key has two functions: 
-Target Lock | Hold: Exit Manual Target Lock",""
+Target Lock | Hold: Exit Manual Target Lock","This key has two functions: 
+Target Lock | Hold: Exit Manual Target Lock"
 "ui.settings.controls.mappingtoggleDescription","This is a toggle key","This is a toggle key"
 "ui.settings.controls.mappingwalktomouse","Walk to Mouse","Walk to Mouse"
 "ui.settings.controls.mostlyKeyboardshort","Mostly KBD","Mostly KBD"
@@ -2086,7 +2109,11 @@ Target Lock | Hold: Exit Manual Target Lock",""
 
 Transformer: A more advanced AI approach that can produce sharper visuals, but may use a bit more system resources.
 
-CNN: Designed for stable performance, with slightly softer visuals compared to other options.",""
+CNN: Designed for stable performance, with slightly softer visuals compared to other options.","Select which deep learning method DLSS uses to upscale your graphics
+
+Transformer: A more advanced AI approach that can produce sharper visuals, but may use a bit more system resources.
+
+CNN: Designed for stable performance, with slightly softer visuals compared to other options."
 "ui.settings.graphics.dlssQuality","DLSS Quality","DLSS Quality"
 "ui.settings.graphics.dlssQualityDescription","Choose between performance and graphical fidelity for Deep Learning Super Sampling.","Choose between performance and graphical fidelity for Deep Learning Super Sampling."
 "ui.settings.graphics.drs","Dynamic Resolution Scaling","Dynamic Resolution Scaling"
@@ -2120,7 +2147,13 @@ TAA and AMD CAS: Generally results in the lowest frame rate but can produce bett
 
 Nvidia DLSS: Increase framerate at the expense of some visual fidelity with NVIDIA Deep Learning Super Sampling 4.0. Exclusive to GPUs supporting DLSS.
 
-AMD FSR: Increase framerate at the expense of some visual fidelity with AMD FidelityFX™ Super Resolution 2.2.1.",""
+AMD FSR: Increase framerate at the expense of some visual fidelity with AMD FidelityFX™ Super Resolution 2.2.1.","Select an upscaling method to improve graphics while maintaining stable performance.
+
+TAA and AMD CAS: Generally results in the lowest frame rate but can produce better visuals at lower resolutions.
+
+Nvidia DLSS: Increase framerate at the expense of some visual fidelity with NVIDIA Deep Learning Super Sampling 4.0. Exclusive to GPUs supporting DLSS.
+
+AMD FSR: Increase framerate at the expense of some visual fidelity with AMD FidelityFX™ Super Resolution 2.2.1."
 "ui.settings.graphics.upscalingMode.DLAA","Nvidia DLAA","Nvidia DLAA"
 "ui.settings.graphics.upscalingMode.FSR_2","AMD FSR 2.2.1","AMD FSR 2.2.1"
 "ui.settings.graphics.upscalingMode.FSR_3","AMD FSR 3.1.5","AMD FSR 3.1.5"
@@ -2230,36 +2263,52 @@ AMD FSR: Increase framerate at the expense of some visual fidelity with AMD Fide
 "ui.tutorials.items.discovery.cta","[inventory]","[inventory]"
 "ui.tutorials.items.discovery.fallenEmbers.description","Fallen Embers can be used to [!sHighlight]add[/s] or [!sHighlight]re-roll[/s] enchantments on magical or plagued gear.
 
-Cerim who have proven themselves worthy can also use them to re-assign attributes.",""
+Cerim who have proven themselves worthy can also use them to re-assign attributes.","Fallen Embers can be used to [!sHighlight]add[/s] or [!sHighlight]re-roll[/s] enchantments on magical or plagued gear.
+
+Cerim who have proven themselves worthy can also use them to re-assign attributes."
 "ui.tutorials.items.discovery.fallenEmbers.title","Fallen Embers","Fallen Embers"
 "ui.tutorials.items.discovery.food.description","[!sHighlight][action_food][/s] to restore [IconHealth].
-[!sSubtext]Cooked meals may provide additional buffs.[/s]",""
+[!sSubtext]Cooked meals may provide additional buffs.[/s]","[!sHighlight][action_food][/s] to restore [IconHealth].
+[!sSubtext]Cooked meals may provide additional buffs.[/s]"
 "ui.tutorials.items.discovery.food.title","Food","Food"
 "ui.tutorials.items.discovery.gems.description","Gems can be slotted into gear to infuse it with powerful [!sHighlight]enchantments[/s].
-[!sSubtext]Visit an enchanter to infuse gear.[/s]",""
+[!sSubtext]Visit an enchanter to infuse gear.[/s]","Gems can be slotted into gear to infuse it with powerful [!sHighlight]enchantments[/s].
+[!sSubtext]Visit an enchanter to infuse gear.[/s]"
 "ui.tutorials.items.discovery.gems.title","Gems","Gems"
 "ui.tutorials.items.discovery.plaguedResources.description","Enemies slain within [!sPlagued]Pestilence Outbreaks[/s] may drop plagued resources. 
 
-Extract and refine them at the Watcher, or use them to upgrade gear at a blacksmith.",""
+Extract and refine them at the Watcher, or use them to upgrade gear at a blacksmith.","Enemies slain within [!sPlagued]Pestilence Outbreaks[/s] may drop plagued resources. 
+
+Extract and refine them at the Watcher, or use them to upgrade gear at a blacksmith."
 "ui.tutorials.items.discovery.plaguedResources.title","Plagued Resources","Plagued Resources"
 "ui.tutorials.items.discovery.quickItems.description","Use a [!sHighlight][action_quickitem][/s] when the situation calls for it.
 
-Quick Items may repair gear, apply temporary buffs, or they may damage and disrupt enemies.",""
+Quick Items may repair gear, apply temporary buffs, or they may damage and disrupt enemies.","Use a [!sHighlight][action_quickitem][/s] when the situation calls for it.
+
+Quick Items may repair gear, apply temporary buffs, or they may damage and disrupt enemies."
 "ui.tutorials.items.discovery.quickItems.title","Quick Items","Quick Items"
 "ui.tutorials.items.discovery.rawFood.description","Raw food can be eaten as a last resort, but a [!sHighlight]cooked meal[/s] will always be stronger.
 
 [!sHeadingMuted]Cooking[/s]
-Cook meals at fire pits using gathered resources. Find recipes to unlock new meals.",""
+Cook meals at fire pits using gathered resources. Find recipes to unlock new meals.","Raw food can be eaten as a last resort, but a [!sHighlight]cooked meal[/s] will always be stronger.
+
+[!sHeadingMuted]Cooking[/s]
+Cook meals at fire pits using gathered resources. Find recipes to unlock new meals."
 "ui.tutorials.items.discovery.rawFood.title","Raw Food","Raw Food"
 "ui.tutorials.items.discovery.refinedMaterials.description","Refined materials are necessary for [!sHighlight]upgrades[/s] and [!sHighlight]crafting[/s].
 
 Materials can be refined at upgraded vendor stalls, or at refineries that you own.
-[!sSubtext]Visit the Maker in Sacrament to upgrade vendor stalls or purchase refineries.[/s]",""
+[!sSubtext]Visit the Maker in Sacrament to upgrade vendor stalls or purchase refineries.[/s]","Refined materials are necessary for [!sHighlight]upgrades[/s] and [!sHighlight]crafting[/s].
+
+Materials can be refined at upgraded vendor stalls, or at refineries that you own.
+[!sSubtext]Visit the Maker in Sacrament to upgrade vendor stalls or purchase refineries.[/s]"
 "ui.tutorials.items.discovery.refinedMaterials.title","Refined Materials","Refined Materials"
 "ui.tutorials.items.discovery.resources.title","Resources","Resources"
 "ui.tutorials.items.discovery.shields.description","[!sHighlight][!tnobr][shield] Ready a Shield[/tnobr][/s] to block enemy attacks and reduce damage received.
 
-[!sSubtext]Shields do not reduce [IconPoise] Poise Damage.[/s]",""
+[!sSubtext]Shields do not reduce [IconPoise] Poise Damage.[/s]","[!sHighlight][!tnobr][shield] Ready a Shield[/tnobr][/s] to block enemy attacks and reduce damage received.
+
+[!sSubtext]Shields do not reduce [IconPoise] Poise Damage.[/s]"
 "ui.tutorials.items.discovery.shields.title","Shields","Shields"
 "ui.tutorials.items.discovery.tools.description","Use tools to [!sHighlight]harvest resources[/s] and [!sHighlight]materials[/s]. Higher tier tools work faster. ","Use tools to [!sHighlight]harvest resources[/s] and [!sHighlight]materials[/s]. Higher tier tools work faster. "
 "ui.tutorials.items.discovery.tools.title","Tools","Tools"
@@ -2267,7 +2316,11 @@ Materials can be refined at upgraded vendor stalls, or at refineries that you ow
 
 Burning an Effigy inside a [!sPlagued]Pestilence Outbreak[/s] will reveal the heart of the infection. 
 
-Burning an Effigy in a non-infected area will trigger a [!sPlagued]Pestilence Outbreak[/s] in that area, allowing you to find more resources.",""
+Burning an Effigy in a non-infected area will trigger a [!sPlagued]Pestilence Outbreak[/s] in that area, allowing you to find more resources.","Can be burned in an offering at any [!sHighlight]fire pit[/s]. 
+
+Burning an Effigy inside a [!sPlagued]Pestilence Outbreak[/s] will reveal the heart of the infection. 
+
+Burning an Effigy in a non-infected area will trigger a [!sPlagued]Pestilence Outbreak[/s] in that area, allowing you to find more resources."
 "ui.tutorials.items.discovery.tornEffigy.title","Torn Effigies","Torn Effigies"
 "ui.tutorials.mechanics.backstab.miniDescription","[!sHighlight][action_sneak][/s] behind enemies until a [IconSkull] is visible, then press [attack] to [!sHighlight]backstab[/s].","[!sHighlight][action_sneak][/s] behind enemies until a [IconSkull] is visible, then press [attack] to [!sHighlight]backstab[/s]."
 "ui.tutorials.mechanics.chargedSpells.controls1.action","Charge a Spell","Charge a Spell"
@@ -2277,12 +2330,17 @@ Burning an Effigy in a non-infected area will trigger a [!sPlagued]Pestilence Ou
 "ui.tutorials.mechanics.chargedSpells.controls1.bindingaltPC","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4] <os>(Hold)</os>","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4] <os>(Hold)</os>"
 "ui.tutorials.mechanics.chargedSpells.description","<color=#F2E6BD>Charged Spells</color> must be held to successfully cast.
 
-Be careful - These spells <color=#F2E6BD>can be interrupted</color> while casting.",""
+Be careful - These spells <color=#F2E6BD>can be interrupted</color> while casting.","<color=#F2E6BD>Charged Spells</color> must be held to successfully cast.
+
+Be careful - These spells <color=#F2E6BD>can be interrupted</color> while casting."
 "ui.tutorials.mechanics.chargedSpells.title","Charged Spells","Charged Spells"
 "ui.tutorials.mechanics.durability.description","Using gear will diminish its durability.
 <color=#F15E4B>Broken</color> gear is rendered inoperable.
 
-<color=#CBCCCF>Repair gear at a blacksmith or by using repair powder.</color>",""
+<color=#CBCCCF>Repair gear at a blacksmith or by using repair powder.</color>","Using gear will diminish its durability.
+<color=#F15E4B>Broken</color> gear is rendered inoperable.
+
+<color=#CBCCCF>Repair gear at a blacksmith or by using repair powder.</color>"
 "ui.tutorials.mechanics.durability.title","Durability","Durability"
 "ui.tutorials.mechanics.elementalDamage.description","Elemental damage builds up status effects.
  
@@ -2290,11 +2348,19 @@ Be careful - These spells <color=#F2E6BD>can be interrupted</color> while castin
 [!sBpIcon][StatColdDamage][/s][!sBpBody][!sIce]Freeze[/s] temporarily solidifies. Physical damage will shatter frozen targets.[/s]
 [!sBpIcon][StatLightningDamage][/s][!sBpBody][!sLightning]Shock[/s] will chain to multiple targets.[/s]
 [!sBpIcon][StatPlagueDamage][/s][!sBpBody][!sPlague]Infection[/s] temporarily gives the attacker [!sHighlight]Lifesteal[/s].[/s]
-[!sBpIcon][StatBleed][/s][!sBpBody][!sBleed]Bleed[/s] deals damage to moving enemies.[/s]",""
+[!sBpIcon][StatBleed][/s][!sBpBody][!sBleed]Bleed[/s] deals damage to moving enemies.[/s]","Elemental damage builds up status effects.
+ 
+[!sBpIcon][StatFireDamage][/s][!sBpBody][!sFire]Burn[/s] deals damage over time.[/s]
+[!sBpIcon][StatColdDamage][/s][!sBpBody][!sIce]Freeze[/s] temporarily solidifies. Physical damage will shatter frozen targets.[/s]
+[!sBpIcon][StatLightningDamage][/s][!sBpBody][!sLightning]Shock[/s] will chain to multiple targets.[/s]
+[!sBpIcon][StatPlagueDamage][/s][!sBpBody][!sPlague]Infection[/s] temporarily gives the attacker [!sHighlight]Lifesteal[/s].[/s]
+[!sBpIcon][StatBleed][/s][!sBpBody][!sBleed]Bleed[/s] deals damage to moving enemies.[/s]"
 "ui.tutorials.mechanics.elementalDamage.title","Elemental Damage","Elemental Damage"
 "ui.tutorials.mechanics.firstBow.description","<color=#F2E6BD>Bows</color> carry unique Runes, allowing you to unleash a <color=#F2E6BD>deadly barrage of arrows</color> from afar.
 
-Using a bow <color=#F2E6BD>consumes</color> [IconFocus].",""
+Using a bow <color=#F2E6BD>consumes</color> [IconFocus].","<color=#F2E6BD>Bows</color> carry unique Runes, allowing you to unleash a <color=#F2E6BD>deadly barrage of arrows</color> from afar.
+
+Using a bow <color=#F2E6BD>consumes</color> [IconFocus]."
 "ui.tutorials.mechanics.firstBow.title","Bows","Bows"
 "ui.tutorials.mechanics.firstFocusUsed.description","You can regenerate [IconFocus] through <color=#F2E6BD>attacks</color>, <color=#F2E6BD>parries</color> or <color=#F2E6BD>consumables</color>.","You can regenerate [IconFocus] through <color=#F2E6BD>attacks</color>, <color=#F2E6BD>parries</color> or <color=#F2E6BD>consumables</color>."
 "ui.tutorials.mechanics.firstStaffWand.controls1.action","Perform a Spell","Perform a Spell"
@@ -2302,21 +2368,30 @@ Using a bow <color=#F2E6BD>consumes</color> [IconFocus].",""
 "ui.tutorials.mechanics.firstStaffWand.controls2.actionalt","Select a Spell","Select a Spell"
 "ui.tutorials.mechanics.firstStaffWand.description","Wielding a <color=#F2E6BD>wand</color> or <color=#F2E6BD>staff</color> allows you to <color=#F2E6BD>cast powerful spells</color> using their unique Runes.
 
-Casting a spell <color=#F2E6BD>consumes</color> [IconFocus].",""
+Casting a spell <color=#F2E6BD>consumes</color> [IconFocus].","Wielding a <color=#F2E6BD>wand</color> or <color=#F2E6BD>staff</color> allows you to <color=#F2E6BD>cast powerful spells</color> using their unique Runes.
+
+Casting a spell <color=#F2E6BD>consumes</color> [IconFocus]."
 "ui.tutorials.mechanics.firstStaffWand.title","Spells","Spells"
 "ui.tutorials.mechanics.gestures.description","Express yourself by performing [!sHighlight]gestures[/s].
 
-Hold to open the [!sHighlight][action_gesture][/s], then select a gesture and [!sHighlight]release[/s] to perform it.",""
+Hold to open the [!sHighlight][action_gesture][/s], then select a gesture and [!sHighlight]release[/s] to perform it.","Express yourself by performing [!sHighlight]gestures[/s].
+
+Hold to open the [!sHighlight][action_gesture][/s], then select a gesture and [!sHighlight]release[/s] to perform it."
 "ui.tutorials.mechanics.gestures.descriptionMini","Open the [!sHighlight][action_gesture][/s] and perform a [!sHighlight]salute[/s].","Open the [!sHighlight][action_gesture][/s] and perform a [!sHighlight]salute[/s]."
 "ui.tutorials.mechanics.gestures.title","Gestures","Gestures"
 "ui.tutorials.mechanics.hungerlimit.description","During combat, a [!sNegative]limited[/s] amount of food may be consumed.
 
-[!sMuted]The hunger limit lifts upon exiting combat.[/s]",""
+[!sMuted]The hunger limit lifts upon exiting combat.[/s]","During combat, a [!sNegative]limited[/s] amount of food may be consumed.
+
+[!sMuted]The hunger limit lifts upon exiting combat.[/s]"
 "ui.tutorials.mechanics.hungerlimit.title","Hunger Limit","Hunger Limit"
 "ui.tutorials.mechanics.perfectGather.description","Just as a tool strikes, [!tnobr][!sHighlight][interact] Gather[/s][/tnobr] again to:
 [!sBp]Harvest faster.[/s]
 [!sBp]Earn bonus [IconFocus].[/s]
-[!sBp]Increase loot drop chances.[/s]",""
+[!sBp]Increase loot drop chances.[/s]","Just as a tool strikes, [!tnobr][!sHighlight][interact] Gather[/s][/tnobr] again to:
+[!sBp]Harvest faster.[/s]
+[!sBp]Earn bonus [IconFocus].[/s]
+[!sBp]Increase loot drop chances.[/s]"
 "ui.tutorials.mechanics.perfectGather.title","Perfect Gather","Perfect Gather"
 "ui.tutorials.mechanics.plagueOutbreaks.description","The Pestilence can be [!sHighlight]wielded by the Cerim[/s] to become more powerful.
 
@@ -2324,13 +2399,21 @@ Future outbreaks will continue to occur over time - but you can also [!sHighligh
 
 Burning items will [!sHighlight]increase the plague intensity[/s], and [!sHighlight]add corruptions[/s] to the area. The greater the plague intensity, the greater the rewards. 
 
-Burning Torn Resources will result in fewer corruptions.",""
+Burning Torn Resources will result in fewer corruptions.","The Pestilence can be [!sHighlight]wielded by the Cerim[/s] to become more powerful.
+
+Future outbreaks will continue to occur over time - but you can also [!sHighlight]trigger an outbreak[/s] by [!sHighlight]burning items[/s] at any fire pit outside of Sacrament.
+
+Burning items will [!sHighlight]increase the plague intensity[/s], and [!sHighlight]add corruptions[/s] to the area. The greater the plague intensity, the greater the rewards. 
+
+Burning Torn Resources will result in fewer corruptions."
 "ui.tutorials.mechanics.plagueOutbreaks.title","The Spread of the Plague","The Spread of the Plague"
 "ui.tutorials.mechanics.repairingGear.description","Visit a blacksmith to repair your gear.","Visit a blacksmith to repair your gear."
 "ui.tutorials.mechanics.repairingGear.title","Repairing","Repairing"
 "ui.tutorials.mechanics.respawning.description","Upon death, you are spoken anew at your last <color=#F2E6BD>Whisper</color>. 
 
-Every death reduces your gear's durability.",""
+Every death reduces your gear's durability.","Upon death, you are spoken anew at your last <color=#F2E6BD>Whisper</color>. 
+
+Every death reduces your gear's durability."
 "ui.tutorials.mechanics.respawning.title","Death’s Toll","Death’s Toll"
 "ui.tutorials.mechanics.runes.controls1.action","Ready Rune Hand","Ready Rune Hand"
 "ui.tutorials.mechanics.runes.controls1.actionalt","Select Rune","Select Rune"
@@ -2345,7 +2428,10 @@ Every death reduces your gear's durability.",""
 "ui.tutorials.mechanics.runes.description","Runes are powerful special [!sHighlight]abilities[/s].
 
 Most Runes can be performed using [IconFocus].
-[!sSubtext]Gain [IconFocus] from attacks or parries.[/s]",""
+[!sSubtext]Gain [IconFocus] from attacks or parries.[/s]","Runes are powerful special [!sHighlight]abilities[/s].
+
+Most Runes can be performed using [IconFocus].
+[!sSubtext]Gain [IconFocus] from attacks or parries.[/s]"
 "ui.tutorials.mechanics.runes.title","Runes","Runes"
 "ui.tutorials.mechanics.shoulderBarge.description","While [!sHeavy][!iWeight] Heavy[/s], temporarily stagger nearby enemies with a [!sHighlight][action_shoulder_barge][/s].","While [!sHeavy][!iWeight] Heavy[/s], temporarily stagger nearby enemies with a [!sHighlight][action_shoulder_barge][/s]."
 "ui.tutorials.mechanics.shoulderBarge.title","Shoulder Barge","Shoulder Barge"
@@ -2356,15 +2442,25 @@ Most Runes can be performed using [IconFocus].
 Utility Runes are character bound abilities which [!sHighlight]aid[/s] and [!sHighlight]assist[/s] in your journey.
 
 [!sHeadingMuted]Equipping[/s]
-You can also find other Utility Runes throughout the game, which can be equipped at an Enchanter.",""
+You can also find other Utility Runes throughout the game, which can be equipped at an Enchanter.","You begin with a [!sHighlight]Heal[/s] Utility Rune equipped. This rune allows you to heal by using focus [utility] + [key_special_1].
+
+Utility Runes are character bound abilities which [!sHighlight]aid[/s] and [!sHighlight]assist[/s] in your journey.
+
+[!sHeadingMuted]Equipping[/s]
+You can also find other Utility Runes throughout the game, which can be equipped at an Enchanter."
 "ui.tutorials.mechanics.utilityRunes.title","Heal Rune","Heal Rune"
 "ui.tutorials.mechanics.weightClass.description","Weight is divided into classes based on the total weight of equipped gear. [IconEquipLoad] increases class limits.
-[!ssubtext]Broken gear will not contribute weight.[/s]",""
+[!ssubtext]Broken gear will not contribute weight.[/s]","Weight is divided into classes based on the total weight of equipped gear. [IconEquipLoad] increases class limits.
+[!ssubtext]Broken gear will not contribute weight.[/s]"
 "ui.tutorials.mechanics.weightClass.descriptionDodging","Each weight class changes the [!sHighlight][action_dodge][/s] performed.
 [!sbpicon][!sPositive][!iWeight][/s][/s][!sbpbody]Quickstep.[/s][/s]
 [!sbpicon][!sHighlight][!iWeight][/s][/s][!sbpbody]Roll.[/s][/s]
 [!sbpicon][!sNegative][!iWeight][/s][/s][!sbpbody]Slow Roll. Can [!sHighlight][action_shoulder_barge][/s].
-[!ssubtext]Shoulder barge temporarily staggers enemies.[/s][/s][/s]",""
+[!ssubtext]Shoulder barge temporarily staggers enemies.[/s][/s][/s]","Each weight class changes the [!sHighlight][action_dodge][/s] performed.
+[!sbpicon][!sPositive][!iWeight][/s][/s][!sbpbody]Quickstep.[/s][/s]
+[!sbpicon][!sHighlight][!iWeight][/s][/s][!sbpbody]Roll.[/s][/s]
+[!sbpicon][!sNegative][!iWeight][/s][/s][!sbpbody]Slow Roll. Can [!sHighlight][action_shoulder_barge][/s].
+[!ssubtext]Shoulder barge temporarily staggers enemies.[/s][/s][/s]"
 "ui.tutorials.mechanics.weightClass.title","Weight Class","Weight Class"
 "ui.tutorials.mechanics.worldCleanse.description","The Seneschal has unlocked the ability to cleanse the [!sPlagued]Pestilence[/s] from Isola Sacra.","The Seneschal has unlocked the ability to cleanse the [!sPlagued]Pestilence[/s] from Isola Sacra."
 "ui.tutorials.mechanics.worldCleanse.title","World Cleanse","World Cleanse"
@@ -2372,19 +2468,29 @@ You can also find other Utility Runes throughout the game, which can be equipped
 
 [!sHighlight]Searing[/s] - Dealing Fire damage to an infected target will increase fire damage taken
 [!sHighlight]Overload[/s] - Dealing Lightning damage to a burned target will create a powerful lightning AoE
-[!sHighlight]Fester[/s] - Dealing Plague damage to a bleeding target will reduce enemy buildup recovery speed",""
+[!sHighlight]Fester[/s] - Dealing Plague damage to a bleeding target will reduce enemy buildup recovery speed","You can combine different [!sHighlight]elemental status effects[/s].
+
+[!sHighlight]Searing[/s] - Dealing Fire damage to an infected target will increase fire damage taken
+[!sHighlight]Overload[/s] - Dealing Lightning damage to a burned target will create a powerful lightning AoE
+[!sHighlight]Fester[/s] - Dealing Plague damage to a bleeding target will reduce enemy buildup recovery speed"
 "ui.tutorials.multiplayer.advancedstatuseffects.title","Advanced Status Effects","Advanced Status Effects"
 "ui.tutorials.multiplayer.combatbalance.description","When multiple Cerim travel together within a realm, [!sHighlight]more enemies will spawn[/s]; and the health, damage and poise resistance values of enemies will increase.
 
-If you can see another Cerim's [!sHighlight]portrait[/s], that means they're part of your group. Cerim who are far away on a realm do not affect local enemy spawning.",""
+If you can see another Cerim's [!sHighlight]portrait[/s], that means they're part of your group. Cerim who are far away on a realm do not affect local enemy spawning.","When multiple Cerim travel together within a realm, [!sHighlight]more enemies will spawn[/s]; and the health, damage and poise resistance values of enemies will increase.
+
+If you can see another Cerim's [!sHighlight]portrait[/s], that means they're part of your group. Cerim who are far away on a realm do not affect local enemy spawning."
 "ui.tutorials.multiplayer.combatbalance.title","The More the Merrier","The More the Merrier"
 "ui.tutorials.multiplayer.comboattacks.description","While in combat, your [!sHighlight]Combo Meter[/s] keeps track of the number of hits and total damage you deal to enemies within a short period. 
 
-You can regain a small amount of [!sHighlight]health[/s] based on the number of hits dealt when the combo is broken.",""
+You can regain a small amount of [!sHighlight]health[/s] based on the number of hits dealt when the combo is broken.","While in combat, your [!sHighlight]Combo Meter[/s] keeps track of the number of hits and total damage you deal to enemies within a short period. 
+
+You can regain a small amount of [!sHighlight]health[/s] based on the number of hits dealt when the combo is broken."
 "ui.tutorials.multiplayer.comboattacks.title","Combo Attacks","Combo Attacks"
 "ui.tutorials.multiplayer.compendium.description","In the [!sHighlight]Compendium[/s] you can find collected knowledge and memories from all Cerim on a realm.
 
-Every tutorial or cinematic scene that has been unlocked by any player can be revisited in the Compendium. Eventually, you will be able to track items discovered and enemies encountered as well.",""
+Every tutorial or cinematic scene that has been unlocked by any player can be revisited in the Compendium. Eventually, you will be able to track items discovered and enemies encountered as well.","In the [!sHighlight]Compendium[/s] you can find collected knowledge and memories from all Cerim on a realm.
+
+Every tutorial or cinematic scene that has been unlocked by any player can be revisited in the Compendium. Eventually, you will be able to track items discovered and enemies encountered as well."
 "ui.tutorials.multiplayer.compendium.title","The Compendium ","The Compendium "
 "ui.tutorials.multiplayer.cruciblecoop.description","The Crucible is an <color=#F2E6BD>ancient training ground</color> where Cerim can undertake various trials and challenges.
 
@@ -2392,37 +2498,61 @@ Every time you enter a trial within the Crucible, you will find a different seri
 
 You must <color=#F2E6BD>clear all the enemies</color> from each chamber in order to advance to the next one. 
 
-<color=#F2E6BD>Dying</color> in the Crucible will return you to the Atrium, and you must begin again from the start. If there are other Cerim still inside the trial, you must wait for them to die or complete it before you can start again.                  ",""
+<color=#F2E6BD>Dying</color> in the Crucible will return you to the Atrium, and you must begin again from the start. If there are other Cerim still inside the trial, you must wait for them to die or complete it before you can start again.                  ","The Crucible is an <color=#F2E6BD>ancient training ground</color> where Cerim can undertake various trials and challenges.
+
+Every time you enter a trial within the Crucible, you will find a different series of chambers. 
+
+You must <color=#F2E6BD>clear all the enemies</color> from each chamber in order to advance to the next one. 
+
+<color=#F2E6BD>Dying</color> in the Crucible will return you to the Atrium, and you must begin again from the start. If there are other Cerim still inside the trial, you must wait for them to die or complete it before you can start again.                  "
 "ui.tutorials.multiplayer.cruciblecoop.title","The Crucible Together","The Crucible Together"
 "ui.tutorials.multiplayer.houseguests.description","Other Cerim must be [!sHighlight]invited[/s] into your home.
 
-Guests may come and go freely from any house they are invited to. They can also add or remove furniture, and store or collect items from chests within the house.",""
+Guests may come and go freely from any house they are invited to. They can also add or remove furniture, and store or collect items from chests within the house.","Other Cerim must be [!sHighlight]invited[/s] into your home.
+
+Guests may come and go freely from any house they are invited to. They can also add or remove furniture, and store or collect items from chests within the house."
 "ui.tutorials.multiplayer.houseguests.title","House Guests","House Guests"
 "ui.tutorials.multiplayer.researchpapers.description","Research Papers can be used to unlock [!sHighlight]blueprints[/s] at a [!sHighlight]Scribe Table[/s]. 
 
-Once you have unlocked a blueprint, you can craft the item at a [!sHighlight]crafting station[/s].",""
+Once you have unlocked a blueprint, you can craft the item at a [!sHighlight]crafting station[/s].","Research Papers can be used to unlock [!sHighlight]blueprints[/s] at a [!sHighlight]Scribe Table[/s]. 
+
+Once you have unlocked a blueprint, you can craft the item at a [!sHighlight]crafting station[/s]."
 "ui.tutorials.multiplayer.researchpapers.title","Research Papers","Research Papers"
 "ui.tutorials.multiplayer.revival.description","When you fall in battle you can be [!sHighlight]spoken anew[/s] by your fellow Cerim. 
  
 Reviving a companion will cost [!sHighlight]up to 50% of your HP[/s].
 
-Multiple Cerim can also team up to revive one companion.",""
+Multiple Cerim can also team up to revive one companion.","When you fall in battle you can be [!sHighlight]spoken anew[/s] by your fellow Cerim. 
+ 
+Reviving a companion will cost [!sHighlight]up to 50% of your HP[/s].
+
+Multiple Cerim can also team up to revive one companion."
 "ui.tutorials.multiplayer.revival.title","Revival","Revival"
 "ui.tutorials.multiplayer.scribetables.description","At [!sHighlight]Scribe Tables[/s], you can learn how to craft items via [!sHighlight]research papers[/s].
 
 Items previously discovered throughout your journey can be chosen to be researched, or you can choose to research a random item within a specific category. Researching an item unlocks the ability to [!sHighlight]craft it[/s] at its respective crafting station.
 
-You can unlock new items at the Scribe Table by upgrading Maker Danos' Architecture Study.",""
+You can unlock new items at the Scribe Table by upgrading Maker Danos' Architecture Study.","At [!sHighlight]Scribe Tables[/s], you can learn how to craft items via [!sHighlight]research papers[/s].
+
+Items previously discovered throughout your journey can be chosen to be researched, or you can choose to research a random item within a specific category. Researching an item unlocks the ability to [!sHighlight]craft it[/s] at its respective crafting station.
+
+You can unlock new items at the Scribe Table by upgrading Maker Danos' Architecture Study."
 "ui.tutorials.multiplayer.scribetables.title","Scribe Tables","Scribe Tables"
 "ui.tutorials.multiplayer.story.description","<color=#F2E6BD>Quests</color> can be advanced by any Cerim on a realm. All story progress is shared.
 
 Check your <color=#F2E6BD>quest log</color> in the menu to view quest updates and map markers. 
 
-If you miss a tutorial or cinematic scene, it can be revisited at any time in the <color=#F2E6BD>Compendium</color>.",""
+If you miss a tutorial or cinematic scene, it can be revisited at any time in the <color=#F2E6BD>Compendium</color>.","<color=#F2E6BD>Quests</color> can be advanced by any Cerim on a realm. All story progress is shared.
+
+Check your <color=#F2E6BD>quest log</color> in the menu to view quest updates and map markers. 
+
+If you miss a tutorial or cinematic scene, it can be revisited at any time in the <color=#F2E6BD>Compendium</color>."
 "ui.tutorials.multiplayer.story.title","Story","Story"
 "ui.tutorials.multiplayer.trading.description","You can interact with fellow Cerim by pressing [interact].
 
-Press [!sHighlight]trade[/s] to exchange or gift items. Press [!sHighlight]inspect[/s] to view another Cerim's profile. ",""
+Press [!sHighlight]trade[/s] to exchange or gift items. Press [!sHighlight]inspect[/s] to view another Cerim's profile. ","You can interact with fellow Cerim by pressing [interact].
+
+Press [!sHighlight]trade[/s] to exchange or gift items. Press [!sHighlight]inspect[/s] to view another Cerim's profile. "
 "ui.tutorials.multiplayer.trading.title","Trading","Trading"
 "ui.tutorials.notifications.systems.attributeRequirements.description","Item is [!sNegative]weakened[/s] as its requirements are [!sHighlight]unmet[/s].","Item is [!sNegative]weakened[/s] as its requirements are [!sHighlight]unmet[/s]."
 "ui.tutorials.notifications.systems.failEquipRing.description","[!sNegative]Failed[/s] to equip. Same ring already equipped.","[!sNegative]Failed[/s] to equip. Same ring already equipped."
