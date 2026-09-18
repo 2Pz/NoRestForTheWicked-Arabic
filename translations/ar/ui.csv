@@ -319,7 +319,7 @@ Please check back next week","لقد نفدت التحديات التي يمكن
 "ui.common.refresh","Refresh","تحديث"
 "ui.common.regen","Regen","التجديد"
 "ui.common.remove","Remove","إزالة"
-"ui.common.removeXQuestion","Remove {0}?","إزالة {0}"
+"ui.common.removeXQuestion","Remove {0}?","إزالة {0}؟"
 "ui.common.repair","Repair","إصلاح"
 "ui.common.requirements","Requirements","المتطلبات"
 "ui.common.resources","Resources","المصادر"
