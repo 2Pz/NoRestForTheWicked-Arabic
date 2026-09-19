@@ -303,7 +303,7 @@ Please check back next week","لقد نفدت التحديات التي يمكن
 "ui.common.patterns","Patterns","النقوش"
 "ui.common.plague","Plague","الوباء"
 "ui.common.plusButton","<size=80%>+</size>","<size=80%>+</size>"
-"ui.common.price","Price","Price"
+"ui.common.price","Price","السعر"
 "ui.common.projects","Projects","المشاريع"
 "ui.common.purchase","Purchase","شراء"
 "ui.common.purchaseQuestion","Purchase","شراء"
@@ -330,36 +330,36 @@ Please check back next week","لقد نفدت التحديات التي يمكن
 "ui.common.seconds","seconds","ثواني"
 "ui.common.select","Select","اختر"
 "ui.common.sell","Sell","بيع"
-"ui.common.separate","Separate","Separate"
-"ui.common.settings","Settings","Settings"
-"ui.common.sew","Sew","Sew"
-"ui.common.skip","Skip","Skip"
-"ui.common.slot","Slot","Slot"
-"ui.common.sneak","Sneak","Sneak"
-"ui.common.sorting","Sorting","Sorting"
-"ui.common.stats","Stats","Stats"
-"ui.common.submit","Submit","Submit"
-"ui.common.take","Take","Take"
-"ui.common.talk","Talk","Talk"
-"ui.common.time","Time","Time"
-"ui.common.toggleOff","Off","Off"
-"ui.common.toggleOn","On","On"
-"ui.common.trade","Trade","Trade"
-"ui.common.transfer","Transfer","Transfer"
-"ui.common.type","Type","Type"
-"ui.common.unextractable","Unextractable","Unextractable"
-"ui.common.upgrade","Upgrade","Upgrade"
-"ui.common.upgradeQuestion","Upgrade","Upgrade"
-"ui.common.use","Use","Use"
-"ui.common.useFallenEmber","Use Fallen Ember","Use Fallen Ember"
-"ui.common.vendors","Vendors","Vendors"
-"ui.common.weapons","Weapons","Weapons"
-"ui.common.week","week","week"
-"ui.common.weeks","weeks","weeks"
-"ui.common.whisper","Whisper","Whisper"
-"ui.common.withdraw","Withdraw","Withdraw"
+"ui.common.separate","Separate","فصل"
+"ui.common.settings","Settings","الإعدادات"
+"ui.common.sew","Sew","حياكة"
+"ui.common.skip","Skip","تخطي"
+"ui.common.slot","Slot","خانة"
+"ui.common.sneak","Sneak","تسلل"
+"ui.common.sorting","Sorting","الترتيب"
+"ui.common.stats","Stats","الإحصائيات"
+"ui.common.submit","Submit","إرسال"
+"ui.common.take","Take","أخذ"
+"ui.common.talk","Talk","تحدث"
+"ui.common.time","Time","الوقت"
+"ui.common.toggleOff","Off","إيقاف"
+"ui.common.toggleOn","On","تشغيل"
+"ui.common.trade","Trade","تجارة"
+"ui.common.transfer","Transfer","نقل"
+"ui.common.type","Type","النوع"
+"ui.common.unextractable","Unextractable","غير قابل للاستخراج"
+"ui.common.upgrade","Upgrade","ترقية"
+"ui.common.upgradeQuestion","Upgrade","ترقية"
+"ui.common.use","Use","استخدام"
+"ui.common.useFallenEmber","Use Fallen Ember","استخدام الجمر الساقط"
+"ui.common.vendors","Vendors","التجار"
+"ui.common.weapons","Weapons","الأسلحة"
+"ui.common.week","week","أسبوع"
+"ui.common.weeks","weeks","أسابيع"
+"ui.common.whisper","Whisper","الهمسة"
+"ui.common.withdraw","Withdraw","سحب"
 "ui.common.xp","XP","XP"
-"ui.common.yes","Yes","Yes"
+"ui.common.yes","Yes","نعم"
 "ui.commonActivity.Ineligible","Ineligible","غير مؤهل"
 "ui.commonActivity.IneligibleMessage","You didn’t contribute enough 
 to claim rewards this time.","لم تُسهم بما يكفي
@@ -367,25 +367,25 @@ to claim rewards this time.","لم تُسهم بما يكفي
 "ui.commonActivity.IneligibleMessageRequired","Required: {0} — You contributed {1}.","المطلوب: {0} — أسهمت بـ {1}."
 "ui.commonActivity.activeLabel","Active","نشط"
 "ui.commonActivity.completedLabel","Completed","مكتمل"
-"ui.commonActivity.dailyLabel","Daily","Daily"
-"ui.commonActivity.exitpreviewRewards","EXIT PREVIEW REWARDS","EXIT PREVIEW REWARDS"
-"ui.commonActivity.inactiveLabel","Inactive","Inactive"
-"ui.commonActivity.previewRewards","PREVIEW REWARDS","PREVIEW REWARDS"
-"ui.commonActivity.weeklyLabel","Weekly","Weekly"
-"ui.communityChestScreen.consumablesCategory","Consumables","Consumables"
-"ui.compedium.bestiary","Bestiary","Bestiary"
-"ui.compedium.characters","Characters","Characters"
-"ui.compedium.emptyCollection","This collection is empty. Even the dust hasn’t settled here.","This collection is empty. Even the dust hasn’t settled here."
-"ui.compedium.items","Items","Items"
-"ui.compedium.knowledge","Knowledge","Knowledge"
-"ui.compedium.rewatch","Rewatch","Rewatch"
-"ui.compedium.story","Story","Story"
-"ui.compendium.categoryDescriptionCombat","A collection of knowledge detailing how to fight, defend, and master the art of battle.","A collection of knowledge detailing how to fight, defend, and master the art of battle."
-"ui.compendium.categoryDescriptionDiscovery","Insights gained from exploration","Insights gained from exploration"
-"ui.compendium.categoryDescriptionMechanics","The fundamental rules that shape how the world responds","The fundamental rules that shape how the world responds"
-"ui.compendium.categoryDescriptionSystems","An overview of the broader structures, progression features, and world management functions.","An overview of the broader structures, progression features, and world management functions."
-"ui.compendium.replayableCinematics.darakEscapes.Description","After a fierce battle we have Darak on his knees, but he escapes before we can deliver the killing blow.","After a fierce battle we have Darak on his knees, but he escapes before we can deliver the killing blow."
-"ui.compendium.replayableCinematics.darakEscapes.Name.Description","Darak Escapes","Darak Escapes"
+"ui.commonActivity.dailyLabel","Daily","يومي"
+"ui.commonActivity.exitpreviewRewards","EXIT PREVIEW REWARDS","الخروج من معاينة المكافآت"
+"ui.commonActivity.inactiveLabel","Inactive","غير نشط"
+"ui.commonActivity.previewRewards","PREVIEW REWARDS","معاينة المكافآت"
+"ui.commonActivity.weeklyLabel","Weekly","أسبوعي"
+"ui.communityChestScreen.consumablesCategory","Consumables","المستهلكات"
+"ui.compedium.bestiary","Bestiary","دليل الوحوش"
+"ui.compedium.characters","Characters","الشخصيات"
+"ui.compedium.emptyCollection","This collection is empty. Even the dust hasn’t settled here.","هذه المجموعة فارغة. حتى الغبار لم يستقر هنا بعد."
+"ui.compedium.items","Items","العناصر"
+"ui.compedium.knowledge","Knowledge","المعرفة"
+"ui.compedium.rewatch","Rewatch","إعادة المشاهدة"
+"ui.compedium.story","Story","القصة"
+"ui.compendium.categoryDescriptionCombat","A collection of knowledge detailing how to fight, defend, and master the art of battle.","مجموعة من المعارف توضح كيفية القتال والدفاع وإتقان فن المعركة."
+"ui.compendium.categoryDescriptionDiscovery","Insights gained from exploration","رؤى مستفادة من الاستكشاف"
+"ui.compendium.categoryDescriptionMechanics","The fundamental rules that shape how the world responds","القواعد الأساسية التي تُحدد كيفية استجابة العالم"
+"ui.compendium.categoryDescriptionSystems","An overview of the broader structures, progression features, and world management functions.","نظرة عامة على الهياكل الأوسع، وميزات التقدم، ووظائف إدارة العالم."
+"ui.compendium.replayableCinematics.darakEscapes.Description","After a fierce battle we have Darak on his knees, but he escapes before we can deliver the killing blow.","بعد معركة شرسة نجعل دارك يجثو على ركبتيه، لكنه يفرّ قبل أن نتمكن من توجيه ضربة الموت."
+"ui.compendium.replayableCinematics.darakEscapes.Name.Description","Darak Escapes","فرار دارك"
 "ui.compendium.replayableCinematics.darakOnTheBridge.Description","The Risen warlord Darak slaughters a group of Sacrament soldiers in Orban Glades.","يذبح سيد الناهضين دارك مجموعة من جنود ساكرامنت في غابات أوربان."
 "ui.compendium.replayableCinematics.darakOnTheBridge.Name","Darak on the Bridge","دارك على الجسر"
 "ui.compendium.replayableCinematics.fealtyOfBainbridge.Description","As we make our way through the Nameless Pass, we encounter Primus Bainbridge, leader of the contingent of Bolein Knights on Sacra. He meets with Speaker Lucian to settle the matter of desertion once and for all.","في طريقنا عبر النفق المجهول، نلتقي بالبريموس بينبريدج، قائد فرقة فرسان بولين في ساكرا. يلتقي بالمتحدث لوسيان لحسم مسألة الفرار من الخدمة بشكل نهائي."
@@ -412,7 +412,7 @@ to claim rewards this time.","لم تُسهم بما يكفي
 "ui.compendium.replayableCinematics.theCerimVision.Name","The Cerim Vision","رؤية السيريم"
 "ui.compendium.replayableCinematics.theFallenCity.Description","The Madrigal finally sees with her own eyes what has become of Caylen.","ترى المادريغال أخيراً بعينيها ما آل إليه حال كيلن."
 "ui.compendium.replayableCinematics.theFallenCity.Name","The Fallen City","المدينة الساقطة"
-"ui.compendium.replayableCinematics.theInquisitionArrives.Description","At the top of the rookery tower, we finally meet the Watcher who summoned us to Sacra. But our meeting is cut short by the arrival of Madrigal Seline.","في قمة برج الهمسة، نلتقي أخيراً بالمراقب الذي استدعانا إلى ساكرا. لكن لقاءنا ينقطع بوصول المادريغال سيلين."
+"ui.compendium.replayableCinematics.theInquisitionArrives.Description","At the top of the rookery tower, we finally meet the Watcher who summoned us to Sacra. But our meeting is cut short by the arrival of Madrigal Seline.","في قمة برج الروكري، نلتقي أخيراً بالمراقب الذي استدعانا إلى ساكرا. لكن لقاءنا ينقطع بوصول المادريغال سيلين."
 "ui.compendium.replayableCinematics.theInquisitionArrives.Name","The Inquisition Arrives","وصول التحقيق"
 "ui.compendium.replayableCinematics.theLostHuntress.Description","Reed thought his daughter Lara was taken by the Torn bear that attacked their group. But when we reach their camp, we discover that the truth is much worse…","اعتقد ريد أن ابنته لارا اختطفها الدب الممزق الذي هاجم مجموعتهم. لكن حين نصل إلى مخيمهم، نكتشف أن الحقيقة أسوأ بكثير…"
 "ui.compendium.replayableCinematics.theLostHuntress.Name","The Lost Huntress","الصيادة الضائعة"
@@ -432,7 +432,7 @@ to claim rewards this time.","لم تُسهم بما يكفي
 "ui.compendium.replayableCinematics.theTornFalstead.Name","The Torn Falstead","فالستيد الممزق"
 "ui.compendium.replayableCinematics.theWarRoom.Description","Ellsworth has his daughter Odessa summoned to the war room.","يستدعي إلسورث ابنته أوديسا إلى غرفة الحرب."
 "ui.compendium.replayableCinematics.theWarRoom.Name","The War Room","غرفة الحرب"
-"ui.compendium.replayableCinematics.theWatchersWarning.Description","We have been summoned to the Rookery by an urgent letter from Roan. The Watcher has taken ill, neither eating nor speaking. But then he is stirred by a distant sound…","استُدعينا إلى الهمسة برسالة عاجلة من روان. أصاب المراقبَ المرضُ، لا يأكل ولا يتكلم. ثم يستيقظ على صوت بعيد…"
+"ui.compendium.replayableCinematics.theWatchersWarning.Description","We have been summoned to the Rookery by an urgent letter from Roan. The Watcher has taken ill, neither eating nor speaking. But then he is stirred by a distant sound…","استُدعينا إلى الروكري برسالة عاجلة من روان. أصاب المراقبَ المرضُ، لا يأكل ولا يتكلم. ثم يستيقظ على صوت بعيد…"
 "ui.compendium.replayableCinematics.theWatchersWarning.Name","The Watcher's Warning","تحذير المراقب"
 "ui.compendium.replayableCinematics.theWeepingSisters.Description","With the Lost Huntress defeated, we finally reach the Weeping Sisters, where we find Ellsworth and Winnick waiting anxiously to meet the sender of a mysterious letter.","بعد هزيمة الصيادة الضائعة، نصل أخيراً إلى الأخوات الباكيات، حيث نجد إلسورث وينيك ينتظران بقلق للقاء مُرسِل رسالة غامضة."
 "ui.compendium.replayableCinematics.theWeepingSisters.Name","The Weeping Sisters","الأخوات الباكيات"
@@ -623,239 +623,239 @@ Doing this will remove your last 3 gem slots. Once invoked, it cannot be reverse
 "ui.gesturesScreen.victory","Victory","انتصار"
 "ui.gesturesScreen.wave","Wave","تلويح"
 "ui.greatBeak.Interact","Hail the Great Beak","حيّ المنقار العظيم"
-"ui.healthhud.healreminder","Eat [heal_gamepad_steamdeck]","Eat [heal_gamepad_steamdeck]"
-"ui.hints.combat.hintChargedAttack","Hold [attack] to perform a <color=#F2E6BD>Charge Attack</color>. Charged attacks <color=#5B9968>consume stamina</color>.","Hold [attack] to perform a <color=#F2E6BD>Charge Attack</color>. Charged attacks <color=#5B9968>consume stamina</color>."
-"ui.hints.combat.hintFocusResource","Landing attacks grants you <color=#F2E6BD>focus</color> that can be used to <color=#F2E6BD>perform special attacks</color>.","Landing attacks grants you <color=#F2E6BD>focus</color> that can be used to <color=#F2E6BD>perform special attacks</color>."
-"ui.hints.combat.hintGuardBreak","Press [ohspecial] and [mhspecial] to perform a <color=#F2E6BD>guard break</color>.","Press [ohspecial] and [mhspecial] to perform a <color=#F2E6BD>guard break</color>."
-"ui.hints.combat.hintLootBlockedByCombat","Cannot loot <color=#F2E6BD>while in combat</color>.","Cannot loot <color=#F2E6BD>while in combat</color>."
-"ui.hints.combat.hintPlayerInteractFailBoss","Cannot interact with other players <color=#F2E6BD>while in a boss fight</color>.","Cannot interact with other players <color=#F2E6BD>while in a boss fight</color>."
-"ui.hints.combat.hintPlayerInteractFailCombat","Cannot interact with other players <color=#F2E6BD>while in combat</color>.","Cannot interact with other players <color=#F2E6BD>while in combat</color>."
-"ui.hints.combat.hintUseFoodToHeal","Your health is low. Press [heal] to <color=#F2E6BD>consume food</color>.","Your health is low. Press [heal] to <color=#F2E6BD>consume food</color>."
-"ui.hints.combat.hintUseSpecialsReminder","Your <color=#F2E6BD>Focus is full</color>! Hold [rightBumper] and press [run] , [cancel] , [attack] or [interact] to <color=#F2E6BD>use your skills</color>.","Your <color=#F2E6BD>Focus is full</color>! Hold [rightBumper] and press [run] , [cancel] , [attack] or [interact] to <color=#F2E6BD>use your skills</color>."
-"ui.hints.debug.areaNotImplemented","This area has <color=#F2E6BD>not been implemented yet</color>!","This area has <color=#F2E6BD>not been implemented yet</color>!"
-"ui.hints.debug.hintEquipmentTemplateChanged","You switched to the <color=#F2E6BD>[TEMPLATE]</color> class.","You switched to the <color=#F2E6BD>[TEMPLATE]</color> class."
-"ui.hints.debug.hintInputLayoutChanged","Control layout changed to <color=#F2E6BD>[RULESET_TAG]</color>","Control layout changed to <color=#F2E6BD>[RULESET_TAG]</color>"
-"ui.hints.foodCooldown","You need to <color=#F2E6BD>wait {0:0} seconds</color> before you can consume another meal.","You need to <color=#F2E6BD>wait {0:0} seconds</color> before you can consume another meal."
-"ui.hints.hintWatcherRookeryGather","Gather <color=#F2E6BD>all players</color> inside the Rookery to continue.","Gather <color=#F2E6BD>all players</color> inside the Rookery to continue."
-"ui.hints.housing.copper","Copper","Copper"
-"ui.hints.housing.entranceCanBuyTextTemplate","<color=#F2E6BD>{0}</color> is available for <color=#F2E6BD>{1}</color>.","<color=#F2E6BD>{0}</color> is available for <color=#F2E6BD>{1}</color>."
-"ui.hints.housing.entranceCantEnterTextTemplate","This house is privately owned and you are not allowed to enter.","This house is privately owned and you are not allowed to enter."
-"ui.hints.housing.entranceGuestTextTemplate","Press [interact] to enter this house as a guest.","Press [interact] to enter this house as a guest."
-"ui.hints.housing.entranceOwnerTextTemplate","Press [interact] to enter your house.","Press [interact] to enter your house."
-"ui.hints.housing.gold","Gold","Gold"
-"ui.hints.housing.housePurchaseConfirmation","Are you sure you want to buy the house?","Are you sure you want to buy the house?"
-"ui.hints.housing.housePurchased","House Purchased","House Purchased"
-"ui.hints.housing.signpostBuyTextTemplate","<color=#F2E6BD>{0}</color> is available for <color=#F2E6BD>{1}</color>. Press [interact] to buy it.","<color=#F2E6BD>{0}</color> is available for <color=#F2E6BD>{1}</color>. Press [interact] to buy it."
-"ui.hints.housing.signpostGuestTextTemplate","You are a guest of this house.","You are a guest of this house."
-"ui.hints.housing.signpostManageTextTemplate","Press [interact] to manage your house.","Press [interact] to manage your house."
-"ui.hints.housing.silver","Silver","Silver"
-"ui.hints.hungerFull","You need to <color=#F2E6BD>leave combat</color> before you can consume another meal.","You need to <color=#F2E6BD>leave combat</color> before you can consume another meal."
-"ui.hints.inLineHints.DigSpotNoTool","Needs <color=#F2E6BD>Shovel</color>","Needs <color=#F2E6BD>Shovel</color>"
-"ui.hints.inLineHints.DigSpotToolBroken","Repair <color=#F2E6BD>Shovel</color>","Repair <color=#F2E6BD>Shovel</color>"
-"ui.hints.inLineHints.DigSpotToolHint","Dig","Dig"
-"ui.hints.inLineHints.DynamicCooperOreDepleted","Depleted","Depleted"
-"ui.hints.inLineHints.DynamicCooperOreToolBroken","Repair <color=#F2E6BD>Pickaxe</color>","Repair <color=#F2E6BD>Pickaxe</color>"
-"ui.hints.inLineHints.DynamicCooperOreToolHint","Mine","Mine"
-"ui.hints.inLineHints.DynamicCooperOrenoTool","Needs <color=#F2E6BD>Pickaxe</color>","Needs <color=#F2E6BD>Pickaxe</color>"
-"ui.hints.inLineHints.DynamicTreeNoTool","Needs <color=#F2E6BD>Axe</color>","Needs <color=#F2E6BD>Axe</color>"
-"ui.hints.inLineHints.DynamicTreeToolBroken","Repair <color=#F2E6BD>Axe</color>","Repair <color=#F2E6BD>Axe</color>"
-"ui.hints.inLineHints.DynamicTreeToolHint","Cut","Cut"
-"ui.hints.inLineHints.FishingNoTool","Needs <color=#F2E6BD>Fishing Rod</color>","Needs <color=#F2E6BD>Fishing Rod</color>"
-"ui.hints.inLineHints.FishingToolBroken","Repair <color=#F2E6BD>Fishing Rod</color>","Repair <color=#F2E6BD>Fishing Rod</color>"
-"ui.hints.inLineHints.FishingToolHint","Fish","Fish"
-"ui.hints.inLineHints.WatercanNoTool","Needs <color=#F2E6BD>Watering Can</color>","Needs <color=#F2E6BD>Watering Can</color>"
-"ui.hints.inLineHints.WatercanToolBroken","Repair <color=#F2E6BD>Watering Can</color>","Repair <color=#F2E6BD>Watering Can</color>"
-"ui.hints.inLineHints.WhispershortChannel","Channel","Channel"
-"ui.hints.inLineHints.WhispershortEnemiesNearby","Enemies Nearby","Enemies Nearby"
-"ui.hints.inLineHints.WhispershortInteraction","Activate","Activate"
-"ui.hints.inLineHints.playerInteractionHint","Interact","Interact"
-"ui.hints.inLineHints.shortHarvest","Harvest","Harvest"
-"ui.hints.inLineHints.shortHoldGrab","(Hold) Grab","(Hold) Grab"
-"ui.hints.inLineHints.shortInteract","Interact","Interact"
-"ui.hints.inLineHints.shortOpen","Open","Open"
-"ui.hints.inLineHints.shortPlant","Plant","Plant"
-"ui.hints.inLineHints.shortRead","Read","Read"
-"ui.hints.inLineHints.shortTill","Till","Till"
-"ui.hints.inLineHints.shortWater","Water","Water"
-"ui.hints.inLineHints.shorthdestroyCreep","Use Dire Nettle Spores","Use Dire Nettle Spores"
-"ui.hints.inLineHints.shorthintCaptainsHelmet","Captain's Helmet","Captain's Helmet"
-"ui.hints.inLineHints.shorthintClericsHelmet","Cleric's Helmet","Cleric's Helmet"
-"ui.hints.inLineHints.shorthintCraft","Craft","Craft"
-"ui.hints.inLineHints.shorthintEnter","Enter","Enter"
-"ui.hints.inLineHints.shorthintExamine","Examine","Examine"
-"ui.hints.inLineHints.shorthintHoldMove","(Hold) Move","(Hold) Move"
-"ui.hints.inLineHints.shorthintKick","Kick","Kick"
-"ui.hints.inLineHints.shorthintListen","Listen","Listen"
-"ui.hints.inLineHints.shorthintMakeOffering","Make an Offering","Make an Offering"
-"ui.hints.inLineHints.shorthintPet","Pet","Pet"
-"ui.hints.inLineHints.shorthintPlagueHelmet","Plague Helmet","Plague Helmet"
-"ui.hints.inLineHints.shorthintPull","Pull","Pull"
-"ui.hints.inLineHints.shorthintRemoveChains","Remove Chains","Remove Chains"
-"ui.hints.inLineHints.shorthintResetPlagueLevel","Reset Plague Level","Reset Plague Level"
-"ui.hints.inLineHints.shorthintSidle","Sidle","Sidle"
-"ui.hints.inLineHints.shorthintTalk","Talk","Talk"
-"ui.hints.inLineHints.shorthintToolRequired","Equip <color=#F2E6BD>{0}</color>.","Equip <color=#F2E6BD>{0}</color>."
-"ui.hints.inLineHints.shorthintTouchBloom","Touch Iona's Bloom","Touch Iona's Bloom"
-"ui.hints.inLineHints.shorthintUse","Use","Use"
-"ui.hints.interactive.hintPetCat","Press [interact] to <color=#F2E6BD>pet cat</color>.","Press [interact] to <color=#F2E6BD>pet cat</color>."
-"ui.hints.interactive.hintPetDog","Press [interact] to <color=#F2E6BD>pet dog</color>.","Press [interact] to <color=#F2E6BD>pet dog</color>."
-"ui.hints.interactive.hintPetSheep","Press [interact] to <color=#F2E6BD>pet sheep</color>.","Press [interact] to <color=#F2E6BD>pet sheep</color>."
-"ui.hints.interactives.hintDoorConditionNotMet","This door is <color=#F2E6BD>locked</color>.","This door is <color=#F2E6BD>locked</color>."
-"ui.hints.interactives.hintDoorLocked","<color=#F2E6BD>KEY_ITEM_NAME</color> is needed to open this door.","<color=#F2E6BD>KEY_ITEM_NAME</color> is needed to open this door."
-"ui.hints.interactives.hintDoorOneWayLocked","This door is <color=#F2E6BD>locked from the other side</color>.","This door is <color=#F2E6BD>locked from the other side</color>."
-"ui.hints.interactives.hintDoorUnlocked","Used <color=#F2E6BD>KEY_ITEM_NAME</color> to unlock the door.","Used <color=#F2E6BD>KEY_ITEM_NAME</color> to unlock the door."
-"ui.hints.interactives.hintFailedToRestBonfire","<color=#F2E6BD>All players</color> in the area need to be in the vicinity of the bonfire <color=#F2E6BD>to rest</color>.","<color=#F2E6BD>All players</color> in the area need to be in the vicinity of the bonfire <color=#F2E6BD>to rest</color>."
-"ui.hints.interactives.hintHousingAvailable","You may now purchase a <color=#F2E6BD>house</color> in Sacrament.","You may now purchase a <color=#F2E6BD>house</color> in Sacrament."
-"ui.hints.interactives.hintInteractFailed","You need the <color=#F2E6BD>KEY_ITEM_NAME</color>.","You need the <color=#F2E6BD>KEY_ITEM_NAME</color>."
-"ui.hints.interactives.hintInteractFailedEquipped","You need to have the <color=#F2E6BD>KEY_ITEM_NAME</color> equipped.","You need to have the <color=#F2E6BD>KEY_ITEM_NAME</color> equipped."
-"ui.hints.interactives.hintInteractSuccess","Used the <color=#F2E6BD>KEY_ITEM_NAME</color>.","Used the <color=#F2E6BD>KEY_ITEM_NAME</color>."
-"ui.hints.interactives.hintInteractWithChest","Get to the chest and <color=#F2E6BD>press</color> [interact] <color=#F2E6BD>to open it.</color>","Get to the chest and <color=#F2E6BD>press</color> [interact] <color=#F2E6BD>to open it.</color>"
-"ui.hints.movement.hintEmoting","Hold[rightTrigger] to <color=#F2E6BD>choose an emote</color>.","Hold[rightTrigger] to <color=#F2E6BD>choose an emote</color>."
-"ui.hints.movement.hintSidling","Press [interact] to <color=#F2E6BD>sidle</color>.","Press [interact] to <color=#F2E6BD>sidle</color>."
-"ui.hints.shipTutorial.hintFindYourCabin","Find your cabin below and <color=#F2E6BD>rest for the night</color>.","Find your cabin below and <color=#F2E6BD>rest for the night</color>."
+"ui.healthhud.healreminder","Eat [heal_gamepad_steamdeck]","تناوَل [heal_gamepad_steamdeck]"
+"ui.hints.combat.hintChargedAttack","Hold [attack] to perform a <color=#F2E6BD>Charge Attack</color>. Charged attacks <color=#5B9968>consume stamina</color>.","استمر بالضغط على [attack] لتنفيذ <color=#F2E6BD>هجوم مشحون</color>. الهجمات المشحونة <color=#5B9968>تستهلك التحمل</color>."
+"ui.hints.combat.hintFocusResource","Landing attacks grants you <color=#F2E6BD>focus</color> that can be used to <color=#F2E6BD>perform special attacks</color>.","إصابة الأعداء بالهجمات تمنحك <color=#F2E6BD>التركيز</color> الذي يمكن استخدامه <color=#F2E6BD>لتنفيذ هجمات خاصة</color>."
+"ui.hints.combat.hintGuardBreak","Press [ohspecial] and [mhspecial] to perform a <color=#F2E6BD>guard break</color>.","اضغط على [ohspecial] و [mhspecial] لتنفيذ <color=#F2E6BD>كسر الحماية</color>."
+"ui.hints.combat.hintLootBlockedByCombat","Cannot loot <color=#F2E6BD>while in combat</color>.","لا يمكن جمع الغنائم <color=#F2E6BD>أثناء القتال</color>."
+"ui.hints.combat.hintPlayerInteractFailBoss","Cannot interact with other players <color=#F2E6BD>while in a boss fight</color>.","لا يمكن التفاعل مع اللاعبين الآخرين <color=#F2E6BD>أثناء قتال الزعيم</color>."
+"ui.hints.combat.hintPlayerInteractFailCombat","Cannot interact with other players <color=#F2E6BD>while in combat</color>.","لا يمكن التفاعل مع اللاعبين الآخرين <color=#F2E6BD>أثناء القتال</color>."
+"ui.hints.combat.hintUseFoodToHeal","Your health is low. Press [heal] to <color=#F2E6BD>consume food</color>.","صحتك منخفضة. اضغط على [heal] <color=#F2E6BD>لتناول الطعام</color>."
+"ui.hints.combat.hintUseSpecialsReminder","Your <color=#F2E6BD>Focus is full</color>! Hold [rightBumper] and press [run] , [cancel] , [attack] or [interact] to <color=#F2E6BD>use your skills</color>.","شريط <color=#F2E6BD>التركيز ممتلئ</color>! استمر بالضغط على [rightBumper] واضغط على [run] أو [cancel] أو [attack] أو [interact] <color=#F2E6BD>لاستخدام مهاراتك</color>."
+"ui.hints.debug.areaNotImplemented","This area has <color=#F2E6BD>not been implemented yet</color>!","هذه المنطقة <color=#F2E6BD>لم تُطبق بعد</color>!"
+"ui.hints.debug.hintEquipmentTemplateChanged","You switched to the <color=#F2E6BD>[TEMPLATE]</color> class.","لقد انتقلت إلى فئة <color=#F2E6BD>[TEMPLATE]</color>."
+"ui.hints.debug.hintInputLayoutChanged","Control layout changed to <color=#F2E6BD>[RULESET_TAG]</color>","تغير مخطط التحكم إلى <color=#F2E6BD>[RULESET_TAG]</color>"
+"ui.hints.foodCooldown","You need to <color=#F2E6BD>wait {0:0} seconds</color> before you can consume another meal.","عليك <color=#F2E6BD>الانتظار {0:0} ثانية</color> قبل أن تتمكن من تناول وجبة أخرى."
+"ui.hints.hintWatcherRookeryGather","Gather <color=#F2E6BD>all players</color> inside the Rookery to continue.","اجمع <color=#F2E6BD>جميع اللاعبين</color> داخل الروكري للمتابعة."
+"ui.hints.housing.copper","Copper","النحاس"
+"ui.hints.housing.entranceCanBuyTextTemplate","<color=#F2E6BD>{0}</color> is available for <color=#F2E6BD>{1}</color>.","<color=#F2E6BD>{0}</color> متاح مقابل <color=#F2E6BD>{1}</color>."
+"ui.hints.housing.entranceCantEnterTextTemplate","This house is privately owned and you are not allowed to enter.","هذا المنزل ملكية خاصة ولا يُسمح لك بالدخول."
+"ui.hints.housing.entranceGuestTextTemplate","Press [interact] to enter this house as a guest.","اضغط على [interact] لدخول هذا المنزل كضيف."
+"ui.hints.housing.entranceOwnerTextTemplate","Press [interact] to enter your house.","اضغط على [interact] لدخول منزلك."
+"ui.hints.housing.gold","Gold","الذهب"
+"ui.hints.housing.housePurchaseConfirmation","Are you sure you want to buy the house?","هل أنت متأكد من أنك تريد شراء المنزل؟"
+"ui.hints.housing.housePurchased","House Purchased","تم شراء المنزل"
+"ui.hints.housing.signpostBuyTextTemplate","<color=#F2E6BD>{0}</color> is available for <color=#F2E6BD>{1}</color>. Press [interact] to buy it.","<color=#F2E6BD>{0}</color> متاح مقابل <color=#F2E6BD>{1}</color>. اضغط على [interact] لشرائه."
+"ui.hints.housing.signpostGuestTextTemplate","You are a guest of this house.","أنت ضيف في هذا المنزل."
+"ui.hints.housing.signpostManageTextTemplate","Press [interact] to manage your house.","اضغط على [interact] لإدارة منزلك."
+"ui.hints.housing.silver","Silver","الفضة"
+"ui.hints.hungerFull","You need to <color=#F2E6BD>leave combat</color> before you can consume another meal.","عليك <color=#F2E6BD>الخروج من القتال</color> قبل أن تتمكن من تناول وجبة أخرى."
+"ui.hints.inLineHints.DigSpotNoTool","Needs <color=#F2E6BD>Shovel</color>","يتطلب <color=#F2E6BD>مجرفة</color>"
+"ui.hints.inLineHints.DigSpotToolBroken","Repair <color=#F2E6BD>Shovel</color>","إصلاح <color=#F2E6BD>المجرفة</color>"
+"ui.hints.inLineHints.DigSpotToolHint","Dig","حفر"
+"ui.hints.inLineHints.DynamicCooperOreDepleted","Depleted","مستنفد"
+"ui.hints.inLineHints.DynamicCooperOreToolBroken","Repair <color=#F2E6BD>Pickaxe</color>","إصلاح <color=#F2E6BD>الفأس</color>"
+"ui.hints.inLineHints.DynamicCooperOreToolHint","Mine","تعدين"
+"ui.hints.inLineHints.DynamicCooperOrenoTool","Needs <color=#F2E6BD>Pickaxe</color>","يتطلب <color=#F2E6BD>فأساً</color>"
+"ui.hints.inLineHints.DynamicTreeNoTool","Needs <color=#F2E6BD>Axe</color>","يتطلب <color=#F2E6BD>بلطة</color>"
+"ui.hints.inLineHints.DynamicTreeToolBroken","Repair <color=#F2E6BD>Axe</color>","إصلاح <color=#F2E6BD>البلطة</color>"
+"ui.hints.inLineHints.DynamicTreeToolHint","Cut","قطع"
+"ui.hints.inLineHints.FishingNoTool","Needs <color=#F2E6BD>Fishing Rod</color>","يتطلب <color=#F2E6BD>صنارة صيد</color>"
+"ui.hints.inLineHints.FishingToolBroken","Repair <color=#F2E6BD>Fishing Rod</color>","إصلاح <color=#F2E6BD>صنارة الصيد</color>"
+"ui.hints.inLineHints.FishingToolHint","Fish","صيد"
+"ui.hints.inLineHints.WatercanNoTool","Needs <color=#F2E6BD>Watering Can</color>","يتطلب <color=#F2E6BD>مرشّة ماء</color>"
+"ui.hints.inLineHints.WatercanToolBroken","Repair <color=#F2E6BD>Watering Can</color>","إصلاح <color=#F2E6BD>مرشّة الماء</color>"
+"ui.hints.inLineHints.WhispershortChannel","Channel","توجيه"
+"ui.hints.inLineHints.WhispershortEnemiesNearby","Enemies Nearby","أعداء بالجوار"
+"ui.hints.inLineHints.WhispershortInteraction","Activate","تفعيل"
+"ui.hints.inLineHints.playerInteractionHint","Interact","تفاعل"
+"ui.hints.inLineHints.shortHarvest","Harvest","حصاد"
+"ui.hints.inLineHints.shortHoldGrab","(Hold) Grab","(استمرار) إمساك"
+"ui.hints.inLineHints.shortInteract","Interact","تفاعل"
+"ui.hints.inLineHints.shortOpen","Open","فتح"
+"ui.hints.inLineHints.shortPlant","Plant","زراعة"
+"ui.hints.inLineHints.shortRead","Read","قراءة"
+"ui.hints.inLineHints.shortTill","Till","حرث"
+"ui.hints.inLineHints.shortWater","Water","ري"
+"ui.hints.inLineHints.shorthdestroyCreep","Use Dire Nettle Spores","استخدام أبواغ القراص الضاري"
+"ui.hints.inLineHints.shorthintCaptainsHelmet","Captain's Helmet","خوذة القبطان"
+"ui.hints.inLineHints.shorthintClericsHelmet","Cleric's Helmet","خوذة رجل الدين"
+"ui.hints.inLineHints.shorthintCraft","Craft","صناعة"
+"ui.hints.inLineHints.shorthintEnter","Enter","دخول"
+"ui.hints.inLineHints.shorthintExamine","Examine","فحص"
+"ui.hints.inLineHints.shorthintHoldMove","(Hold) Move","(استمرار) تحريك"
+"ui.hints.inLineHints.shorthintKick","Kick","ركل"
+"ui.hints.inLineHints.shorthintListen","Listen","استماع"
+"ui.hints.inLineHints.shorthintMakeOffering","Make an Offering","تقديم قربان"
+"ui.hints.inLineHints.shorthintPet","Pet","ملاعبة"
+"ui.hints.inLineHints.shorthintPlagueHelmet","Plague Helmet","خوذة الوباء"
+"ui.hints.inLineHints.shorthintPull","Pull","سحب"
+"ui.hints.inLineHints.shorthintRemoveChains","Remove Chains","إزالة السلاسل"
+"ui.hints.inLineHints.shorthintResetPlagueLevel","Reset Plague Level","إعادة ضبط مستوى الوباء"
+"ui.hints.inLineHints.shorthintSidle","Sidle","محاذاة الجدار"
+"ui.hints.inLineHints.shorthintTalk","Talk","تحدث"
+"ui.hints.inLineHints.shorthintToolRequired","Equip <color=#F2E6BD>{0}</color>.","تجهيز <color=#F2E6BD>{0}</color>."
+"ui.hints.inLineHints.shorthintTouchBloom","Touch Iona's Bloom","لمس إزهار أيونا"
+"ui.hints.inLineHints.shorthintUse","Use","استخدام"
+"ui.hints.interactive.hintPetCat","Press [interact] to <color=#F2E6BD>pet cat</color>.","اضغط على [interact] <color=#F2E6BD>لملاعبة القطة</color>."
+"ui.hints.interactive.hintPetDog","Press [interact] to <color=#F2E6BD>pet dog</color>.","اضغط على [interact] <color=#F2E6BD>لملاعبة الكلب</color>."
+"ui.hints.interactive.hintPetSheep","Press [interact] to <color=#F2E6BD>pet sheep</color>.","اضغط على [interact] <color=#F2E6BD>لملاعبة الخروف</color>."
+"ui.hints.interactives.hintDoorConditionNotMet","This door is <color=#F2E6BD>locked</color>.","هذا الباب <color=#F2E6BD>مقفل</color>."
+"ui.hints.interactives.hintDoorLocked","<color=#F2E6BD>KEY_ITEM_NAME</color> is needed to open this door.","يلزم وجود <color=#F2E6BD>KEY_ITEM_NAME</color> لفتح هذا الباب."
+"ui.hints.interactives.hintDoorOneWayLocked","This door is <color=#F2E6BD>locked from the other side</color>.","هذا الباب <color=#F2E6BD>مقفل من الجانب الآخر</color>."
+"ui.hints.interactives.hintDoorUnlocked","Used <color=#F2E6BD>KEY_ITEM_NAME</color> to unlock the door.","تم استخدام <color=#F2E6BD>KEY_ITEM_NAME</color> لفتح الباب."
+"ui.hints.interactives.hintFailedToRestBonfire","<color=#F2E6BD>All players</color> in the area need to be in the vicinity of the bonfire <color=#F2E6BD>to rest</color>.","يجب أن يتواجد <color=#F2E6BD>جميع اللاعبين</color> في المنطقة بالقرب من شعلة النار <color=#F2E6BD>للراحة</color>."
+"ui.hints.interactives.hintHousingAvailable","You may now purchase a <color=#F2E6BD>house</color> in Sacrament.","يمكنك الآن شراء <color=#F2E6BD>منزل</color> في ساكرامنت."
+"ui.hints.interactives.hintInteractFailed","You need the <color=#F2E6BD>KEY_ITEM_NAME</color>.","أنت بحاجة إلى <color=#F2E6BD>KEY_ITEM_NAME</color>."
+"ui.hints.interactives.hintInteractFailedEquipped","You need to have the <color=#F2E6BD>KEY_ITEM_NAME</color> equipped.","يجب أن تكون مجهزاً بـ <color=#F2E6BD>KEY_ITEM_NAME</color>."
+"ui.hints.interactives.hintInteractSuccess","Used the <color=#F2E6BD>KEY_ITEM_NAME</color>.","تم استخدام <color=#F2E6BD>KEY_ITEM_NAME</color>."
+"ui.hints.interactives.hintInteractWithChest","Get to the chest and <color=#F2E6BD>press</color> [interact] <color=#F2E6BD>to open it.</color>","اقترب من الصندوق و<color=#F2E6BD>اضغط على</color> [interact] <color=#F2E6BD>لفتحه.</color>"
+"ui.hints.movement.hintEmoting","Hold[rightTrigger] to <color=#F2E6BD>choose an emote</color>.","استمر بالضغط على [rightTrigger] <color=#F2E6BD>لاختيار إيماءة</color>."
+"ui.hints.movement.hintSidling","Press [interact] to <color=#F2E6BD>sidle</color>.","اضغط على [interact] <color=#F2E6BD>للمحاذاة والتحرك بحذر</color>."
+"ui.hints.shipTutorial.hintFindYourCabin","Find your cabin below and <color=#F2E6BD>rest for the night</color>.","اعثر على مقصورتك في الأسفل و<color=#F2E6BD>استرح ليلتك</color>."
 "ui.hints.shipTutorial.hintFocusAttackShipPrologue","You gain <color=#F2E6BD>Focus</color> every time you <color=#F2E6BD>attack</color> or <color=#F2E6BD>parry</color> your foes. 
   
 Once you have enough focus, you can perform powerful <color=#F2E6BD>Focus Attacks</color> by holding [rightBumper] and pressing [attack] | [interact] | [cancel] or [run] .
 
-<color=#F2E6BD>Focus Attacks</color> do not consume <color=#F2E6BD>stamina</color>.","You gain <color=#F2E6BD>Focus</color> every time you <color=#F2E6BD>attack</color> or <color=#F2E6BD>parry</color> your foes. 
+<color=#F2E6BD>Focus Attacks</color> do not consume <color=#F2E6BD>stamina</color>.","تكتسب <color=#F2E6BD>التركيز</color> في كل مرة <color=#F2E6BD>تهاجم</color> فيها أعداءك أو <color=#F2E6BD>تصد</color> هجماتهم.
   
-Once you have enough focus, you can perform powerful <color=#F2E6BD>Focus Attacks</color> by holding [rightBumper] and pressing [attack] | [interact] | [cancel] or [run] .
+بمجرد أن تجمع تركيزاً كافياً، يمكنك تنفيذ <color=#F2E6BD>هجمات تركيز</color> قوية بالضغط مطولاً على [rightBumper] والضغط على [attack] أو [interact] أو [cancel] أو [run].
 
-<color=#F2E6BD>Focus Attacks</color> do not consume <color=#F2E6BD>stamina</color>."
-"ui.hints.shipTutorial.hintRollThroughDestructibles","You can also <color=#F2E6BD>press</color> [run] <color=#F2E6BD>twice</color> in order to <color=#F2E6BD>dodge roll through</color> destructible objects.","You can also <color=#F2E6BD>press</color> [run] <color=#F2E6BD>twice</color> in order to <color=#F2E6BD>dodge roll through</color> destructible objects."
-"ui.hints.shipTutorial.hintTeachSidle","Stand next to a wall and press [interact] to <color=#F2E6BD>sidle</color>.","Stand next to a wall and press [interact] to <color=#F2E6BD>sidle</color>."
-"ui.hints.shipTutorial.hintUseGrateShipPrologue","Get to the <color=#F2E6BD>grate handle</color> and <color=#F2E6BD>press</color> [interact] <color=#F2E6BD>to open it</color>.","Get to the <color=#F2E6BD>grate handle</color> and <color=#F2E6BD>press</color> [interact] <color=#F2E6BD>to open it</color>."
-"ui.hints.sideNotifications.combat.parry.description","Just before an enemy attack lands, perform a <color=#F2E6BD>Parry</color> to <color=#F2E6BD>deflect</color> the attack and <color=#F2E6BD>recover</color> [IconFocus].","Just before an enemy attack lands, perform a <color=#F2E6BD>Parry</color> to <color=#F2E6BD>deflect</color> the attack and <color=#F2E6BD>recover</color> [IconFocus]."
-"ui.hints.sideNotifications.combat.parry.popout","[parry] Parry","[parry] Parry"
+<color=#F2E6BD>هجمات التركيز</color> لا تستهلك <color=#F2E6BD>التحمل</color>."
+"ui.hints.shipTutorial.hintRollThroughDestructibles","You can also <color=#F2E6BD>press</color> [run] <color=#F2E6BD>twice</color> in order to <color=#F2E6BD>dodge roll through</color> destructible objects.","يمكنك أيضاً <color=#F2E6BD>الضغط</color> على [run] <color=#F2E6BD>مرتين</color> من أجل <color=#F2E6BD>التدحرج وتفادي</color> الأجسام القابلة للكسر."
+"ui.hints.shipTutorial.hintTeachSidle","Stand next to a wall and press [interact] to <color=#F2E6BD>sidle</color>.","قف بجوار الجدار واضغط على [interact] <color=#F2E6BD>للمحاذاة والتحرك بحذر</color>."
+"ui.hints.shipTutorial.hintUseGrateShipPrologue","Get to the <color=#F2E6BD>grate handle</color> and <color=#F2E6BD>press</color> [interact] <color=#F2E6BD>to open it</color>.","توجّه إلى <color=#F2E6BD>مقبض الشبيكة</color> و<color=#F2E6BD>اضغط على</color> [interact] <color=#F2E6BD>لفتحها</color>."
+"ui.hints.sideNotifications.combat.parry.description","Just before an enemy attack lands, perform a <color=#F2E6BD>Parry</color> to <color=#F2E6BD>deflect</color> the attack and <color=#F2E6BD>recover</color> [IconFocus].","قبل وصول هجوم العدو مباشرة، نفّذ <color=#F2E6BD>صداً متقناً</color> من أجل <color=#F2E6BD>ردع</color> الهجوم و<color=#F2E6BD>استعادة</color> [IconFocus]."
+"ui.hints.sideNotifications.combat.parry.popout","[parry] Parry","[parry] صد متقن"
 "ui.hints.sideNotifications.items.firstLowDurability.description","Watch your items' durability!
-At <color=#F2E6BD>0%</color>, items become <color=#F2E6BD>unequippable</color>. Repair items at <color=#F2E6BD>Fillmore</color> or with <color=#F2E6BD>repair powder</color> found in chests and drops.","Watch your items' durability!
-At <color=#F2E6BD>0%</color>, items become <color=#F2E6BD>unequippable</color>. Repair items at <color=#F2E6BD>Fillmore</color> or with <color=#F2E6BD>repair powder</color> found in chests and drops."
-"ui.hints.sideNotifications.items.firstLowDurability.title","Item Durability","Item Durability"
-"ui.hints.sideNotifications.items.firstRareItem.description","Items above <color=#808080>Common</color> rarity come with various <color=#F2E6BD>enchantments</color> and a <color=#F2E6BD>gem slot</color>.","Items above <color=#808080>Common</color> rarity come with various <color=#F2E6BD>enchantments</color> and a <color=#F2E6BD>gem slot</color>."
-"ui.hints.sideNotifications.items.firstResource.description","Across Isola Sacra, you'll discover various <color=#F2E6BD>resources</color>. Gathering resources is key to <color=#F2E6BD>progression</color> and <color=#F2E6BD>survival</color>.","Across Isola Sacra, you'll discover various <color=#F2E6BD>resources</color>. Gathering resources is key to <color=#F2E6BD>progression</color> and <color=#F2E6BD>survival</color>."
+At <color=#F2E6BD>0%</color>, items become <color=#F2E6BD>unequippable</color>. Repair items at <color=#F2E6BD>Fillmore</color> or with <color=#F2E6BD>repair powder</color> found in chests and drops.","انتبه لمتانة عتادك!
+عند <color=#F2E6BD>0%</color>، تصبح العناصر <color=#F2E6BD>غير قابلة للتجهيز</color>. قم بإصلاح العناصر لدى <color=#F2E6BD>فيلمور</color> أو باستخدام <color=#F2E6BD>مسحوق الإصلاح</color> الموجود في الصناديق والغنائم."
+"ui.hints.sideNotifications.items.firstLowDurability.title","Item Durability","متانة العناصر"
+"ui.hints.sideNotifications.items.firstRareItem.description","Items above <color=#808080>Common</color> rarity come with various <color=#F2E6BD>enchantments</color> and a <color=#F2E6BD>gem slot</color>.","العناصر التي تتجاوز ندرتها درجة <color=#808080>شائع</color> تأتي مزودة بعدة <color=#F2E6BD>تعزيزات سحرية</color> و<color=#F2E6BD>خانة جوهرة</color>."
+"ui.hints.sideNotifications.items.firstResource.description","Across Isola Sacra, you'll discover various <color=#F2E6BD>resources</color>. Gathering resources is key to <color=#F2E6BD>progression</color> and <color=#F2E6BD>survival</color>.","عبر إيزولا ساكرا، ستكتشف العديد من <color=#F2E6BD>المصادر</color>. جمع المصادر هو مفتاح <color=#F2E6BD>التقدم</color> و<color=#F2E6BD>البقاء</color>."
 "ui.hints.sideNotifications.items.firstTool.description","You've obtained a <color=#5B9968>tool</color>! Tools allow you to harvest <color=#F2E6BD>new resources</color>.
 
-Equip it to via the <color=#F2E6BD>Inventory</color>.","You've obtained a <color=#5B9968>tool</color>! Tools allow you to harvest <color=#F2E6BD>new resources</color>.
+Equip it to via the <color=#F2E6BD>Inventory</color>.","لقد حصلت على <color=#5B9968>أداة</color>! تتيح لك الأدوات جمع <color=#F2E6BD>مصادر جديدة</color>.
 
-Equip it to via the <color=#F2E6BD>Inventory</color>."
-"ui.hints.sideNotifications.items.firstTool.title","Tools","Tools"
+جهّزها من خلال <color=#F2E6BD>المخزون</color>."
+"ui.hints.sideNotifications.items.firstTool.title","Tools","الأدوات"
 "ui.hints.sideNotifications.items.firstWeapon.description","You've obtained a <color=#5B9968>weapon</color>!
-Equip it to your main hand via the <color=#F2E6BD>Inventory</color>.","You've obtained a <color=#5B9968>weapon</color>!
-Equip it to your main hand via the <color=#F2E6BD>Inventory</color>."
-"ui.hints.sideNotifications.items.firstWeapon.title","Weapons","Weapons"
-"ui.hints.sideNotifications.items.foodToggling.controls1.action","Open Selector","Open Selector"
-"ui.hints.sideNotifications.items.foodToggling.controls1.binding","[heal] <os>(Hold)</os>","[heal] <os>(Hold)</os>"
-"ui.hints.sideNotifications.items.foodToggling.controls2.action","Select a Food Item","Select a Food Item"
+Equip it to your main hand via the <color=#F2E6BD>Inventory</color>.","لقد حصلت على <color=#5B9968>سلاح</color>!
+جهّزه في يدك الرئيسية من خلال <color=#F2E6BD>المخزون</color>."
+"ui.hints.sideNotifications.items.firstWeapon.title","Weapons","الأسلحة"
+"ui.hints.sideNotifications.items.foodToggling.controls1.action","Open Selector","فتح قائمة الاختيار"
+"ui.hints.sideNotifications.items.foodToggling.controls1.binding","[heal] <os>(Hold)</os>","[heal] <os>(استمرار)</os>"
+"ui.hints.sideNotifications.items.foodToggling.controls2.action","Select a Food Item","تحديد طعام"
 "ui.hints.sideNotifications.items.foodToggling.controls2.binding","[targetswap]","[targetswap]"
-"ui.hints.sideNotifications.items.foodToggling.controls2.bindingalt","[mouse_wheel] <os>(Scroll)</os>","[mouse_wheel] <os>(Scroll)</os>"
-"ui.hints.sideNotifications.items.foodToggling.description","You can swap the <color=#F2E6BD>selected</color> food item.","You can swap the <color=#F2E6BD>selected</color> food item."
-"ui.hints.sideNotifications.items.foodToggling.title","Food Selection","Food Selection"
-"ui.hints.sideNotifications.items.quickItemToggling.controls1.action","Open Selector","Open Selector"
-"ui.hints.sideNotifications.items.quickItemToggling.controls1.binding","[quickitem] <os>(Hold)</os>","[quickitem] <os>(Hold)</os>"
-"ui.hints.sideNotifications.items.quickItemToggling.controls2.action","Select a Quick Item","Select a Quick Item"
-"ui.hints.sideNotifications.items.quickItemToggling.description","You can swap the <color=#F2E6BD>selected</color> quick item.","You can swap the <color=#F2E6BD>selected</color> quick item."
-"ui.hints.sideNotifications.items.quickItemToggling.title","Quick Item Selection","Quick Item Selection"
-"ui.hints.sideNotifications.items.weaponToggling.controls1.action","Cycle Main Hand Item","Cycle Main Hand Item"
+"ui.hints.sideNotifications.items.foodToggling.controls2.bindingalt","[mouse_wheel] <os>(Scroll)</os>","[mouse_wheel] <os>(تمرير)</os>"
+"ui.hints.sideNotifications.items.foodToggling.description","You can swap the <color=#F2E6BD>selected</color> food item.","يمكنك تبديل عنصر الطعام <color=#F2E6BD>المحدد</color>."
+"ui.hints.sideNotifications.items.foodToggling.title","Food Selection","تحديد الطعام"
+"ui.hints.sideNotifications.items.quickItemToggling.controls1.action","Open Selector","فتح قائمة الاختيار"
+"ui.hints.sideNotifications.items.quickItemToggling.controls1.binding","[quickitem] <os>(Hold)</os>","[quickitem] <os>(استمرار)</os>"
+"ui.hints.sideNotifications.items.quickItemToggling.controls2.action","Select a Quick Item","تحديد عنصر سريع"
+"ui.hints.sideNotifications.items.quickItemToggling.description","You can swap the <color=#F2E6BD>selected</color> quick item.","يمكنك تبديل العنصر السريع <color=#F2E6BD>المحدد</color>."
+"ui.hints.sideNotifications.items.quickItemToggling.title","Quick Item Selection","تحديد العنصر السريع"
+"ui.hints.sideNotifications.items.weaponToggling.controls1.action","Cycle Main Hand Item","تبديل سلاح اليد الرئيسية"
 "ui.hints.sideNotifications.items.weaponToggling.controls1.binding","[rhswap]","[rhswap]"
-"ui.hints.sideNotifications.items.weaponToggling.controls2.action","Cycle Off Hand Item","Cycle Off Hand Item"
+"ui.hints.sideNotifications.items.weaponToggling.controls2.action","Cycle Off Hand Item","تبديل سلاح اليد الثانوية"
 "ui.hints.sideNotifications.items.weaponToggling.controls2.binding","[lhswap]","[lhswap]"
-"ui.hints.sideNotifications.items.weaponToggling.description","You can <color=#F2E6BD>cycle</color> a selected item slot.","You can <color=#F2E6BD>cycle</color> a selected item slot."
-"ui.hints.sideNotifications.shipTutorial.alliesAndEnemies.description","<color=lightblue>Allies</color> healthbars are <color=lightblue>blue</color>, whilst for <color=#FF2D2D>Enemies</color>, they’re <color=#FF2D2D>red</color>.","<color=lightblue>Allies</color> healthbars are <color=lightblue>blue</color>, whilst for <color=#FF2D2D>Enemies</color>, they’re <color=#FF2D2D>red</color>."
-"ui.hints.sideNotifications.shipTutorial.clambering.description","<color=#F2E6BD>Hold</color> [run] and press against an object to <color=#F2E6BD>clamber up it</color>.","<color=#F2E6BD>Hold</color> [run] and press against an object to <color=#F2E6BD>clamber up it</color>."
-"ui.hints.sideNotifications.shipTutorial.climbing.controls1.action","Climb","Climb"
+"ui.hints.sideNotifications.items.weaponToggling.description","You can <color=#F2E6BD>cycle</color> a selected item slot.","يمكنك <color=#F2E6BD>التبديل</color> بين خانات العناصر المحددة."
+"ui.hints.sideNotifications.shipTutorial.alliesAndEnemies.description","<color=lightblue>Allies</color> healthbars are <color=lightblue>blue</color>, whilst for <color=#FF2D2D>Enemies</color>, they’re <color=#FF2D2D>red</color>.","أشرطة صحة <color=lightblue>الحلفاء</color> تكون <color=lightblue>زرقاء</color>، بينما أشرطة صحة <color=#FF2D2D>الأعداء</color> تكون <color=#FF2D2D>حمراء</color>."
+"ui.hints.sideNotifications.shipTutorial.clambering.description","<color=#F2E6BD>Hold</color> [run] and press against an object to <color=#F2E6BD>clamber up it</color>.","<color=#F2E6BD>استمر بالضغط على</color> [run] واندفع نحو حافة أو عائق <color=#F2E6BD>للتسلق فوقه</color>."
+"ui.hints.sideNotifications.shipTutorial.climbing.controls1.action","Climb","تسلق"
 "ui.hints.sideNotifications.shipTutorial.climbing.controls1.binding","[move]","[move]"
-"ui.hints.sideNotifications.shipTutorial.climbing.controls2.action","Climb Faster","Climb Faster"
-"ui.hints.sideNotifications.shipTutorial.climbing.controls2.binding","[run] <os>(Hold)</os>","[run] <os>(Hold)</os>"
-"ui.hints.sideNotifications.shipTutorial.climbing.description","Some surfaces like <color=#5B9968>ladders</color> or <color=#5B9968>vines</color> can be climbed.","Some surfaces like <color=#5B9968>ladders</color> or <color=#5B9968>vines</color> can be climbed."
-"ui.hints.sideNotifications.shipTutorial.climbing.title","Climbing","Climbing"
-"ui.hints.sideNotifications.shipTutorial.climbing2.description","Climbing surfaces like <color=#5B9968>vines</color> will <color=#F2E6BD>consume</color> [IconStamina]. If [IconNoStamina] runs out while climbing, you will fall.","Climbing surfaces like <color=#5B9968>vines</color> will <color=#F2E6BD>consume</color> [IconStamina]. If [IconNoStamina] runs out while climbing, you will fall."
-"ui.hints.sideNotifications.shipTutorial.destructibles.controls1.action","Attack","Attack"
+"ui.hints.sideNotifications.shipTutorial.climbing.controls2.action","Climb Faster","تسلق أسرع"
+"ui.hints.sideNotifications.shipTutorial.climbing.controls2.binding","[run] <os>(Hold)</os>","[run] <os>(استمرار)</os>"
+"ui.hints.sideNotifications.shipTutorial.climbing.description","Some surfaces like <color=#5B9968>ladders</color> or <color=#5B9968>vines</color> can be climbed.","يمكن تسلق بعض الأسطح مثل <color=#5B9968>السلالم</color> أو <color=#5B9968>نباتات اللبلاب</color>."
+"ui.hints.sideNotifications.shipTutorial.climbing.title","Climbing","التسلق"
+"ui.hints.sideNotifications.shipTutorial.climbing2.description","Climbing surfaces like <color=#5B9968>vines</color> will <color=#F2E6BD>consume</color> [IconStamina]. If [IconNoStamina] runs out while climbing, you will fall.","تسلق الأسطح مثل <color=#5B9968>نباتات اللبلاب</color> <color=#F2E6BD>يستهلك</color> [IconStamina]. إذا نفد [IconNoStamina] أثناء التسلق، فسوف تسقط."
+"ui.hints.sideNotifications.shipTutorial.destructibles.controls1.action","Attack","هجوم"
 "ui.hints.sideNotifications.shipTutorial.destructibles.controls1.binding","[attack]","[attack]"
 "ui.hints.sideNotifications.shipTutorial.destructibles.description","Certain objects are <color=#F2E6BD>breakable</color>.
 
-They may reveal hidden <color=#F2E6BD>loot</color> or <color=#F2E6BD>paths</color> when destroyed.","Certain objects are <color=#F2E6BD>breakable</color>.
+They may reveal hidden <color=#F2E6BD>loot</color> or <color=#F2E6BD>paths</color> when destroyed.","بعض الأجسام <color=#F2E6BD>قابلة للكسر</color>.
 
-They may reveal hidden <color=#F2E6BD>loot</color> or <color=#F2E6BD>paths</color> when destroyed."
-"ui.hints.sideNotifications.shipTutorial.destructibles.title","Destructibles","Destructibles"
-"ui.hints.sideNotifications.shipTutorial.food.controls1.action","Eat Food","Eat Food"
+قد تكشف عن <color=#F2E6BD>غنائم</color> أو <color=#F2E6BD>مسارات</color> مخفية عند تدميرها."
+"ui.hints.sideNotifications.shipTutorial.destructibles.title","Destructibles","الأجسام القابلة للكسر"
+"ui.hints.sideNotifications.shipTutorial.food.controls1.action","Eat Food","تناول الطعام"
 "ui.hints.sideNotifications.shipTutorial.food.controls1.binding","[heal]","[heal]"
-"ui.hints.sideNotifications.shipTutorial.food.description","You've obtained <color=#5B9968>Food</color>! Eating food typically restores [IconHealth], but some may provide <color=#F2E6BD>temporary buffs</color> instead.","You've obtained <color=#5B9968>Food</color>! Eating food typically restores [IconHealth], but some may provide <color=#F2E6BD>temporary buffs</color> instead."
-"ui.hints.sideNotifications.shipTutorial.food.title","Food","Food"
+"ui.hints.sideNotifications.shipTutorial.food.description","You've obtained <color=#5B9968>Food</color>! Eating food typically restores [IconHealth], but some may provide <color=#F2E6BD>temporary buffs</color> instead.","لقد حصلت على <color=#5B9968>طعام</color>! تناول الطعام يستعيد عادةً [IconHealth]، ولكن بعض الأطعمة قد تمنح <color=#F2E6BD>تأثيرات إيجابية مؤقتة</color> بدلاً من ذلك."
+"ui.hints.sideNotifications.shipTutorial.food.title","Food","الطعام"
 "ui.hints.sideNotifications.shipTutorial.offHandItem.description","You've obtained an <color=#5B9968>off hand</color> item!
-Equip it to your off-hand via the <color=#F2E6BD>Inventory</color>.","You've obtained an <color=#5B9968>off hand</color> item!
-Equip it to your off-hand via the <color=#F2E6BD>Inventory</color>."
-"ui.hints.sideNotifications.shipTutorial.offHandItem.title","Off Hand Items","Off Hand Items"
-"ui.hints.sideNotifications.shipTutorial.quickItem.controls1.action","Use Quick Item","Use Quick Item"
+Equip it to your off-hand via the <color=#F2E6BD>Inventory</color>.","لقد حصلت على عنصر <color=#5B9968>يد ثانوية</color>!
+جهّزه في يدك الثانوية من خلال <color=#F2E6BD>المخزون</color>."
+"ui.hints.sideNotifications.shipTutorial.offHandItem.title","Off Hand Items","عناصر اليد الثانوية"
+"ui.hints.sideNotifications.shipTutorial.quickItem.controls1.action","Use Quick Item","استخدام عنصر سريع"
 "ui.hints.sideNotifications.shipTutorial.quickItem.controls1.binding","[quickitem]","[quickitem]"
-"ui.hints.sideNotifications.shipTutorial.quickItem.description","You've obtained a <color=#5B9968>quick item</color>! Quick Items provide various <color=#F2E6BD>useful buffs</color>.","You've obtained a <color=#5B9968>quick item</color>! Quick Items provide various <color=#F2E6BD>useful buffs</color>."
-"ui.hints.sideNotifications.shipTutorial.quickItem.title","Quick Item","Quick Item"
-"ui.hints.sideNotifications.shipTutorial.sidling.description","Approach the wall next to the door and <color=#F2E6BD>press</color> [interact] to <color=#F2E6BD>sidle along the wall</color>.","Approach the wall next to the door and <color=#F2E6BD>press</color> [interact] to <color=#F2E6BD>sidle along the wall</color>."
-"ui.hints.sideNotifications.shipTutorial.sprintattack.controls1.action","Combo Attack","Combo Attack"
-"ui.hints.sideNotifications.shipTutorial.sprintattack.controls1.binding","[run] <s><o>(Tap</o> or <o>Hold)</o></s> + [attack]","[run] <s><o>(Tap</o> or <o>Hold)</o></s> + [attack]"
-"ui.hints.sideNotifications.shipTutorial.sprintattack.description","[run] <color=#F2E6BD>Sprint</color> or [dodge] <color=#F2E6BD>Dodge</color> and <color=#F2E6BD>press</color> [attack] to perform a <color=#F2E6BD>Combo Attack</color>. Sprinting in combat <color=#F2E6BD>consumes</color> [IconStamina].","[run] <color=#F2E6BD>Sprint</color> or [dodge] <color=#F2E6BD>Dodge</color> and <color=#F2E6BD>press</color> [attack] to perform a <color=#F2E6BD>Combo Attack</color>. Sprinting in combat <color=#F2E6BD>consumes</color> [IconStamina]."
-"ui.hints.sideNotifications.shipTutorial.sprinting.description","You can <color=#F2E6BD>Sprint</color> by <color=#F2E6BD>holding</color> [run].","You can <color=#F2E6BD>Sprint</color> by <color=#F2E6BD>holding</color> [run]."
-"ui.hints.sideNotifications.shipTutorial.sprinting.title","Sprinting","Sprinting"
+"ui.hints.sideNotifications.shipTutorial.quickItem.description","You've obtained a <color=#5B9968>quick item</color>! Quick Items provide various <color=#F2E6BD>useful buffs</color>.","لقد حصلت على <color=#5B9968>عنصر سريع</color>! توفر العناصر السريعة العديد من <color=#F2E6BD>التأثيرات الإيجابية المفيدة</color>."
+"ui.hints.sideNotifications.shipTutorial.quickItem.title","Quick Item","عنصر سريع"
+"ui.hints.sideNotifications.shipTutorial.sidling.description","Approach the wall next to the door and <color=#F2E6BD>press</color> [interact] to <color=#F2E6BD>sidle along the wall</color>.","اقترب من الجدار المجاور للباب و<color=#F2E6BD>اضغط على</color> [interact] <color=#F2E6BD>للمحاذاة والتحرك بحذر بمحاذاة الجدار</color>."
+"ui.hints.sideNotifications.shipTutorial.sprintattack.controls1.action","Combo Attack","هجوم متتابع"
+"ui.hints.sideNotifications.shipTutorial.sprintattack.controls1.binding","[run] <s><o>(Tap</o> or <o>Hold)</o></s> + [attack]","[run] <s><o>(نقر</o> أو <o>استمرار)</o></s> + [attack]"
+"ui.hints.sideNotifications.shipTutorial.sprintattack.description","[run] <color=#F2E6BD>Sprint</color> or [dodge] <color=#F2E6BD>Dodge</color> and <color=#F2E6BD>press</color> [attack] to perform a <color=#F2E6BD>Combo Attack</color>. Sprinting in combat <color=#F2E6BD>consumes</color> [IconStamina].","[run] <color=#F2E6BD>اركض</color> أو [dodge] <color=#F2E6BD>تفادَ</color> و<color=#F2E6BD>اضغط على</color> [attack] لتنفيذ <color=#F2E6BD>هجوم متتابع</color>. الركض أثناء القتال <color=#F2E6BD>يستهلك</color> [IconStamina]."
+"ui.hints.sideNotifications.shipTutorial.sprinting.description","You can <color=#F2E6BD>Sprint</color> by <color=#F2E6BD>holding</color> [run].","يمكنك <color=#F2E6BD>الركض</color> عن طريق <color=#F2E6BD>الضغط مطولاً على</color> [run]."
+"ui.hints.sideNotifications.shipTutorial.sprinting.title","Sprinting","الركض"
 "ui.hints.sideNotifications.ui.firstEnchantScreen.enchanting.description","<indent=2%><line-indent=-2%><color=#F2E6BD>Enchant</color> - Transform <color=#808080>Common</color> gear into either a <color=#558CAC>Rare</color> or <color=#B19CEE>Plagued</color> item.
 
 <color=#F2E6BD>Infuse</color> - Socket Gems into empty slots to apply specific enchantments.
 
-<color=#F2E6BD>Add</color> or <color=#F2E6BD>Extract Runes</color> - Modify a weapon’s Runes. Extracting will <color=#F2E6BD>sacrifice</color> the weapon.</line-indent></indent>","<indent=2%><line-indent=-2%><color=#F2E6BD>Enchant</color> - Transform <color=#808080>Common</color> gear into either a <color=#558CAC>Rare</color> or <color=#B19CEE>Plagued</color> item.
+<color=#F2E6BD>Add</color> or <color=#F2E6BD>Extract Runes</color> - Modify a weapon’s Runes. Extracting will <color=#F2E6BD>sacrifice</color> the weapon.</line-indent></indent>","<indent=2%><line-indent=-2%><color=#F2E6BD>التعزيز السحري</color> - تحويل العتاد <color=#808080>الشائع</color> إلى عنصر إما <color=#558CAC>نادر</color> أو <color=#B19CEE>موبوء</color>.
 
-<color=#F2E6BD>Infuse</color> - Socket Gems into empty slots to apply specific enchantments.
+<color=#F2E6BD>التضمين</color> - تركيب الجواهر في الخانات الفارغة لتطبيق تعزيزات سحرية محددة.
 
-<color=#F2E6BD>Add</color> or <color=#F2E6BD>Extract Runes</color> - Modify a weapon’s Runes. Extracting will <color=#F2E6BD>sacrifice</color> the weapon.</line-indent></indent>"
-"ui.hints.sideNotifications.ui.inventoryTabs.controls1.action","Change Tabs","Change Tabs"
-"ui.hints.sideNotifications.ui.inventoryTabs.controls1.binding","[ui_previousfilter] <s>or</s> [ui_nextfilter]","[ui_previousfilter] <s>or</s> [ui_nextfilter]"
-"ui.hints.sideNotifications.ui.inventoryTabs.description","Your <color=#F2E6BD>Inventory</color> is comprised of tabs: <color=#F2E6BD>Gear</color>, <color=#F2E6BD>Usables</color>, <color=#F2E6BD>Resources</color>, <color=#F2E6BD>Misc</color> and <color=#F2E6BD>Realm</color>.","Your <color=#F2E6BD>Inventory</color> is comprised of tabs: <color=#F2E6BD>Gear</color>, <color=#F2E6BD>Usables</color>, <color=#F2E6BD>Resources</color>, <color=#F2E6BD>Misc</color> and <color=#F2E6BD>Realm</color>."
-"ui.hints.sideNotifications.ui.unmetRequirements.description","An item’s <color=#F2E6BD>effectiveness</color> is <color=#FF2D2D>reduced</color> as its <color=#F2E6BD>attribute requirements</color> are unmet.","An item’s <color=#F2E6BD>effectiveness</color> is <color=#FF2D2D>reduced</color> as its <color=#F2E6BD>attribute requirements</color> are unmet."
-"ui.hints.systems.fishingInteractingHint","Press [interact] when a fish bites, to reel it in.","Press [interact] when a fish bites, to reel it in."
-"ui.hints.systems.hintBeginPlaceItemFail","You <color=#F2E6BD>can not place an item here</color>.","You <color=#F2E6BD>can not place an item here</color>."
-"ui.hints.systems.hintEquipGearFirstTimeNotUsed","You can equip <color=#F2E6BD>[NEW_EQUIPMENT_TYPE]</color> through the <color=#F2E6BD>Inventory</color>.","You can equip <color=#F2E6BD>[NEW_EQUIPMENT_TYPE]</color> through the <color=#F2E6BD>Inventory</color>."
-"ui.hints.systems.hintFirstTimeLevelUp","You've <color=#F2E6BD>gained a level</color>. Open the <color=#F2E6BD>Status Menu</color> to assign your <color=#F2E6BD>attribute points</color>.","You've <color=#F2E6BD>gained a level</color>. Open the <color=#F2E6BD>Status Menu</color> to assign your <color=#F2E6BD>attribute points</color>."
-"ui.hints.systems.hintGearBroken","Your equipment has <color=#F2E6BD>broken</color>. Visit a <color=#F2E6BD>blacksmith</color> to repair it.","Your equipment has <color=#F2E6BD>broken</color>. Visit a <color=#F2E6BD>blacksmith</color> to repair it."
-"ui.hints.systems.hintHardcoreDeath","Hardcore character has died, hold [interact] to <color=#F2E6BD>exit to main menu</color>.","Hardcore character has died, hold [interact] to <color=#F2E6BD>exit to main menu</color>."
-"ui.hints.systems.hintHouseBuyFail","You don't have <color=#F2E6BD>enough money</color> to buy this house.","You don't have <color=#F2E6BD>enough money</color> to buy this house."
-"ui.hints.systems.hintHouseBuyFailLimitReached","You can only <color=#F2E6BD>own one house</color> at a time.","You can only <color=#F2E6BD>own one house</color> at a time."
-"ui.hints.systems.hintHouseBuySuccess","You have <color=#F2E6BD>purchased this house</color>.","You have <color=#F2E6BD>purchased this house</color>."
-"ui.hints.systems.hintHouseSellSuccess","You have <color=#F2E6BD>sold this house</color>.","You have <color=#F2E6BD>sold this house</color>."
-"ui.hints.systems.hintNotEnoughRoomInFoodBag","Your food bag and inventory are <color=#F2E6BD>already full</color>.","Your food bag and inventory are <color=#F2E6BD>already full</color>."
-"ui.hints.systems.hintNotEnoughRoomInInventory","Not <color=#F2E6BD>enough space</color> in your {} inventory.","Not <color=#F2E6BD>enough space</color> in your {} inventory."
-"ui.hints.systems.hintOpenMap","Over your journey, you’ll uncover more of Isola Sacra in your <color=#F2E6BD>map</color>.","Over your journey, you’ll uncover more of Isola Sacra in your <color=#F2E6BD>map</color>."
-"ui.hints.systems.hintOverEncumbered","You are <color=#F2E6BD>encumbered</color>.","You are <color=#F2E6BD>encumbered</color>."
-"ui.hints.systems.hintPlayerInteractFailMenu","Other player is <color=#F2E6BD>in a menu</color> and cannot be interacted with.","Other player is <color=#F2E6BD>in a menu</color> and cannot be interacted with."
-"ui.hints.systems.hintRespawn","Hold [interact] to respawn at a <color=#F2E6BD>Whisper</color>.","Hold [interact] to respawn at a <color=#F2E6BD>Whisper</color>."
-"ui.hints.systems.hintRespawnBossFight","Wait for another player to revive you or for the boss to be defeated.","Wait for another player to revive you or for the boss to be defeated."
-"ui.hints.systems.hintRespawnDroppedBag","You have <color=#F2E6BD>lost your inventory</color>. Press [select] <color=#F2E6BD>to locate your inventory bag</color>.","You have <color=#F2E6BD>lost your inventory</color>. Press [select] <color=#F2E6BD>to locate your inventory bag</color>."
-"ui.hints.systems.hintSnapModeOff","Snapping Off","Snapping Off"
-"ui.hints.systems.hintSnapModeOn","Snapping On","Snapping On"
-"ui.hints.systems.hintStructureMode","<color=#F2E6BD>Structure Mode:</color> [rotate_furniture] Rotate   [lockdirection] Lock direction   [interact] Place   [rstickpress] {0}   [cancel_furniture] Cancel","<color=#F2E6BD>Structure Mode:</color> [rotate_furniture] Rotate   [lockdirection] Lock direction   [interact] Place   [rstickpress] {0}   [cancel_furniture] Cancel"
-"ui.hints.systems.hintToolBroke","Your {} <color=#F2E6BD>shattered.</color>","Your {} <color=#F2E6BD>shattered.</color>"
-"ui.hints.systems.hintToolRequired","Requires <color=#F2E6BD>{0}</color>.","Requires <color=#F2E6BD>{0}</color>."
-"ui.hints.systems.hintWeightClassChange","Your <color=#F2E6BD>Weight Class</color> changed to <color=#F2E6BD>{0}</color>.","Your <color=#F2E6BD>Weight Class</color> changed to <color=#F2E6BD>{0}</color>."
-"ui.hints.systems.levelingUp","Level Up","Level Up"
-"ui.hints.systems.maxFurnitureReached","Furniture limit for this house reached.","Furniture limit for this house reached."
-"ui.hints.systems.questReward","Quest Reward","Quest Reward"
-"ui.hints.systems.tutorialTutorialHidden","<color=red>Tutorial hidden</color> while in combat.","<color=red>Tutorial hidden</color> while in combat."
+<color=#F2E6BD>إضافة</color> أو <color=#F2E6BD>استخراج الرون</color> - تعديل رون السلاح. استخراج الرون سيؤدي إلى <color=#F2E6BD>التضحية</color> بالسلاح.</line-indent></indent>"
+"ui.hints.sideNotifications.ui.inventoryTabs.controls1.action","Change Tabs","تبديل علامات التبويب"
+"ui.hints.sideNotifications.ui.inventoryTabs.controls1.binding","[ui_previousfilter] <s>or</s> [ui_nextfilter]","[ui_previousfilter] <s>أو</s> [ui_nextfilter]"
+"ui.hints.sideNotifications.ui.inventoryTabs.description","Your <color=#F2E6BD>Inventory</color> is comprised of tabs: <color=#F2E6BD>Gear</color>, <color=#F2E6BD>Usables</color>, <color=#F2E6BD>Resources</color>, <color=#F2E6BD>Misc</color> and <color=#F2E6BD>Realm</color>.","يتألف <color=#F2E6BD>المخزون</color> لديك من علامات تبويب: <color=#F2E6BD>العتاد</color>، <color=#F2E6BD>المستهلكات</color>، <color=#F2E6BD>المصادر</color>، <color=#F2E6BD>متنوعات</color> و<color=#F2E6BD>العالم</color>."
+"ui.hints.sideNotifications.ui.unmetRequirements.description","An item’s <color=#F2E6BD>effectiveness</color> is <color=#FF2D2D>reduced</color> as its <color=#F2E6BD>attribute requirements</color> are unmet.","تنخفض <color=#F2E6BD>فعالية</color> العنصر عندما <color=#FF2D2D>لا تُستوفى</color> <color=#F2E6BD>متطلبات سماته</color>."
+"ui.hints.systems.fishingInteractingHint","Press [interact] when a fish bites, to reel it in.","اضغط على [interact] عندما تقضم سمكة الطُعم لسحبها."
+"ui.hints.systems.hintBeginPlaceItemFail","You <color=#F2E6BD>can not place an item here</color>.","<color=#F2E6BD>لا يمكنك وضع عنصر هنا</color>."
+"ui.hints.systems.hintEquipGearFirstTimeNotUsed","You can equip <color=#F2E6BD>[NEW_EQUIPMENT_TYPE]</color> through the <color=#F2E6BD>Inventory</color>.","يمكنك تجهيز <color=#F2E6BD>[NEW_EQUIPMENT_TYPE]</color> من خلال <color=#F2E6BD>المخزون</color>."
+"ui.hints.systems.hintFirstTimeLevelUp","You've <color=#F2E6BD>gained a level</color>. Open the <color=#F2E6BD>Status Menu</color> to assign your <color=#F2E6BD>attribute points</color>.","لقد <color=#F2E6BD>ارتقيت في المستوى</color>. افتح <color=#F2E6BD>قائمة الحالة</color> لتوزيع <color=#F2E6BD>نقاط السمات</color> الخاصة بك."
+"ui.hints.systems.hintGearBroken","Your equipment has <color=#F2E6BD>broken</color>. Visit a <color=#F2E6BD>blacksmith</color> to repair it.","لقد <color=#F2E6BD>انكسر</color> عتادك. قم بزيارة <color=#F2E6BD>الحداد</color> لإصلاحه."
+"ui.hints.systems.hintHardcoreDeath","Hardcore character has died, hold [interact] to <color=#F2E6BD>exit to main menu</color>.","ماتت شخصية النمط الصارم، استمر بالضغط على [interact] <color=#F2E6BD>للخروج إلى القائمة الرئيسية</color>."
+"ui.hints.systems.hintHouseBuyFail","You don't have <color=#F2E6BD>enough money</color> to buy this house.","ليس لديك <color=#F2E6BD>ما يكفي من المال</color> لشراء هذا المنزل."
+"ui.hints.systems.hintHouseBuyFailLimitReached","You can only <color=#F2E6BD>own one house</color> at a time.","يمكنك <color=#F2E6BD>امتلاك منزل واحد فقط</color> في كل مرة."
+"ui.hints.systems.hintHouseBuySuccess","You have <color=#F2E6BD>purchased this house</color>.","لقد <color=#F2E6BD>اشتريت هذا المنزل</color>."
+"ui.hints.systems.hintHouseSellSuccess","You have <color=#F2E6BD>sold this house</color>.","لقد <color=#F2E6BD>بعت هذا المنزل</color>."
+"ui.hints.systems.hintNotEnoughRoomInFoodBag","Your food bag and inventory are <color=#F2E6BD>already full</color>.","حقيبة الطعام والمخزون <color=#F2E6BD>ممتلئان بالفعل</color>."
+"ui.hints.systems.hintNotEnoughRoomInInventory","Not <color=#F2E6BD>enough space</color> in your {} inventory.","لا توجد <color=#F2E6BD>مساحة كافية</color> في مخزون {} لديك."
+"ui.hints.systems.hintOpenMap","Over your journey, you’ll uncover more of Isola Sacra in your <color=#F2E6BD>map</color>.","خلال رحلتك، ستكشف المزيد عن إيزولا ساكرا في <color=#F2E6BD>الخريطة</color>."
+"ui.hints.systems.hintOverEncumbered","You are <color=#F2E6BD>encumbered</color>.","أنت <color=#F2E6BD>مثقل بالحمولة</color>."
+"ui.hints.systems.hintPlayerInteractFailMenu","Other player is <color=#F2E6BD>in a menu</color> and cannot be interacted with.","اللاعب الآخر <color=#F2E6BD>داخل قائمة</color> ولا يمكن التفاعل معه الآن."
+"ui.hints.systems.hintRespawn","Hold [interact] to respawn at a <color=#F2E6BD>Whisper</color>.","استمر بالضغط على [interact] لمعاودة الظهور عند <color=#F2E6BD>الهمسة</color>."
+"ui.hints.systems.hintRespawnBossFight","Wait for another player to revive you or for the boss to be defeated.","انتظر حتى يقوم لاعب آخر بإنعاشك أو حتى تتم هزيمة الزعيم."
+"ui.hints.systems.hintRespawnDroppedBag","You have <color=#F2E6BD>lost your inventory</color>. Press [select] <color=#F2E6BD>to locate your inventory bag</color>.","لقد <color=#F2E6BD>فقدت مخزونك</color>. اضغط على [select] <color=#F2E6BD>لتحديد موقع حقيبة مخزونك</color>."
+"ui.hints.systems.hintSnapModeOff","Snapping Off","إيقاف المحاذاة التلقائية"
+"ui.hints.systems.hintSnapModeOn","Snapping On","تشغيل المحاذاة التلقائية"
+"ui.hints.systems.hintStructureMode","<color=#F2E6BD>Structure Mode:</color> [rotate_furniture] Rotate   [lockdirection] Lock direction   [interact] Place   [rstickpress] {0}   [cancel_furniture] Cancel","<color=#F2E6BD>نمط البناء:</color> [rotate_furniture] تدوير   [lockdirection] قفل الاتجاه   [interact] وضع   [rstickpress] {0}   [cancel_furniture] إلغاء"
+"ui.hints.systems.hintToolBroke","Your {} <color=#F2E6BD>shattered.</color>","لقد <color=#F2E6BD>تحطمت</color> {}."
+"ui.hints.systems.hintToolRequired","Requires <color=#F2E6BD>{0}</color>.","يتطلب <color=#F2E6BD>{0}</color>."
+"ui.hints.systems.hintWeightClassChange","Your <color=#F2E6BD>Weight Class</color> changed to <color=#F2E6BD>{0}</color>.","تغيرت <color=#F2E6BD>فئة الوزن</color> لديك إلى <color=#F2E6BD>{0}</color>."
+"ui.hints.systems.levelingUp","Level Up","ترقية المستوى"
+"ui.hints.systems.maxFurnitureReached","Furniture limit for this house reached.","تم الوصول إلى الحد الأقصى للأثاث في هذا المنزل."
+"ui.hints.systems.questReward","Quest Reward","مكافأة المهمة"
+"ui.hints.systems.tutorialTutorialHidden","<color=red>Tutorial hidden</color> while in combat.","<color=red>تم إخفاء البرنامج التعليمي</color> أثناء القتال."
 "ui.hints.tutorial.combat.tutorialFocusRunes.description","Spend gained [IconFocus] by unleashing your weapons’ Runes!
 
 <color=#5B9968>Runes</color> are <color=#F2E6BD>powerful</color> special attacks <color=#F2E6BD>unique</color> to every weapon. 
 
-Ready a weapon to perform its Runes.","Spend gained [IconFocus] by unleashing your weapons’ Runes!
+Ready a weapon to perform its Runes.","أنفق [IconFocus] الذي اكتسبته بإطلاق رُون أسلحتك!
 
-<color=#5B9968>Runes</color> are <color=#F2E6BD>powerful</color> special attacks <color=#F2E6BD>unique</color> to every weapon. 
+<color=#5B9968>الرون</color> هي هجمات خاصة <color=#F2E6BD>قوية</color> <color=#F2E6BD>فريدة</color> لكل سلاح.
 
-Ready a weapon to perform its Runes."
+استعد بالسلاح لتنفيذ الرون الخاص به."
 "ui.hints.tutorial.combat.tutorialFocusRunes.descriptionalt","Spend gained [IconFocus] by unleashing your weapons’ Runes! 
 
 <color=#5B9968>Runes</color> are <color=#F2E6BD>powerful</color> special attacks <color=#F2E6BD>unique</color> to every weapon. 
 
-Select a weapons’ Rune to perform it.","Spend gained [IconFocus] by unleashing your weapons’ Runes! 
+Select a weapons’ Rune to perform it.","أنفق [IconFocus] الذي اكتسبته بإطلاق رُون أسلحتك!
 
-<color=#5B9968>Runes</color> are <color=#F2E6BD>powerful</color> special attacks <color=#F2E6BD>unique</color> to every weapon. 
+<color=#5B9968>الرون</color> هي هجمات خاصة <color=#F2E6BD>قوية</color> <color=#F2E6BD>فريدة</color> لكل سلاح.
 
-Select a weapons’ Rune to perform it."
-"ui.hints.tutorial.combat.tutorialParry.title","Parry","Parry"
-"ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.controls1.action","Parry","Parry"
+اختر رون السلاح لتنفيذه."
+"ui.hints.tutorial.combat.tutorialParry.title","Parry","الصد المتقن"
+"ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.controls1.action","Parry","صد متقن"
 "ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.controls1.binding","[parry]","[parry]"
 "ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.description","<color=#F2E6BD>Stagger</color> an enemy to briefly lower their guard.
 
@@ -865,99 +865,99 @@ Once full, the enemy is <color=#F2E6BD>staggered</color>.
 Alternatively, [parry] <color=#F2E6BD>Parry</color> just before an enemy attack lands to instantly <color=#F2E6BD>stagger</color> them.
 
 
-<color=#808080>Show the Poise Meter via the Settings Menu</color>","<color=#F2E6BD>Stagger</color> an enemy to briefly lower their guard.
+<color=#808080>Show the Poise Meter via the Settings Menu</color>","قم <color=#F2E6BD>بترنيح</color> العدو لخفض دفاعه لفترة وجيزة.
 
-Weapons deal [IconPoise] <color=#F2E6BD>Poise Damage</color>, increasing the white <color=#F2E6BD>Poise Meter</color> above an enemy.
-Once full, the enemy is <color=#F2E6BD>staggered</color>.
+تُلحق الأسلحة [IconPoise] <color=#F2E6BD>ضرر توازن</color>، مما يزيد من <color=#F2E6BD>مقياس التوازن</color> الأبيض فوق رأس العدو.
+بمجرد امتلائه، يُصاب العدو <color=#F2E6BD>بالترنح</color>.
 
-Alternatively, [parry] <color=#F2E6BD>Parry</color> just before an enemy attack lands to instantly <color=#F2E6BD>stagger</color> them.
+بدلاً من ذلك، نفّذ [parry] <color=#F2E6BD>صداً متقناً</color> قبل وصول هجوم العدو مباشرة من أجل <color=#F2E6BD>ترنيحه</color> فوراً.
 
 
-<color=#808080>Show the Poise Meter via the Settings Menu</color>"
-"ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.hint","[parry] Parry","[parry] Parry"
-"ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.title","Enemy Vulnerability","Enemy Vulnerability"
-"ui.hints.tutorial.shipTutorial.tutorialBackstab.controls1.action","Backstab Attack","Backstab Attack"
+<color=#808080>أظهر مقياس التوازن من خلال قائمة الإعدادات</color>"
+"ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.hint","[parry] Parry","[parry] صد متقن"
+"ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.title","Enemy Vulnerability","قتال متقدم"
+"ui.hints.tutorial.shipTutorial.tutorialBackstab.controls1.action","Backstab Attack","طعنة من الخلف"
 "ui.hints.tutorial.shipTutorial.tutorialBackstab.controls1.binding","[IconSkull] + [attack]","[IconSkull] + [attack]"
-"ui.hints.tutorial.shipTutorial.tutorialBackstab.controls2.action","Sneak","Sneak"
+"ui.hints.tutorial.shipTutorial.tutorialBackstab.controls2.action","Sneak","تسلل"
 "ui.hints.tutorial.shipTutorial.tutorialBackstab.controls2.binding","[sneak]","[sneak]"
 "ui.hints.tutorial.shipTutorial.tutorialBackstab.description","Sometimes you can use the element of surprise on enemies.
 
 Approach enemies <color=#F2E6BD>from behind</color> to reveal a [IconSkull], then <color=#F2E6BD>press</color> [attack] to perform a <color=#F2E6BD>Backstab Attack</color>.
 
-[sneak] <color=#F2E6BD>Sneak</color> to reduce the chance of detection.","Sometimes you can use the element of surprise on enemies.
+[sneak] <color=#F2E6BD>Sneak</color> to reduce the chance of detection.","في بعض الأحيان يمكنك استخدام عنصر المفاجأة ضد الأعداء.
 
-Approach enemies <color=#F2E6BD>from behind</color> to reveal a [IconSkull], then <color=#F2E6BD>press</color> [attack] to perform a <color=#F2E6BD>Backstab Attack</color>.
+اقترب من الأعداء <color=#F2E6BD>من الخلف</color> لإظهار [IconSkull]، ثم <color=#F2E6BD>اضغط على</color> [attack] لتنفيذ <color=#F2E6BD>طعنة من الخلف</color>.
 
-[sneak] <color=#F2E6BD>Sneak</color> to reduce the chance of detection."
-"ui.hints.tutorial.shipTutorial.tutorialBackstab.title","Backstab","Backstab"
-"ui.hints.tutorial.shipTutorial.tutorialCombatBasics.controls1.action","Attack","Attack"
+[sneak] <color=#F2E6BD>تسلل</color> لتقليل فرصة اكتشافك."
+"ui.hints.tutorial.shipTutorial.tutorialBackstab.title","Backstab","الطعن من الخلف"
+"ui.hints.tutorial.shipTutorial.tutorialCombatBasics.controls1.action","Attack","هجوم"
 "ui.hints.tutorial.shipTutorial.tutorialCombatBasics.controls1.binding","[attack]","[attack]"
-"ui.hints.tutorial.shipTutorial.tutorialCombatBasics.controls2.action","Charged Attack","Charged Attack"
-"ui.hints.tutorial.shipTutorial.tutorialCombatBasics.controls2.binding","[attack] <os>(Hold)</os>","[attack] <os>(Hold)</os>"
-"ui.hints.tutorial.shipTutorial.tutorialCombatBasics.controls3.action","Dodge","Dodge"
+"ui.hints.tutorial.shipTutorial.tutorialCombatBasics.controls2.action","Charged Attack","هجوم مشحون"
+"ui.hints.tutorial.shipTutorial.tutorialCombatBasics.controls2.binding","[attack] <os>(Hold)</os>","[attack] <os>(استمرار)</os>"
+"ui.hints.tutorial.shipTutorial.tutorialCombatBasics.controls3.action","Dodge","تفادٍ"
 "ui.hints.tutorial.shipTutorial.tutorialCombatBasics.controls3.binding","[dodge]","[dodge]"
 "ui.hints.tutorial.shipTutorial.tutorialCombatBasics.description","<color=#F2E6BD>Attack</color> enemies with [attack]. Deal bonus damage by <color=#F2E6BD>holding</color> [attack] for a <color=#F2E6BD>Charged Attack</color>.
 
 Evade attacks by <color=#F2E6BD>tapping</color> [dodge] <color=#F2E6BD>Dodge</color>.
 
 These actions <color=#F2E6BD>consume</color> [IconStamina].
-Without [IconNoStamina], you can’t attack or dodge.","<color=#F2E6BD>Attack</color> enemies with [attack]. Deal bonus damage by <color=#F2E6BD>holding</color> [attack] for a <color=#F2E6BD>Charged Attack</color>.
+Without [IconNoStamina], you can’t attack or dodge.","<color=#F2E6BD>هاجم</color> الأعداء باستخدام [attack]. ألحق ضرراً إضافياً عن طريق <color=#F2E6BD>الاستمرار بالضغط</color> على [attack] لتنفيذ <color=#F2E6BD>هجوم مشحون</color>.
 
-Evade attacks by <color=#F2E6BD>tapping</color> [dodge] <color=#F2E6BD>Dodge</color>.
+تجنب الهجمات عن طريق <color=#F2E6BD>النقر على</color> [dodge] <color=#F2E6BD>للتفادي</color>.
 
-These actions <color=#F2E6BD>consume</color> [IconStamina].
-Without [IconNoStamina], you can’t attack or dodge."
-"ui.hints.tutorial.shipTutorial.tutorialCombatBasics.hint","[attack] Attack  <color=#F2E6BD>(Hold)</color> [attack] Charged Attack   [dodge] Dodge","[attack] Attack  <color=#F2E6BD>(Hold)</color> [attack] Charged Attack   [dodge] Dodge"
-"ui.hints.tutorial.shipTutorial.tutorialCombatBasics.title","Combat Basics","Combat Basics"
-"ui.hints.tutorial.shipTutorial.tutorialIntermediateCombat.hint","<color=#F2E6BD>(Hold)</color> [ohspecial] Ready Shield","<color=#F2E6BD>(Hold)</color> [ohspecial] Ready Shield"
-"ui.hints.tutorial.shipTutorial.tutorialInventory.controls1.action","Open Menu Selector","Open Menu Selector"
+هذه الإجراءات <color=#F2E6BD>تستهلك</color> [IconStamina].
+من دون [IconNoStamina]، لن تتمكن من الهجوم أو التفادي."
+"ui.hints.tutorial.shipTutorial.tutorialCombatBasics.hint","[attack] Attack  <color=#F2E6BD>(Hold)</color> [attack] Charged Attack   [dodge] Dodge","[attack] هجوم  <color=#F2E6BD>(استمرار)</color> [attack] هجوم مشحون   [dodge] تفادٍ"
+"ui.hints.tutorial.shipTutorial.tutorialCombatBasics.title","Combat Basics","أساسيات القتال"
+"ui.hints.tutorial.shipTutorial.tutorialIntermediateCombat.hint","<color=#F2E6BD>(Hold)</color> [ohspecial] Ready Shield","<color=#F2E6BD>(استمرار)</color> [ohspecial] تجهيز الدرع"
+"ui.hints.tutorial.shipTutorial.tutorialInventory.controls1.action","Open Menu Selector","فتح محدد القائمة"
 "ui.hints.tutorial.shipTutorial.tutorialInventory.controls1.binding","[start]","[start]"
-"ui.hints.tutorial.shipTutorial.tutorialInventory.controls2.action","Inventory Shortcut","Inventory Shortcut"
-"ui.hints.tutorial.shipTutorial.tutorialInventory.controls2.binding","[inventory] <os>(Hold)</os>","[inventory] <os>(Hold)</os>"
+"ui.hints.tutorial.shipTutorial.tutorialInventory.controls2.action","Inventory Shortcut","اختصار المخزون"
+"ui.hints.tutorial.shipTutorial.tutorialInventory.controls2.binding","[inventory] <os>(Hold)</os>","[inventory] <os>(استمرار)</os>"
 "ui.hints.tutorial.shipTutorial.tutorialInventory.controls2.bindingalt","[toggle_inventory]","[toggle_inventory]"
 "ui.hints.tutorial.shipTutorial.tutorialInventory.description","You've obtained an equippable <color=#5B9968>item</color>! 
 Equip it from inside the <color=#F2E6BD>Inventory</color>.
 
 Open the <color=#F2E6BD>Inventory</color> by <color=#F2E6BD>holding</color> [start]
-or by using the [start] <color=#F2E6BD>Menu Selector</color>.","You've obtained an equippable <color=#5B9968>item</color>! 
-Equip it from inside the <color=#F2E6BD>Inventory</color>.
+or by using the [start] <color=#F2E6BD>Menu Selector</color>.","لقد حصلت على <color=#5B9968>عنصر</color> قابل للتجهيز!
+جهّزه من داخل <color=#F2E6BD>المخزون</color>.
 
-Open the <color=#F2E6BD>Inventory</color> by <color=#F2E6BD>holding</color> [start]
-or by using the [start] <color=#F2E6BD>Menu Selector</color>."
+افتح <color=#F2E6BD>المخزون</color> من خلال <color=#F2E6BD>الاستمرار بالضغط على</color> [start]
+أو باستخدام [start] <color=#F2E6BD>محدد القائمة</color>."
 "ui.hints.tutorial.shipTutorial.tutorialInventory.descriptionalt","You've obtained an equippable <color=#5B9968>item</color>! 
 Equip it from inside the <color=#F2E6BD>Inventory</color>.
 
 Open the <color=#F2E6BD>Inventory</color> by <color=#F2E6BD>pressing</color> [toggle_inventory]
-or by using the [start] <color=#F2E6BD>Menu Selector</color>.","You've obtained an equippable <color=#5B9968>item</color>! 
-Equip it from inside the <color=#F2E6BD>Inventory</color>.
+or by using the [start] <color=#F2E6BD>Menu Selector</color>.","لقد حصلت على <color=#5B9968>عنصر</color> قابل للتجهيز!
+جهّزه من داخل <color=#F2E6BD>المخزون</color>.
 
-Open the <color=#F2E6BD>Inventory</color> by <color=#F2E6BD>pressing</color> [toggle_inventory]
-or by using the [start] <color=#F2E6BD>Menu Selector</color>."
-"ui.hints.tutorial.shipTutorial.tutorialShields.controls1.action","Ready Shield","Ready Shield"
-"ui.hints.tutorial.shipTutorial.tutorialShields.controls1.binding","[ohspecial] <os>(Hold)</os>","[ohspecial] <os>(Hold)</os>"
+افتح <color=#F2E6BD>المخزون</color> عن طريق <color=#F2E6BD>الضغط على</color> [toggle_inventory]
+أو باستخدام [start] <color=#F2E6BD>محدد القائمة</color>."
+"ui.hints.tutorial.shipTutorial.tutorialShields.controls1.action","Ready Shield","تجهيز الدرع"
+"ui.hints.tutorial.shipTutorial.tutorialShields.controls1.binding","[ohspecial] <os>(Hold)</os>","[ohspecial] <os>(استمرار)</os>"
 "ui.hints.tutorial.shipTutorial.tutorialShields.description","[ohspecial] <color=#F2E6BD>Ready a Shield</color> to block enemy attacks and <color=#F2E6BD>reduce damage received</color>.
 
 Shields <color=#F2E6BD>consume</color> [IconStamina].
 
-If [IconNoStamina] runs out while blocking an attack, <color=#F2E6BD>your stance will be broken</color>.","[ohspecial] <color=#F2E6BD>Ready a Shield</color> to block enemy attacks and <color=#F2E6BD>reduce damage received</color>.
+If [IconNoStamina] runs out while blocking an attack, <color=#F2E6BD>your stance will be broken</color>.","[ohspecial] <color=#F2E6BD>جهّز الدرع</color> لصد هجمات العدو و<color=#F2E6BD>تقليل الضرر المتلقى</color>.
 
-Shields <color=#F2E6BD>consume</color> [IconStamina].
+الدروع <color=#F2E6BD>تستهلك</color> [IconStamina].
 
-If [IconNoStamina] runs out while blocking an attack, <color=#F2E6BD>your stance will be broken</color>."
-"ui.hints.tutorial.shipTutorial.tutorialShields.title","Shields","Shields"
-"ui.hints.tutorial.smart.focus.description","Remember to <color=#F2E6BD>spend</color> [IconFocus] by executing <color=#F2E6BD>Runes</color> imbued in your weapons.","Remember to <color=#F2E6BD>spend</color> [IconFocus] by executing <color=#F2E6BD>Runes</color> imbued in your weapons."
-"ui.hints.tutorial.smart.sprintattack.description","[run] <color=#F2E6BD>Sprint</color> or [dodge] <color=#F2E6BD>Dodge</color> and <color=#F2E6BD>press</color> [attack] to perform a <color=#F2E6BD>Combo Attack</color>.","[run] <color=#F2E6BD>Sprint</color> or [dodge] <color=#F2E6BD>Dodge</color> and <color=#F2E6BD>press</color> [attack] to perform a <color=#F2E6BD>Combo Attack</color>."
-"ui.hints.tutorial.smart.weightClass.controls1.action","Shoulder Barge","Shoulder Barge"
+إذا نفد [IconNoStamina] أثناء صد هجوم، <color=#F2E6BD>فسيتم كسر وضعيتك الدفاعية</color>."
+"ui.hints.tutorial.shipTutorial.tutorialShields.title","Shields","الدروع"
+"ui.hints.tutorial.smart.focus.description","Remember to <color=#F2E6BD>spend</color> [IconFocus] by executing <color=#F2E6BD>Runes</color> imbued in your weapons.","تذكر أن <color=#F2E6BD>تنفق</color> [IconFocus] عن طريق تنفيذ <color=#F2E6BD>الرون</color> المضمنة في أسلحتك."
+"ui.hints.tutorial.smart.sprintattack.description","[run] <color=#F2E6BD>Sprint</color> or [dodge] <color=#F2E6BD>Dodge</color> and <color=#F2E6BD>press</color> [attack] to perform a <color=#F2E6BD>Combo Attack</color>.","[run] <color=#F2E6BD>اركض</color> أو [dodge] <color=#F2E6BD>تفادَ</color> و<color=#F2E6BD>اضغط على</color> [attack] لتنفيذ <color=#F2E6BD>هجوم متتابع</color>."
+"ui.hints.tutorial.smart.weightClass.controls1.action","Shoulder Barge","دفعة بالكتف"
 "ui.hints.tutorial.smart.weightClass.controls1.binding","[ohspecial] + [mhspecial]","[ohspecial] + [mhspecial]"
 "ui.hints.tutorial.smart.weightClass.controls1.bindingalt","[key_shoulder_barge]","[key_shoulder_barge]"
-"ui.hints.tutorial.smart.weightClass.description","You can [ohspecial] + [mhspecial] <color=#F2E6BD>Shoulder Barge</color> while <color=#FF2D2D>Heavy</color> to briefly <color=#F2E6BD>stagger</color> enemies.","You can [ohspecial] + [mhspecial] <color=#F2E6BD>Shoulder Barge</color> while <color=#FF2D2D>Heavy</color> to briefly <color=#F2E6BD>stagger</color> enemies."
-"ui.hints.tutorial.smart.weightClass.descriptionalt","You can [key_shoulder_barge] <color=#F2E6BD>Shoulder Barge</color> while <color=#FF2D2D>Heavy</color> to briefly <color=#F2E6BD>stagger</color> enemies.","You can [key_shoulder_barge] <color=#F2E6BD>Shoulder Barge</color> while <color=#FF2D2D>Heavy</color> to briefly <color=#F2E6BD>stagger</color> enemies."
+"ui.hints.tutorial.smart.weightClass.description","You can [ohspecial] + [mhspecial] <color=#F2E6BD>Shoulder Barge</color> while <color=#FF2D2D>Heavy</color> to briefly <color=#F2E6BD>stagger</color> enemies.","يمكنك الضغط على [ohspecial] + [mhspecial] لتنفيذ <color=#F2E6BD>دفعة بالكتف</color> أثناء فئة الوزن <color=#FF2D2D>ثقيل</color> من أجل <color=#F2E6BD>ترنيح</color> الأعداء لفترة وجيزة."
+"ui.hints.tutorial.smart.weightClass.descriptionalt","You can [key_shoulder_barge] <color=#F2E6BD>Shoulder Barge</color> while <color=#FF2D2D>Heavy</color> to briefly <color=#F2E6BD>stagger</color> enemies.","يمكنك الضغط على [key_shoulder_barge] لتنفيذ <color=#F2E6BD>دفعة بالكتف</color> أثناء فئة الوزن <color=#FF2D2D>ثقيل</color> من أجل <color=#F2E6BD>ترنيح</color> الأعداء لفترة وجيزة."
 "ui.hints.tutorial.systems.tutorialExaltingItems.description","<color=#F2E6BD>Exalting</color> an item will raise its primary stats, and increase the benefits bestowed from any Enchantments.
 
-Exalting items is <color=#F2E6BD>permanent</color> and cannot be undone.","<color=#F2E6BD>Exalting</color> an item will raise its primary stats, and increase the benefits bestowed from any Enchantments.
+Exalting items is <color=#F2E6BD>permanent</color> and cannot be undone.","سيؤدي <color=#F2E6BD>تمجيد</color> العنصر إلى رفع إحصائياته الأساسية، وزيادة الفوائد الممنوحة من أي تعزيزات سحرية.
 
-Exalting items is <color=#F2E6BD>permanent</color> and cannot be undone."
-"ui.hints.tutorial.systems.tutorialExaltingItems.title","Exalting Items","Exalting Items"
+تمجيد العناصر <color=#F2E6BD>دائم</color> ولا يمكن التراجع عنه."
+"ui.hints.tutorial.systems.tutorialExaltingItems.title","Exalting Items","تمجيد العناصر"
 "ui.hints.tutorial.systems.tutorialWeightClass.description","<color=#F2E6BD>Weight Class</color> controls the <color=#F2E6BD>dodge</color> you perform.
 
 <color=#5B9968>Fast</color>: [dodge] Quickstep.
@@ -966,15 +966,15 @@ Exalting items is <color=#F2E6BD>permanent</color> and cannot be undone."
             with [ohspecial] + [mhspecial] <color=#F2E6BD>Shoulder Barge</color>.
 
 
-Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equipped items and  [IconEquipLoad].","<color=#F2E6BD>Weight Class</color> controls the <color=#F2E6BD>dodge</color> you perform.
+Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equipped items and  [IconEquipLoad].","تحدد <color=#F2E6BD>فئة الوزن</color> نوع حركة <color=#F2E6BD>التفادي</color> التي تنفذها.
 
-<color=#5B9968>Fast</color>: [dodge] Quickstep.
-<color=#F2E6BD>Normal</color>: [dodge] Roll.
-<color=#FF2D2D>Heavy</color>: [dodge] Slow Roll + Stagger Enemies
-            with [ohspecial] + [mhspecial] <color=#F2E6BD>Shoulder Barge</color>.
+<color=#5B9968>خفيف</color>: [dodge] خطوة سريعة.
+<color=#F2E6BD>متوسط</color>: [dodge] دحرجة.
+<color=#FF2D2D>ثقيل</color>: [dodge] دحرجة بطيئة + ترنيح الأعداء
+            باستخدام [ohspecial] + [mhspecial] <color=#F2E6BD>دفعة بالكتف</color>.
 
 
-Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equipped items and  [IconEquipLoad]."
+يتم تحديد فئة الوزن بواسطة <color=#F2E6BD>الوزن الإجمالي</color> للعتاد المجهز و [IconEquipLoad]."
 "ui.hints.tutorial.systems.tutorialWeightClass.descriptionalt","<color=#F2E6BD>Weight Class</color> controls the <color=#F2E6BD>dodge</color> you perform.
 
 <color=#5B9968>Fast</color>: [dodge] Quickstep.
@@ -983,36 +983,36 @@ Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equip
             with [key_shoulder_barge] <color=#F2E6BD>Shoulder Barge</color>.
 
 
-Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equipped items and  [IconEquipLoad].","<color=#F2E6BD>Weight Class</color> controls the <color=#F2E6BD>dodge</color> you perform.
+Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equipped items and  [IconEquipLoad].","تحدد <color=#F2E6BD>فئة الوزن</color> نوع حركة <color=#F2E6BD>التفادي</color> التي تنفذها.
 
-<color=#5B9968>Fast</color>: [dodge] Quickstep.
-<color=#F2E6BD>Normal</color>: [dodge] Roll.
-<color=#FF2D2D>Heavy</color>: [dodge] Slow Roll + Stagger Enemies
-            with [key_shoulder_barge] <color=#F2E6BD>Shoulder Barge</color>.
+<color=#5B9968>خفيف</color>: [dodge] خطوة سريعة.
+<color=#F2E6BD>متوسط</color>: [dodge] دحرجة.
+<color=#FF2D2D>ثقيل</color>: [dodge] دحرجة بطيئة + ترنيح الأعداء
+            باستخدام [key_shoulder_barge] <color=#F2E6BD>دفعة بالكتف</color>.
 
 
-Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equipped items and  [IconEquipLoad]."
-"ui.hints.vendors.hintEquipmentRepaired","You have <color=#F2E6BD>repaired your equipment</color>.","You have <color=#F2E6BD>repaired your equipment</color>."
-"ui.hints.vendors.hintItemCannotBeDestroyed","This item <color=#F2E6BD>can not be destroyed</color>.","This item <color=#F2E6BD>can not be destroyed</color>."
-"ui.hints.vendors.hintItemCannotBeSold","This item <color=#F2E6BD>can not be sold</color>.","This item <color=#F2E6BD>can not be sold</color>."
-"ui.hints.vendors.hintItemNotAvailable","You <color=#F2E6BD>can not buy</color> this.","You <color=#F2E6BD>can not buy</color> this."
-"ui.hints.vendors.hintItemNotEnoughGold","You need <color=#F2E6BD>more money</color> to purchase this.","You need <color=#F2E6BD>more money</color> to purchase this."
-"ui.hints.vendors.hintItemNotEnoughResources","You are <color=#F2E6BD>missing some resources</color>.","You are <color=#F2E6BD>missing some resources</color>."
-"ui.hints.vendors.hintItemSoldOut","This item is <color=#F2E6BD>sold out</color>.","This item is <color=#F2E6BD>sold out</color>."
-"ui.hints.vendors.hintPurchaseSuccess","Purchase <color=#F2E6BD>successful</color>.","Purchase <color=#F2E6BD>successful</color>."
-"ui.hints.worlds.doorGeneric","Press [interact] to <color=#F2E6BD>open the door</color>.","Press [interact] to <color=#F2E6BD>open the door</color>."
-"ui.hints.worlds.isolaSacra.mountainPass.mountainPassA.cerimChamberStatueInteractable","Press [interact] to examine the statue","Press [interact] to examine the statue"
-"ui.hints.worlds.isolaSacra.outskirts.potionSellerCave.ionasBloomInteractable","Press [interact] to touch Iona's Bloom","Press [interact] to touch Iona's Bloom"
-"ui.hints.worlds.sacrament.doorToCaroline","Press [interact] to <color=#F2E6BD>enter Caroline's Inn</color>.","Press [interact] to <color=#F2E6BD>enter Caroline's Inn</color>."
-"ui.hints.worlds.sacrament.doorToCerimCrypt","Press [interact] to <color=#F2E6BD>enter the stone mason's shop</color>.","Press [interact] to <color=#F2E6BD>enter the stone mason's shop</color>."
-"ui.hints.worlds.sacrament.doorToDanosStudy","Press [interact] to <color=#F2E6BD>enter Danos' Architecture Study</color>.","Press [interact] to <color=#F2E6BD>enter Danos' Architecture Study</color>."
-"ui.hints.worlds.sacrament.doorToEleanor","Press [interact] to <color=#F2E6BD>enter Eleanor's Enchantment Shop</color>.","Press [interact] to <color=#F2E6BD>enter Eleanor's Enchantment Shop</color>."
-"ui.hints.worlds.sacrament.doorToGordon","Press [interact] to <color=#F2E6BD>enter Gordon's Restaurant</color>.","Press [interact] to <color=#F2E6BD>enter Gordon's Restaurant</color>."
-"ui.hints.worlds.sacrament.doorToMiraAndMeri","Press [interact] to <color=#F2E6BD>enter Mirabelle and Meriweather's Sewing Hut</color>.","Press [interact] to <color=#F2E6BD>enter Mirabelle and Meriweather's Sewing Hut</color>."
-"ui.hints.worlds.sacrament.doorToRookeryLodgingsDownstairs","Press [interact] to <color=#F2E6BD>enter the Rookery Lodgings</color>.","Press [interact] to <color=#F2E6BD>enter the Rookery Lodgings</color>."
-"ui.hints.worlds.sacrament.doorToSacramentRookery","Press [interact] to <color=#F2E6BD>return to the Rookery</color>.","Press [interact] to <color=#F2E6BD>return to the Rookery</color>."
-"ui.hints.worlds.sacrament.doorToWarRoom","Press [interact] to <color=#F2E6BD>enter the War Room</color>.","Press [interact] to <color=#F2E6BD>enter the War Room</color>."
-"ui.hints.worlds.sacrament.doorToWhittacker","Press [interact] to <color=#F2E6BD>enter Whittacker's Crafting Shack</color>.","Press [interact] to <color=#F2E6BD>enter Whittacker's Crafting Shack</color>."
+يتم تحديد فئة الوزن بواسطة <color=#F2E6BD>الوزن الإجمالي</color> للعتاد المجهز و [IconEquipLoad]."
+"ui.hints.vendors.hintEquipmentRepaired","You have <color=#F2E6BD>repaired your equipment</color>.","لقد قمت <color=#F2E6BD>بإصلاح عتادك</color>."
+"ui.hints.vendors.hintItemCannotBeDestroyed","This item <color=#F2E6BD>can not be destroyed</color>.","هذا العنصر <color=#F2E6BD>لا يمكن تدميره</color>."
+"ui.hints.vendors.hintItemCannotBeSold","This item <color=#F2E6BD>can not be sold</color>.","هذا العنصر <color=#F2E6BD>لا يمكن بيعه</color>."
+"ui.hints.vendors.hintItemNotAvailable","You <color=#F2E6BD>can not buy</color> this.","<color=#F2E6BD>لا يمكنك شراء</color> هذا."
+"ui.hints.vendors.hintItemNotEnoughGold","You need <color=#F2E6BD>more money</color> to purchase this.","أنت بحاجة إلى <color=#F2E6BD>المزيد من المال</color> لشراء هذا."
+"ui.hints.vendors.hintItemNotEnoughResources","You are <color=#F2E6BD>missing some resources</color>.","تنقصك <color=#F2E6BD>بعض المصادر</color>."
+"ui.hints.vendors.hintItemSoldOut","This item is <color=#F2E6BD>sold out</color>.","هذا العنصر <color=#F2E6BD>نفد من المخزون</color>."
+"ui.hints.vendors.hintPurchaseSuccess","Purchase <color=#F2E6BD>successful</color>.","تم الشراء <color=#F2E6BD>بنجاح</color>."
+"ui.hints.worlds.doorGeneric","Press [interact] to <color=#F2E6BD>open the door</color>.","اضغط على [interact] <color=#F2E6BD>لفتح الباب</color>."
+"ui.hints.worlds.isolaSacra.mountainPass.mountainPassA.cerimChamberStatueInteractable","Press [interact] to examine the statue","اضغط على [interact] لفحص التمثال"
+"ui.hints.worlds.isolaSacra.outskirts.potionSellerCave.ionasBloomInteractable","Press [interact] to touch Iona's Bloom","اضغط على [interact] للمس إزهار أيونا"
+"ui.hints.worlds.sacrament.doorToCaroline","Press [interact] to <color=#F2E6BD>enter Caroline's Inn</color>.","اضغط على [interact] <color=#F2E6BD>لدخول نُزُل كارولاين</color>."
+"ui.hints.worlds.sacrament.doorToCerimCrypt","Press [interact] to <color=#F2E6BD>enter the stone mason's shop</color>.","اضغط على [interact] <color=#F2E6BD>لدخول متجر بنّاء الحجارة</color>."
+"ui.hints.worlds.sacrament.doorToDanosStudy","Press [interact] to <color=#F2E6BD>enter Danos' Architecture Study</color>.","اضغط على [interact] <color=#F2E6BD>لدخول مكتب دانوس المعماري</color>."
+"ui.hints.worlds.sacrament.doorToEleanor","Press [interact] to <color=#F2E6BD>enter Eleanor's Enchantment Shop</color>.","اضغط على [interact] <color=#F2E6BD>لدخول متجر إلينور للتعزيز السحري</color>."
+"ui.hints.worlds.sacrament.doorToGordon","Press [interact] to <color=#F2E6BD>enter Gordon's Restaurant</color>.","اضغط على [interact] <color=#F2E6BD>لدخول مطعم غوردون</color>."
+"ui.hints.worlds.sacrament.doorToMiraAndMeri","Press [interact] to <color=#F2E6BD>enter Mirabelle and Meriweather's Sewing Hut</color>.","اضغط على [interact] <color=#F2E6BD>لدخول كوخ حياكة ميرابيل وميريويذر</color>."
+"ui.hints.worlds.sacrament.doorToRookeryLodgingsDownstairs","Press [interact] to <color=#F2E6BD>enter the Rookery Lodgings</color>.","اضغط على [interact] <color=#F2E6BD>لدخول مساكن الروكري</color>."
+"ui.hints.worlds.sacrament.doorToSacramentRookery","Press [interact] to <color=#F2E6BD>return to the Rookery</color>.","اضغط على [interact] <color=#F2E6BD>للعودة إلى الروكري</color>."
+"ui.hints.worlds.sacrament.doorToWarRoom","Press [interact] to <color=#F2E6BD>enter the War Room</color>.","اضغط على [interact] <color=#F2E6BD>لدخول غرفة الحرب</color>."
+"ui.hints.worlds.sacrament.doorToWhittacker","Press [interact] to <color=#F2E6BD>enter Whittacker's Crafting Shack</color>.","اضغط على [interact] <color=#F2E6BD>لدخول كوخ صناعة ويتيكر</color>."
 "ui.houseManagementScreen.chestAccess","Chest Access","Chest Access"
 "ui.houseManagementScreen.chestPrivateHelperText","Only selected guests may access this chest. Grant individual permissions, or leave it private for yourself.","Only selected guests may access this chest. Grant individual permissions, or leave it private for yourself."
 "ui.houseManagementScreen.chestSharedHelperText","All guests can access this chest.","All guests can access this chest."
