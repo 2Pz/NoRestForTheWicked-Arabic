@@ -2015,8 +2015,8 @@ Target Lock | Hold: Exit Manual Target Lock","لهذا المفتاح وظيفت
 "ui.settings.display.displayModeFullScreenExclusive","Full Screen Exclusive","ملء الشاشة المخصص"
 "ui.settings.display.displayModeFullScreenWindow","Full Screen Window","نافذة بملء الشاشة"
 "ui.settings.display.displayModeWindowed","Windowed","في نافذة"
-"ui.settings.display.framerateCap","Framerate Cap","Framerate Cap"
-"ui.settings.display.framerateCapDescription","Choose whether or not the game’s framerate should be capped.","Choose whether or not the game’s framerate should be capped."
+"ui.settings.display.framerateCap","Framerate Cap","الحد الأقصى لمعدل الإطارات"
+"ui.settings.display.framerateCapDescription","Choose whether or not the game’s framerate should be capped.","اختر ما إذا كان يجب تحديد سقف لمعدل إطارات اللعبة أم لا."
 "ui.settings.display.hdr","HDR","HDR"
 "ui.settings.display.hdrBaseBrightness","Base Brightness","السطوع الأساسي"
 "ui.settings.display.hdrBaseBrightnessDescription","Adjust the base brightness of the game. Use the lowest value while still being able to make out the details for the best HDR contrast.","اضبط السطوع الأساسي للعبة. استخدم أقل قيمة مع القدرة على تمييز التفاصيل للحصول على أفضل تباين في HDR."
@@ -2169,427 +2169,427 @@ AMD FSR: زيادة معدل الإطارات على حساب بعض الدقة 
 "ui.settings.tutorials.resetTutorialsDescription","Resets all previously seen tutorial prompts, allowing you to view them again as if you were playing the game for the first time.","إعادة تعيين جميع إرشادات البرامج التعليمية التي تمت مشاهدتها سابقاً، مما يتيح لك عرضها مجدداً كما لو كنت تلعب للمرة الأولى."
 "ui.settings.tutorials.resetTutorialsDisableTooltip","Tutorials can only be reset in the main menu.","يمكن إعادة تعيين البرامج التعليمية من القائمة الرئيسية فقط."
 "ui.settings.tutorials.resetTutorialsModalConfirmation","Reset all tutorials? This action cannot be undone.","إعادة تعيين جميع البرامج التعليمية؟ لا يمكن التراجع عن هذا الإجراء."
-"ui.stats.armor","Armor","Armor"
-"ui.stats.armorDescription","Armor represents your defense value, reducing incoming damage before it impacts your health.","Armor represents your defense value, reducing incoming damage before it impacts your health."
-"ui.stats.attributeBonus","Attribute Bonus","Attribute Bonus"
-"ui.stats.attributePoints","Attribute Points","Attribute Points"
-"ui.stats.baseDamage","Base","Base"
-"ui.stats.bodyarmor","Body Armor","Body Armor"
-"ui.stats.coldArmorDescription","Base damage reduction from cold attacks. Each point increases the total cold damage you can take by 1.","Base damage reduction from cold attacks. Each point increases the total cold damage you can take by 1."
-"ui.stats.currentWeight","Current Weight","Current Weight"
-"ui.stats.defense","DEFENSE","DEFENSE"
-"ui.stats.dexterity","Dexterity","Dexterity"
-"ui.stats.dexterityDescription","Increases the dexterity of your character: Weapons that scale with dexterity receive an attribute bonus.","Increases the dexterity of your character: Weapons that scale with dexterity receive an attribute bonus."
-"ui.stats.elementalDamage","Elemental Damage","Elemental Damage"
-"ui.stats.equipLoad","Equip Load","Equip Load"
-"ui.stats.equipLoad2Description","Maximum equipment weight allowed.","Maximum equipment weight allowed."
-"ui.stats.equipLoadDescription","Raises the limit for equipped gear weight before encumbrance sets in. Your dodge type is determined by movement speed: fast speed allows for a quickstep, normal speed grants a roll, and heavy speed results in a more substantial roll coupled with the capability to execute a shoulder barge, knocking down enemies.","Raises the limit for equipped gear weight before encumbrance sets in. Your dodge type is determined by movement speed: fast speed allows for a quickstep, normal speed grants a roll, and heavy speed results in a more substantial roll coupled with the capability to execute a shoulder barge, knocking down enemies."
-"ui.stats.equippedWeightDescription","Total weight of currently equipped gear.","Total weight of currently equipped gear."
-"ui.stats.experienceGain","Experience Gain","Experience Gain"
-"ui.stats.faith","Faith","Faith"
-"ui.stats.faithDescription","Increases your character's faith: Weapons that scale with faith receive an attribute bonus.","Increases your character's faith: Weapons that scale with faith receive an attribute bonus."
-"ui.stats.fireArmorDescription","Base damage reduction from heat attacks. Each point increases the total heat damage you can take by 1.","Base damage reduction from heat attacks. Each point increases the total heat damage you can take by 1."
-"ui.stats.fireDamage","Fire Damage","Fire Damage"
-"ui.stats.fireResistance","Fire Resistance","Fire Resistance"
-"ui.stats.focus","Focus","Focus"
-"ui.stats.focusDescription","Increase this attribute to acquire additional focus bars; a new focus bar is granted for every 100 focus points. Focus bars are essential for unleashing powerful rune attacks.","Increase this attribute to acquire additional focus bars; a new focus bar is granted for every 100 focus points. Focus bars are essential for unleashing powerful rune attacks."
-"ui.stats.focusGain","Focus Gain","Focus Gain"
-"ui.stats.focusGainDescription","Rate at which Focus is gained on damage dealt.","Rate at which Focus is gained on damage dealt."
-"ui.stats.focusPoints","Focus Points","Focus Points"
-"ui.stats.focusRegen","Focus Regeneration","Focus Regeneration"
-"ui.stats.general","General","General"
-"ui.stats.health","Health","Health"
-"ui.stats.healthDescription","Increases your resilience to damage, allowing you to withstand more hits before dying.","Increases your resilience to damage, allowing you to withstand more hits before dying."
-"ui.stats.healthRegen","Health Regeneration","Health Regeneration"
-"ui.stats.hitPoints","Hit Points","Hit Points"
-"ui.stats.iceDamage","Ice Damage","Ice Damage"
-"ui.stats.iceResistance","Ice Resistance","Ice Resistance"
-"ui.stats.inteligence","Intelligence","Intelligence"
-"ui.stats.intelligenceDescription","Increases your character's intelligence: Weapons that scale with intelligence receive an attribute bonus.","Increases your character's intelligence: Weapons that scale with intelligence receive an attribute bonus."
-"ui.stats.levelUp","LEVEL-UP","LEVEL-UP"
-"ui.stats.levelUpConfirmation","Are you sure you want to level up?","Are you sure you want to level up?"
-"ui.stats.lightingDamage","Lightning Damage","Lightning Damage"
-"ui.stats.lightingResistence","Lightning Resistance","Lightning Resistance"
-"ui.stats.lightningArmorDescription","Base damage reduction from electric attacks. Each point increases the total electric damage you can take by 1.","Base damage reduction from electric attacks. Each point increases the total electric damage you can take by 1."
-"ui.stats.maxFocusDescription","This indicates your total Focus capacity. You gain Focus through combat. Focus is crucial for unleashing powerful rune attacks.","This indicates your total Focus capacity. You gain Focus through combat. Focus is crucial for unleashing powerful rune attacks."
-"ui.stats.maxHealthDescription","This represents the amount of damage you can withstand before dying. The damage you take is first mitigated by your armor, reducing the impact on your health.","This represents the amount of damage you can withstand before dying. The damage you take is first mitigated by your armor, reducing the impact on your health."
-"ui.stats.maxLevel","Max Level","Max Level"
-"ui.stats.maxStaminaDescription","This indicates your maximum Stamina capacity. Engaging in actions like attacking, blocking, dodging, and climbing will deplete your Stamina. If you exhaust your Stamina, you'll be temporarily unable to execute further actions until it has completely regenerated.","This indicates your maximum Stamina capacity. Engaging in actions like attacking, blocking, dodging, and climbing will deplete your Stamina. If you exhaust your Stamina, you'll be temporarily unable to execute further actions until it has completely regenerated."
-"ui.stats.maxWeight","Max Weight","Max Weight"
-"ui.stats.other","Other","Other"
-"ui.stats.physicalDamage","Physical Damage","Physical Damage"
-"ui.stats.physicalResistance","Physical Resistance","Physical Resistance"
-"ui.stats.plagueArmorDescription","Base damage reduction from plague attacks. Each point increases the total plague damage you can take by 1.","Base damage reduction from plague attacks. Each point increases the total plague damage you can take by 1."
-"ui.stats.plagueDamage","Plague Damage","Plague Damage"
-"ui.stats.plagueResistence","Plague Resistance","Plague Resistance"
-"ui.stats.poise","Poise","Poise"
-"ui.stats.poiseDefenseDescription","Amount of force the player can take before reacting.","Amount of force the player can take before reacting."
-"ui.stats.stamina","Stamina","Stamina"
-"ui.stats.staminaDescription","Increases the number of attacks, dodges, or blocks you can perform.","Increases the number of attacks, dodges, or blocks you can perform."
-"ui.stats.staminaPoints","Stamina Points","Stamina Points"
-"ui.stats.staminaRegen","Stamina Regen","Stamina Regen"
-"ui.stats.staminaRegenDescription","Rate at which stamina regenerates.","Rate at which stamina regenerates."
-"ui.stats.strengh","Strength","Strength"
-"ui.stats.strengthDescription","Increases the strength of your character: Weapons that scale with strength receive an attribute bonus.","Increases the strength of your character: Weapons that scale with strength receive an attribute bonus."
-"ui.stats.totalDamage","Total","Total"
-"ui.stats.weapon","Weapon","Weapon"
-"ui.stats.weight","Weight","Weight"
-"ui.stats.weightClass","Weight Class","Weight Class"
-"ui.trading.lockTrade","LOCK TRADE","LOCK TRADE"
-"ui.trading.moneyOffer","What sum will you offer?","What sum will you offer?"
-"ui.trading.offerMoney","Offer Money","Offer Money"
-"ui.trading.readyToTrade","Ready to Trade","Ready to Trade"
-"ui.trading.unlockTrade","UNLOCK TRADE","UNLOCK TRADE"
-"ui.trading.yourOffer","Your Offer","Your Offer"
-"ui.tutorialdirector.bigtutorial.close.text","CLOSE","CLOSE"
-"ui.tutorialdirector.bigtutorial.next.text","NEXT","NEXT"
-"ui.tutorialdirector.progression.bounty.title","<color=#5B9968>Bounty Updated</color>","<color=#5B9968>Bounty Updated</color>"
-"ui.tutorialdirector.progression.buildingproject.leveltitle","<color=#CBCBCB>Upgraded to</color> <color=#F2E6BD>Level [tiernumber]</color>","<color=#CBCBCB>Upgraded to</color> <color=#F2E6BD>Level [tiernumber]</color>"
-"ui.tutorialdirector.progression.buildingproject.title","<color=#F2E6BD>Danos Project Completed</color>","<color=#F2E6BD>Danos Project Completed</color>"
-"ui.tutorialdirector.progression.buildingproject.upgradedtitle","<color=#CBCBCB>Structure</color> <color=#F2E6BD>Repaired</color>","<color=#CBCBCB>Structure</color> <color=#F2E6BD>Repaired</color>"
-"ui.tutorialdirector.progression.challenge.title","<color=#5B9968>Challenge Updated</color>","<color=#5B9968>Challenge Updated</color>"
-"ui.tutorialdirector.progression.details.popout","[start] Details","[start] Details"
+"ui.stats.armor","Armor","الدرع"
+"ui.stats.armorDescription","Armor represents your defense value, reducing incoming damage before it impacts your health.","يمثل الدرع قيمة دفاعك، حيث يقلل من الضرر القادم قبل أن يؤثر على صحتك."
+"ui.stats.attributeBonus","Attribute Bonus","مكافأة السمة"
+"ui.stats.attributePoints","Attribute Points","نقاط السمات"
+"ui.stats.baseDamage","Base","الأساسي"
+"ui.stats.bodyarmor","Body Armor","درع الجسد"
+"ui.stats.coldArmorDescription","Base damage reduction from cold attacks. Each point increases the total cold damage you can take by 1.","تقليل الضرر الأساسي من الهجمات الجليدية. كل نقطة تزيد إجمالي الضرر الجليدي الذي يمكنك تحمله بمقدار 1."
+"ui.stats.currentWeight","Current Weight","الوزن الحالي"
+"ui.stats.defense","DEFENSE","الدفاع"
+"ui.stats.dexterity","Dexterity","الرشاقة"
+"ui.stats.dexterityDescription","Increases the dexterity of your character: Weapons that scale with dexterity receive an attribute bonus.","يزيد من رشاقة شخصيتك: الأسلحة التي تتناسب مع الرشاقة تتلقى مكافأة سمة."
+"ui.stats.elementalDamage","Elemental Damage","الضرر العنصري"
+"ui.stats.equipLoad","Equip Load","حمولة العتاد"
+"ui.stats.equipLoad2Description","Maximum equipment weight allowed.","الحد الأقصى المسموح به لوزن العتاد."
+"ui.stats.equipLoadDescription","Raises the limit for equipped gear weight before encumbrance sets in. Your dodge type is determined by movement speed: fast speed allows for a quickstep, normal speed grants a roll, and heavy speed results in a more substantial roll coupled with the capability to execute a shoulder barge, knocking down enemies.","يرفع الحد الأقصى لوزن العتاد المجهز قبل أن تصبح مثقلاً بالحمل. يتم تحديد نوع التفادي لديك حسب سرعة الحركة: السرعة العالية تتيح خطوة سريعة، والسرعة العادية تمنح دحرجة، والسرعة الثقيلة تؤدي إلى دحرجة أثقل مع القدرة على تنفيذ دفعة بالكتف لإسقاط الأعداء أرضاً."
+"ui.stats.equippedWeightDescription","Total weight of currently equipped gear.","الوزن الإجمالي للعتاد المجهز حالياً."
+"ui.stats.experienceGain","Experience Gain","اكتساب الخبرة"
+"ui.stats.faith","Faith","الإيمان"
+"ui.stats.faithDescription","Increases your character's faith: Weapons that scale with faith receive an attribute bonus.","يزيد من إيمان شخصيتك: الأسلحة التي تتناسب مع الإيمان تتلقى مكافأة سمة."
+"ui.stats.fireArmorDescription","Base damage reduction from heat attacks. Each point increases the total heat damage you can take by 1.","تقليل الضرر الأساسي من الهجمات النارية. كل نقطة تزيد إجمالي الضرر الناري الذي يمكنك تحمله بمقدار 1."
+"ui.stats.fireDamage","Fire Damage","ضرر النار"
+"ui.stats.fireResistance","Fire Resistance","مقاومة النار"
+"ui.stats.focus","Focus","التركيز"
+"ui.stats.focusDescription","Increase this attribute to acquire additional focus bars; a new focus bar is granted for every 100 focus points. Focus bars are essential for unleashing powerful rune attacks.","زد هذه السمة لاكتساب أشرطة تركيز إضافية؛ يُمنح شريط تركيز جديد لكل 100 نقطة تركيز. أشرطة التركيز أساسية لإطلاق هجمات الرون القوية."
+"ui.stats.focusGain","Focus Gain","اكتساب التركيز"
+"ui.stats.focusGainDescription","Rate at which Focus is gained on damage dealt.","معدل اكتساب التركيز عند إلحاق الضرر."
+"ui.stats.focusPoints","Focus Points","نقاط التركيز"
+"ui.stats.focusRegen","Focus Regeneration","تجديد التركيز"
+"ui.stats.general","General","عام"
+"ui.stats.health","Health","الصحة"
+"ui.stats.healthDescription","Increases your resilience to damage, allowing you to withstand more hits before dying.","يزيد من صمودك أمام الضرر، مما يتيح لك تحمل المزيد من الضربات قبل الموت."
+"ui.stats.healthRegen","Health Regeneration","تجديد الصحة"
+"ui.stats.hitPoints","Hit Points","نقاط الصحة"
+"ui.stats.iceDamage","Ice Damage","ضرر الجليد"
+"ui.stats.iceResistance","Ice Resistance","مقاومة الجليد"
+"ui.stats.inteligence","Intelligence","الذكاء"
+"ui.stats.intelligenceDescription","Increases your character's intelligence: Weapons that scale with intelligence receive an attribute bonus.","يزيد من ذكاء شخصيتك: الأسلحة التي تتناسب مع الذكاء تتلقى مكافأة سمة."
+"ui.stats.levelUp","LEVEL-UP","ترقية المستوى"
+"ui.stats.levelUpConfirmation","Are you sure you want to level up?","هل أنت متأكد من أنك تريد ترقية المستوى؟"
+"ui.stats.lightingDamage","Lightning Damage","ضرر الصواعق"
+"ui.stats.lightingResistence","Lightning Resistance","مقاومة الصواعق"
+"ui.stats.lightningArmorDescription","Base damage reduction from electric attacks. Each point increases the total electric damage you can take by 1.","تقليل الضرر الأساسي من الهجمات الكهربائية. كل نقطة تزيد إجمالي الضرر الكهربائي الذي يمكنك تحمله بمقدار 1."
+"ui.stats.maxFocusDescription","This indicates your total Focus capacity. You gain Focus through combat. Focus is crucial for unleashing powerful rune attacks.","يوضح هذا سعة التركيز الإجمالية لديك. تكتسب التركيز من خلال القتال. التركيز ضروري لإطلاق هجمات الرون القوية."
+"ui.stats.maxHealthDescription","This represents the amount of damage you can withstand before dying. The damage you take is first mitigated by your armor, reducing the impact on your health.","يمثل هذا مقدار الضرر الذي يمكنك تحمله قبل الموت. يتم تخفيف الضرر الذي تتلقاه أولاً بواسطة درعك، مما يقلل من تأثيره على صحتك."
+"ui.stats.maxLevel","Max Level","أقصى مستوى"
+"ui.stats.maxStaminaDescription","This indicates your maximum Stamina capacity. Engaging in actions like attacking, blocking, dodging, and climbing will deplete your Stamina. If you exhaust your Stamina, you'll be temporarily unable to execute further actions until it has completely regenerated.","يوضح هذا الحد الأقصى لسعة التحمل لديك. القيام بإجراءات مثل الهجوم والصد والتفادي والتسلق سيستنفد تحملك. إذا نفد تحملك، فستكون غير قادر مؤقتاً على تنفيذ المزيد من الإجراءات حتى يتجدد بالكامل."
+"ui.stats.maxWeight","Max Weight","أقصى وزن"
+"ui.stats.other","Other","أخرى"
+"ui.stats.physicalDamage","Physical Damage","الضرر الجسدي"
+"ui.stats.physicalResistance","Physical Resistance","المقاومة الجسدية"
+"ui.stats.plagueArmorDescription","Base damage reduction from plague attacks. Each point increases the total plague damage you can take by 1.","تقليل الضرر الأساسي من هجمات الوباء. كل نقطة تزيد إجمالي ضرر الوباء الذي يمكنك تحمله بمقدار 1."
+"ui.stats.plagueDamage","Plague Damage","ضرر الوباء"
+"ui.stats.plagueResistence","Plague Resistance","مقاومة الوباء"
+"ui.stats.poise","Poise","التوازن"
+"ui.stats.poiseDefenseDescription","Amount of force the player can take before reacting.","مقدار القوة التي يمكن للاعب تحملها قبل رد الفعل والترنح."
+"ui.stats.stamina","Stamina","التحمل"
+"ui.stats.staminaDescription","Increases the number of attacks, dodges, or blocks you can perform.","يزيد من عدد الهجمات أو التفادي أو الصد التي يمكنك تنفيذها."
+"ui.stats.staminaPoints","Stamina Points","نقاط التحمل"
+"ui.stats.staminaRegen","Stamina Regen","تجديد التحمل"
+"ui.stats.staminaRegenDescription","Rate at which stamina regenerates.","معدل تجدد التحمل."
+"ui.stats.strengh","Strength","القوة"
+"ui.stats.strengthDescription","Increases the strength of your character: Weapons that scale with strength receive an attribute bonus.","يزيد من قوة شخصيتك: الأسلحة التي تتناسب مع القوة تتلقى مكافأة سمة."
+"ui.stats.totalDamage","Total","الإجمالي"
+"ui.stats.weapon","Weapon","السلاح"
+"ui.stats.weight","Weight","الوزن"
+"ui.stats.weightClass","Weight Class","فئة الوزن"
+"ui.trading.lockTrade","LOCK TRADE","قفل التبادل"
+"ui.trading.moneyOffer","What sum will you offer?","ما المبلغ الذي ستعرضه؟"
+"ui.trading.offerMoney","Offer Money","عرض مال"
+"ui.trading.readyToTrade","Ready to Trade","جاهز للتبادل"
+"ui.trading.unlockTrade","UNLOCK TRADE","إلغاء قفل التبادل"
+"ui.trading.yourOffer","Your Offer","عرضك"
+"ui.tutorialdirector.bigtutorial.close.text","CLOSE","إغلاق"
+"ui.tutorialdirector.bigtutorial.next.text","NEXT","التالي"
+"ui.tutorialdirector.progression.bounty.title","<color=#5B9968>Bounty Updated</color>","<color=#5B9968>تم تحديث مكافأة الصيد</color>"
+"ui.tutorialdirector.progression.buildingproject.leveltitle","<color=#CBCBCB>Upgraded to</color> <color=#F2E6BD>Level [tiernumber]</color>","<color=#CBCBCB>تمت الترقية إلى</color> <color=#F2E6BD>المستوى [tiernumber]</color>"
+"ui.tutorialdirector.progression.buildingproject.title","<color=#F2E6BD>Danos Project Completed</color>","<color=#F2E6BD>اكتمل مشروع دانوس</color>"
+"ui.tutorialdirector.progression.buildingproject.upgradedtitle","<color=#CBCBCB>Structure</color> <color=#F2E6BD>Repaired</color>","<color=#CBCBCB>تم إصلاح</color> <color=#F2E6BD>الهيكل</color>"
+"ui.tutorialdirector.progression.challenge.title","<color=#5B9968>Challenge Updated</color>","<color=#5B9968>تم تحديث التحدي</color>"
+"ui.tutorialdirector.progression.details.popout","[start] Details","[start] التفاصيل"
 "ui.tutorialdirector.progression.details.popoutBinding","[start]","[start]"
-"ui.tutorialdirector.progression.quest.title","<color=#F2E6BD>Quest Updated</color>","<color=#F2E6BD>Quest Updated</color>"
-"ui.tutorialdirector.rewards.fasttravel.primarytext","Fast Travel Unlocked","Fast Travel Unlocked"
-"ui.tutorialdirector.rewards.fasttravel.secondarytext","Rest at any Whisper to use this new ability","Rest at any Whisper to use this new ability"
-"ui.tutorialdirector.sidenotifications.inventory.PC","[toggle_inventory] Inventory","[toggle_inventory] Inventory"
-"ui.tutorialdirector.sidenotifications.inventory.default","<color=#F2E6BD>(Hold)</color> [start] Inventory","<color=#F2E6BD>(Hold)</color> [start] Inventory"
-"ui.tutorials.categories.combat","Combat","Combat"
-"ui.tutorials.categories.discovery","Discovery","Discovery"
-"ui.tutorials.categories.mechanics","Mechanics","Mechanics"
-"ui.tutorials.categories.systems","Systems","Systems"
+"ui.tutorialdirector.progression.quest.title","<color=#F2E6BD>Quest Updated</color>","<color=#F2E6BD>تم تحديث المهمة</color>"
+"ui.tutorialdirector.rewards.fasttravel.primarytext","Fast Travel Unlocked","تم فتح السفر السريع"
+"ui.tutorialdirector.rewards.fasttravel.secondarytext","Rest at any Whisper to use this new ability","استرح عند أي همسة لاستخدام هذه القدرة الجديدة"
+"ui.tutorialdirector.sidenotifications.inventory.PC","[toggle_inventory] Inventory","[toggle_inventory] المخزون"
+"ui.tutorialdirector.sidenotifications.inventory.default","<color=#F2E6BD>(Hold)</color> [start] Inventory","<color=#F2E6BD>(استمرار)</color> [start] المخزون"
+"ui.tutorials.categories.combat","Combat","القتال"
+"ui.tutorials.categories.discovery","Discovery","الاستكشاف"
+"ui.tutorials.categories.mechanics","Mechanics","الآليات"
+"ui.tutorials.categories.systems","Systems","الأنظمة"
 "ui.tutorials.items.discovery.cta","[inventory]","[inventory]"
 "ui.tutorials.items.discovery.fallenEmbers.description","Fallen Embers can be used to [!sHighlight]add[/s] or [!sHighlight]re-roll[/s] enchantments on magical or plagued gear.
 
-Cerim who have proven themselves worthy can also use them to re-assign attributes.","Fallen Embers can be used to [!sHighlight]add[/s] or [!sHighlight]re-roll[/s] enchantments on magical or plagued gear.
+Cerim who have proven themselves worthy can also use them to re-assign attributes.","يمكن استخدام الجمر الساقط [!sHighlight]لإضافة[/s] تعزيزات سحرية أو [!sHighlight]إعادة سحبها[/s] على العتاد السحري أو الموبوء.
 
-Cerim who have proven themselves worthy can also use them to re-assign attributes."
-"ui.tutorials.items.discovery.fallenEmbers.title","Fallen Embers","Fallen Embers"
+يمكن للسيريم الذين أثبتوا جدارتهم أيضاً استخدامها لإعادة توزيع السمات."
+"ui.tutorials.items.discovery.fallenEmbers.title","Fallen Embers","الجمر الساقط"
 "ui.tutorials.items.discovery.food.description","[!sHighlight][action_food][/s] to restore [IconHealth].
-[!sSubtext]Cooked meals may provide additional buffs.[/s]","[!sHighlight][action_food][/s] to restore [IconHealth].
-[!sSubtext]Cooked meals may provide additional buffs.[/s]"
-"ui.tutorials.items.discovery.food.title","Food","Food"
+[!sSubtext]Cooked meals may provide additional buffs.[/s]","[!sHighlight][action_food][/s] لاستعادة [IconHealth].
+[!sSubtext]قد توفر الوجبات المطبوخة تأثيرات إيجابية إضافية.[/s]"
+"ui.tutorials.items.discovery.food.title","Food","الطعام"
 "ui.tutorials.items.discovery.gems.description","Gems can be slotted into gear to infuse it with powerful [!sHighlight]enchantments[/s].
-[!sSubtext]Visit an enchanter to infuse gear.[/s]","Gems can be slotted into gear to infuse it with powerful [!sHighlight]enchantments[/s].
-[!sSubtext]Visit an enchanter to infuse gear.[/s]"
-"ui.tutorials.items.discovery.gems.title","Gems","Gems"
+[!sSubtext]Visit an enchanter to infuse gear.[/s]","يمكن تركيب الجواهر في العتاد لتضمينه [!sHighlight]بتعزيزات سحرية[/s] قوية.
+[!sSubtext]قم بزيارة معزز سحري لتضمين العتاد.[/s]"
+"ui.tutorials.items.discovery.gems.title","Gems","الجواهر"
 "ui.tutorials.items.discovery.plaguedResources.description","Enemies slain within [!sPlagued]Pestilence Outbreaks[/s] may drop plagued resources. 
 
-Extract and refine them at the Watcher, or use them to upgrade gear at a blacksmith.","Enemies slain within [!sPlagued]Pestilence Outbreaks[/s] may drop plagued resources. 
+Extract and refine them at the Watcher, or use them to upgrade gear at a blacksmith.","قد يسقط الأعداء الذين يُقتلون داخل مناطق [!sPlagued]تفشي الوباء[/s] مصادر موبوءة.
 
-Extract and refine them at the Watcher, or use them to upgrade gear at a blacksmith."
-"ui.tutorials.items.discovery.plaguedResources.title","Plagued Resources","Plagued Resources"
+استخرجها وكررها لدى المراقب، أو استخدمها لترقية العتاد لدى الحداد."
+"ui.tutorials.items.discovery.plaguedResources.title","Plagued Resources","المصادر الموبوءة"
 "ui.tutorials.items.discovery.quickItems.description","Use a [!sHighlight][action_quickitem][/s] when the situation calls for it.
 
-Quick Items may repair gear, apply temporary buffs, or they may damage and disrupt enemies.","Use a [!sHighlight][action_quickitem][/s] when the situation calls for it.
+Quick Items may repair gear, apply temporary buffs, or they may damage and disrupt enemies.","استخدم [!sHighlight][action_quickitem][/s] عندما يتطلب الموقف ذلك.
 
-Quick Items may repair gear, apply temporary buffs, or they may damage and disrupt enemies."
-"ui.tutorials.items.discovery.quickItems.title","Quick Items","Quick Items"
+قد تقوم العناصر السريعة بإصلاح العتاد، أو تطبيق تأثيرات إيجابية مؤقتة، أو إلحاق الضرر بالأعداء وإرباكهم."
+"ui.tutorials.items.discovery.quickItems.title","Quick Items","العناصر السريعة"
 "ui.tutorials.items.discovery.rawFood.description","Raw food can be eaten as a last resort, but a [!sHighlight]cooked meal[/s] will always be stronger.
 
 [!sHeadingMuted]Cooking[/s]
-Cook meals at fire pits using gathered resources. Find recipes to unlock new meals.","Raw food can be eaten as a last resort, but a [!sHighlight]cooked meal[/s] will always be stronger.
+Cook meals at fire pits using gathered resources. Find recipes to unlock new meals.","يمكن تناول الطعام النيء كملاذ أخير، ولكن [!sHighlight]الوجبة المطبوخة[/s] ستكون دائماً أكثر فاعلية.
 
-[!sHeadingMuted]Cooking[/s]
-Cook meals at fire pits using gathered resources. Find recipes to unlock new meals."
-"ui.tutorials.items.discovery.rawFood.title","Raw Food","Raw Food"
+[!sHeadingMuted]الطهي[/s]
+اطبخ الوجبات عند مواقد النار باستخدام المصادر المجمعة. اعثر على الوصفات لفتح وجبات جديدة."
+"ui.tutorials.items.discovery.rawFood.title","Raw Food","الطعام النيء"
 "ui.tutorials.items.discovery.refinedMaterials.description","Refined materials are necessary for [!sHighlight]upgrades[/s] and [!sHighlight]crafting[/s].
 
 Materials can be refined at upgraded vendor stalls, or at refineries that you own.
-[!sSubtext]Visit the Maker in Sacrament to upgrade vendor stalls or purchase refineries.[/s]","Refined materials are necessary for [!sHighlight]upgrades[/s] and [!sHighlight]crafting[/s].
+[!sSubtext]Visit the Maker in Sacrament to upgrade vendor stalls or purchase refineries.[/s]","المواد المكررة ضرورية [!sHighlight]للترقيات[/s] و[!sHighlight]الصناعة[/s].
 
-Materials can be refined at upgraded vendor stalls, or at refineries that you own.
-[!sSubtext]Visit the Maker in Sacrament to upgrade vendor stalls or purchase refineries.[/s]"
-"ui.tutorials.items.discovery.refinedMaterials.title","Refined Materials","Refined Materials"
-"ui.tutorials.items.discovery.resources.title","Resources","Resources"
+يمكن تكرير المواد في أكشاك التجار بعد ترقيتها، أو في المصافي التي تمتلكها.
+[!sSubtext]قم بزيارة الصانع في ساكرامنت لترقية أكشاك التجار أو شراء المصافي.[/s]"
+"ui.tutorials.items.discovery.refinedMaterials.title","Refined Materials","المواد المكررة"
+"ui.tutorials.items.discovery.resources.title","Resources","المصادر"
 "ui.tutorials.items.discovery.shields.description","[!sHighlight][!tnobr][shield] Ready a Shield[/tnobr][/s] to block enemy attacks and reduce damage received.
 
-[!sSubtext]Shields do not reduce [IconPoise] Poise Damage.[/s]","[!sHighlight][!tnobr][shield] Ready a Shield[/tnobr][/s] to block enemy attacks and reduce damage received.
+[!sSubtext]Shields do not reduce [IconPoise] Poise Damage.[/s]","[!sHighlight][!tnobr][shield] جهّز الدرع[/tnobr][/s] لصد هجمات العدو وتقليل الضرر المتلقى.
 
-[!sSubtext]Shields do not reduce [IconPoise] Poise Damage.[/s]"
-"ui.tutorials.items.discovery.shields.title","Shields","Shields"
-"ui.tutorials.items.discovery.tools.description","Use tools to [!sHighlight]harvest resources[/s] and [!sHighlight]materials[/s]. Higher tier tools work faster. ","Use tools to [!sHighlight]harvest resources[/s] and [!sHighlight]materials[/s]. Higher tier tools work faster. "
-"ui.tutorials.items.discovery.tools.title","Tools","Tools"
+[!sSubtext]الدروع لا تقلل من [IconPoise] ضرر التوازن.[/s]"
+"ui.tutorials.items.discovery.shields.title","Shields","الدروع"
+"ui.tutorials.items.discovery.tools.description","Use tools to [!sHighlight]harvest resources[/s] and [!sHighlight]materials[/s]. Higher tier tools work faster. ","استخدم الأدوات [!sHighlight]لجمع المصادر[/s] و[!sHighlight]المواد[/s]. تعمل الأدوات ذات المستوى الأعلى بشكل أسرع."
+"ui.tutorials.items.discovery.tools.title","Tools","الأدوات"
 "ui.tutorials.items.discovery.tornEffigy.description","Can be burned in an offering at any [!sHighlight]fire pit[/s]. 
 
 Burning an Effigy inside a [!sPlagued]Pestilence Outbreak[/s] will reveal the heart of the infection. 
 
-Burning an Effigy in a non-infected area will trigger a [!sPlagued]Pestilence Outbreak[/s] in that area, allowing you to find more resources.","Can be burned in an offering at any [!sHighlight]fire pit[/s]. 
+Burning an Effigy in a non-infected area will trigger a [!sPlagued]Pestilence Outbreak[/s] in that area, allowing you to find more resources.","يمكن حرقها كقربان في أي [!sHighlight]موقد نار[/s].
 
-Burning an Effigy inside a [!sPlagued]Pestilence Outbreak[/s] will reveal the heart of the infection. 
+حرق مجسم داخل منطقة [!sPlagued]تفشي الوباء[/s] سيكشف عن قلب العدوى.
 
-Burning an Effigy in a non-infected area will trigger a [!sPlagued]Pestilence Outbreak[/s] in that area, allowing you to find more resources."
-"ui.tutorials.items.discovery.tornEffigy.title","Torn Effigies","Torn Effigies"
-"ui.tutorials.mechanics.backstab.miniDescription","[!sHighlight][action_sneak][/s] behind enemies until a [IconSkull] is visible, then press [attack] to [!sHighlight]backstab[/s].","[!sHighlight][action_sneak][/s] behind enemies until a [IconSkull] is visible, then press [attack] to [!sHighlight]backstab[/s]."
-"ui.tutorials.mechanics.chargedSpells.controls1.action","Charge a Spell","Charge a Spell"
-"ui.tutorials.mechanics.chargedSpells.controls1.actionalt","Charge <o>Selected</o> Spell","Charge <o>Selected</o> Spell"
-"ui.tutorials.mechanics.chargedSpells.controls1.binding","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4] <os>(Hold)</os>","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4] <os>(Hold)</os>"
-"ui.tutorials.mechanics.chargedSpells.controls1.bindingalt","[rune_attack] <os>(Hold)</os>","[rune_attack] <os>(Hold)</os>"
-"ui.tutorials.mechanics.chargedSpells.controls1.bindingaltPC","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4] <os>(Hold)</os>","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4] <os>(Hold)</os>"
+حرق مجسم في منطقة غير مصابة سيؤدي إلى إشعال [!sPlagued]تفشي الوباء[/s] في تلك المنطقة، مما يتيح لك العثور على المزيد من المصادر."
+"ui.tutorials.items.discovery.tornEffigy.title","Torn Effigies","المجسمات الممزقة"
+"ui.tutorials.mechanics.backstab.miniDescription","[!sHighlight][action_sneak][/s] behind enemies until a [IconSkull] is visible, then press [attack] to [!sHighlight]backstab[/s].","[!sHighlight][action_sneak][/s] خلف الأعداء حتى يظهر [IconSkull]، ثم اضغط على [attack] لتنفيذ [!sHighlight]طعنة من الخلف[/s]."
+"ui.tutorials.mechanics.chargedSpells.controls1.action","Charge a Spell","شحن تعويذة"
+"ui.tutorials.mechanics.chargedSpells.controls1.actionalt","Charge <o>Selected</o> Spell","شحن التعويذة <o>المحددة</o>"
+"ui.tutorials.mechanics.chargedSpells.controls1.binding","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4] <os>(Hold)</os>","[key_special_1] أو [key_special_2] أو [key_special_3] <s>أو</s> [key_special_4] <os>(استمرار)</os>"
+"ui.tutorials.mechanics.chargedSpells.controls1.bindingalt","[rune_attack] <os>(Hold)</os>","[rune_attack] <os>(استمرار)</os>"
+"ui.tutorials.mechanics.chargedSpells.controls1.bindingaltPC","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4] <os>(Hold)</os>","[key_special_1] أو [key_special_2] أو [key_special_3] <s>أو</s> [key_special_4] <os>(استمرار)</os>"
 "ui.tutorials.mechanics.chargedSpells.description","<color=#F2E6BD>Charged Spells</color> must be held to successfully cast.
 
-Be careful - These spells <color=#F2E6BD>can be interrupted</color> while casting.","<color=#F2E6BD>Charged Spells</color> must be held to successfully cast.
+Be careful - These spells <color=#F2E6BD>can be interrupted</color> while casting.","يجب الاستمرار بالضغط لإطلاق <color=#F2E6BD>التعاويذ المشحونة</color> بنجاح.
 
-Be careful - These spells <color=#F2E6BD>can be interrupted</color> while casting."
-"ui.tutorials.mechanics.chargedSpells.title","Charged Spells","Charged Spells"
+كن حذراً — هذه التعاويذ <color=#F2E6BD>يمكن مقاطعتها</color> أثناء الإلقاء."
+"ui.tutorials.mechanics.chargedSpells.title","Charged Spells","التعاويذ المشحونة"
 "ui.tutorials.mechanics.durability.description","Using gear will diminish its durability.
 <color=#F15E4B>Broken</color> gear is rendered inoperable.
 
-<color=#CBCCCF>Repair gear at a blacksmith or by using repair powder.</color>","Using gear will diminish its durability.
-<color=#F15E4B>Broken</color> gear is rendered inoperable.
+<color=#CBCCCF>Repair gear at a blacksmith or by using repair powder.</color>","يؤدي استخدام العتاد إلى تقليل متانته.
+العتاد <color=#F15E4B>المكسور</color> يصبح غير قابل للاستخدام.
 
-<color=#CBCCCF>Repair gear at a blacksmith or by using repair powder.</color>"
-"ui.tutorials.mechanics.durability.title","Durability","Durability"
+<color=#CBCCCF>قم بإصلاح العتاد لدى الحداد أو باستخدام مسحوق الإصلاح.</color>"
+"ui.tutorials.mechanics.durability.title","Durability","المتانة"
 "ui.tutorials.mechanics.elementalDamage.description","Elemental damage builds up status effects.
  
 [!sBpIcon][StatFireDamage][/s][!sBpBody][!sFire]Burn[/s] deals damage over time.[/s]
 [!sBpIcon][StatColdDamage][/s][!sBpBody][!sIce]Freeze[/s] temporarily solidifies. Physical damage will shatter frozen targets.[/s]
 [!sBpIcon][StatLightningDamage][/s][!sBpBody][!sLightning]Shock[/s] will chain to multiple targets.[/s]
 [!sBpIcon][StatPlagueDamage][/s][!sBpBody][!sPlague]Infection[/s] temporarily gives the attacker [!sHighlight]Lifesteal[/s].[/s]
-[!sBpIcon][StatBleed][/s][!sBpBody][!sBleed]Bleed[/s] deals damage to moving enemies.[/s]","Elemental damage builds up status effects.
+[!sBpIcon][StatBleed][/s][!sBpBody][!sBleed]Bleed[/s] deals damage to moving enemies.[/s]","يؤدي الضرر العنصري إلى تراكم تأثيرات الحالة.
  
-[!sBpIcon][StatFireDamage][/s][!sBpBody][!sFire]Burn[/s] deals damage over time.[/s]
-[!sBpIcon][StatColdDamage][/s][!sBpBody][!sIce]Freeze[/s] temporarily solidifies. Physical damage will shatter frozen targets.[/s]
-[!sBpIcon][StatLightningDamage][/s][!sBpBody][!sLightning]Shock[/s] will chain to multiple targets.[/s]
-[!sBpIcon][StatPlagueDamage][/s][!sBpBody][!sPlague]Infection[/s] temporarily gives the attacker [!sHighlight]Lifesteal[/s].[/s]
-[!sBpIcon][StatBleed][/s][!sBpBody][!sBleed]Bleed[/s] deals damage to moving enemies.[/s]"
-"ui.tutorials.mechanics.elementalDamage.title","Elemental Damage","Elemental Damage"
+[!sBpIcon][StatFireDamage][/s][!sBpBody][!sFire]الاحتراق[/s] يلحق ضرراً بمرور الوقت.[/s]
+[!sBpIcon][StatColdDamage][/s][!sBpBody][!sIce]التجمد[/s] يُجمد مؤقتاً. الضرر الجسدي سيحطم الأهداف المجمدة.[/s]
+[!sBpIcon][StatLightningDamage][/s][!sBpBody][!sLightning]الصعق[/s] سينتقل إلى أهداف متعددة.[/s]
+[!sBpIcon][StatPlagueDamage][/s][!sBpBody][!sPlague]العدوى[/s] تمنح المهاجم مؤقتاً [!sHighlight]سرقة الحياة[/s].[/s]
+[!sBpIcon][StatBleed][/s][!sBpBody][!sBleed]النزيف[/s] يلحق ضرراً بالأعداء أثناء حركتهم.[/s]"
+"ui.tutorials.mechanics.elementalDamage.title","Elemental Damage","الضرر العنصري"
 "ui.tutorials.mechanics.firstBow.description","<color=#F2E6BD>Bows</color> carry unique Runes, allowing you to unleash a <color=#F2E6BD>deadly barrage of arrows</color> from afar.
 
-Using a bow <color=#F2E6BD>consumes</color> [IconFocus].","<color=#F2E6BD>Bows</color> carry unique Runes, allowing you to unleash a <color=#F2E6BD>deadly barrage of arrows</color> from afar.
+Using a bow <color=#F2E6BD>consumes</color> [IconFocus].","تحمل <color=#F2E6BD>الأقواس</color> رُوناً فريدة، مما يتيح لك إطلاق <color=#F2E6BD>وابل مميت من السهام</color> من مسافة بعيدة.
 
-Using a bow <color=#F2E6BD>consumes</color> [IconFocus]."
-"ui.tutorials.mechanics.firstBow.title","Bows","Bows"
-"ui.tutorials.mechanics.firstFocusUsed.description","You can regenerate [IconFocus] through <color=#F2E6BD>attacks</color>, <color=#F2E6BD>parries</color> or <color=#F2E6BD>consumables</color>.","You can regenerate [IconFocus] through <color=#F2E6BD>attacks</color>, <color=#F2E6BD>parries</color> or <color=#F2E6BD>consumables</color>."
-"ui.tutorials.mechanics.firstStaffWand.controls1.action","Perform a Spell","Perform a Spell"
-"ui.tutorials.mechanics.firstStaffWand.controls1.actionalt","Perform <o>Selected</o> Spell","Perform <o>Selected</o> Spell"
-"ui.tutorials.mechanics.firstStaffWand.controls2.actionalt","Select a Spell","Select a Spell"
+استخدام القوس <color=#F2E6BD>يستهلك</color> [IconFocus]."
+"ui.tutorials.mechanics.firstBow.title","Bows","الأقواس"
+"ui.tutorials.mechanics.firstFocusUsed.description","You can regenerate [IconFocus] through <color=#F2E6BD>attacks</color>, <color=#F2E6BD>parries</color> or <color=#F2E6BD>consumables</color>.","يمكنك تجديد [IconFocus] من خلال <color=#F2E6BD>الهجمات</color> أو <color=#F2E6BD>الصد المتقن</color> أو <color=#F2E6BD>المستهلكات</color>."
+"ui.tutorials.mechanics.firstStaffWand.controls1.action","Perform a Spell","تنفيذ تعويذة"
+"ui.tutorials.mechanics.firstStaffWand.controls1.actionalt","Perform <o>Selected</o> Spell","تنفيذ التعويذة <o>المحددة</o>"
+"ui.tutorials.mechanics.firstStaffWand.controls2.actionalt","Select a Spell","تحديد تعويذة"
 "ui.tutorials.mechanics.firstStaffWand.description","Wielding a <color=#F2E6BD>wand</color> or <color=#F2E6BD>staff</color> allows you to <color=#F2E6BD>cast powerful spells</color> using their unique Runes.
 
-Casting a spell <color=#F2E6BD>consumes</color> [IconFocus].","Wielding a <color=#F2E6BD>wand</color> or <color=#F2E6BD>staff</color> allows you to <color=#F2E6BD>cast powerful spells</color> using their unique Runes.
+Casting a spell <color=#F2E6BD>consumes</color> [IconFocus].","يتيح لك التسلح <color=#F2E6BD>بعصا</color> أو <color=#F2E6BD>صولجان</color> تتيح لك <color=#F2E6BD>إلقاء تعاويذ قوية</color> باستخدام الرون الفريدة الخاصة بها.
 
-Casting a spell <color=#F2E6BD>consumes</color> [IconFocus]."
-"ui.tutorials.mechanics.firstStaffWand.title","Spells","Spells"
+إلقاء تعويذة <color=#F2E6BD>يستهلك</color> [IconFocus]."
+"ui.tutorials.mechanics.firstStaffWand.title","Spells","التعاويذ"
 "ui.tutorials.mechanics.gestures.description","Express yourself by performing [!sHighlight]gestures[/s].
 
-Hold to open the [!sHighlight][action_gesture][/s], then select a gesture and [!sHighlight]release[/s] to perform it.","Express yourself by performing [!sHighlight]gestures[/s].
+Hold to open the [!sHighlight][action_gesture][/s], then select a gesture and [!sHighlight]release[/s] to perform it.","عبّر عن نفسك بتنفيذ [!sHighlight]الإيماءات[/s].
 
-Hold to open the [!sHighlight][action_gesture][/s], then select a gesture and [!sHighlight]release[/s] to perform it."
-"ui.tutorials.mechanics.gestures.descriptionMini","Open the [!sHighlight][action_gesture][/s] and perform a [!sHighlight]salute[/s].","Open the [!sHighlight][action_gesture][/s] and perform a [!sHighlight]salute[/s]."
-"ui.tutorials.mechanics.gestures.title","Gestures","Gestures"
+استمر بالضغط لفتح [!sHighlight][action_gesture][/s]، ثم حدد إيماءة و[!sHighlight]أفلت[/s] لتنفيذها."
+"ui.tutorials.mechanics.gestures.descriptionMini","Open the [!sHighlight][action_gesture][/s] and perform a [!sHighlight]salute[/s].","افتح [!sHighlight][action_gesture][/s] ونفّذ [!sHighlight]التحية[/s]."
+"ui.tutorials.mechanics.gestures.title","Gestures","الإيماءات"
 "ui.tutorials.mechanics.hungerlimit.description","During combat, a [!sNegative]limited[/s] amount of food may be consumed.
 
-[!sMuted]The hunger limit lifts upon exiting combat.[/s]","During combat, a [!sNegative]limited[/s] amount of food may be consumed.
+[!sMuted]The hunger limit lifts upon exiting combat.[/s]","أثناء القتال، يمكن استهلاك كمية [!sNegative]محدودة[/s] من الطعام.
 
-[!sMuted]The hunger limit lifts upon exiting combat.[/s]"
-"ui.tutorials.mechanics.hungerlimit.title","Hunger Limit","Hunger Limit"
+[!sMuted]يُرفع حد الجوع فور الخروج من القتال.[/s]"
+"ui.tutorials.mechanics.hungerlimit.title","Hunger Limit","حد الجوع"
 "ui.tutorials.mechanics.perfectGather.description","Just as a tool strikes, [!tnobr][!sHighlight][interact] Gather[/s][/tnobr] again to:
 [!sBp]Harvest faster.[/s]
 [!sBp]Earn bonus [IconFocus].[/s]
-[!sBp]Increase loot drop chances.[/s]","Just as a tool strikes, [!tnobr][!sHighlight][interact] Gather[/s][/tnobr] again to:
-[!sBp]Harvest faster.[/s]
-[!sBp]Earn bonus [IconFocus].[/s]
-[!sBp]Increase loot drop chances.[/s]"
-"ui.tutorials.mechanics.perfectGather.title","Perfect Gather","Perfect Gather"
+[!sBp]Increase loot drop chances.[/s]","بمجرد أن تضرب الأداة الهدف، اضغط [!tnobr][!sHighlight][interact] جمع[/s][/tnobr] مجدداً من أجل:
+[!sBp]الحصاد بشكل أسرع.[/s]
+[!sBp]كسب مكافأة [IconFocus].[/s]
+[!sBp]زيادة فرص سقوط الغنائم.[/s]"
+"ui.tutorials.mechanics.perfectGather.title","Perfect Gather","الجمع المثالي"
 "ui.tutorials.mechanics.plagueOutbreaks.description","The Pestilence can be [!sHighlight]wielded by the Cerim[/s] to become more powerful.
 
 Future outbreaks will continue to occur over time - but you can also [!sHighlight]trigger an outbreak[/s] by [!sHighlight]burning items[/s] at any fire pit outside of Sacrament.
 
 Burning items will [!sHighlight]increase the plague intensity[/s], and [!sHighlight]add corruptions[/s] to the area. The greater the plague intensity, the greater the rewards. 
 
-Burning Torn Resources will result in fewer corruptions.","The Pestilence can be [!sHighlight]wielded by the Cerim[/s] to become more powerful.
+Burning Torn Resources will result in fewer corruptions.","يمكن [!sHighlight]للسيريم تسخير الوباء[/s] ليصبحوا أكثر قوة.
 
-Future outbreaks will continue to occur over time - but you can also [!sHighlight]trigger an outbreak[/s] by [!sHighlight]burning items[/s] at any fire pit outside of Sacrament.
+ستستمر حالات التفشي المستقبلية بالحدوث بمرور الوقت — ولكن يمكنك أيضاً [!sHighlight]إشعال تفشٍ[/s] عن طريق [!sHighlight]حرق العناصر[/s] في أي موقد نار خارج ساكرامنت.
 
-Burning items will [!sHighlight]increase the plague intensity[/s], and [!sHighlight]add corruptions[/s] to the area. The greater the plague intensity, the greater the rewards. 
+حرق العناصر سيؤدي إلى [!sHighlight]زيادة شدة الوباء[/s]، و[!sHighlight]إضافة مفاسد[/s] إلى المنطقة. كلما زادت شدة الوباء، زادت المكافآت.
 
-Burning Torn Resources will result in fewer corruptions."
-"ui.tutorials.mechanics.plagueOutbreaks.title","The Spread of the Plague","The Spread of the Plague"
-"ui.tutorials.mechanics.repairingGear.description","Visit a blacksmith to repair your gear.","Visit a blacksmith to repair your gear."
-"ui.tutorials.mechanics.repairingGear.title","Repairing","Repairing"
+حرق المصادر الممزقة سيؤدي إلى مفاسد أقل."
+"ui.tutorials.mechanics.plagueOutbreaks.title","The Spread of the Plague","انتشار الوباء"
+"ui.tutorials.mechanics.repairingGear.description","Visit a blacksmith to repair your gear.","قم بزيارة الحداد لإصلاح عتادك."
+"ui.tutorials.mechanics.repairingGear.title","Repairing","الإصلاح"
 "ui.tutorials.mechanics.respawning.description","Upon death, you are spoken anew at your last <color=#F2E6BD>Whisper</color>. 
 
-Every death reduces your gear's durability.","Upon death, you are spoken anew at your last <color=#F2E6BD>Whisper</color>. 
+Every death reduces your gear's durability.","عند الموت، يتم استحضارك من جديد عند آخر <color=#F2E6BD>همسة</color> زرتها.
 
-Every death reduces your gear's durability."
-"ui.tutorials.mechanics.respawning.title","Death’s Toll","Death’s Toll"
-"ui.tutorials.mechanics.runes.controls1.action","Ready Rune Hand","Ready Rune Hand"
-"ui.tutorials.mechanics.runes.controls1.actionalt","Select Rune","Select Rune"
-"ui.tutorials.mechanics.runes.controls1.binding","[ohspecial], [mhspecial] <s>or</s> [utility] <os>(Hold)</os>","[ohspecial], [mhspecial] <s>or</s> [utility] <os>(Hold)</os>"
-"ui.tutorials.mechanics.runes.controls1.bindingalt","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4]","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4]"
-"ui.tutorials.mechanics.runes.controls2.action","Perform Rune","Perform Rune"
-"ui.tutorials.mechanics.runes.controls2.actionalt","Perform <o>Selected</o> Rune","Perform <o>Selected</o> Rune"
-"ui.tutorials.mechanics.runes.controls2.binding","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4]","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4]"
+كل موت يقلل من متانة عتادك."
+"ui.tutorials.mechanics.respawning.title","Death’s Toll","ثمن الموت"
+"ui.tutorials.mechanics.runes.controls1.action","Ready Rune Hand","تجهيز يد الرون"
+"ui.tutorials.mechanics.runes.controls1.actionalt","Select Rune","تحديد الرون"
+"ui.tutorials.mechanics.runes.controls1.binding","[ohspecial], [mhspecial] <s>or</s> [utility] <os>(Hold)</os>","[ohspecial], [mhspecial] <s>أو</s> [utility] <os>(استمرار)</os>"
+"ui.tutorials.mechanics.runes.controls1.bindingalt","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4]","[key_special_1],[key_special_2],[key_special_3] <s>أو</s> [key_special_4]"
+"ui.tutorials.mechanics.runes.controls2.action","Perform Rune","تنفيذ الرون"
+"ui.tutorials.mechanics.runes.controls2.actionalt","Perform <o>Selected</o> Rune","تنفيذ الرون <o>المحدد</o>"
+"ui.tutorials.mechanics.runes.controls2.binding","[key_special_1],[key_special_2],[key_special_3] <s>or</s> [key_special_4]","[key_special_1],[key_special_2],[key_special_3] <s>أو</s> [key_special_4]"
 "ui.tutorials.mechanics.runes.controls2.bindingalt","[rune_attack]","[rune_attack]"
-"ui.tutorials.mechanics.runes.controls3.actionalt","Toggle Rune Hand","Toggle Rune Hand"
-"ui.tutorials.mechanics.runes.controls3.bindingalt","[keyboard_toggle_runes] <s><o>(Tap</o> or <o>Hold)</o></s>","[keyboard_toggle_runes] <s><o>(Tap</o> or <o>Hold)</o></s>"
+"ui.tutorials.mechanics.runes.controls3.actionalt","Toggle Rune Hand","تبديل يد الرون"
+"ui.tutorials.mechanics.runes.controls3.bindingalt","[keyboard_toggle_runes] <s><o>(Tap</o> or <o>Hold)</o></s>","[keyboard_toggle_runes] <s><o>(نقر</o> أو <o>استمرار)</o></s>"
 "ui.tutorials.mechanics.runes.description","Runes are powerful special [!sHighlight]abilities[/s].
 
 Most Runes can be performed using [IconFocus].
-[!sSubtext]Gain [IconFocus] from attacks or parries.[/s]","Runes are powerful special [!sHighlight]abilities[/s].
+[!sSubtext]Gain [IconFocus] from attacks or parries.[/s]","الرون هي [!sHighlight]قدرات[/s] خاصة قوية.
 
-Most Runes can be performed using [IconFocus].
-[!sSubtext]Gain [IconFocus] from attacks or parries.[/s]"
-"ui.tutorials.mechanics.runes.title","Runes","Runes"
-"ui.tutorials.mechanics.shoulderBarge.description","While [!sHeavy][!iWeight] Heavy[/s], temporarily stagger nearby enemies with a [!sHighlight][action_shoulder_barge][/s].","While [!sHeavy][!iWeight] Heavy[/s], temporarily stagger nearby enemies with a [!sHighlight][action_shoulder_barge][/s]."
-"ui.tutorials.mechanics.shoulderBarge.title","Shoulder Barge","Shoulder Barge"
-"ui.tutorials.mechanics.utilityRunes.controls1.action","Ready Utility Runes","Ready Utility Runes"
-"ui.tutorials.mechanics.utilityRunes.controls1.binding","[utility] <os>(Hold)</os>","[utility] <os>(Hold)</os>"
+يمكن تنفيذ معظم الرون باستخدام [IconFocus].
+[!sSubtext]اكتسب [IconFocus] من الهجمات أو الصد المتقن.[/s]"
+"ui.tutorials.mechanics.runes.title","Runes","الرون"
+"ui.tutorials.mechanics.shoulderBarge.description","While [!sHeavy][!iWeight] Heavy[/s], temporarily stagger nearby enemies with a [!sHighlight][action_shoulder_barge][/s].","أثناء فئة الوزن [!sHeavy][!iWeight] ثقيل[/s]، يمكنك ترنيح الأعداء القريبين مؤقتاً باستخدام [!sHighlight][action_shoulder_barge][/s]."
+"ui.tutorials.mechanics.shoulderBarge.title","Shoulder Barge","دفعة بالكتف"
+"ui.tutorials.mechanics.utilityRunes.controls1.action","Ready Utility Runes","تجهيز رُون النفعية"
+"ui.tutorials.mechanics.utilityRunes.controls1.binding","[utility] <os>(Hold)</os>","[utility] <os>(استمرار)</os>"
 "ui.tutorials.mechanics.utilityRunes.description","You begin with a [!sHighlight]Heal[/s] Utility Rune equipped. This rune allows you to heal by using focus [utility] + [key_special_1].
 
 Utility Runes are character bound abilities which [!sHighlight]aid[/s] and [!sHighlight]assist[/s] in your journey.
 
 [!sHeadingMuted]Equipping[/s]
-You can also find other Utility Runes throughout the game, which can be equipped at an Enchanter.","You begin with a [!sHighlight]Heal[/s] Utility Rune equipped. This rune allows you to heal by using focus [utility] + [key_special_1].
+You can also find other Utility Runes throughout the game, which can be equipped at an Enchanter.","تبدأ برون نفعية [!sHighlight]شفاء[/s] مجهزة. يتيح لك هذا الرون الشفاء باستخدام التركيز [utility] + [key_special_1].
 
-Utility Runes are character bound abilities which [!sHighlight]aid[/s] and [!sHighlight]assist[/s] in your journey.
+رُون النفعية هي قدرات مرتبطة بالشخصية تقوم [!sHighlight]بمساعدتك[/s] و[!sHighlight]مساندتك[/s] في رحلتك.
 
-[!sHeadingMuted]Equipping[/s]
-You can also find other Utility Runes throughout the game, which can be equipped at an Enchanter."
-"ui.tutorials.mechanics.utilityRunes.title","Heal Rune","Heal Rune"
+[!sHeadingMuted]التجهيز[/s]
+يمكنك أيضاً العثور على رُون نفعية أخرى طوال اللعبة، والتي يمكن تجهيزها لدى معزز سحري."
+"ui.tutorials.mechanics.utilityRunes.title","Heal Rune","رون الشفاء"
 "ui.tutorials.mechanics.weightClass.description","Weight is divided into classes based on the total weight of equipped gear. [IconEquipLoad] increases class limits.
-[!ssubtext]Broken gear will not contribute weight.[/s]","Weight is divided into classes based on the total weight of equipped gear. [IconEquipLoad] increases class limits.
-[!ssubtext]Broken gear will not contribute weight.[/s]"
+[!ssubtext]Broken gear will not contribute weight.[/s]","يتم تقسيم الوزن إلى فئات بناءً على الوزن الإجمالي للعتاد المجهز. يرفع [IconEquipLoad] حدود الفئات.
+[!ssubtext]العتاد المكسور لا يضيف أي وزن.[/s]"
 "ui.tutorials.mechanics.weightClass.descriptionDodging","Each weight class changes the [!sHighlight][action_dodge][/s] performed.
 [!sbpicon][!sPositive][!iWeight][/s][/s][!sbpbody]Quickstep.[/s][/s]
 [!sbpicon][!sHighlight][!iWeight][/s][/s][!sbpbody]Roll.[/s][/s]
 [!sbpicon][!sNegative][!iWeight][/s][/s][!sbpbody]Slow Roll. Can [!sHighlight][action_shoulder_barge][/s].
-[!ssubtext]Shoulder barge temporarily staggers enemies.[/s][/s][/s]","Each weight class changes the [!sHighlight][action_dodge][/s] performed.
-[!sbpicon][!sPositive][!iWeight][/s][/s][!sbpbody]Quickstep.[/s][/s]
-[!sbpicon][!sHighlight][!iWeight][/s][/s][!sbpbody]Roll.[/s][/s]
-[!sbpicon][!sNegative][!iWeight][/s][/s][!sbpbody]Slow Roll. Can [!sHighlight][action_shoulder_barge][/s].
-[!ssubtext]Shoulder barge temporarily staggers enemies.[/s][/s][/s]"
-"ui.tutorials.mechanics.weightClass.title","Weight Class","Weight Class"
-"ui.tutorials.mechanics.worldCleanse.description","The Seneschal has unlocked the ability to cleanse the [!sPlagued]Pestilence[/s] from Isola Sacra.","The Seneschal has unlocked the ability to cleanse the [!sPlagued]Pestilence[/s] from Isola Sacra."
-"ui.tutorials.mechanics.worldCleanse.title","World Cleanse","World Cleanse"
+[!ssubtext]Shoulder barge temporarily staggers enemies.[/s][/s][/s]","تغير كل فئة وزن حركة [!sHighlight][action_dodge][/s] المنفذة.
+[!sbpicon][!sPositive][!iWeight][/s][/s][!sbpbody]خطوة سريعة.[/s][/s]
+[!sbpicon][!sHighlight][!iWeight][/s][/s][!sbpbody]دحرجة.[/s][/s]
+[!sbpicon][!sNegative][!iWeight][/s][/s][!sbpbody]دحرجة بطيئة. يمكن تنفيذ [!sHighlight][action_shoulder_barge][/s].
+[!ssubtext]الدفعة بالكتف ترنح الأعداء مؤقتاً.[/s][/s][/s]"
+"ui.tutorials.mechanics.weightClass.title","Weight Class","فئة الوزن"
+"ui.tutorials.mechanics.worldCleanse.description","The Seneschal has unlocked the ability to cleanse the [!sPlagued]Pestilence[/s] from Isola Sacra.","فتح السينيشال القدرة على تطهير [!sPlagued]الوباء[/s] من إيزولا ساكرا."
+"ui.tutorials.mechanics.worldCleanse.title","World Cleanse","تطهير العالم"
 "ui.tutorials.multiplayer.advancedstatuseffects.description","You can combine different [!sHighlight]elemental status effects[/s].
 
 [!sHighlight]Searing[/s] - Dealing Fire damage to an infected target will increase fire damage taken
 [!sHighlight]Overload[/s] - Dealing Lightning damage to a burned target will create a powerful lightning AoE
-[!sHighlight]Fester[/s] - Dealing Plague damage to a bleeding target will reduce enemy buildup recovery speed","You can combine different [!sHighlight]elemental status effects[/s].
+[!sHighlight]Fester[/s] - Dealing Plague damage to a bleeding target will reduce enemy buildup recovery speed","يمكنك الجمع بين مختلف [!sHighlight]تأثيرات الحالة العنصرية[/s].
 
-[!sHighlight]Searing[/s] - Dealing Fire damage to an infected target will increase fire damage taken
-[!sHighlight]Overload[/s] - Dealing Lightning damage to a burned target will create a powerful lightning AoE
-[!sHighlight]Fester[/s] - Dealing Plague damage to a bleeding target will reduce enemy buildup recovery speed"
-"ui.tutorials.multiplayer.advancedstatuseffects.title","Advanced Status Effects","Advanced Status Effects"
+[!sHighlight]الحرق الشديد[/s] - إلحاق ضرر ناري بهدف مصاب بالعدوى سيزيد من الضرر الناري المتلقى
+[!sHighlight]الحمل الزائد[/s] - إلحاق ضرر صاعق بهدف محترق سينشئ صاعقة قوية واسعة النطاق
+[!sHighlight]التقيح[/s] - إلحاق ضرر الوباء بهدف ينزف سيقلل من سرعة تعافي الأعداء من تراكم الحالات"
+"ui.tutorials.multiplayer.advancedstatuseffects.title","Advanced Status Effects","تأثيرات الحالة المتقدمة"
 "ui.tutorials.multiplayer.combatbalance.description","When multiple Cerim travel together within a realm, [!sHighlight]more enemies will spawn[/s]; and the health, damage and poise resistance values of enemies will increase.
 
-If you can see another Cerim's [!sHighlight]portrait[/s], that means they're part of your group. Cerim who are far away on a realm do not affect local enemy spawning.","When multiple Cerim travel together within a realm, [!sHighlight]more enemies will spawn[/s]; and the health, damage and poise resistance values of enemies will increase.
+If you can see another Cerim's [!sHighlight]portrait[/s], that means they're part of your group. Cerim who are far away on a realm do not affect local enemy spawning.","عندما يسافر عدة سيريم معاً داخل عالم، [!sHighlight]سيظهر المزيد من الأعداء[/s]؛ وستزداد قيم الصحة والضرر ومقاومة التوازن للأعداء.
 
-If you can see another Cerim's [!sHighlight]portrait[/s], that means they're part of your group. Cerim who are far away on a realm do not affect local enemy spawning."
-"ui.tutorials.multiplayer.combatbalance.title","The More the Merrier","The More the Merrier"
+إذا كان بإمكانك رؤية [!sHighlight]صورة شخصية[/s] لسيريم آخر، فهذا يعني أنه جزء من مجموعتك. السيريم البعيدون في العالم لا يؤثرون على ظهور الأعداء محلياً."
+"ui.tutorials.multiplayer.combatbalance.title","The More the Merrier","كلما زاد العدد زادت المتعة"
 "ui.tutorials.multiplayer.comboattacks.description","While in combat, your [!sHighlight]Combo Meter[/s] keeps track of the number of hits and total damage you deal to enemies within a short period. 
 
-You can regain a small amount of [!sHighlight]health[/s] based on the number of hits dealt when the combo is broken.","While in combat, your [!sHighlight]Combo Meter[/s] keeps track of the number of hits and total damage you deal to enemies within a short period. 
+You can regain a small amount of [!sHighlight]health[/s] based on the number of hits dealt when the combo is broken.","أثناء القتال، يتتبع [!sHighlight]مقياس التتابع[/s] عدد الضربات والضرر الإجمالي الذي تلحقه بالأعداء خلال فترة وجيزة.
 
-You can regain a small amount of [!sHighlight]health[/s] based on the number of hits dealt when the combo is broken."
-"ui.tutorials.multiplayer.comboattacks.title","Combo Attacks","Combo Attacks"
+يمكنك استعادة مقدار ضئيل من [!sHighlight]الصحة[/s] بناءً على عدد الضربات الموجهة عند انكسار التتابع."
+"ui.tutorials.multiplayer.comboattacks.title","Combo Attacks","الهجمات المتتابعة"
 "ui.tutorials.multiplayer.compendium.description","In the [!sHighlight]Compendium[/s] you can find collected knowledge and memories from all Cerim on a realm.
 
-Every tutorial or cinematic scene that has been unlocked by any player can be revisited in the Compendium. Eventually, you will be able to track items discovered and enemies encountered as well.","In the [!sHighlight]Compendium[/s] you can find collected knowledge and memories from all Cerim on a realm.
+Every tutorial or cinematic scene that has been unlocked by any player can be revisited in the Compendium. Eventually, you will be able to track items discovered and enemies encountered as well.","في [!sHighlight]الموسوعة[/s] يمكنك العثور على المعارف والذكريات المجمعة من جميع السيريم في العالم.
 
-Every tutorial or cinematic scene that has been unlocked by any player can be revisited in the Compendium. Eventually, you will be able to track items discovered and enemies encountered as well."
-"ui.tutorials.multiplayer.compendium.title","The Compendium ","The Compendium "
+كل برنامج تعليمي أو مشهد سينمائي تم فتحه بواسطة أي لاعب يمكن إعادة مشاهدته في الموسوعة. في النهاية، ستتمكن من تتبع العناصر المكتشفة والأعداء الذين تمت مواجهتهم أيضاً."
+"ui.tutorials.multiplayer.compendium.title","The Compendium ","الموسوعة"
 "ui.tutorials.multiplayer.cruciblecoop.description","The Crucible is an <color=#F2E6BD>ancient training ground</color> where Cerim can undertake various trials and challenges.
 
 Every time you enter a trial within the Crucible, you will find a different series of chambers. 
 
 You must <color=#F2E6BD>clear all the enemies</color> from each chamber in order to advance to the next one. 
 
-<color=#F2E6BD>Dying</color> in the Crucible will return you to the Atrium, and you must begin again from the start. If there are other Cerim still inside the trial, you must wait for them to die or complete it before you can start again.                  ","The Crucible is an <color=#F2E6BD>ancient training ground</color> where Cerim can undertake various trials and challenges.
+<color=#F2E6BD>Dying</color> in the Crucible will return you to the Atrium, and you must begin again from the start. If there are other Cerim still inside the trial, you must wait for them to die or complete it before you can start again.                  ","البوتقة هي <color=#F2E6BD>ساحة تدريب قديمة</color> يمكن للسيريم خوض مختلف التجارب والتحديات فيها.
 
-Every time you enter a trial within the Crucible, you will find a different series of chambers. 
+في كل مرة تدخل فيها تجربة داخل البوتقة، ستجد سلسلة مختلفة من الغرف.
 
-You must <color=#F2E6BD>clear all the enemies</color> from each chamber in order to advance to the next one. 
+يجب عليك <color=#F2E6BD>القضاء على جميع الأعداء</color> في كل غرفة للتقدم إلى الغرفة التالية.
 
-<color=#F2E6BD>Dying</color> in the Crucible will return you to the Atrium, and you must begin again from the start. If there are other Cerim still inside the trial, you must wait for them to die or complete it before you can start again.                  "
-"ui.tutorials.multiplayer.cruciblecoop.title","The Crucible Together","The Crucible Together"
+<color=#F2E6BD>الموت</color> في البوتقة سيعيدك إلى البهو، وعليك البدء مجدداً من البداية. إذا كان هناك سيريم آخرون لا يزالون داخل التجربة، فيجب عليك الانتظار حتى يموتوا أو يكملوها قبل أن تتمكن من البدء مجدداً."
+"ui.tutorials.multiplayer.cruciblecoop.title","The Crucible Together","البوتقة معاً"
 "ui.tutorials.multiplayer.houseguests.description","Other Cerim must be [!sHighlight]invited[/s] into your home.
 
-Guests may come and go freely from any house they are invited to. They can also add or remove furniture, and store or collect items from chests within the house.","Other Cerim must be [!sHighlight]invited[/s] into your home.
+Guests may come and go freely from any house they are invited to. They can also add or remove furniture, and store or collect items from chests within the house.","يجب [!sHighlight]دعوة[/s] السيريم الآخرين إلى منزلك.
 
-Guests may come and go freely from any house they are invited to. They can also add or remove furniture, and store or collect items from chests within the house."
-"ui.tutorials.multiplayer.houseguests.title","House Guests","House Guests"
+يمكن للضيوف الدخول والخروج بحرية من أي منزل تمت دعوتهم إليه. يمكنهم أيضاً إضافة الأثاث أو إزالته، وتخزين العناصر أو جمعها من الصناديق داخل المنزل."
+"ui.tutorials.multiplayer.houseguests.title","House Guests","ضيوف المنزل"
 "ui.tutorials.multiplayer.researchpapers.description","Research Papers can be used to unlock [!sHighlight]blueprints[/s] at a [!sHighlight]Scribe Table[/s]. 
 
-Once you have unlocked a blueprint, you can craft the item at a [!sHighlight]crafting station[/s].","Research Papers can be used to unlock [!sHighlight]blueprints[/s] at a [!sHighlight]Scribe Table[/s]. 
+Once you have unlocked a blueprint, you can craft the item at a [!sHighlight]crafting station[/s].","يمكن استخدام أوراق البحث لفتح [!sHighlight]المخططات[/s] عند [!sHighlight]طاولة الكاتب[/s].
 
-Once you have unlocked a blueprint, you can craft the item at a [!sHighlight]crafting station[/s]."
-"ui.tutorials.multiplayer.researchpapers.title","Research Papers","Research Papers"
+بمجرد فتح المخطط، يمكنك صناعة العنصر في [!sHighlight]محطة الصناعة[/s]."
+"ui.tutorials.multiplayer.researchpapers.title","Research Papers","أوراق البحث"
 "ui.tutorials.multiplayer.revival.description","When you fall in battle you can be [!sHighlight]spoken anew[/s] by your fellow Cerim. 
  
 Reviving a companion will cost [!sHighlight]up to 50% of your HP[/s].
 
-Multiple Cerim can also team up to revive one companion.","When you fall in battle you can be [!sHighlight]spoken anew[/s] by your fellow Cerim. 
+Multiple Cerim can also team up to revive one companion.","عندما تسقط في المعركة يمكن لرفاقك السيريم [!sHighlight]أن يبعثوك من جديد[/s].
  
-Reviving a companion will cost [!sHighlight]up to 50% of your HP[/s].
+إنعاش رفيق سيكلف [!sHighlight]ما يصل إلى 50% من صحتك[/s].
 
-Multiple Cerim can also team up to revive one companion."
-"ui.tutorials.multiplayer.revival.title","Revival","Revival"
+يمكن لعدة سيريم أيضاً التعاون لإنعاش رفيق واحد."
+"ui.tutorials.multiplayer.revival.title","Revival","الإنعاش"
 "ui.tutorials.multiplayer.scribetables.description","At [!sHighlight]Scribe Tables[/s], you can learn how to craft items via [!sHighlight]research papers[/s].
 
 Items previously discovered throughout your journey can be chosen to be researched, or you can choose to research a random item within a specific category. Researching an item unlocks the ability to [!sHighlight]craft it[/s] at its respective crafting station.
 
-You can unlock new items at the Scribe Table by upgrading Maker Danos' Architecture Study.","At [!sHighlight]Scribe Tables[/s], you can learn how to craft items via [!sHighlight]research papers[/s].
+You can unlock new items at the Scribe Table by upgrading Maker Danos' Architecture Study.","عند [!sHighlight]طاولات الكاتب[/s]، يمكنك تعلّم كيفية صناعة العناصر عبر [!sHighlight]أوراق البحث[/s].
 
-Items previously discovered throughout your journey can be chosen to be researched, or you can choose to research a random item within a specific category. Researching an item unlocks the ability to [!sHighlight]craft it[/s] at its respective crafting station.
+يمكن اختيار العناصر المكتشفة سابقاً في رحلتك للبحث عنها، أو يمكنك اختيار بحث عنصر عشوائي ضمن فئة محددة. بحث العنصر يفتح القدرة على [!sHighlight]صناعته[/s] في محطة الصناعة الخاصة به.
 
-You can unlock new items at the Scribe Table by upgrading Maker Danos' Architecture Study."
-"ui.tutorials.multiplayer.scribetables.title","Scribe Tables","Scribe Tables"
+يمكنك فتح عناصر جديدة عند طاولة الكاتب من خلال ترقية مكتب الصانع دانوس المعماري."
+"ui.tutorials.multiplayer.scribetables.title","Scribe Tables","طاولات الكاتب"
 "ui.tutorials.multiplayer.story.description","<color=#F2E6BD>Quests</color> can be advanced by any Cerim on a realm. All story progress is shared.
 
 Check your <color=#F2E6BD>quest log</color> in the menu to view quest updates and map markers. 
 
-If you miss a tutorial or cinematic scene, it can be revisited at any time in the <color=#F2E6BD>Compendium</color>.","<color=#F2E6BD>Quests</color> can be advanced by any Cerim on a realm. All story progress is shared.
+If you miss a tutorial or cinematic scene, it can be revisited at any time in the <color=#F2E6BD>Compendium</color>.","يمكن إحراز تقدم في <color=#F2E6BD>المهام</color> بواسطة أي سيريم في العالم. تتم مشاركة كل تقدم القصة.
 
-Check your <color=#F2E6BD>quest log</color> in the menu to view quest updates and map markers. 
+تحقق من <color=#F2E6BD>سجل المهام</color> في القائمة للاطلاع على تحديثات المهام وعلامات الخريطة.
 
-If you miss a tutorial or cinematic scene, it can be revisited at any time in the <color=#F2E6BD>Compendium</color>."
-"ui.tutorials.multiplayer.story.title","Story","Story"
+إذا فاتك برنامج تعليمي أو مشهد سينمائي، فيمكنك إعادة مشاهدته في أي وقت في <color=#F2E6BD>الموسوعة</color>."
+"ui.tutorials.multiplayer.story.title","Story","القصة"
 "ui.tutorials.multiplayer.trading.description","You can interact with fellow Cerim by pressing [interact].
 
-Press [!sHighlight]trade[/s] to exchange or gift items. Press [!sHighlight]inspect[/s] to view another Cerim's profile. ","You can interact with fellow Cerim by pressing [interact].
+Press [!sHighlight]trade[/s] to exchange or gift items. Press [!sHighlight]inspect[/s] to view another Cerim's profile. ","يمكنك التفاعل مع رفاقك السيريم بالضغط على [interact].
 
-Press [!sHighlight]trade[/s] to exchange or gift items. Press [!sHighlight]inspect[/s] to view another Cerim's profile. "
-"ui.tutorials.multiplayer.trading.title","Trading","Trading"
-"ui.tutorials.notifications.systems.attributeRequirements.description","Item is [!sNegative]weakened[/s] as its requirements are [!sHighlight]unmet[/s].","Item is [!sNegative]weakened[/s] as its requirements are [!sHighlight]unmet[/s]."
-"ui.tutorials.notifications.systems.failEquipRing.description","[!sNegative]Failed[/s] to equip. Same ring already equipped.","[!sNegative]Failed[/s] to equip. Same ring already equipped."
-"ui.tutorials.notifications.systems.fullInventory.description","[!sHighlight]{}[/s] inventory is [!sHighlight]full[/s].","[!sHighlight]{}[/s] inventory is [!sHighlight]full[/s]."
-"ui.tutorials.notifications.systems.missingItemRequirements.description","[!sNegative]Failed[/s] to equip. Gear requirements not met.","[!sNegative]Failed[/s] to equip. Gear requirements not met."
-"ui.tutorials.notifications.systems.onlyOwnerManages.description","Only [!sHighlight]owners[/s] can manage the realm.","Only [!sHighlight]owners[/s] can manage the realm."
+اضغط على [!sHighlight]تبادل[/s] لتبادل العناصر أو إهدائها. اضغط على [!sHighlight]فحص[/s] لعرض ملف شخصي لسيريم آخر."
+"ui.tutorials.multiplayer.trading.title","Trading","التبادل"
+"ui.tutorials.notifications.systems.attributeRequirements.description","Item is [!sNegative]weakened[/s] as its requirements are [!sHighlight]unmet[/s].","تم [!sNegative]إضعاف[/s] العنصر لأن متطلباته [!sHighlight]غير مستوفاة[/s]."
+"ui.tutorials.notifications.systems.failEquipRing.description","[!sNegative]Failed[/s] to equip. Same ring already equipped.","[!sNegative]فشل[/s] التجهيز. الخاتم نفسه مجهز بالفعل."
+"ui.tutorials.notifications.systems.fullInventory.description","[!sHighlight]{}[/s] inventory is [!sHighlight]full[/s].","مخزون [!sHighlight]{}[/s] [!sHighlight]ممتلئ[/s]."
+"ui.tutorials.notifications.systems.missingItemRequirements.description","[!sNegative]Failed[/s] to equip. Gear requirements not met.","[!sNegative]فشل[/s] التجهيز. متطلبات العتاد غير مستوفاة."
+"ui.tutorials.notifications.systems.onlyOwnerManages.description","Only [!sHighlight]owners[/s] can manage the realm.","[!sHighlight]المالكون[/s] فقط يمكنهم إدارة العالم."
 "ui.tutorials.shipTutorial.combatBasics.description","<nobr><color=#F2E6BD>[action_attack]</color></nobr> using a mainhand weapon.
 Tap <nobr><color=#F2E6BD>[action_dodge]</color></nobr> to evade enemies.
 
 Unleash a <nobr><color=#F2E6BD>[action_charged_attack]</color></nobr> to deal extra damage.
 
-<color=#808080>These actions consume [IconStamina].</color>","<nobr><color=#F2E6BD>[action_attack]</color></nobr> using a mainhand weapon.
-Tap <nobr><color=#F2E6BD>[action_dodge]</color></nobr> to evade enemies.
+<color=#808080>These actions consume [IconStamina].</color>","<nobr><color=#F2E6BD>[action_attack]</color></nobr> باستخدام سلاح اليد الرئيسية.
+انقر على <nobr><color=#F2E6BD>[action_dodge]</color></nobr> لتفادي الأعداء.
 
-Unleash a <nobr><color=#F2E6BD>[action_charged_attack]</color></nobr> to deal extra damage.
+أطلق <nobr><color=#F2E6BD>[action_charged_attack]</color></nobr> لإلحاق ضرر إضافي.
 
-<color=#808080>These actions consume [IconStamina].</color>"
-"ui.tutorials.shipTutorial.combatBasics.title","Basics","Basics"
+<color=#808080>هذه الإجراءات تستهلك [IconStamina].</color>"
+"ui.tutorials.shipTutorial.combatBasics.title","Basics","الأساسيات"
 "ui.tutorials.shipTutorial.combatParry.description","Learn to exploit enemy attack styles.
 
 Tap [!sHighlight][action_parry][/s] just before an enemy attack lands to deflect the attack.
 
-Successfully parrying will grant [IconFocus] and [!sHighlight]stagger[/s] most enemies.","Learn to exploit enemy attack styles.
+Successfully parrying will grant [IconFocus] and [!sHighlight]stagger[/s] most enemies.","تعلّم استغلال أنماط هجوم الأعداء.
 
-Tap [!sHighlight][action_parry][/s] just before an enemy attack lands to deflect the attack.
+انقر على [!sHighlight][action_parry][/s] قبل وصول هجوم العدو مباشرة لرد الهجوم.
 
-Successfully parrying will grant [IconFocus] and [!sHighlight]stagger[/s] most enemies."
-"ui.tutorials.shipTutorial.combatParry.title","Parrying","Parrying"
+الصد المتقن بنجاح سيمنح [IconFocus] و[!sHighlight]يرنح[/s] معظم الأعداء."
+"ui.tutorials.shipTutorial.combatParry.title","Parrying","الصد المتقن"
 "ui.tutorials.shipTutorial.inventory.description","Open the <nobr><color=#5B9968>[action_inventory]</color></nobr> to equip items and manage collected resources.
 
-The <nobr>[start] <color=#F2E6BD>Menu Selector</color></nobr> also offers quick access to the Inventory.","Open the <nobr><color=#5B9968>[action_inventory]</color></nobr> to equip items and manage collected resources.
+The <nobr>[start] <color=#F2E6BD>Menu Selector</color></nobr> also offers quick access to the Inventory.","افتح <nobr><color=#5B9968>[action_inventory]</color></nobr> لتجهيز العناصر وإدارة المصادر المجمعة.
 
-The <nobr>[start] <color=#F2E6BD>Menu Selector</color></nobr> also offers quick access to the Inventory."
-"ui.tutorials.shipTutorial.inventory.title","Inventory","Inventory"
-"ui.tutorials.shipTutorial.sidling.side.description","Walk towards walls to <color=#F2E6BD>[action_sidle]</color>.","Walk towards walls to <color=#F2E6BD>[action_sidle]</color>."
-"ui.tutorials.shipTutorial.sidling.side.title","Sidling","Sidling"
-"ui.tutorials.shipTutorial.sprintJump.side.description","<color=#F2E6BD>Sprint off</color> surfaces or ledges to <color=#F2E6BD>jump</color> and get across small gaps.","<color=#F2E6BD>Sprint off</color> surfaces or ledges to <color=#F2E6BD>jump</color> and get across small gaps."
-"ui.tutorials.shipTutorial.sprintJump.side.title","Jumping","Jumping"
+يوفر <nobr>[start] <color=#F2E6BD>محدد القائمة</color></nobr> أيضاً وصولاً سريعاً إلى المخزون."
+"ui.tutorials.shipTutorial.inventory.title","Inventory","المخزون"
+"ui.tutorials.shipTutorial.sidling.side.description","Walk towards walls to <color=#F2E6BD>[action_sidle]</color>.","امشِ باتجاه الجدران من أجل <color=#F2E6BD>[action_sidle]</color>."
+"ui.tutorials.shipTutorial.sidling.side.title","Sidling","المحاذاة والتحرك بحذر"
+"ui.tutorials.shipTutorial.sprintJump.side.description","<color=#F2E6BD>Sprint off</color> surfaces or ledges to <color=#F2E6BD>jump</color> and get across small gaps.","<color=#F2E6BD>اركض بسرعة نحو</color> الحواف أو المنصات <color=#F2E6BD>للقفز</color> واجتياز الفجوات الصغيرة."
+"ui.tutorials.shipTutorial.sprintJump.side.title","Jumping","القفز"
 "ui.tutorials.systems.bountiesChallenges.description","Hunt down bounty targets or complete challenges to claim [!sHighlight]daily[/s] and [!sHighlight]weekly[/s] rewards.
 
 Pin activities from the [!sHighlight]Activity[/s] screen and then use the [!sHighlight][action_activities_log][/s] to track progress of accepted activities.
@@ -2598,22 +2598,22 @@ Upon completion, visit Randolph to claim your rewards.
 [!sSubtext]Activities can be cancelled at any time.[/s]
 
 [!sHeadingMuted][IconBounty] Bounty Markers[/s]
-Active bounties can be located on the map and next to targets.","Hunt down bounty targets or complete challenges to claim [!sHighlight]daily[/s] and [!sHighlight]weekly[/s] rewards.
+Active bounties can be located on the map and next to targets.","تعقّب أهداف مكافآت الصيد أو أكمل التحديات للمطالبة بمكافآت [!sHighlight]يومية[/s] و[!sHighlight]أسبوعية[/s].
 
-Pin activities from the [!sHighlight]Activity[/s] screen and then use the [!sHighlight][action_activities_log][/s] to track progress of accepted activities.
+ثبّت الأنشطة من شاشة [!sHighlight]النشاط[/s] ثم استخدم [!sHighlight][action_activities_log][/s] لتتبع تقدم الأنشطة المقبولة.
 
-Upon completion, visit Randolph to claim your rewards.
-[!sSubtext]Activities can be cancelled at any time.[/s]
+عند الاكتمال، قم بزيارة راندولف للمطالبة بمكافآتك.
+[!sSubtext]يمكن إلغاء الأنشطة في أي وقت.[/s]
 
-[!sHeadingMuted][IconBounty] Bounty Markers[/s]
-Active bounties can be located on the map and next to targets."
-"ui.tutorials.systems.bountiesChallenges.title","Bounties & Challenges","Bounties & Challenges"
+[!sHeadingMuted][IconBounty] علامات مكافآت الصيد[/s]
+يمكن تحديد مواقع مكافآت الصيد النشطة على الخريطة وبجوار الأهداف."
+"ui.tutorials.systems.bountiesChallenges.title","Bounties & Challenges","مكافآت الصيد والتحديات"
 "ui.tutorials.systems.burning.description","Burn resources to [!sHighlight]increase[/s] an outbreak's plague level.
 
-A higher level means more challenging corruptions, but also greater rewards.","Burn resources to [!sHighlight]increase[/s] an outbreak's plague level.
+A higher level means more challenging corruptions, but also greater rewards.","احرق المصادر [!sHighlight]لزيادة[/s] مستوى وباء التفشي.
 
-A higher level means more challenging corruptions, but also greater rewards."
-"ui.tutorials.systems.burning.title","Burning Items","Burning Items"
+المستوى الأعلى يعني مفاسد أكثر تحدياً، ولكن أيضاً مكافآت أكبر."
+"ui.tutorials.systems.burning.title","Burning Items","حرق العناصر"
 "ui.tutorials.systems.comfort.description","Increase your <color=#F2E6BD>Comfort Level</color> to gain various benefits when you sleep in your bed, by placing <color=#F2E6BD>housing items</color> in your home. Higher quality housing items will give higher levels of comfort. You can get bonus comfort points by placing different items in your home.
 
 A higher comfort level will grant increased and additional benefits every time you sleep.
@@ -2623,100 +2623,100 @@ A higher comfort level will grant increased and additional benefits every time y
 [!sHighlight]Comfortable[/s] (50) - Max [IconHealth], Max [IconStamina], Max [IconFocus]
 [!sHighlight]Cozy[/s] (100) - Increased value of benefits
 [!sHighlight]Luxurious[/s] (150) - Increased value of benefits
-[!sHighlight]Opulent[/s] (250) - Increased value of benefits","Increase your <color=#F2E6BD>Comfort Level</color> to gain various benefits when you sleep in your bed, by placing <color=#F2E6BD>housing items</color> in your home. Higher quality housing items will give higher levels of comfort. You can get bonus comfort points by placing different items in your home.
+[!sHighlight]Opulent[/s] (250) - Increased value of benefits","ارفع <color=#F2E6BD>مستوى الراحة</color> للحصول على فوائد متنوعة عند النوم في سريرك، عن طريق وضع <color=#F2E6BD>عناصر المنزل</color> في بيتك. تمنح عناصر المنزل ذات الجودة الأعلى مستويات راحة أعلى. يمكنك الحصول على نقاط راحة إضافية بوضع عناصر مختلفة في منزلك.
 
-A higher comfort level will grant increased and additional benefits every time you sleep.
+سيمنح مستوى الراحة الأعلى فوائد متزايدة وإضافية في كل مرة تنام فيها.
 
-[!sHighlight]Bare[/s] (0) - Max [IconHealth]
-[!sHighlight]Basic[/s] (25) - Max [IconHealth], Max [IconStamina]
-[!sHighlight]Comfortable[/s] (50) - Max [IconHealth], Max [IconStamina], Max [IconFocus]
-[!sHighlight]Cozy[/s] (100) - Increased value of benefits
-[!sHighlight]Luxurious[/s] (150) - Increased value of benefits
-[!sHighlight]Opulent[/s] (250) - Increased value of benefits"
-"ui.tutorials.systems.comfort.name","Comfort","Comfort"
+[!sHighlight]خالٍ[/s] (0) - أقصى [IconHealth]
+[!sHighlight]أساسي[/s] (25) - أقصى [IconHealth]، أقصى [IconStamina]
+[!sHighlight]مريح[/s] (50) - أقصى [IconHealth]، أقصى [IconStamina]، أقصى [IconFocus]
+[!sHighlight]دافئ[/s] (100) - قيمة متزايدة للفوائد
+[!sHighlight]فاخر[/s] (150) - قيمة متزايدة للفوائد
+[!sHighlight]باهظ الفخامة[/s] (250) - قيمة متزايدة للفوائد"
+"ui.tutorials.systems.comfort.name","Comfort","الراحة"
 "ui.tutorials.systems.crafting.description","At crafting stations, you can use your [!sHighlight]research knowledge[/s] from [!sHighlight]Scribe Tables[/s] to craft new items, using refined materials.
-You can obtain [!sHighlight]new crafting stations[/s] through Maker Danos, either by purchasing them for your home or by upgrading vendor stalls.","At crafting stations, you can use your [!sHighlight]research knowledge[/s] from [!sHighlight]Scribe Tables[/s] to craft new items, using refined materials.
-You can obtain [!sHighlight]new crafting stations[/s] through Maker Danos, either by purchasing them for your home or by upgrading vendor stalls."
-"ui.tutorials.systems.crafting.title","Crafting","Crafting"
+You can obtain [!sHighlight]new crafting stations[/s] through Maker Danos, either by purchasing them for your home or by upgrading vendor stalls.","في محطات الصناعة، يمكنك استخدام [!sHighlight]معرفتك البحثية[/s] من [!sHighlight]طاولات الكاتب[/s] لصناعة عناصر جديدة باستخدام مواد مكررة.
+يمكنك الحصول على [!sHighlight]محطات صناعة جديدة[/s] من خلال الصانع دانوس، إما بشرائها لمنزلك أو بترقية أكشاك التجار."
+"ui.tutorials.systems.crafting.title","Crafting","الصناعة"
 "ui.tutorials.systems.crucible.description","The Crucible is an <color=#F2E6BD>ancient training ground</color> where Cerim can undertake trials and challenges.
 
 Every time you enter a trial within the Crucible, you will find a different series of chambers. 
 
 You must <color=#F2E6BD>clear all the enemies</color> from each chamber in order to advance to the next one. 
 
-<color=#F2E6BD>Dying</color> in the Crucible will return you to the Atrium, and you must begin again from the start. If there are other Cerim still inside the trial, you must wait for them to die or complete it before you can start again.                  ","The Crucible is an <color=#F2E6BD>ancient training ground</color> where Cerim can undertake trials and challenges.
+<color=#F2E6BD>Dying</color> in the Crucible will return you to the Atrium, and you must begin again from the start. If there are other Cerim still inside the trial, you must wait for them to die or complete it before you can start again.                  ","البوتقة هي <color=#F2E6BD>ساحة تدريب قديمة</color> يمكن للسيريم خوض التجارب والتحديات فيها.
 
-Every time you enter a trial within the Crucible, you will find a different series of chambers. 
+في كل مرة تدخل فيها تجربة داخل البوتقة، ستجد سلسلة مختلفة من الغرف.
 
-You must <color=#F2E6BD>clear all the enemies</color> from each chamber in order to advance to the next one. 
+يجب عليك <color=#F2E6BD>القضاء على جميع الأعداء</color> في كل غرفة للتقدم إلى الغرفة التالية.
 
-<color=#F2E6BD>Dying</color> in the Crucible will return you to the Atrium, and you must begin again from the start. If there are other Cerim still inside the trial, you must wait for them to die or complete it before you can start again.                  "
-"ui.tutorials.systems.crucible.title","The Cerim Crucible","The Cerim Crucible"
+<color=#F2E6BD>الموت</color> في البوتقة سيعيدك إلى البهو، وعليك البدء مجدداً من البداية. إذا كان هناك سيريم آخرون لا يزالون داخل التجربة، فيجب عليك الانتظار حتى يموتوا أو يكملوها قبل أن تتمكن من البدء مجدداً."
+"ui.tutorials.systems.crucible.title","The Cerim Crucible","بوتقة السيريم"
 "ui.tutorials.systems.crucibleEchoes.description","While inside the Crucible, you can collect <color=#F2E6BD>Traces and Gloamseed</color> from fallen enemies.
 
 Traces can be used to invoke effects called <color=#F2E6BD>Echoes</color> at any point during your run. Echoes bestow various temporary effects upon the player and the world. 
 
-Gloamseed can be spent elsewhere within the Crucible.","While inside the Crucible, you can collect <color=#F2E6BD>Traces and Gloamseed</color> from fallen enemies.
+Gloamseed can be spent elsewhere within the Crucible.","أثناء وجودك داخل البوتقة، يمكنك جمع <color=#F2E6BD>الآثار وبذور الغسق</color> من الأعداء الذين سقطوا.
 
-Traces can be used to invoke effects called <color=#F2E6BD>Echoes</color> at any point during your run. Echoes bestow various temporary effects upon the player and the world. 
+يمكن استخدام الآثار لاستحضار تأثيرات تُسمى <color=#F2E6BD>الأصداء</color> في أي وقت أثناء خوضك التجربة. تمنح الأصداء تأثيرات مؤقتة متنوعة للاعب والعالم.
 
-Gloamseed can be spent elsewhere within the Crucible."
-"ui.tutorials.systems.crucibleEchoes.title","Echoes","Echoes"
+يمكن إنفاق بذور الغسق في أماكن أخرى داخل البوتقة."
+"ui.tutorials.systems.crucibleEchoes.title","Echoes","الأصداء"
 "ui.tutorials.systems.danosHousing.description","You can now <color=#F2E6BD>purchase a house</color> in Sacrament. 
 
 There are several houses in the city to choose from. You can buy or sell a home by interacting with the sign posted outside. 
 
-Once you own a home, you can buy furniture, crafting equipment, and decor to customize your space.","You can now <color=#F2E6BD>purchase a house</color> in Sacrament. 
+Once you own a home, you can buy furniture, crafting equipment, and decor to customize your space.","يمكنك الآن <color=#F2E6BD>شراء منزل</color> في ساكرامنت.
 
-There are several houses in the city to choose from. You can buy or sell a home by interacting with the sign posted outside. 
+توجد عدة منازل في المدينة للاختيار من بينها. يمكنك شراء منزل أو بيعه من خلال التفاعل مع اللافتة الموضوعة بالخارج.
 
-Once you own a home, you can buy furniture, crafting equipment, and decor to customize your space."
-"ui.tutorials.systems.danosHousing.title","Housing","Housing"
-"ui.tutorials.systems.enchanting.description","Transform <color=#808080>Common</color> gear into either a <color=#558CAC>Rare</color> or <color=#B19CEE>Plagued</color> item.","Transform <color=#808080>Common</color> gear into either a <color=#558CAC>Rare</color> or <color=#B19CEE>Plagued</color> item."
-"ui.tutorials.systems.enchanting.title","Enchanting","Enchanting"
+بمجرد امتلاكك لمنزل، يمكنك شراء الأثاث ومعدات الصناعة والديكور لتخصيص مساحتك الخاصة."
+"ui.tutorials.systems.danosHousing.title","Housing","المنازل"
+"ui.tutorials.systems.enchanting.description","Transform <color=#808080>Common</color> gear into either a <color=#558CAC>Rare</color> or <color=#B19CEE>Plagued</color> item.","حوّل العتاد <color=#808080>الشائع</color> إلى عنصر إما <color=#558CAC>نادر</color> أو <color=#B19CEE>موبوء</color>."
+"ui.tutorials.systems.enchanting.title","Enchanting","التعزيز السحري"
 "ui.tutorials.systems.exalting.enchantDescription","Harness the foul energy of the Pestilence to [!sHighlight]upgrade gear[/s].
 
 Items can be exalted up to [!sHighlight]four[/s] times. A random enchantment will be chosen for exaltation, which will raise its power and can even surpass the normal maximum enchantment value. 
 
-Once you exalt an item, [!sHighlight]Fallen Embers[/s] can no longer be used on it.","Harness the foul energy of the Pestilence to [!sHighlight]upgrade gear[/s].
+Once you exalt an item, [!sHighlight]Fallen Embers[/s] can no longer be used on it.","سخّر طاقة الوباء الخبيثة [!sHighlight]لترقية العتاد[/s].
 
-Items can be exalted up to [!sHighlight]four[/s] times. A random enchantment will be chosen for exaltation, which will raise its power and can even surpass the normal maximum enchantment value. 
+يمكن تمجيد العناصر حتى [!sHighlight]أربع[/s] مرات. سيتم اختيار تعزيز سحري عشوائي للتمجيد، مما سيرفع قوته ويمكنه حتى تجاوز القيمة القصوى العادية للتعزيز.
 
-Once you exalt an item, [!sHighlight]Fallen Embers[/s] can no longer be used on it."
-"ui.tutorials.systems.exalting.fullExaltationDescription","Exalt every enchantment and gem to attain [!sHighlight]full exaltation[/s], and permanently raise the gear's primary stats.","Exalt every enchantment and gem to attain [!sHighlight]full exaltation[/s], and permanently raise the gear's primary stats."
-"ui.tutorials.systems.exalting.title","Exalting","Exalting"
-"ui.tutorials.systems.fastTravel.description","You can travel instantly between [!sHighlight]previously visited[/s] Elder Whispers and upgraded Lesser Whispers.","You can travel instantly between [!sHighlight]previously visited[/s] Elder Whispers and upgraded Lesser Whispers."
-"ui.tutorials.systems.fastTravel.descriptionLastLocation","From Sacrament, you can travel to your [!sHighlight]last visited Whisper[/s], as well as previously visited Elder Whispers and upgraded Lesser Whispers.","From Sacrament, you can travel to your [!sHighlight]last visited Whisper[/s], as well as previously visited Elder Whispers and upgraded Lesser Whispers."
-"ui.tutorials.systems.fastTravel.title","Fast Travel","Fast Travel"
+بمجرد تمجيد عنصر، لن يعد بالإمكان استخدام [!sHighlight]الجمر الساقط[/s] عليه."
+"ui.tutorials.systems.exalting.fullExaltationDescription","Exalt every enchantment and gem to attain [!sHighlight]full exaltation[/s], and permanently raise the gear's primary stats.","مجّد كل تعزيز سحري وجوهرة للوصول إلى [!sHighlight]التمجيد الكامل[/s]، ورفع الإحصائيات الأساسية للعتاد بشكل دائم."
+"ui.tutorials.systems.exalting.title","Exalting","التمجيد"
+"ui.tutorials.systems.fastTravel.description","You can travel instantly between [!sHighlight]previously visited[/s] Elder Whispers and upgraded Lesser Whispers.","يمكنك السفر فوراً بين الهمسات الكبرى [!sHighlight]التي تمت زيارتها سابقاً[/s] والهمسات الصغرى التي تمت ترقيتها."
+"ui.tutorials.systems.fastTravel.descriptionLastLocation","From Sacrament, you can travel to your [!sHighlight]last visited Whisper[/s], as well as previously visited Elder Whispers and upgraded Lesser Whispers.","من ساكرامنت، يمكنك السفر إلى [!sHighlight]آخر همسة زرتها[/s]، فضلاً عن الهمسات الكبرى التي تمت زيارتها سابقاً والهمسات الصغرى التي تمت ترقيتها."
+"ui.tutorials.systems.fastTravel.title","Fast Travel","السفر السريع"
 "ui.tutorials.systems.firepit.description","At fire pits, you can [!sHighlight]cook meals[/s] using obtained resources.
 
 Every meal will recover [IconHealth], but some may also provide additional buffs.
 
-Always be on the lookout for food [!sHighlight]recipes[/s] to cook a wider variety of meals.","At fire pits, you can [!sHighlight]cook meals[/s] using obtained resources.
+Always be on the lookout for food [!sHighlight]recipes[/s] to cook a wider variety of meals.","عند مواقد النار، يمكنك [!sHighlight]طهي الوجبات[/s] باستخدام المصادر التي تم جمعها.
 
-Every meal will recover [IconHealth], but some may also provide additional buffs.
+كل وجبة ستستعيد [IconHealth]، ولكن بعضها قد يوفر أيضاً تأثيرات إيجابية إضافية.
 
-Always be on the lookout for food [!sHighlight]recipes[/s] to cook a wider variety of meals."
-"ui.tutorials.systems.firepit.title","Fire Pits","Fire Pits"
+احرص دائماً على البحث عن [!sHighlight]وصفات[/s] الطعام لطهي تشكيلة أوسع من الوجبات."
+"ui.tutorials.systems.firepit.title","Fire Pits","مواقد النار"
 "ui.tutorials.systems.fogOfWarRespawn.description","The map reveals your path throughout Isola Sacra.
 
 However, the world is constantly shifting so this path will gradually [!sHighlight]fade[/s] over time. 
 
-Revisit these shrouded regions to discover [!sHighlight]new dangers[/s] and [!sHighlight]loot[/s].","The map reveals your path throughout Isola Sacra.
+Revisit these shrouded regions to discover [!sHighlight]new dangers[/s] and [!sHighlight]loot[/s].","تكشف الخريطة مسارك عبر إيزولا ساكرا.
 
-However, the world is constantly shifting so this path will gradually [!sHighlight]fade[/s] over time. 
+ومع ذلك، فإن العالم يتغير باستمرار لذلك سيتلاشى هذا المسار تدريجياً [!sHighlight]بمرور الوقت[/s].
 
-Revisit these shrouded regions to discover [!sHighlight]new dangers[/s] and [!sHighlight]loot[/s]."
-"ui.tutorials.systems.fogOfWarRespawn.descriptionMini","Over your journey, you’ll uncover more of Isola Sacra in your <color=#F2E6BD>map</color>.","Over your journey, you’ll uncover more of Isola Sacra in your <color=#F2E6BD>map</color>."
-"ui.tutorials.systems.fogOfWarRespawn.popoutMini","[select] Open Map","[select] Open Map"
-"ui.tutorials.systems.fogOfWarRespawn.title","Fog of War","Fog of War"
-"ui.tutorials.systems.infusing.description1","Socket gems to infuse gear with a distinct [!sHighlight]enchantment[/s] that has a guaranteed value.","Socket gems to infuse gear with a distinct [!sHighlight]enchantment[/s] that has a guaranteed value."
+أعد زيارة هذه المناطق المحجوبة لاكتشاف [!sHighlight]مخاطر جديدة[/s] و[!sHighlight]غنائم[/s]."
+"ui.tutorials.systems.fogOfWarRespawn.descriptionMini","Over your journey, you’ll uncover more of Isola Sacra in your <color=#F2E6BD>map</color>.","خلال رحلتك، ستكشف المزيد عن إيزولا ساكرا في <color=#F2E6BD>الخريطة</color>."
+"ui.tutorials.systems.fogOfWarRespawn.popoutMini","[select] Open Map","[select] فتح الخريطة"
+"ui.tutorials.systems.fogOfWarRespawn.title","Fog of War","ضباب الحرب"
+"ui.tutorials.systems.infusing.description1","Socket gems to infuse gear with a distinct [!sHighlight]enchantment[/s] that has a guaranteed value.","قم بتركيب الجواهر لتضمين العتاد [!sHighlight]بتعزيز سحري[/s] مميز ذي قيمة مضمونة."
 "ui.tutorials.systems.infusing.description2","Existing Gems can be [!sHighlight]destroyed[/s] or [!sHighlight]extracted[/s].
 
-Extracting Gems from enchanted gear will [!sNegative]sacrifice[/s] the item.","Existing Gems can be [!sHighlight]destroyed[/s] or [!sHighlight]extracted[/s].
+Extracting Gems from enchanted gear will [!sNegative]sacrifice[/s] the item.","يمكن [!sHighlight]تدمير[/s] الجواهر الحالية أو [!sHighlight]استخراجها[/s].
 
-Extracting Gems from enchanted gear will [!sNegative]sacrifice[/s] the item."
-"ui.tutorials.systems.infusing.title","Infusing","Infusing"
+استخراج الجواهر من العتاد المعزز سحرياً سيؤدي إلى [!sNegative]التضحية[/s] بالعنصر."
+"ui.tutorials.systems.infusing.title","Infusing","التضمين"
 "ui.tutorials.systems.itemRarity.description","Gear comes in several rarities.
 
 <style=bp><style=muted>Common</style> - Customizable, with 4 gem slots.</style>
@@ -2724,125 +2724,125 @@ Extracting Gems from enchanted gear will [!sNegative]sacrifice[/s] the item."
 <style=bp><style=plagued>Plagued</style> - Strong enchantments and 1 gem slot. But carries a <style=negative>negative</style> enchantment.</style>
 <style=bp><color=#AC9A55>Unique</color> - Special enchantments and a Gem Slot.</style>
 
-<style=subtext>Uniques cannot be obtained by enchanting.</style>","Gear comes in several rarities.
+<style=subtext>Uniques cannot be obtained by enchanting.</style>","يأتي العتاد بعدة درجات ندرة.
 
-<style=bp><style=muted>Common</style> - Customizable, with 4 gem slots.</style>
-<style=bp><color=#558CAC>Rare</color> - Enchantments and 1 gem slot.</style>
-<style=bp><style=plagued>Plagued</style> - Strong enchantments and 1 gem slot. But carries a <style=negative>negative</style> enchantment.</style>
-<style=bp><color=#AC9A55>Unique</color> - Special enchantments and a Gem Slot.</style>
+<style=bp><style=muted>شائع</style> - قابل للتخصيص، مع 4 خانات جواهر.</style>
+<style=bp><color=#558CAC>نادر</color> - تعزيزات سحرية وخانة جوهرة واحدة.</style>
+<style=bp><style=plagued>موبوء</style> - تعزيزات سحرية قوية وخانة جوهرة واحدة. ولكنه يحمل تعزيزاً <style=negative>سلبياً</style>.</style>
+<style=bp><color=#AC9A55>فريد</color> - تعزيزات سحرية خاصة وخانة جوهرة.</style>
 
-<style=subtext>Uniques cannot be obtained by enchanting.</style>"
-"ui.tutorials.systems.itemRarity.title","Item Rarity","Item Rarity"
+<style=subtext>لا يمكن الحصول على العناصر الفريدة بالتعزيز السحري.</style>"
+"ui.tutorials.systems.itemRarity.title","Item Rarity","ندرة العناصر"
 "ui.tutorials.systems.levelUp.description","You have gained a level!
 Every level up grants you [!sHighlight]3 attribute points[/s].
 
 To assign your attribute points, open the 
-[!tnobr][!sHighlight][start] Menu Selector[/s][/tnobr] and select the [!sHighlight]Stats Menu[/s].","You have gained a level!
-Every level up grants you [!sHighlight]3 attribute points[/s].
+[!tnobr][!sHighlight][start] Menu Selector[/s][/tnobr] and select the [!sHighlight]Stats Menu[/s].","لقد ارتقيت في المستوى!
+كل ترقية مستوى تمنحك [!sHighlight]3 نقاط سمات[/s].
 
-To assign your attribute points, open the 
-[!tnobr][!sHighlight][start] Menu Selector[/s][/tnobr] and select the [!sHighlight]Stats Menu[/s]."
-"ui.tutorials.systems.levelUp.title","Leveling Up","Leveling Up"
+لتوزيع نقاط السمات، افتح
+[!tnobr][!sHighlight][start] محدد القائمة[/s][/tnobr] وحدد [!sHighlight]قائمة الإحصائيات[/s]."
+"ui.tutorials.systems.levelUp.title","Leveling Up","ترقية المستوى"
 "ui.tutorials.systems.lodgings.description","Welcome to your new <color=#5B9968>lodgings</color>.
 
 You can stash your inventory and <color=#F2E6BD>share it with other players</color> by using the <color=#F2E6BD>Community Chest</color>!
 
-<color=#F2E6BD>Every player on the realm</color> can place and remove items from it.","Welcome to your new <color=#5B9968>lodgings</color>.
+<color=#F2E6BD>Every player on the realm</color> can place and remove items from it.","مرحباً بك في <color=#5B9968>مساكنك</color> الجديدة.
 
-You can stash your inventory and <color=#F2E6BD>share it with other players</color> by using the <color=#F2E6BD>Community Chest</color>!
+يمكنك تخزين مخزونك و<color=#F2E6BD>مشاركته مع لاعبين آخرين</color> باستخدام <color=#F2E6BD>صندوق المجتمع</color>!
 
-<color=#F2E6BD>Every player on the realm</color> can place and remove items from it."
-"ui.tutorials.systems.lodgings.title","Lodgings","Lodgings"
+يمكن <color=#F2E6BD>لكل لاعب في العالم</color> وضع العناصر فيه وسحبها منه."
+"ui.tutorials.systems.lodgings.title","Lodgings","المساكن"
 "ui.tutorials.systems.pestilenceOutbreak.description","With the Mountain Gate breached, the Pestilence is pouring out across Sacra.
 
 <color=#F2E6BD>Pestilence Outbreaks</color> can now emerge anywhere on the island, bringing deadly enemies that may drop <color=#F2E6BD>special resources</color>.
 
 [map] <color=#F2E6BD>Open the map</color> to find Outbreaks.
 
-Return to Sacrament and visit <color=#F2E6BD>the Rookery</color> to learn more.","With the Mountain Gate breached, the Pestilence is pouring out across Sacra.
+Return to Sacrament and visit <color=#F2E6BD>the Rookery</color> to learn more.","مع اختراق بوابة الجبل، يتدفق الوباء في أرجاء ساكرا.
 
-<color=#F2E6BD>Pestilence Outbreaks</color> can now emerge anywhere on the island, bringing deadly enemies that may drop <color=#F2E6BD>special resources</color>.
+يمكن أن تظهر حالات <color=#F2E6BD>تفشي الوباء</color> الآن في أي مكان على الجزيرة، جالبةً معها أعداء مميتين قد يسقطون <color=#F2E6BD>مصادر خاصة</color>.
 
-[map] <color=#F2E6BD>Open the map</color> to find Outbreaks.
+[map] <color=#F2E6BD>افتح الخريطة</color> للعثور على مناطق التفشي.
 
-Return to Sacrament and visit <color=#F2E6BD>the Rookery</color> to learn more."
-"ui.tutorials.systems.pestilenceOutbreak.title","Pestilence Outbreaks","Pestilence Outbreaks"
+عد إلى ساكرامنت وزر <color=#F2E6BD>الروكري</color> لمعرفة المزيد."
+"ui.tutorials.systems.pestilenceOutbreak.title","Pestilence Outbreaks","تفشي الوباء"
 "ui.tutorials.systems.poiseDamage.description","Enemy attacks deal [!tNoBr][IconPoise] [!sHighlight]Poise Damage[/s][/tNoBr].
 This can interrupt actions and [!sHighlight]stagger[/s] you.
 
 [!sHeadingMuted]Protection[/s]
-Equip heavier gear to raise [StatPoiseDefense] [!tNoBr][!sHighlight]Poise Defense[/s][/tNoBr], such as Mesh or Plate armor.","Enemy attacks deal [!tNoBr][IconPoise] [!sHighlight]Poise Damage[/s][/tNoBr].
-This can interrupt actions and [!sHighlight]stagger[/s] you.
+Equip heavier gear to raise [StatPoiseDefense] [!tNoBr][!sHighlight]Poise Defense[/s][/tNoBr], such as Mesh or Plate armor.","تلحق هجمات العدو [!tNoBr][IconPoise] [!sHighlight]ضرر توازن[/s][/tNoBr].
+يمكن أن يقاطع هذا أفعالك و[!sHighlight]يرنحك[/s].
 
-[!sHeadingMuted]Protection[/s]
-Equip heavier gear to raise [StatPoiseDefense] [!tNoBr][!sHighlight]Poise Defense[/s][/tNoBr], such as Mesh or Plate armor."
-"ui.tutorials.systems.poiseDamage.title","Poise Defense","Poise Defense"
+[!sHeadingMuted]الحماية[/s]
+جهّز عتاداً أثقل لرفع [StatPoiseDefense] [!tNoBr][!sHighlight]دفاع التوازن[/s][/tNoBr]، مثل الدروع الشبكية أو الدروع الصفائحية."
+"ui.tutorials.systems.poiseDamage.title","Poise Defense","دفاع التوازن"
 "ui.tutorials.systems.runesScreen.description1","[!sHighlight]Equip[/s], [!sHighlight]extract[/s] or [!sHighlight]destroy[/s] Runes on an item.
 
-[!sSubtext]Extracting a Rune will [!sNegative]destroy[/s] the item.[/s]","[!sHighlight]Equip[/s], [!sHighlight]extract[/s] or [!sHighlight]destroy[/s] Runes on an item.
+[!sSubtext]Extracting a Rune will [!sNegative]destroy[/s] the item.[/s]","[!sHighlight]جهّز[/s] الرون أو [!sHighlight]استخرجها[/s] أو [!sHighlight]دمّرها[/s] على العنصر.
 
-[!sSubtext]Extracting a Rune will [!sNegative]destroy[/s] the item.[/s]"
-"ui.tutorials.systems.runesScreen.description2","Modify your equipped [utility] [!sHighlight]Utility Runes[/s].","Modify your equipped [utility] [!sHighlight]Utility Runes[/s]."
-"ui.tutorials.systems.runesScreen.title","Rune Management","Rune Management"
+[!sSubtext]استخراج الرون سيؤدي إلى [!sNegative]تدمير[/s] العنصر.[/s]"
+"ui.tutorials.systems.runesScreen.description2","Modify your equipped [utility] [!sHighlight]Utility Runes[/s].","عدّل [utility] [!sHighlight]رُون النفعية[/s] المجهزة لديك."
+"ui.tutorials.systems.runesScreen.title","Rune Management","إدارة الرون"
 "ui.tutorials.systems.vendors.description","Within Sacrament, you'll encounter a variety of vendors, each offering unique services. 
 
 They might sell special <color=#F2E6BD>items</color> and <color=#F2E6BD>resources</color>, <color=#F2E6BD>enhance</color> or <color=#F2E6BD>repair</color> gear, or they could even change Sacrament itself!
 
-Vendor stalls can be <color=#F2E6BD>upgraded</color>, further enhancing their services.","Within Sacrament, you'll encounter a variety of vendors, each offering unique services. 
+Vendor stalls can be <color=#F2E6BD>upgraded</color>, further enhancing their services.","داخل ساكرامنت، ستلتقي بمجموعة متنوعة من التجار، يقدم كل منهم خدمات فريدة.
 
-They might sell special <color=#F2E6BD>items</color> and <color=#F2E6BD>resources</color>, <color=#F2E6BD>enhance</color> or <color=#F2E6BD>repair</color> gear, or they could even change Sacrament itself!
+قد يبيعون <color=#F2E6BD>عناصر</color> و<color=#F2E6BD>مصادر</color> خاصة، أو <color=#F2E6BD>يعززون</color> العتاد أو <color=#F2E6BD>يصلحونه</color>، بل ويمكنهم تغيير ساكرامنت نفسها!
 
-Vendor stalls can be <color=#F2E6BD>upgraded</color>, further enhancing their services."
-"ui.tutorials.systems.vendors.title","Vendors","Vendors"
-"ui.tutorials.systems.whisperUpgrade.description2","Items can be offered as sacrifice to unlock new benefits and abilities at Whispers.","Items can be offered as sacrifice to unlock new benefits and abilities at Whispers."
-"ui.tutorials.systems.whisperUpgrade.title","Whisper Offerings","Whisper Offerings"
+يمكن <color=#F2E6BD>ترقية</color> أكشاك التجار، مما يعزز خدماتهم بدرجة أكبر."
+"ui.tutorials.systems.vendors.title","Vendors","التجار"
+"ui.tutorials.systems.whisperUpgrade.description2","Items can be offered as sacrifice to unlock new benefits and abilities at Whispers.","يمكن تقديم العناصر كقربان لفتح مزايا وقدرات جديدة عند الهمسات."
+"ui.tutorials.systems.whisperUpgrade.title","Whisper Offerings","قرابين الهمسة"
 "ui.tutorials.systems.whispers.description","At Cerim Whispers, you can rest and <color=#F2E6BD>record your progress</color>.
 
-If death should find you, you will incur a <color=#F2E6BD>durability loss</color>, but be <color=#F2E6BD>spoken anew</color> at the last Whisper you visited.","At Cerim Whispers, you can rest and <color=#F2E6BD>record your progress</color>.
+If death should find you, you will incur a <color=#F2E6BD>durability loss</color>, but be <color=#F2E6BD>spoken anew</color> at the last Whisper you visited.","عند همسات السيريم، يمكنك الاستراحة و<color=#F2E6BD>تسجيل تقدمك</color>.
 
-If death should find you, you will incur a <color=#F2E6BD>durability loss</color>, but be <color=#F2E6BD>spoken anew</color> at the last Whisper you visited."
-"ui.tutorials.systems.whispers.title","Whispers","Whispers"
-"ui.twitchScreen.claimEARewards","Claim Early Access Rewards","Claim Early Access Rewards"
-"ui.twitchScreen.claimTwitchRewards","Claim Twitch Rewards","Claim Twitch Rewards"
-"ui.twitchScreen.connect","Connect To Twitch","Connect To Twitch"
-"ui.twitchScreen.establishingConnection","Establishing Connection...","Establishing Connection..."
-"ui.twitchScreen.failedConnect","Connection Failed","Connection Failed"
-"ui.twitchScreen.noRewardsToClaim","No rewards to claim","No rewards to claim"
-"ui.vendors.artificerTable","Artificer Table","Artificer Table"
-"ui.vendors.bountyHunting","Bounty Hunting","Bounty Hunting"
-"ui.vendors.caroline","Caroline","Caroline"
-"ui.vendors.danos","Maker Danos","Maker Danos"
-"ui.vendors.eleanor","Eleanor","Eleanor"
-"ui.vendors.filmore","Filmore","Filmore"
-"ui.vendors.finley","Finley","Finley"
-"ui.vendors.firepit","Fire Pit","Fire Pit"
-"ui.vendors.gordon","Gordon","Gordon"
-"ui.vendors.grinnich","Grinnich","Grinnich"
-"ui.vendors.markos","Markos","Markos"
-"ui.vendors.miraandmeri","Mira and Meri","Mira and Meri"
-"ui.vendors.moreRecipesTip","Learn more food recipes at <color=#F2E6BD>Danos' Scribe Table</color>.","Learn more food recipes at <color=#F2E6BD>Danos' Scribe Table</color>."
+إذا وافاك الأجل، فسوف تتكبد <color=#F2E6BD>فقداناً في المتانة</color>، ولكن سيتم <color=#F2E6BD>استحضارك من جديد</color> عند آخر همسة زرتها."
+"ui.tutorials.systems.whispers.title","Whispers","الهمسات"
+"ui.twitchScreen.claimEARewards","Claim Early Access Rewards","المطالبة بمكافآت الوصول المبكر"
+"ui.twitchScreen.claimTwitchRewards","Claim Twitch Rewards","المطالبة بمكافآت Twitch"
+"ui.twitchScreen.connect","Connect To Twitch","الاتصال بـ Twitch"
+"ui.twitchScreen.establishingConnection","Establishing Connection...","جارٍ إنشاء الاتصال..."
+"ui.twitchScreen.failedConnect","Connection Failed","فشل الاتصال"
+"ui.twitchScreen.noRewardsToClaim","No rewards to claim","لا توجد مكافآت للمطالبة بها"
+"ui.vendors.artificerTable","Artificer Table","طاولة الحِرَفيّ"
+"ui.vendors.bountyHunting","Bounty Hunting","صيد المكافآت"
+"ui.vendors.caroline","Caroline","كارولاين"
+"ui.vendors.danos","Maker Danos","الصانع دانوس"
+"ui.vendors.eleanor","Eleanor","إليانور"
+"ui.vendors.filmore","Filmore","فيلمور"
+"ui.vendors.finley","Finley","فينلي"
+"ui.vendors.firepit","Fire Pit","موقد النار"
+"ui.vendors.gordon","Gordon","غوردون"
+"ui.vendors.grinnich","Grinnich","غرينيتش"
+"ui.vendors.markos","Markos","ماركوس"
+"ui.vendors.miraandmeri","Mira and Meri","ميرا وميري"
+"ui.vendors.moreRecipesTip","Learn more food recipes at <color=#F2E6BD>Danos' Scribe Table</color>.","تعلّم المزيد من وصفات الطعام عند <color=#F2E6BD>طاولة كاتب دانوس</color>."
 "ui.vendors.noBlueprintsLearned","No blueprints learned yet. 
-Research blueprints at the <color=#F2E6BD>Scribe Table</color>.","No blueprints learned yet. 
-Research blueprints at the <color=#F2E6BD>Scribe Table</color>."
-"ui.vendors.noPatternsLearned","No patterns learned yet for this crafting table.","No patterns learned yet for this crafting table."
-"ui.vendors.noRecipesLearned","No recipes learned yet for this crafting table.","No recipes learned yet for this crafting table."
-"ui.vendors.scribeTable","Scribe Table","Scribe Table"
-"ui.vendors.sortLabel","Sort:","Sort:"
-"ui.vendors.vendor","Vendor","Vendor"
-"ui.vendors.whittacker","Whittacker","Whittacker"
-"ui.vendors.willem","Willem","Willem"
-"ui.whisperUpgrade.allUpgradesUnlocked","The Whisper’s powers lie dormant","The Whisper’s powers lie dormant"
-"ui.whisperUpgrade.chooseUpgradePrompt","Unlock","Unlock"
-"ui.whisperUpgrade.damageBuffDescription","Whispers grant a damage buff","Whispers grant a damage buff"
-"ui.whisperUpgrade.fastTravelDescription","Fast travel to this Whisper","Fast travel to this Whisper"
-"ui.whisperUpgrade.focusHealDescription","Whispers fill your focus bar","Whispers fill your focus bar"
-"ui.whisperUpgrade.gearRepairDescription","Whispers repair gear","Whispers repair gear"
-"ui.whisperUpgrade.healDescription","Whispers restore health","Whispers restore health"
-"ui.whisperUpgrade.menuAlreadyOpen","Another player is using this right now","Another player is using this right now"
-"ui.whisperUpgrade.noUpgradesLeft","All upgrades up to level {0} have already been unlocked. Offer more items to see more upgrades.","All upgrades up to level {0} have already been unlocked. Offer more items to see more upgrades."
-"ui.whisperUpgrade.offerItems","Offer Selected Items","Offer Selected Items"
-"ui.whisperUpgrade.staminaBuffDescription","Whispers grant a stamina buff","Whispers grant a stamina buff"
-"ui.whisperUpgrade.upgradeMenuName","Make an Offering","Make an Offering"
-"ui.worldCleanseScreen.cleanseWorld","Cleanse World","Cleanse World"
-"ui.worldCleanseScreen.notEnoughGloamSeeds","Not Enough Gloamseed","Not Enough Gloamseed"
-"ui.worldCleanseScreen.worldisCleansedfromPestilemce","World is Cleansed from the Pestilence","World is Cleansed from the Pestilence"
+Research blueprints at the <color=#F2E6BD>Scribe Table</color>.","لم يتم تعلّم أي مخططات بعد.
+ابحث عن المخططات عند <color=#F2E6BD>طاولة الكاتب</color>."
+"ui.vendors.noPatternsLearned","No patterns learned yet for this crafting table.","لم يتم تعلّم أي نقوش لطاولة الصناعة هذه بعد."
+"ui.vendors.noRecipesLearned","No recipes learned yet for this crafting table.","لم يتم تعلّم أي وصفات لطاولة الصناعة هذه بعد."
+"ui.vendors.scribeTable","Scribe Table","طاولة الكاتب"
+"ui.vendors.sortLabel","Sort:","الترتيب:"
+"ui.vendors.vendor","Vendor","التاجر"
+"ui.vendors.whittacker","Whittacker","ويتكر"
+"ui.vendors.willem","Willem","فيليم"
+"ui.whisperUpgrade.allUpgradesUnlocked","The Whisper’s powers lie dormant","قوى الهمسة خاملة"
+"ui.whisperUpgrade.chooseUpgradePrompt","Unlock","فتح"
+"ui.whisperUpgrade.damageBuffDescription","Whispers grant a damage buff","تمنح الهمسات تعزيزاً للضرر"
+"ui.whisperUpgrade.fastTravelDescription","Fast travel to this Whisper","السفر السريع إلى هذه الهمسة"
+"ui.whisperUpgrade.focusHealDescription","Whispers fill your focus bar","تملأ الهمسات شريط التركيز لديك"
+"ui.whisperUpgrade.gearRepairDescription","Whispers repair gear","تصلح الهمسات العتاد"
+"ui.whisperUpgrade.healDescription","Whispers restore health","تستعيد الهمسات الصحة"
+"ui.whisperUpgrade.menuAlreadyOpen","Another player is using this right now","يستخدم لاعب آخر هذا الآن"
+"ui.whisperUpgrade.noUpgradesLeft","All upgrades up to level {0} have already been unlocked. Offer more items to see more upgrades.","تم فتح جميع الترقيات حتى المستوى {0} بالفعل. قدّم المزيد من العناصر لرؤية المزيد من الترقيات."
+"ui.whisperUpgrade.offerItems","Offer Selected Items","تقديم العناصر المحددة"
+"ui.whisperUpgrade.staminaBuffDescription","Whispers grant a stamina buff","تمنح الهمسات تعزيزاً للتحمل"
+"ui.whisperUpgrade.upgradeMenuName","Make an Offering","تقديم قربان"
+"ui.worldCleanseScreen.cleanseWorld","Cleanse World","تطهير العالم"
+"ui.worldCleanseScreen.notEnoughGloamSeeds","Not Enough Gloamseed","لا توجد بذور غسق كافية"
+"ui.worldCleanseScreen.worldisCleansedfromPestilemce","World is Cleansed from the Pestilence","تم تطهير العالم من الوباء"
