@@ -1,5 +1,5 @@
 ﻿"key","source","target"
-"enchantments.armorIncreased.Description","[StatArmor] <b>Armor</b> increased by {0}","[StatArmor] زيادة <b>الدرع</b> بمقدار {0}"
+"enchantments.armorIncreased.Description","[StatArmor] <b>Armor</b> increased by {0}","[StatArmor] <b>Armor</b> increased by {0}"
 "enchantments.armorPenetrationIncreased.Description","Gain {0} [StatArmorPenetration] <b>Armor Penetration</b>","Gain {0} [StatArmorPenetration] <b>Armor Penetration</b>"
 "enchantments.attackDamageDecreased.Description","[StatDamage] <b>Attack Damage</b> reduced by {0}","[StatDamage] <b>Attack Damage</b> reduced by {0}"
 "enchantments.attackDamageIncreased.Description","[StatDamage] <b>Attack Damage</b> increased by {0}","[StatDamage] <b>Attack Damage</b> increased by {0}"
