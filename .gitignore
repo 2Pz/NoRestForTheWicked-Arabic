@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & IDE
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local scripts & scratch
+scratch/
+scripts/check_consistency.py
+scripts/find_repeated_terms.py
+scripts/enhanced_glossary_checker.py
+
+

@@ -1,0 +1,656 @@
+﻿"key","source","target"
+"readableLore.Inscriptions.bilsgard1Text","The Founder of Our City
+The Father of Our Future
+
+<i>""Let this slab of useless rock give life to new generations. Let faith in ourselves be our sacrament.""</i>","مؤسس مدينتنا
+أبو مستقبلنا
+
+<i>""فلتبث هذه الصخرة العديمة النفع الحياة في أجيال جديدة. وليكن إيماننا بأنفسنا هو ساكرامنتنا.""</i>"
+"readableLore.Inscriptions.bilsgard2Text","Across the Waves He Sailed
+Onto Barren Shores He Stepped
+Through the Haze of Wastes He Saw
+Into History He Leapt","عبر الأمواج أبحر
+وعلى الشواطئ القفار خطا
+ومن خلال ضباب القفار رأى
+وإلى قلب التاريخ وثب"
+"readableLore.Inscriptions.bilsgard3Text","<i><nobr>O Hero,</nobr>
+<nobr>O Breaker of the Way!</nobr>
+<nobr>Where no ship had sailed, no Noble foot set</nobr>
+<nobr>Since the days of the Great Plague</nobr>
+<nobr>He brought Life, and Light</nobr>
+<nobr>And built this city.</nobr>
+
+<nobr>O Father,</nobr>
+<nobr>O Child of the Embrace,</nobr>
+<nobr>Through these cobblestones and flags</nobr>
+<nobr>Plowed from earth and bone</nobr>
+<nobr>He brought Order to Heresy</nobr>
+<nobr>And built this city</nobr>.</i>","<i><nobr>يا أيها البطل،</nobr>
+<nobr>يا قاطع السبيل وممهده!</nobr>
+<nobr>حيث لم تبحر سفينة، ولم تطأ قدم نبيل</nobr>
+<nobr>منذ أيام الوباء العظيم</nobr>
+<nobr>جلب الحياة، والنور</nobr>
+<nobr>وبنى هذه المدينة.</nobr>
+
+<nobr>يا أيها الأب،</nobr>
+<nobr>يا ابن الحِضن،</nobr>
+<nobr>عبر هذه الحجارة المرصوفة والرايات</nobr>
+<nobr>المحروثة من التراب والعظام</nobr>
+<nobr>أخضع الهرطقة للنظام</nobr>
+<nobr>وبنى هذه المدينة</nobr>.</i>"
+"readableLore.Inscriptions.bilsgard4Text","Kafron Bilsgard, Founder of Sacrament
+
+<i>In your Eyes the stones of these streets
+In your Hands the future of Sacra
+In your Heart the lives of its people</i>","كافرون بيلسغارد، مؤسس ساكرامنت
+
+<i>في عينيك حجارة هذه الشوارع
+وفي يديك مستقبل ساكرا
+وفي قلبك حيوات أهلها</i>"
+"readableLore.Inscriptions.cerimChamberStatue","<align=""center""><i><nobr>let the Gate stand as sentinel</nobr>
+ 
+<nobr>open when the world is in chorus</nobr>
+
+<nobr>closed when it cries out in torment</nobr>
+
+this is the will of the Sayer</i></nobr>","<align=""center""><i><nobr>لتنتصب البوابة حارساً ساهراً</nobr>
+ 
+<nobr>تُفتح حين يتآلف العالم في نغم واحد</nobr>
+
+<nobr>وتوصد حين يصرخ العالم في عذاب</nobr>
+
+هذه هي إرادة الناطقة</i></nobr>"
+"readableLore.Inscriptions.cerimCrucibleEchoKnightWarning","<align=""center""><i><nobr>we remember the chosen few -</nobr>
+<nobr> Cyvion, and his fiercest Unspoken </nobr>
+<nobr>who fought these trials </nobr>
+<nobr>through wrath and silenc--</nobr>
+
+
+
+
+<nobr>--rever the tomb</nobr>
+<nobr>of the Echo Knights</nobr>","<align=""center""><i><nobr>نذكر القلة المختارة -</nobr>
+<nobr> سيفيون، وأشجع صامتيه </nobr>
+<nobr>الذين خاضوا هذه المحن </nobr>
+<nobr>بالغضب والصمـ--</nobr>
+
+
+
+
+<nobr>--قدّسوا ضريح</nobr>
+<nobr>فرسان الصدى</nobr>"
+"readableLore.Inscriptions.dashaForsaken1Text","<align=""center"">The Forsaken
+
+unto her
+we spare no word
+cast no eye
+give no prayer","<align=""center"">المهجورة
+
+إليها
+لا نبذل كلمة
+ولا نلقي نظرة
+ولا نرفع صلاة"
+"readableLore.Inscriptions.dashaMaker1Text","<align=""center"">Learned Maker
+
+he shapes the home
+the family
+the law
+the way","<align=""center"">الصانع الحكيم
+
+يصوغ الديار
+والعائلة
+والشريعة
+والسبيل"
+"readableLore.Inscriptions.dashaMother1Text","<align=""center"">Sacred Mother
+
+she carries the earth
+the harvest
+the heart
+the dawn","<align=""center"">الأم المقدسة
+
+تحمل الأرض
+والحصاد
+والفؤاد
+والفجر"
+"readableLore.Inscriptions.dashaSeeker1Text","<align=""center"">Restless Seeker
+
+he strives for growth
+for vision
+for valor
+for more","<align=""center"">الساعي الدؤوب
+
+يتوق للنماء
+والرؤيا
+والبسالة
+وللمزيد"
+"readableLore.Inscriptions.mountainGateText","<align=""center""><i><nobr>open in --       peace an--</nobr>
+<nobr>closed -- </nobr>
+<nobr>days of sufferi --</nobr> 
+<nobr>whispe--    of the Sayer -- </nobr>
+<nobr>from her -- chambe -- </nobr>
+<nobr>to the west</i></nobr>","<align=""center""><i><nobr>تُفتح في --       سلام و--</nobr>
+<nobr>تُوصد -- </nobr>
+<nobr>أيام المعانا --</nobr> 
+<nobr>همسا--    الناطقة -- </nobr>
+<nobr>من مخد--    عها -- </nobr>
+<nobr>إلى الغرب</i></nobr>"
+"readableLore.InteractionHints.BookDefault","Press <color=""yellow"">[interact]</color> to read Book","اضغط على <color=""yellow"">[interact]</color> لقراءة الكتاب"
+"readableLore.InteractionHints.GravestoneDefault","Press <color=""yellow"">[interact]</color> to read Gravestone ","اضغط على <color=""yellow"">[interact]</color> لقراءة شاهد القبر "
+"readableLore.InteractionHints.InscriptionDefault","Press <color=""yellow"">[interact]</color> to read Inscription","اضغط على <color=""yellow"">[interact]</color> لقراءة النقش"
+"readableLore.InteractionHints.JournalDefault","Press <color=""yellow"">[interact]</color> to read Journal","اضغط على <color=""yellow"">[interact]</color> لقراءة اليوميات"
+"readableLore.InteractionHints.NoteDefault","Press <color=""yellow"">[interact]</color> to read Note","اضغط على <color=""yellow"">[interact]</color> لقراءة الملاحظة"
+"readableLore.InteractionHints.PosterDefault","Press <color=""yellow"">[interact]</color> to view Poster","اضغط على <color=""yellow"">[interact]</color> لعرض الملصق"
+"readableLore.InteractionHints.StatueDefault","Press <color=""yellow"">[interact]</color> to read Statue","اضغط على <color=""yellow"">[interact]</color> لقراءة التمثال"
+"readableLore.bookExcerpts.ElsaNoteOnMasonryDoor","<i>The stone masonry is closed due to a cave-in. </i>
+
+<i>For those seeking entry, find the historian Elsa near the town square.</i>","<i>ورشة البناء الحجري مغلقة بسبب انهيار صخري. </i>
+
+<i>لمن يسعى للدخول، يرجى العثور على المؤرخة إلسا بالقرب من ساحة المدينة.</i>"
+"readableLore.bookExcerpts.ElsaNoteinCerimAntechamber1","<i>I find myself talking aloud to the Sayer as I try to tease out her secrets. Yet another reason I suppose I'd make a poor Cerim - the Unspoken thrive in silence. 
+
+But if I am quiet, all I hear is my father's voice in my head - 'history compels patience, Elsa.' And my mother too - 'don't forget to eat, child.'
+
+It seems unfair that the dead can wait an eternity while we living have so little time.</i>","<i>أجد نفسي أتحدث بصوت مسموع إلى الناطقة وأنا أحاول سبر أغوار أسرارها. سبب آخر يجعلني غير ملائمة لأكون من السيريم - فالصامتون يزدهرون في السكون.
+
+لكنني إن صمت، لا أسمع سوى صوت أبي يتردد في رأسي - 'التاريخ يفرض الصبر يا إلسا'. وصوت أمي أيضاً - 'لا تنسي أن تأكلي يا بنيتي'.
+
+يبدو من الظلم أن ينتظر الموتى أبدية كاملة بينما نملك نحن الأحياء وقتاً ضئيلاً للغاية.</i>"
+"readableLore.bookExcerpts.ElsaNoteinCerimAntechamber2","<i>I knew there was more below, but I never would have guessed how much! A crucible of sorts, enough gauntlets to traverse and inscriptions to decipher to keep both me and the Cerim busy for quite some time. Orum will be furious!
+
+As for the Cerim, well, they're a curious sort. Both not what I expected and just as I imagined. Are they my missing link to the ancients, or are they strangers to their own ancestors?</i>","<i>كنت أعلم أن هناك المزيد في الأسفل، لكني لم أتخيل قط هذا الكم الهائل! ما يشبه البوتقة، ومسارات شاقة واختبارات كافية لعبورها ونقوش لفك طلاسمها تكفي لإبقائي مع السيريم منشغلين لفترة طويلة. سيشتعل أوروم غضباً!
+
+أما بالنسبة للسيريم، حسناً، إنهم جنس يثير الفضول حقاً. يختلفون تماماً عما توقعت ويشبهون ما تخيلته بالضبط في آن واحد. هل هم حلقتي المفقودة إلى القدماء، أم أنهم غرباء عن أسلافهم أنفسهم؟</i>"
+"readableLore.bookExcerpts.ElsaNoteinCerimAntechamber3","<i>A thousand years ago the Cerim paid a terrible price for their victory over the plague, a price we are only beginning to understand. Their greatest warriors driven to madness, their people scattered like seeds in the wind, their very voices banished from their own throats. 
+
+What drove them to such lengths? I feel whispers of it in the margins of every inscription. Something more than just survival or fear or pride. Almost... guilt.</i>","<i>منذ ألف عام، دفع السيريم ثمناً باهظاً ومروعاً لقاء انتصارهم على الوباء، وهو ثمن بدأنا للتو نفهم عواقبه. فقد دُفع أعظم محاربيهم نحو الجنون، وتشتت شعبهم كالبذور في مهب الريح، ونُفيت أصواتهم من حناجرهم ذاتها.
+
+ما الذي دفعهم إلى كل هذا الحد؟ أشعر بهمهمات منه في حواشي كل نقش. شيء أعظم من مجرد النجاة أو الخوف أو الكبرياء. كأنه... الذنب بعينه.</i>"
+"readableLore.bookExcerpts.SavorLabNote","<i>Received your crow, but I don't care what the boys say about leaks in the cauldron - the Silverfish wants 8,000 vials and he's gonna get 8,000 vials. 
+
+Unless you wanna be the one to tell him we can't keep up with Savor demand. I hear the crabs are still picking bits of Gottis out of the surf.</i>","<i>تلقيت غرابك، لكني لا أبالي بما يقوله الصبية عن تسريبات المرجل - فالسمكة الفضية (سيلفرفيش) يريد 8,000 قارورة وسيحصل على 8,000 قارورة.
+
+إلا إذا كنت تود أن تكون أنت من يخبره بأننا عاجزون عن تلبية الطلب على السافور. سمعت أن السرطانات لا تزال تلتقط أشلاء غوتيس من زبد الأمواج.</i>"
+"readableLore.bookExcerpts.adventuresInTheWild1Text","I tipped my hat to the surly innkeeper, for I wouldn't be needing her services. I hadn't come to Sacra for creature comforts. No cold ale nor warm bed for me. I'd come to sink my teeth into the isle's wilderness, and see if it would bite back.
+
+Ancient ruins loomed. Unseen birds called out to one another. The sun set over the Ashen Sea. I shouldered my pack and set out through Sacrament's gates...
+
+-from <i>Adventures in the Wild</i> 
+by Sulin Froth","أومأت بقبعتي لصاحبة الخان الفظة، فلن أكون بحاجة لخدماتها. لم آتِ إلى ساكرا طلباً لملذات العيش وراحته؛ فلا جعة باردة ولا فراش دافئ يعنيني. جئت لأغرس أسناني في برية الجزيرة وأرى إن كانت ستبادلني العضة.
+
+بدت الأطلال القديمة تلوح في الأفق. ونادت طيور متوارية بعضها بعضاً. وغربت الشمس فوق بحر الرماد. حملت حقيبتي على كتفي وانطلقت عبر بوابات ساكرامنت...
+
+- مقتطف من <i>مغامرات في البرية</i> 
+بقلم سولين فروث"
+"readableLore.bookExcerpts.adventuresInTheWild2Text","The Boarskin drew closer, a foul stench wafting off their filthy bodies. Their pig head masks might've been the cleanest thing about them. 
+
+I had heard rumors that their whole tribe is one family, bizarrely believing itself descended from Sacrament's founder, with the branches of their family tree weaving back in on itself over and over. 
+
+""I too am a distant relative of Kafron the Great,"" I said, as I began a desperate negotiation for my life.
+
+-from <i>Adventures in the Wild</i> 
+by Sulin Froth","اقترب أفراد جلد الخنزير (البورسكن)، وانبعثت رائحة كريهة من أجسادهم القذرة. لعل أقنعة رؤوس الخنازير كانت أنظف ما فيهم.
+
+كنت قد سمعت شائعات بأن قبيلتهم بأكملها عائلة واحدة، تعتقد بغرابة أنها تنحدر من مؤسس ساكرامنت، بينما تتداخل فروع شجرة عائلتهم وتلتف حول نفسها مراراً وتكراراً.
+
+قلت: ""أنا أيضاً قريب بعيد لكافرون العظيم""، وأنا أبدأ مفاوضة يائسة لإنقاذ حياتي.
+
+- مقتطف من <i>مغامرات في البرية</i> 
+بقلم سولين فروث"
+"readableLore.bookExcerpts.adventuresInTheWild3Text","As I raced through the putrid swamp, the Nith rose up to my left and right. The Pestilence had rotted their minds, the acidic waters their limbs, leaving only savagery and bloodlust.
+
+My sole hope was to reach solid ground, draw my sword, and make a last stand. Even if I were to die, I refused to surrender my corpse to these noxious waters.
+
+-from <i>Adventures in the Wild</i> 
+by Sulin Froth","بينما كنت أعدو في المستنقع العفن، نهض أفراد نيث عن يميني وشمالي. لقد أفسد الوباء عقولهم، وأكلت المياه الحامضية أطرافهم، ولم يبقَ منهم سوى التوحش والتعطش للدماء.
+
+كان أملي الوحيد هو الوصول إلى أرض صلبة، واستلال سيفي، والوقوف لمواجهتهم في قتال أخير. حتى لو كان مقدراً لي الموت، فقد رفضت أن أسلم جثماني لهذه المياه السامة.
+
+- مقتطف من <i>مغامرات في البرية</i> 
+بقلم سولين فروث"
+"readableLore.bookExcerpts.adventuresInTheWild5Text","I realized these were not the Cerim of legend - silent, mystical warriors beating back the Pestilence - but rather a foul perversion. Perhaps graverobbers cursed for their greed, ancient armor imprisoning their corrupted spirit.
+
+What torment or foul purpose kept them on their feet? I held my breath in the bushes and willed myself to stillness - answers could come later. For now: survival.
+
+-from <i>Adventures in the Wild</i> 
+by Sulin Froth","أدركت أن هؤلاء لم يكونوا محاربي السيريم الأسطوريين - أولئك المحاربون الصامتون الغامضون الذين يصدون الوباء - بل مسخاً مشوهاً وخبيثاً. لعلهم لصوص قبور حلت عليهم اللعنة جزاء جشعهم، فحبست الدروع القديمة أرواحهم الفاسدة.
+
+أي عذاب أو غاية خبيثة أبقتهم واقفين على أقدامهم؟ كتمت أنفاسي بين الشجيرات وأجبرت نفسي على السكون التام - فالإجابات يمكن أن تنتظر، أما الآن فالغاية هي النجاة.
+
+- مقتطف من <i>مغامرات في البرية</i> 
+بقلم سولين فروث"
+"readableLore.bookExcerpts.adventuresInTheWild6Text","A ring of birdmen circled me, faces hidden behind elegant assemblages of feather and bone.
+
+I attempted to reason with them, but they responded only in squawks and chirps.
+
+Fight or flight - to the Balak Taw they are perhaps one and the same. But how was I to escape these men gone mad in the treetops?
+
+-from <i>Adventures in the Wild</i>
+by Sulin Froth","أحاطت بي حلقة من الرجال الطيور، ووجوههم مخفية خلف تشكيلات أنيقة من الريش والعظام.
+
+حاولت التفاهم معهم بالعقل، لكنهم لم يردوا إلا بنعيق وزقزقة.
+
+القتال أو الفرار - لعل الأمر سيان بالنسبة لأفراد بالاك تاو. لكن كيف لي الهروب من هؤلاء الرجال الذين فقدوا صوابهم في أعالي الأشجار؟
+
+- مقتطف من <i>مغامرات في البرية</i>
+بقلم سولين فروث"
+"readableLore.bookExcerpts.adventuresInTheWild7Text","""Be careful,"" said the villager, ""that fishcake has sat out on the shelf for quite some time.""
+
+I couldn't help but smile at the villager's caution. ""I'm Sulin Froth,"" I remarked, ""I've summited the Nameless Pass with nary a pickaxe. I've skinned sirens and dueled with Risen raiders. But I thank you for your warning.""
+
+And I swallowed the fishcake in a single bite, wondering what must it be like to live in fear.
+
+<i>- book finished posthumously -</i>
+
+-from <i>Adventures in the Wild</i> 
+by Sulin Froth","""احذر""، قال القروي، ""فقالب السمك هذا ظل على الرف لفترة طويلة"".
+
+لم أتمالك نفسي من الابتسام أمام حذر القروي. وأردفت قائلاً: ""أنا سولين فروث، لقد صعدت قمة الممر المجهول دون فأس تسلق. وسلخت حوريات البحر وبارزت مغيري الناهضين. لكنني أشكرك على تحذيرك"".
+
+وابتلعت قالب السمك في لقمة واحدة، متسائلاً كيف يكون شعور المرء حين يعيش في خوف.
+
+<i>- اكتمل الكتاب بعد وفاة الكاتب -</i>
+
+- مقتطف من <i>مغامرات في البرية</i> 
+بقلم سولين فروث"
+"readableLore.bookExcerpts.adventuresInTheWild8Text","A way out - a light at the end of the tunnel! I clung to that foolish notion, even as the cave sloped downward and walls grew slick. Not until the light began to pulse and throb did I realize my mistake. 
+
+Perhaps they had once been men - buried alive or lost as I was - before the Pestilence dripped down their throats. Now they were The Gloam. And they hungered. 
+
+I held my breath and crept backwards. For once, darkness was my ally. 
+
+-from <i> Adventures in the Wild</i>
+by Sulin Froth","مخرج - نور في نهاية النفق! تشبثت بتلك الفكرة الحمقاء، حتى مع انحدار الكهف للأسفل وازدياد لزوجة الجدران. ولم أدرك خطئي إلا حين بدأ الضوء ينبض ويخفق.
+
+لعلهم كانوا يوماً بشراً - دُفنوا أحياء أو ضلوا طريقهم كما ضللت - قبل أن يتقاطر الوباء في حناجرهم. والآن أصبحوا من دياجير الغسق. وكانوا جياعاً.
+
+حبست أنفاسي وزحفت إلى الخلف بحذر. ولأول مرة، كان الظلام حليفي.
+
+- مقتطف من <i>مغامرات في البرية</i>
+بقلم سولين فروث"
+"readableLore.bookExcerpts.adventuresInTheWild9Text","One might hear the rasp of a saw, the dull thud of an axe, and mistake it for honest work. But these forests grew wild, and the plagued Harvesters who once labored here had since taken on another grim task. 
+
+I scurried up the nearest trunk, praying they wouldn't glance up as they shuffled past. As my gaze lingered on the dried blood on their tools, the word ""limbed"" took on new, grotesque meaning. But no, I fully intended to leave these woods with all my appendages intact.
+
+-from <i> Adventures in the Wild</i>
+by Sulin Froth","قد يسمع المرء صرير منشار ووقع فأس غليظ، ويحسب ذلك عملاً شريفاً. لكن هذه الغابات توحشت، والحصادون الموبوؤون الذين كدحوا هنا يوماً تولوا مذ ذاك مهمة أخرى مقبضة.
+
+تسلقت مسرعاً أقرب جذع شجرة، متضرعاً ألا يرفعوا أبصارهم وهم يجرون أقدامهم عابرين. وبينما تسمرت نظراتي على الدماء الجافة فوق أدواتهم، اكتسبت كلمة 'تقطيع' معنى جديداً بالغ البشاعة. لكن كلا، كنت عازماً تماماً على مغادرة هذه الغابات بجميع أطرافي سليمة.
+
+- مقتطف من <i>مغامرات في البرية</i>
+بقلم سولين فروث"
+"readableLore.finleysShop.shopSignDescription","<align=""center"">When the planes of the realm align,
+I, Finley, and my companion(s), shall come to Sacrament
+to trade items of an exceedingly rare and special nature
+in exchange for stones, trinkets, stories, and glory.
+ 
+My comings and goings are as the wind,
+as unpredictable as the fall of night!
+But usually you will find me from 8PM until midnight","<align=""center"">حين تصطف أبعاد العالم ونطاقاته،
+سآتي أنا، فينلي، ورفيقي (أو رفاقي)، إلى ساكرامنت
+للمقايضة على عناصر نادرة وفريدة للغاية
+مقابل الحجارة والحلي والقصص والمجد.
+ 
+إن غدوي ورواحي كالريح،
+لا يمكن التنبؤ به كحلول الليل!
+لكنك ستجدني عادةً من الساعة 8 مساءً حتى منتصف الليل"
+"readableLore.finleysShop.shopSignTitle","<align=""center"">Finley's Cabinet of Rare and Magnificent Items","<align=""center"">خزانة فينلي للنفائس والروائع"
+"readableLore.finleysShop.signpostOpeningHours"," <align=""center""><b>- Finley's Rare Item Shop -</b>  I'm currently out on a business trip!  Will be back in {0} Day(s) and {1} Hour(s)!"," <align=""center""><b>- متجر فينلي للعناصر النادرة -</b>  أنا في رحلة عمل حالياً!  سأعود خلال {0} يوم (أيام) و{1} ساعة (ساعات)!"
+"readableLore.finleysShop.signpostOpeningMinutes"," <align=""center""><b>- Finley's Rare Item Shop -</b>  I'm currently out on a business trip!  Will be back in {0} Day(s) and {1} Hour(s)!"," <align=""center""><b>- متجر فينلي للعناصر النادرة -</b>  أنا في رحلة عمل حالياً!  سأعود خلال {0} يوم (أيام) و{1} ساعة (ساعات)!"
+"readableLore.finleysShop.signpostPermClosed","Out on a personal errand! Not sure when I'm back!","خرجت في مهمة شخصية! لست واثقاً متى سأعود!"
+"readableLore.gravestone.annoraText","Blessed Wife, Beloved Mother
+
+<i>hrassa twen</i>","زوجة مباركة، وأم حبيبة
+
+<i>hrassa twen</i>"
+"readableLore.gravestone.annoraTitle","<i>Annora Bolein</i>","<i>أنورا بولين</i>"
+"readableLore.gravestone.karenaPoolText","26th Governor of Sacrament
+Traitor to her Family","الحاكمة السادسة والعشرون لساكرامنت
+خائنة لعائلتها"
+"readableLore.gravestone.karenaPoolTitle","<i>Karena Pool</i>","<i>كارينا بول</i>"
+"readableLore.gravestone.murryGormwadderText","died 808
+
+<i>""A good meal is never finished.""</i>","توفي عام 808
+
+<i>""الوجبة الطيبة لا تنتهي أبداً.""</i>"
+"readableLore.gravestone.murryGormwadderTitle","<i>Murry Gormwadder</i>","<i>موري غورموادر</i>"
+"readableLore.gravestone.thadeusBriarsText","786 - 824
+
+He Fought With Valor","786 - 824
+
+قاتل ببسالة"
+"readableLore.gravestone.thadeusBriarsTitle","<i>Thadeus Briars</i>","<i>ثاديوس برايرز</i>"
+"readableLore.journalEntries.caretalkerAlsocLeavingForSacrament","<i>Tomorrow I set out for Sacrament in search of aid to dispel this monstrous Blight that invades our home.
+
+I know Irmgard worries I cannot make the journey - I hear it in the silences between the words of her blessings. When did I grow so old?
+
+But my people need me. I will brave the forest, one limping step at a time. I pray to the Seeker I will not cross paths with the Balak Taw.</i>","<i>غداً أنطلق إلى ساكرامنت بحثاً عن العون لرد هذا الوباء والآفة الوحشية التي تغزو ديارنا.
+
+أعلم أن إرمغارد تخشى ألا أقوى على هذه الرحلة - أسمع ذلك في فترات الصمت بين كلمات بركاتها. متى صرت طاعناً في السن إلى هذا الحد؟
+
+لكن قومي بحاجة إليّ. سأتحدى الغابة بخطواتي العرجاء خطوة تلو الأخرى. وأبتهل إلى الساعي ألا تتقاطع دروبي مع أفراد بالاك تاو.</i>"
+"readableLore.journalEntries.coupleDuringASMJournal","<i>Whoever finds this, know I had no other choice - the Pestilence took hold of Noah, and I feel its crawl beneath my skin as well. 
+
+I have to keep her safe. Tell Maeve we love her. Tell her she’s kind and generous and to never let that part of her go. Tell her to eat her carrots and cabbage and not just sweets. Tell her anything please.</i>","<i>من يجد هذا، ليعلم أنه لم يكن أمامي خيار آخر - لقد تمكن الوباء من نوح، وأشعر به يسري تحت جلدي أنا أيضاً.
+
+عليّ أن أحميها وأبقيها في أمان. أخبروا ميف أننا نحبها. أخبروها أنها طيبة وكريمة وألا تتخلى عن ذلك الجزء منها أبداً. أخبروها أن تأكل جزرها وملفوفها وليس الحلوى فحسب. أخبروها بأي شيء أرجوكم.</i>"
+"readableLore.journalEntries.reedGiftToLara","A gift for you upon our return, daughter – a true huntress deserves a true bow.","هدية لك عند عودتنا يا ابنتي - فالصيادة الحقيقية تستحق قوساً حقيقياً."
+"readableLore.journalEntries.surveyor10Text","<i>Day 113 surveying I know not what.
+
+I'm finished! I'm through! Even if they throw me out of the Surveyors' Union - I will not abide another step on this cursed isle.
+
+No more horizons. No more blank maps tempting me to fill in their lines. All I ever wish to explore is the bottom of a bowl of warm soup.
+
+Farewell, Sacra! Someone else can complete the damned assignment. I'm departing these cursed shores and I will relish every moment of the journey home.</i>","<i>اليوم 113 في مسح ما لست أدري كنهه.
+
+لقد انتهى أمري! طفح الكيل! حتى لو طردوني من نقابة المساحين - فلن أخطو خطوة أخرى على هذه الجزيرة الملعونة.
+
+لا مزيد من الآفاق. ولا مزيد من الخرائط البيضاء التي تغريني بملء خطوطها. كل ما أود استكشافه الآن هو قاع وعاء من الحساء الدافئ.
+
+وداعاً يا ساكرا! فليكمل غيري هذه المهمة اللعينة. أنا راحل عن هذه الشواطئ الملعونة وسأتلذذ بكل لحظة في رحلة العودة إلى الوطن.</i>"
+"readableLore.journalEntries.surveyor1Text","<i>Day 1 surveying Isola Sacra.
+
+Today I begin my grand tour of the island of Sacra! It's my first surveying assignment, and admittedly not my first choice, but every journey begins with a single step!
+
+With any luck, I'll be home on the mainland submitting my report within a week's time, two at the most. As for what comes next, I am breathless at the possibility of it all.</i>","<i>اليوم 1 في مسح إيسولا ساكرا.
+
+أبدأ اليوم جولتي الكبرى في جزيرة ساكرا! إنها مهمتي الأولى في المسح، وللحق لم تكن خياري الأول، لكن كل رحلة تبدأ بخطوة واحدة!
+
+إن حالفني الحظ، فسأكون في وطني على البر الرئيسي أقدم تقريري في غضون أسبوع، أو أسبوعين على الأكثر. أما عما سيأتي بعد ذلك، فيأخذني الحماس أمام كل ما تحمله الاحتمالات.</i>"
+"readableLore.journalEntries.surveyor2Text","<i>Day 8 surveying this diverse island.
+
+Sacrament, the island's crown jewel. I confess, her sheen seems to have worn off a bit. In truth, the city has the feel of a ruin propped up by those who fail to realize history has moved on. I feel as though I can hear the city crumbling to dust around me.
+
+Still, her people have been hospitable! I have nothing but warm words for the fine ale of the Dusty Loom.</i>","<i>اليوم 8 في مسح هذه الجزيرة المتنوعة.
+
+ساكرامنت، جوهرة تاج الجزيرة. أعترف بأن بريقها يبدو أنه قد خبا قليلاً. في الحقيقة، تعطي المدينة شعوراً بأنها أطلال يدعمها أناس عجزوا عن إدراك أن التاريخ قد تجاوزهم. أشعر وكأنني أسمع المدينة وهي تتداعى إلى تراب من حولي.
+
+ومع ذلك، كان أهلها كرماء ومضيافين! وليس لدي سوى كلمات الثناء على الجعة الفاخرة في حانة النول المترب.</i>"
+"readableLore.journalEntries.surveyor3Text","<i>Day 15 surveying this troubled isle.
+
+A range of inhospitable rock juts from Sacrament's eastern edge. Curious to see the workings of the island's industrial heart, I made for the quarry that teems within the Nameless Pass.
+
+What I found there were conditions so vile, I wished I were back in the keel of the Abalonian, heaving my guts into my satchel. The quarry employs deviant laborers who are forced to mine ore at the bloody end of whip and rod. A disquieting spectacle, but hopefully just a hiccup on my survey.</i>","<i>اليوم 15 في مسح هذه الجزيرة المنكوبة.
+
+تبرز سلسلة من الصخور الوعرة والمنيعة من الحافة الشرقية لساكرامنت. ودفوعاً بالفضول لرؤية نبض القلب الصناعي للجزيرة، قصدت المحجر القابع داخل الممر المجهول.
+
+وما وجدته هناك كانت ظروفاً بالغة البشاعة، حتى تمنيت لو كنت عائداً في قاع سفينة أبالونيان، أتقيأ أحشائي في حقيبتي. يشغل المحجر عمالاً منحرفين يُجبرون على تعدين الخام تحت وطأة السياط والعصي الدامية. مشهد يبعث على القلق، لكني آمل أن يكون مجرد عثرة عابرة في رحلة مسحي.</i>"
+"readableLore.journalEntries.surveyor4Text","<i>Day 22 surveying this disappointing hunk of rock.
+
+Nothing shakes my faith in the one true God like spending days amid the holy men of Caylen. I refuse to believe He wishes us to be so singlemindedly dull in our pursuit of his grace.
+
+Yes, their Cathedral is lovely, but where am I to find a refreshing ale or a decent game of chance? And maybe a bit of music instead of those damn bells?</i>","<i>اليوم 22 في مسح هذه الصخرة المخيبة للآمال.
+
+لا شيء يهز إيماني بالإله الواحد الحق مثل قضاء أيام بين رجال الدين في كايلن. أرفض أن أصدق أنه يرغب منا أن نكون بهذا الجمود والبلادة في سعينا لنيل رحمته.
+
+أجل، كاتدرائيتهم جميلة، لكن أين لي أن أجد جعة منعشة أو لعبة رهان مقبولة؟ وربما القليل من الموسيقى بدلاً من تلك الأجراس اللعينة؟</i>"
+"readableLore.journalEntries.surveyor5Text","<i>Day 35 surveying this miserable rut.
+
+The Orban Glades smell of rot. All day I hear the wet squelch of my boots sucking mud, all night I try and fail to warm my socks by the fire.
+
+Strange figures call this swamp home. Years of bog life has rotted away their lower limbs. Something else perhaps has rotted away their minds. It might be time to petition to bring my survey to a close?</i>","<i>اليوم 35 في مسح هذا المستنقع البائس.
+
+رائحة مروج أوربان تشبه رائحة جثة كلب تُركت في الشمس لأسبوعين. وكلما اقتربت من الساحل، ساءت الرائحة أكثر.
+
+رأيت بعض الصيادين المحليين، لكنهم هربوا بمجرد أن لوحت لهم بيدي. لا ألومهم، فلو كنت أعيش هنا لهربت من كل شيء أيضاً.</i>"
+"readableLore.journalEntries.surveyor6Text","<i>Day 41 surveying this backcountry hovel.
+
+Is there no inch of Sacra that these wretched people aren't able to let fall to squalor? Do they see the ancient ruins all around them and think ""let us add to this noble tradition""?
+
+I make camp in an abandoned coastal fortress, what I'm sure was once a proud structure, a beacon to arriving ships. Now? A roofless monument to poor masonry. I hope it doesn't rain tonight.</i>","<i>اليوم 41 في مسح هذا الكوخ النائي البائس.
+
+ألا يوجد شبر واحد في ساكرا يعجز هؤلاء القوم التعساء عن تركه ينحدر إلى البؤس والقذارة؟ هل ينظرون إلى الأطلال القديمة من حولهم ويفكرون: 'دعونا نضيف إليها من هذا التقليد النبيل'؟
+
+أقيم مخيمي في قلعة ساحلية مهجورة، وأنا واثق أنها كانت يوماً صرحاً مهيباً ومنارة للسفن القادمة. أما الآن؟ فهي صرح بلا سقف يشهد على رداءة البناء. آمل ألا تمطر الليلة.</i>"
+"readableLore.journalEntries.surveyor7Text","<i>Day 56 surveying this piddling expanse.
+
+The Lowland Meadows and Hunters' Vale beyond are, frankly, a testament to the weakness of character so prevalent here on Sacra.
+
+Abandoned structures, untilled fields, the wolf population left unchecked - how can some denizens of this island wish to govern themselves, when they can't even tend to their own backyard?</i>","<i>اليوم 56 في مسح هذا الامتداد التافه.
+
+إن المروج المنخفضة ووادي الصيادين بعدها، بصراحة، شهادة حيّة على ضعف العزيمة المتفشي هنا في ساكرا.
+
+مبانٍ مهجورة، وحقول غير محروثة، وأعداد الذئاب تُركت دون رادع - كيف يطمع بعض سكان هذه الجزيرة في حكم أنفسهم وهم عاجزون حتى عن رعاية فنائهم الخلفي؟</i>"
+"readableLore.journalEntries.surveyor8Text","<i>Day 72 surveying this dreadful land.
+
+My first warm meal in months, albeit at the hands of a godless shaman and her primitive followers. Still, even I can find something bucolic in this hamlet of Marin.
+
+But their prayers to hunks of stone keep me from sleeping. And I don't care one bit for the squawks and caws from the surrounding forest. What bird makes a sound so loud? </i>","<i>اليوم 72 في مسح هذه الأرض المروعة.
+
+أول وجبة دافئة أحظى بها منذ شهور، وإن كانت على يد كاهنة وثنية وأتباعها البدائيين. ومع ذلك، حتى أنا يمكنني أن أجد مسحة ريفية في قرية مارين هذه.
+
+لكن صلواتهم لكتل الحجارة تحرمني من النوم. ولا تروق لي بتاتاً تلك الصيحات والنعيب المنبعثة من الغابة المحيطة. أي طائر يصدر صوتاً بهذا العلو؟</i>"
+"readableLore.journalEntries.surveyor9Text","<i>Day 89 surveying this dreary place.
+
+A creaking, groaning cemetery of drifting ship hulls and beached whale carcasses poison the waters east of Sacrament. My god, the stench of it.
+
+The fishermen here are little more than scavangers, picking the bones clean. Why not strap a few hulls together and set sail for anywhere else? Perhaps the mildew dulls their ambitions.</i>","<i>اليوم 89 في مسح هذا المكان الكئيب.
+
+مقبرة تئن وتصرصر لهياكل سفن جانحة وجيف حيتان نافقة تسمم المياه شرق ساكرامنت. يا إلهي، كم هي مقززة هذه الرائحة.
+
+الصيادون هنا ليسوا سوى نباشين يقتاتون على الفتات، ينبشون العظام حتى تجف. لمَ لا يربطون بضعة هياكل سفن معاً ويبحرون إلى أي مكان آخر؟ لعل العفن قد خدر طموحاتهم.</i>"
+"readableLore.posters.risenRecruitment1Text","<nobr>All fall, only some RISE!</nobr>
+
+<nobr>Phalen chokes us and then taxes us.</nobr>
+
+<nobr>We ask for food and medicine, and they send soldiers.</nobr>
+
+<nobr>Ellsworth, Elias Grafston, and the Lords of Tir are just puppets of the mainland.</nobr>
+
+<nobr>Rise up! Take back your home!</nobr>
+
+<nobr>You have always been <uppercase>RISEN</uppercase>.</nobr>
+","<nobr>الجميع يسقطون، لكن القلة هم من ينهضون!</nobr>
+
+<nobr>فالن تخنقنا ثم تفرض علينا الضرائب.</nobr>
+
+<nobr>نطلب الطعام والدواء، فيرسلون إلينا الجنود.</nobr>
+
+<nobr>إلسورث، وإلياس غرافتسون، ولوردات تير ليسوا سوى دمى في يد البر الرئيسي.</nobr>
+
+<nobr>انهضوا! واستردوا دياركم!</nobr>
+
+<nobr>لقد كنتم دوماً من <uppercase>الناهضين</uppercase>.</nobr>
+"
+"readableLore.posters.risenRecruitment2Text","<nobr>Dead, warriors may fall. But we will not.</nobr>
+
+<nobr>Upon deaf ears, prayers may fall. But we will not.</nobr>
+
+<nobr>Struck down, our allies may fall. But we will not.</nobr>
+
+<nobr><uppercase>WE RISE.</uppercase></nobr>","<nobr>قد يسقط المحاربون موتى. لكننا لن نسقط.</nobr>
+
+<nobr>قد تسقط الصلوات على آذان صماء. لكننا لن نسقط.</nobr>
+
+<nobr>قد يُصرع حلفاؤنا ويسقطون. لكننا لن نسقط.</nobr>
+
+<nobr><uppercase>نحن ننهض.</uppercase></nobr>"
+"readableLore.posters.risenRecruitment3Text","<nobr>Tolek Duvain was 9 years old when Bolein Knights burned him alive in his own home. His crime? Being the child of parents who dared question their king.</nobr>
+
+<nobr>There are a hundred Toleks on our province of Sacra. A hundred provinces in the Ashen Sea.</nobr>
+
+<nobr>We fight for them all.</nobr>
+
+<nobr>We are many. We are Risen.</nobr>","<nobr>كان توليك دوفين في التاسعة من عمره حين أحرقه فرسان بولين حياً في منزله. وما كانت جريمته؟ أنه ابن لأبوين تجرآ على مساءلة ملكهما.</nobr>
+
+<nobr>هناك مئة توليك في مقاطعتنا ساكرا. ومئة مقاطعة في بحر الرماد.</nobr>
+
+<nobr>نحن نقاتل من أجلهم جميعاً.</nobr>
+
+<nobr>نحن كثرة. نحن الناهضون.</nobr>"
+"readableLore.posters.wantedBountyTheDefendersOfKnellapGang","<nobr>Name: Defenders of Knellap</nobr>
+
+<nobr>Crimes: Mayhem, assault, general confusion</nobr>
+
+<nobr>Description: Deranged, heavily armored ""knights"" in the service of House Knellap. As a matter of record, no such House exists. Claim others are trespassers and invaders on their sovereign soil. Sigil appears to be... a chicken?</nobr>
+
+<nobr>-Captain Randolph</nobr>","<nobr>الاسم: حماة نيلاب</nobr>
+
+<nobr>الجرائم: الشغب، والاعتداء، وإثارة الفوضى العامة</nobr>
+
+<nobr>الوصف: ""فرسان"" فاقدو العقل مدججون بالدروع الثقيلة في خدمة بيت نيلاب. للتوضيح في السجلات الرسمية، لا وجود لمثل هذا البيت إطلاقاً. يزعمون أن الآخرين دخلاء وغزاة لأراضيهم السيادية. ويبدو أن شعارهم هو... دجاجة؟</nobr>
+
+<nobr>- القبطان راندولف</nobr>"
+"readableLore.posters.wantedBountyTheHuntsmenGang","<nobr>Name: The Huntsmen</nobr>
+
+<nobr>Crimes: Maiming, torture, murder</nobr>
+
+<nobr>Description: A gang of self-styled ""hunters"" recently arrived on Sacra. Dressed in rare pelts. Claim to compete over the challenge and glory of the ultimate quarry. What or who that is remains a mystery.</nobr>
+
+<nobr>-Captain Randolph</nobr>","<nobr>الاسم: الصيادون</nobr>
+
+<nobr>الجرائم: التشويه، والتعذيب، والقتل</nobr>
+
+<nobr>الوصف: عصابة ممن يطلقون على أنفسهم ""صيادين"" وصلوا حديثاً إلى ساكرا. يرتدون فراء نادرة. يزعمون التنافس على تحدي ومجد اصطياد الطريدة الكبرى. وماهية تلك الطريدة أو هويتها تظل لغزاً مجهولاً.</nobr>
+
+<nobr>- القبطان راندولف</nobr>"
+"readableLore.posters.wantedBountyThePlagueDoctorsGang","<nobr>Name: The Plague Doctors</nobr>
+
+<nobr>Crimes: Poison, arson, murder</nobr>
+
+<nobr>Description: A cabal of former physicians and scholars who lost their families - and their minds - to the Pestilence. Now they wage a personal war against the ""infected"" - very broadly defined. </nobr>
+
+<nobr>-Captain Randolph</nobr>","<nobr>الاسم: أطباء الطاعون</nobr>
+
+<nobr>الجرائم: التسميم، والحرق المتعمد، والقتل</nobr>
+
+<nobr>الوصف: عصبة من الأطباء والعلماء السابقين الذين فقدوا عائلاتهم - وعقولهم - جراء الوباء. والآن يشنون حرباً شعواء خاصة ضد ""المصابين"" - وفق تعريف فضفاض للغاية من جهتهم.</nobr>
+
+<nobr>- القبطان راندولف</nobr>"
+"readableLore.posters.wantedBountyTheReapersGang","<nobr>Name: The Reapers</nobr>
+
+<nobr>Crimes: Murder without cause</nobr>
+
+<nobr>Description: A death cult of sadistic killers. Dressed in cloaks and masks, they believe death is a blessing that should be granted to all. They claim to draw power from some cursed source.</nobr>
+
+<nobr>-Captain Randolph</nobr>","<nobr>الاسم: الحصادون (الريبرز)</nobr>
+
+<nobr>الجرائم: القتل دون دافع</nobr>
+
+<nobr>الوصف: طائفة موت من القتلة الساديين. يرتدون العباءات والأقنعة، ويعتقدون أن الموت بركة ينبغي منحها للجميع. ويزعمون أنهم يستمدون قوتهم من مصدر ملعون.</nobr>
+
+<nobr>- القبطان راندولف</nobr>"
+"readableLore.posters.wantedBountyTheRedGang","<nobr>Name: The Red</nobr>
+
+<nobr>Crimes: Assassination, robbery, kidnapping</nobr>
+
+<nobr>Description: An all-female gang of brigands. Each wears a signature red scarf as a tribute to their favored method of violence - a slit throat. No known ideology or principles beyond chaos and profit.</nobr>
+
+<nobr>-Captain Randolph</nobr>","<nobr>الاسم: الحمر</nobr>
+
+<nobr>الجرائم: الاغتيال، والسطو، والاختطاف</nobr>
+
+<nobr>الوصف: عصابة قطاع طرق مكونة بالكامل من النساء. ترتدي كل منهن وشاحاً أحمر مميزاً تكريماً لأسلوبهن المفضل في القتل - نحر الحناجر. لا أيديولوجيا أو مبادئ معروفة لديهن سوى الفوضى والتربح.</nobr>
+
+<nobr>- القبطان راندولف</nobr>"
+"readableLore.posters.wantedBountyTitle","<uppercase><i>WANTED DEAD</i></uppercase>","<uppercase><i>مطلوب ميت</i></uppercase>"
+"readableLore.questItems.DanosGallowScaffoldingText","<uppercase><i>NOTICE</uppercase>: Work has been halted on the scaffolding due to lack of resources.
+
+Seek me in the town square once proper materials are obtained to resume construction.
+
+-Danos Tivian, Makers Guild</i>","<uppercase><i>إشعار</uppercase>: توقف العمل في السقالات بسبب نقص الموارد.
+
+راجعني في ساحة المدينة فور تأمين المواد المناسبة لاستئناف البناء.
+
+- دانوس تيفيان، نقابة الصنّاع</i>"
+"readableLore.questItems.DanosRookeryText","<uppercase><i>NOTICE</uppercase>: Work has been halted on the stairway due to lack of resources. 
+
+Seek me in the town square once proper materials are obtained to resume repairs. 
+
+-Danos Tivian, Makers Guild</i>","<uppercase><i>إشعار</uppercase>: توقف العمل في الدرج بسبب نقص الموارد.
+
+راجعني في ساحة المدينة فور تأمين المواد المناسبة لاستئناف الإصلاحات.
+
+- دانوس تيفيان، نقابة الصنّاع</i>"
+"readableLore.questItems.HuntersNoteLowlandMeadows","<i>Cerim - If you are reading this, Winnick and I will circle the gate through the old mine to the north. I hope you are not far behind. 
+
+-Ellsworth</i>","<i>أيها السيريم - إن كنت تقرأ هذا، فسنلتف أنا ووينيك حول البوابة عبر المنجم القديم إلى الشمال. آمل ألا تتأخر عنا كثيراً.
+
+- إلسورث</i>"
+"readableLore.questItems.IrmgardsNoteOnDoor","<i>I am gathering herbs in the forest, through the cavern to the west.
+
+If you are from Marin, do not lose hope.
+
+If you are a traveler, do not linger here!
+
+-Mender Irmgard</i>","<i>أنا أجمع الأعشاب في الغابة، عبر الكهف الواقع إلى الغرب.
+
+إن كنت من مارين، فلا تفقد الأمل.
+
+وإن كنت مسافراً، فلا تمكث هنا!
+
+- المداوية إرمغارد</i>"
+"readableLore.questItems.MarinWoodsDireNettleNote","<i>The natural world is a study in balance. When a poison spreads, a cure rises to meet it. All predators become prey, all lines become circles.
+
+Gather me the Dire Nettle - a small spore, yes, but I've learned that it alone can expose the creeping Blight's heart. 
+
+We must keep these foul weeds at bay. At least until nature once more tips her scales in our favor.
+
+- Herbalist Trelo</i>","<i>عالم الطبيعة درس في التوازن؛ فحين يتفشى السم، ينهض الترياق لمواجهته. وتغدو كل المفترسات فرائس، وتتحول الخطوط المستقيمة إلى دوائر.
+
+اجمع لي القراص الرهيب - إنه بوغ صغير الحجم، نعم، لكني علمت أنه وحده القادر على كشف فؤاد الآفة الزاحفة.
+
+يجب أن نكبح هذه الأعشاب الخبيثة، على الأقل حتى تميل الطبيعة بكفتها لصالحنا من جديد.
+
+- العشّاب تريلو</i>"
+"readableLore.questItems.WillemNoteAtFarm","<i>Gone to the southern corner of the Black Trench to harvest faeces petrichorus. The fouler the dung, the richer the grow.
+
+Not sure who I’m writing this note for, no one’s going to read it anyway. Hornswaggle. Pigeons. Marmalade stew.
+
+Willem the Farmer</i>","<i>ذهبت إلى الزاوية الجنوبية من الخندق الأسود لجمع براز التربة المعطرة. فكلما كان الروث أنتن، كان الزرع أغنى وأوفر.
+
+لست واثقاً لمن أكتب هذه الملاحظة، فلن يقرأها أحد على أي حال. خزعبلات. حمام. حساء المربى.
+
+ويليم المزارع</i>"
+"readableLore.questItems.quarryNoteText1","<i>the bars won't hold them back for long
+
+sacrament abandoned me
+god abandoned me
+
+no one will remember my name</i>","<i>القضبان لن تصمد في وجوههم طويلاً
+
+ساكرامنت تخلت عني
+والإله تخلّى عني
+
+لن يذكر أحد اسمي</i>"
+"readableLore.questItems.quarryNoteText2","<i>I held out as long as I could
+I'm sorry Tobias
+I can feel it now
+the black rain inside my mind
+thoughts turn to blood
+skin turns to eyes
+do not 
+ccome 
+<line-indent=10%>here
+
+<line-indent=20%>your Barrow</i>","<i>صمدت لأطول فترة ممكنة
+أنا آسف يا توبياس
+أشعر به الآن
+المطر الأسود داخل عقلي
+الأفكار تتحول إلى دماء
+والجلد يتحول إلى عيون
+لا 
+تأتِ 
+<line-indent=10%>إلى هنا
+
+<line-indent=20%>صديقك، بارو</i>"
+"readableLore.questItems.quarryTackeNoteOnWall","<i><nobr>Stark Reddis - 1 count kidnapping</nobr>
+
+<nobr>Torbin Jons - 2 counts burglary</nobr>
+
+<nobr>Josiana Etchling - 3 counts extortion</nobr>
+
+<nobr>Hamis Jute - 1 count murder</nobr>
+
+<nobr>Orchin Brum - 1 count arson</nobr>
+
+<nobr>Jonas and Elia Riven - 6 counts murder, 12 counts assault, 8 counts robbery, 3 counts dismemberment, 5 counts kidnapping, 4 counts attempted murder, 1 count threats made against the crown</nobr></i>","<i><nobr>ستارك ريديس - تهمة اختطاف واحدة</nobr>
+
+<nobr>توربين جونس - تهمتا سطو</nobr>
+
+<nobr>جوسيانا إتشلينغ - 3 تهم ابتزاز</nobr>
+
+<nobr>هاميس جوت - تهمة قتل واحدة</nobr>
+
+<nobr>أورشين بروم - تهمة حريق متعمد واحدة</nobr>
+
+<nobr>جوناس وإيليا ريفن - 6 تهم قتل، 12 تهمة اعتداء، 8 تهم سطو، 3 تهم بتر أطراف، 5 تهم اختطاف، 4 تهم شروع في القتل، وتهمة واحدة بالتهديد ضد التاج</nobr></i>"
