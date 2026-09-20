@@ -181,13 +181,13 @@ Please check back next week","لقد نفدت التحديات التي يمكن
 "ui.comfortSystem.qualityBonus","Quality Bonus","مكافأة الجودة"
 "ui.comfortSystem.tier1","[StatMaxHealth] <b>Max Health</b> increased by {0}","[StatMaxHealth] زيادة <b>الحد الأقصى للصحة</b> بمقدار {0}"
 "ui.comfortSystem.tier2","[StatMaxHealth] <b>Max Health</b> increased by {0}
-[StatMaxStamina] <b>Max Stamina</b> increased by {1}","[StatMaxHealth] <b>Max Health</b> increased by {0}
-[StatMaxStamina] <b>Max Stamina</b> increased by {1}"
+[StatMaxStamina] <b>Max Stamina</b> increased by {1}","[StatMaxHealth] زيادة <b>الحد الأقصى للصحة</b> بمقدار {0}
+[StatMaxStamina] زيادة <b>الحد الأقصى للتحمل</b> بمقدار {1}"
 "ui.comfortSystem.tier3","[StatMaxHealth] <b>Max Health</b> increased by {0}
 [StatMaxStamina] <b>Max Stamina</b> increased by {1}
-[StatMaxFocus] <b>Max Focus</b> increased by {2}","[StatMaxHealth] <b>Max Health</b> increased by {0}
-[StatMaxStamina] <b>Max Stamina</b> increased by {1}
-[StatMaxFocus] <b>Max Focus</b> increased by {2}"
+[StatMaxFocus] <b>Max Focus</b> increased by {2}","[StatMaxHealth] زيادة <b>الحد الأقصى للصحة</b> بمقدار {0}
+[StatMaxStamina] زيادة <b>الحد الأقصى للتحمل</b> بمقدار {1}
+[StatMaxFocus] زيادة <b>الحد الأقصى للتركيز</b> بمقدار {2}"
 "ui.comfortSystem.typeFilling","{0}% from {1} {2}","{0}% من {1} {2}"
 "ui.comfortSystem.unique","Unique","فريد"
 "ui.common.accept","Accept","قبول"
@@ -362,8 +362,8 @@ Please check back next week","لقد نفدت التحديات التي يمكن
 "ui.common.yes","Yes","نعم"
 "ui.commonActivity.Ineligible","Ineligible","غير مؤهل"
 "ui.commonActivity.IneligibleMessage","You didn’t contribute enough 
-to claim rewards this time.","You didn’t contribute enough 
-to claim rewards this time."
+to claim rewards this time.","لم تُسهم بما يكفي
+للمطالبة بالمكافآت هذه المرة."
 "ui.commonActivity.IneligibleMessageRequired","Required: {0} — You contributed {1}.","المطلوب: {0} — أسهمت بـ {1}."
 "ui.commonActivity.activeLabel","Active","نشط"
 "ui.commonActivity.completedLabel","Completed","مكتمل"
@@ -470,13 +470,13 @@ to claim rewards this time."
 "ui.controlsScreen.activityLog","Hold: Activity Log","استمرار: سجل النشاط"
 "ui.controlsScreen.alternative","Alternative","بديل"
 "ui.controlsScreen.attackchargeattack","Attack
-Hold: Charge Attack","Attack
-Hold: Charge Attack"
+Hold: Charge Attack","هجوم
+استمرار: هجوم مشحون"
 "ui.controlsScreen.attackchargeattackgamepad","Attack | Hold: Charge Attack","هجوم | استمرار: هجوم مشحون"
 "ui.controlsScreen.cancel","Cancel","إلغاء"
 "ui.controlsScreen.consumefood","Tap: Consume Food 
-Hold: Food Picker","Tap: Consume Food 
-Hold: Food Picker"
+Hold: Food Picker","نقر: تناول الطعام
+استمرار: اختيار الطعام"
 "ui.controlsScreen.dodge","Dodge","تحاشي"
 "ui.controlsScreen.dodgeholdrun","Dodge | Hold: Run","تحاشي | استمرار: جري"
 "ui.controlsScreen.food","Consume Food | Hold: Food Picker","تناول الطعام | استمرار: اختيار الطعام"
@@ -485,8 +485,8 @@ Hold: Food Picker"
 "ui.controlsScreen.inventory","Inventory","المخزون"
 "ui.controlsScreen.journal","Journal","السجل"
 "ui.controlsScreen.mainhandoffhandrune","Mainhand / Offhand Rune
-Hold: Charged Rune","Mainhand / Offhand Rune
-Hold: Charged Rune"
+Hold: Charged Rune","الرون الرئيسي / الثانوي
+استمرار: رون مشحون"
 "ui.controlsScreen.mainhandruneswitch","Mainhand Rune Switch ","تبديل رون اليد الرئيسية"
 "ui.controlsScreen.map","Map","الخريطة"
 "ui.controlsScreen.mapGesturesButton","Map | Hold: Gesture Menu","الخريطة | استمرار: قائمة الإيماءات"
@@ -496,32 +496,32 @@ Hold: Charged Rune"
 "ui.controlsScreen.movesneak","Move | Tap: Sneak","تحرك | نقر: تسلل"
 "ui.controlsScreen.offhandruneswitch","Offhand Rune Switch","تبديل رون اليد الثانوية"
 "ui.controlsScreen.offhanduseoffhandruneswitch","Hold: Offhand Use
-Hold: Offhand Rune Switch","Hold: Offhand Use
-Hold: Offhand Rune Switch"
+Hold: Offhand Rune Switch","استمرار: استخدام اليد الثانوية
+استمرار: تبديل رون اليد الثانوية"
 "ui.controlsScreen.parry","Parry","صد"
 "ui.controlsScreen.parrychangerune","Parry
-Change Active Rune","Parry
-Change Active Rune"
+Change Active Rune","صد
+تغيير الرون النشط"
 "ui.controlsScreen.quickitem","Consume Quick Item | Hold: Item Picker","استهلاك العنصر السريع | استمرار: اختيار العنصر"
 "ui.controlsScreen.quickmenu","Quick Menu
-Hold: Menus","Quick Menu
-Hold: Menus"
+Hold: Menus","القائمة السريعة
+استمرار: القوائم"
 "ui.controlsScreen.regular","Regular","عادي"
 "ui.controlsScreen.runehold","Runes
-Hold: Charged Rune","Runes
-Hold: Charged Rune"
+Hold: Charged Rune","الرون
+استمرار: رون مشحون"
 "ui.controlsScreen.runes","Runes","الرون"
 "ui.controlsScreen.shoulderbarge","Shoulder Barge","اقتحام بالكتف"
 "ui.controlsScreen.sneak","Sneak / Drop Down","تسلل / القفز للأسفل"
 "ui.controlsScreen.sprint","Hold: Sprint","استمرار: جري"
 "ui.controlsScreen.sprintdodge","Dodge
-Hold: Sprint","Dodge
-Hold: Sprint"
+Hold: Sprint","تحاشي
+استمرار: جري"
 "ui.controlsScreen.swaptogglerunes","Swap Toggle Mainhand/Offhand Runes ","تبديل رون اليد الرئيسية/الثانوية"
 "ui.controlsScreen.switchitemsfood","Switch Items/Food","تبديل العناصر/الطعام"
 "ui.controlsScreen.tapquickitem","Tap: Consume Quick Item
-Hold: Quick Item Picker","Tap: Consume Quick Item
-Hold: Quick Item Picker"
+Hold: Quick Item Picker","نقر: استهلاك العنصر السريع
+استمرار: اختيار العنصر السريع"
 "ui.controlsScreen.taptogglemainhand","Tap: Toggle Mainhand Item","نقر: تبديل عنصر اليد الرئيسية"
 "ui.controlsScreen.taptoggleoffhand","Tap: Toggle Offhand Item","نقر: تبديل عنصر اليد الثانوية"
 "ui.controlsScreen.targetlock","Target Lock | Hold: Exit Manual Target Lock","قفل الهدف | استمرار: الخروج من قفل الهدف اليدوي"
@@ -532,8 +532,8 @@ Hold: Quick Item Picker"
 "ui.controlsScreen.usealternative","Use Alternative Scheme","استخدام مخطط بديل"
 "ui.controlsScreen.utilityruneswitch","Utility Rune Switch","تبديل رون المرافق"
 "ui.controlsScreen.utilityruneswitchuse","Hold: Utility Use
-Hold: Utility Rune Switch","Hold: Utility Use
-Hold: Utility Rune Switch"
+Hold: Utility Rune Switch","استمرار: استخدام المرافق
+استمرار: تبديل رون المرافق"
 "ui.controlsScreen.walktocursor","Hold: Walk to cursor","استمرار: المشي نحو المؤشر"
 "ui.crucible.chamberCompleted","Chamber Completed","الغرفة مكتملة"
 "ui.crucible.chamberCompletedPrompt","Hold [interact] to ","استمرار [interact] لـ"
@@ -573,11 +573,11 @@ Hold: Utility Rune Switch"
 <color=#f2e6bd>{0}?</color>
 
 Beware:
-Doing this will remove your last 3 gem slots. Once invoked, it cannot be reversed.","Are you sure you want to enchant
+Doing this will remove your last 3 gem slots. Once invoked, it cannot be reversed.","هل أنت متأكد من رغبتك في سحر
 <color=#f2e6bd>{0}?</color>
 
-Beware:
-Doing this will remove your last 3 gem slots. Once invoked, it cannot be reversed."
+تحذير:
+سيؤدي ذلك إلى إزالة آخر 3 خانات جواهر. لا يمكن التراجع عن هذا."
 "ui.enchantScreen.extractConfirmation","Extract {0} from {1}? This will destroy the item.","استخراج {0} من {1}؟ سيُدمَّر العنصر."
 "ui.enchantScreen.selectGemToInfuse","Select a Gem to Infuse","اختر جوهرة للشحن"
 "ui.enchantScreen.selectItemToEnchant","Select an Item to Enchant","اختر عنصراً للسحر"
@@ -717,31 +717,31 @@ Doing this will remove your last 3 gem slots. Once invoked, it cannot be reverse
   
 Once you have enough focus, you can perform powerful <color=#F2E6BD>Focus Attacks</color> by holding [rightBumper] and pressing [attack] | [interact] | [cancel] or [run] .
 
-<color=#F2E6BD>Focus Attacks</color> do not consume <color=#F2E6BD>stamina</color>.","You gain <color=#F2E6BD>Focus</color> every time you <color=#F2E6BD>attack</color> or <color=#F2E6BD>parry</color> your foes. 
+<color=#F2E6BD>Focus Attacks</color> do not consume <color=#F2E6BD>stamina</color>.","تكتسب <color=#F2E6BD>التركيز</color> في كل مرة <color=#F2E6BD>تهاجم</color> فيها أعداءك أو <color=#F2E6BD>تصد</color> هجماتهم.
   
-Once you have enough focus, you can perform powerful <color=#F2E6BD>Focus Attacks</color> by holding [rightBumper] and pressing [attack] | [interact] | [cancel] or [run] .
+بمجرد أن تجمع تركيزاً كافياً، يمكنك تنفيذ <color=#F2E6BD>هجمات تركيز</color> قوية بالضغط مطولاً على [rightBumper] والضغط على [attack] أو [interact] أو [cancel] أو [run].
 
-<color=#F2E6BD>Focus Attacks</color> do not consume <color=#F2E6BD>stamina</color>."
+<color=#F2E6BD>هجمات التركيز</color> لا تستهلك <color=#F2E6BD>التحمل</color>."
 "ui.hints.shipTutorial.hintRollThroughDestructibles","You can also <color=#F2E6BD>press</color> [run] <color=#F2E6BD>twice</color> in order to <color=#F2E6BD>dodge roll through</color> destructible objects.","يمكنك أيضاً <color=#F2E6BD>الضغط</color> على [run] <color=#F2E6BD>مرتين</color> من أجل <color=#F2E6BD>التدحرج وتفادي</color> الأجسام القابلة للكسر."
 "ui.hints.shipTutorial.hintTeachSidle","Stand next to a wall and press [interact] to <color=#F2E6BD>sidle</color>.","قف بجوار الجدار واضغط على [interact] <color=#F2E6BD>للمحاذاة والتحرك بحذر</color>."
 "ui.hints.shipTutorial.hintUseGrateShipPrologue","Get to the <color=#F2E6BD>grate handle</color> and <color=#F2E6BD>press</color> [interact] <color=#F2E6BD>to open it</color>.","توجّه إلى <color=#F2E6BD>مقبض الشبيكة</color> و<color=#F2E6BD>اضغط على</color> [interact] <color=#F2E6BD>لفتحها</color>."
 "ui.hints.sideNotifications.combat.parry.description","Just before an enemy attack lands, perform a <color=#F2E6BD>Parry</color> to <color=#F2E6BD>deflect</color> the attack and <color=#F2E6BD>recover</color> [IconFocus].","قبل وصول هجوم العدو مباشرة، نفّذ <color=#F2E6BD>صداً متقناً</color> من أجل <color=#F2E6BD>ردع</color> الهجوم و<color=#F2E6BD>استعادة</color> [IconFocus]."
 "ui.hints.sideNotifications.combat.parry.popout","[parry] Parry","[parry] صد متقن"
 "ui.hints.sideNotifications.items.firstLowDurability.description","Watch your items' durability!
-At <color=#F2E6BD>0%</color>, items become <color=#F2E6BD>unequippable</color>. Repair items at <color=#F2E6BD>Fillmore</color> or with <color=#F2E6BD>repair powder</color> found in chests and drops.","Watch your items' durability!
-At <color=#F2E6BD>0%</color>, items become <color=#F2E6BD>unequippable</color>. Repair items at <color=#F2E6BD>Fillmore</color> or with <color=#F2E6BD>repair powder</color> found in chests and drops."
+At <color=#F2E6BD>0%</color>, items become <color=#F2E6BD>unequippable</color>. Repair items at <color=#F2E6BD>Fillmore</color> or with <color=#F2E6BD>repair powder</color> found in chests and drops.","انتبه لمتانة عتادك!
+عند <color=#F2E6BD>0%</color>، تصبح العناصر <color=#F2E6BD>غير قابلة للتجهيز</color>. قم بإصلاح العناصر لدى <color=#F2E6BD>فيلمور</color> أو باستخدام <color=#F2E6BD>مسحوق الإصلاح</color> الموجود في الصناديق والغنائم."
 "ui.hints.sideNotifications.items.firstLowDurability.title","Item Durability","متانة العناصر"
 "ui.hints.sideNotifications.items.firstRareItem.description","Items above <color=#808080>Common</color> rarity come with various <color=#F2E6BD>enchantments</color> and a <color=#F2E6BD>gem slot</color>.","العناصر التي تتجاوز ندرتها درجة <color=#808080>شائع</color> تأتي مزودة بعدة <color=#F2E6BD>تعزيزات سحرية</color> و<color=#F2E6BD>خانة جوهرة</color>."
 "ui.hints.sideNotifications.items.firstResource.description","Across Isola Sacra, you'll discover various <color=#F2E6BD>resources</color>. Gathering resources is key to <color=#F2E6BD>progression</color> and <color=#F2E6BD>survival</color>.","عبر إيزولا ساكرا، ستكتشف العديد من <color=#F2E6BD>المصادر</color>. جمع المصادر هو مفتاح <color=#F2E6BD>التقدم</color> و<color=#F2E6BD>البقاء</color>."
 "ui.hints.sideNotifications.items.firstTool.description","You've obtained a <color=#5B9968>tool</color>! Tools allow you to harvest <color=#F2E6BD>new resources</color>.
 
-Equip it to via the <color=#F2E6BD>Inventory</color>.","You've obtained a <color=#5B9968>tool</color>! Tools allow you to harvest <color=#F2E6BD>new resources</color>.
+Equip it to via the <color=#F2E6BD>Inventory</color>.","لقد حصلت على <color=#5B9968>أداة</color>! تتيح لك الأدوات جمع <color=#F2E6BD>مصادر جديدة</color>.
 
-Equip it to via the <color=#F2E6BD>Inventory</color>."
+جهّزها من خلال <color=#F2E6BD>المخزون</color>."
 "ui.hints.sideNotifications.items.firstTool.title","Tools","الأدوات"
 "ui.hints.sideNotifications.items.firstWeapon.description","You've obtained a <color=#5B9968>weapon</color>!
-Equip it to your main hand via the <color=#F2E6BD>Inventory</color>.","You've obtained a <color=#5B9968>weapon</color>!
-Equip it to your main hand via the <color=#F2E6BD>Inventory</color>."
+Equip it to your main hand via the <color=#F2E6BD>Inventory</color>.","لقد حصلت على <color=#5B9968>سلاح</color>!
+جهّزه في يدك الرئيسية من خلال <color=#F2E6BD>المخزون</color>."
 "ui.hints.sideNotifications.items.firstWeapon.title","Weapons","الأسلحة"
 "ui.hints.sideNotifications.items.foodToggling.controls1.action","Open Selector","فتح قائمة الاختيار"
 "ui.hints.sideNotifications.items.foodToggling.controls1.binding","[heal] <os>(Hold)</os>","[heal] <os>(استمرار)</os>"
@@ -773,17 +773,17 @@ Equip it to your main hand via the <color=#F2E6BD>Inventory</color>."
 "ui.hints.sideNotifications.shipTutorial.destructibles.controls1.binding","[attack]","[attack]"
 "ui.hints.sideNotifications.shipTutorial.destructibles.description","Certain objects are <color=#F2E6BD>breakable</color>.
 
-They may reveal hidden <color=#F2E6BD>loot</color> or <color=#F2E6BD>paths</color> when destroyed.","Certain objects are <color=#F2E6BD>breakable</color>.
+They may reveal hidden <color=#F2E6BD>loot</color> or <color=#F2E6BD>paths</color> when destroyed.","بعض الأجسام <color=#F2E6BD>قابلة للكسر</color>.
 
-They may reveal hidden <color=#F2E6BD>loot</color> or <color=#F2E6BD>paths</color> when destroyed."
+قد تكشف عن <color=#F2E6BD>غنائم</color> أو <color=#F2E6BD>مسارات</color> مخفية عند تدميرها."
 "ui.hints.sideNotifications.shipTutorial.destructibles.title","Destructibles","الأجسام القابلة للكسر"
 "ui.hints.sideNotifications.shipTutorial.food.controls1.action","Eat Food","تناول الطعام"
 "ui.hints.sideNotifications.shipTutorial.food.controls1.binding","[heal]","[heal]"
 "ui.hints.sideNotifications.shipTutorial.food.description","You've obtained <color=#5B9968>Food</color>! Eating food typically restores [IconHealth], but some may provide <color=#F2E6BD>temporary buffs</color> instead.","لقد حصلت على <color=#5B9968>طعام</color>! تناول الطعام يستعيد عادةً [IconHealth]، ولكن بعض الأطعمة قد تمنح <color=#F2E6BD>تأثيرات إيجابية مؤقتة</color> بدلاً من ذلك."
 "ui.hints.sideNotifications.shipTutorial.food.title","Food","الطعام"
 "ui.hints.sideNotifications.shipTutorial.offHandItem.description","You've obtained an <color=#5B9968>off hand</color> item!
-Equip it to your off-hand via the <color=#F2E6BD>Inventory</color>.","You've obtained an <color=#5B9968>off hand</color> item!
-Equip it to your off-hand via the <color=#F2E6BD>Inventory</color>."
+Equip it to your off-hand via the <color=#F2E6BD>Inventory</color>.","لقد حصلت على عنصر <color=#5B9968>يد ثانوية</color>!
+جهّزه في يدك الثانوية من خلال <color=#F2E6BD>المخزون</color>."
 "ui.hints.sideNotifications.shipTutorial.offHandItem.title","Off Hand Items","عناصر اليد الثانوية"
 "ui.hints.sideNotifications.shipTutorial.quickItem.controls1.action","Use Quick Item","استخدام عنصر سريع"
 "ui.hints.sideNotifications.shipTutorial.quickItem.controls1.binding","[quickitem]","[quickitem]"
@@ -799,11 +799,11 @@ Equip it to your off-hand via the <color=#F2E6BD>Inventory</color>."
 
 <color=#F2E6BD>Infuse</color> - Socket Gems into empty slots to apply specific enchantments.
 
-<color=#F2E6BD>Add</color> or <color=#F2E6BD>Extract Runes</color> - Modify a weapon’s Runes. Extracting will <color=#F2E6BD>sacrifice</color> the weapon.</line-indent></indent>","<indent=2%><line-indent=-2%><color=#F2E6BD>Enchant</color> - Transform <color=#808080>Common</color> gear into either a <color=#558CAC>Rare</color> or <color=#B19CEE>Plagued</color> item.
+<color=#F2E6BD>Add</color> or <color=#F2E6BD>Extract Runes</color> - Modify a weapon’s Runes. Extracting will <color=#F2E6BD>sacrifice</color> the weapon.</line-indent></indent>","<indent=2%><line-indent=-2%><color=#F2E6BD>التعزيز السحري</color> - تحويل العتاد <color=#808080>الشائع</color> إلى عنصر إما <color=#558CAC>نادر</color> أو <color=#B19CEE>موبوء</color>.
 
-<color=#F2E6BD>Infuse</color> - Socket Gems into empty slots to apply specific enchantments.
+<color=#F2E6BD>التضمين</color> - تركيب الجواهر في الخانات الفارغة لتطبيق تعزيزات سحرية محددة.
 
-<color=#F2E6BD>Add</color> or <color=#F2E6BD>Extract Runes</color> - Modify a weapon’s Runes. Extracting will <color=#F2E6BD>sacrifice</color> the weapon.</line-indent></indent>"
+<color=#F2E6BD>إضافة</color> أو <color=#F2E6BD>استخراج الرون</color> - تعديل رون السلاح. استخراج الرون سيؤدي إلى <color=#F2E6BD>التضحية</color> بالسلاح.</line-indent></indent>"
 "ui.hints.sideNotifications.ui.inventoryTabs.controls1.action","Change Tabs","تبديل علامات التبويب"
 "ui.hints.sideNotifications.ui.inventoryTabs.controls1.binding","[ui_previousfilter] <s>or</s> [ui_nextfilter]","[ui_previousfilter] <s>أو</s> [ui_nextfilter]"
 "ui.hints.sideNotifications.ui.inventoryTabs.description","Your <color=#F2E6BD>Inventory</color> is comprised of tabs: <color=#F2E6BD>Gear</color>, <color=#F2E6BD>Usables</color>, <color=#F2E6BD>Resources</color>, <color=#F2E6BD>Misc</color> and <color=#F2E6BD>Realm</color>.","يتألف <color=#F2E6BD>المخزون</color> لديك من علامات تبويب: <color=#F2E6BD>العتاد</color>، <color=#F2E6BD>المستهلكات</color>، <color=#F2E6BD>المصادر</color>، <color=#F2E6BD>متنوعات</color> و<color=#F2E6BD>العالم</color>."
@@ -840,20 +840,20 @@ Equip it to your off-hand via the <color=#F2E6BD>Inventory</color>."
 
 <color=#5B9968>Runes</color> are <color=#F2E6BD>powerful</color> special attacks <color=#F2E6BD>unique</color> to every weapon. 
 
-Ready a weapon to perform its Runes.","Spend gained [IconFocus] by unleashing your weapons’ Runes!
+Ready a weapon to perform its Runes.","أنفق [IconFocus] الذي اكتسبته بإطلاق رُون أسلحتك!
 
-<color=#5B9968>Runes</color> are <color=#F2E6BD>powerful</color> special attacks <color=#F2E6BD>unique</color> to every weapon. 
+<color=#5B9968>الرون</color> هي هجمات خاصة <color=#F2E6BD>قوية</color> <color=#F2E6BD>فريدة</color> لكل سلاح.
 
-Ready a weapon to perform its Runes."
+استعد بالسلاح لتنفيذ الرون الخاص به."
 "ui.hints.tutorial.combat.tutorialFocusRunes.descriptionalt","Spend gained [IconFocus] by unleashing your weapons’ Runes! 
 
 <color=#5B9968>Runes</color> are <color=#F2E6BD>powerful</color> special attacks <color=#F2E6BD>unique</color> to every weapon. 
 
-Select a weapons’ Rune to perform it.","Spend gained [IconFocus] by unleashing your weapons’ Runes! 
+Select a weapons’ Rune to perform it.","أنفق [IconFocus] الذي اكتسبته بإطلاق رُون أسلحتك!
 
-<color=#5B9968>Runes</color> are <color=#F2E6BD>powerful</color> special attacks <color=#F2E6BD>unique</color> to every weapon. 
+<color=#5B9968>الرون</color> هي هجمات خاصة <color=#F2E6BD>قوية</color> <color=#F2E6BD>فريدة</color> لكل سلاح.
 
-Select a weapons’ Rune to perform it."
+اختر رون السلاح لتنفيذه."
 "ui.hints.tutorial.combat.tutorialParry.title","Parry","الصد المتقن"
 "ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.controls1.action","Parry","صد متقن"
 "ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.controls1.binding","[parry]","[parry]"
@@ -865,15 +865,15 @@ Once full, the enemy is <color=#F2E6BD>staggered</color>.
 Alternatively, [parry] <color=#F2E6BD>Parry</color> just before an enemy attack lands to instantly <color=#F2E6BD>stagger</color> them.
 
 
-<color=#808080>Show the Poise Meter via the Settings Menu</color>","<color=#F2E6BD>Stagger</color> an enemy to briefly lower their guard.
+<color=#808080>Show the Poise Meter via the Settings Menu</color>","قم <color=#F2E6BD>بترنيح</color> العدو لخفض دفاعه لفترة وجيزة.
 
-Weapons deal [IconPoise] <color=#F2E6BD>Poise Damage</color>, increasing the white <color=#F2E6BD>Poise Meter</color> above an enemy.
-Once full, the enemy is <color=#F2E6BD>staggered</color>.
+تُلحق الأسلحة [IconPoise] <color=#F2E6BD>ضرر توازن</color>، مما يزيد من <color=#F2E6BD>مقياس التوازن</color> الأبيض فوق رأس العدو.
+بمجرد امتلائه، يُصاب العدو <color=#F2E6BD>بالترنح</color>.
 
-Alternatively, [parry] <color=#F2E6BD>Parry</color> just before an enemy attack lands to instantly <color=#F2E6BD>stagger</color> them.
+بدلاً من ذلك، نفّذ [parry] <color=#F2E6BD>صداً متقناً</color> قبل وصول هجوم العدو مباشرة من أجل <color=#F2E6BD>ترنيحه</color> فوراً.
 
 
-<color=#808080>Show the Poise Meter via the Settings Menu</color>"
+<color=#808080>أظهر مقياس التوازن من خلال قائمة الإعدادات</color>"
 "ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.hint","[parry] Parry","[parry] صد متقن"
 "ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.title","Enemy Vulnerability","قتال متقدم"
 "ui.hints.tutorial.shipTutorial.tutorialBackstab.controls1.action","Backstab Attack","طعنة من الخلف"
@@ -884,11 +884,11 @@ Alternatively, [parry] <color=#F2E6BD>Parry</color> just before an enemy attack 
 
 Approach enemies <color=#F2E6BD>from behind</color> to reveal a [IconSkull], then <color=#F2E6BD>press</color> [attack] to perform a <color=#F2E6BD>Backstab Attack</color>.
 
-[sneak] <color=#F2E6BD>Sneak</color> to reduce the chance of detection.","Sometimes you can use the element of surprise on enemies.
+[sneak] <color=#F2E6BD>Sneak</color> to reduce the chance of detection.","في بعض الأحيان يمكنك استخدام عنصر المفاجأة ضد الأعداء.
 
-Approach enemies <color=#F2E6BD>from behind</color> to reveal a [IconSkull], then <color=#F2E6BD>press</color> [attack] to perform a <color=#F2E6BD>Backstab Attack</color>.
+اقترب من الأعداء <color=#F2E6BD>من الخلف</color> لإظهار [IconSkull]، ثم <color=#F2E6BD>اضغط على</color> [attack] لتنفيذ <color=#F2E6BD>طعنة من الخلف</color>.
 
-[sneak] <color=#F2E6BD>Sneak</color> to reduce the chance of detection."
+[sneak] <color=#F2E6BD>تسلل</color> لتقليل فرصة اكتشافك."
 "ui.hints.tutorial.shipTutorial.tutorialBackstab.title","Backstab","الطعن من الخلف"
 "ui.hints.tutorial.shipTutorial.tutorialCombatBasics.controls1.action","Attack","هجوم"
 "ui.hints.tutorial.shipTutorial.tutorialCombatBasics.controls1.binding","[attack]","[attack]"
@@ -901,12 +901,12 @@ Approach enemies <color=#F2E6BD>from behind</color> to reveal a [IconSkull], the
 Evade attacks by <color=#F2E6BD>tapping</color> [dodge] <color=#F2E6BD>Dodge</color>.
 
 These actions <color=#F2E6BD>consume</color> [IconStamina].
-Without [IconNoStamina], you can’t attack or dodge.","<color=#F2E6BD>Attack</color> enemies with [attack]. Deal bonus damage by <color=#F2E6BD>holding</color> [attack] for a <color=#F2E6BD>Charged Attack</color>.
+Without [IconNoStamina], you can’t attack or dodge.","<color=#F2E6BD>هاجم</color> الأعداء باستخدام [attack]. ألحق ضرراً إضافياً عن طريق <color=#F2E6BD>الاستمرار بالضغط</color> على [attack] لتنفيذ <color=#F2E6BD>هجوم مشحون</color>.
 
-Evade attacks by <color=#F2E6BD>tapping</color> [dodge] <color=#F2E6BD>Dodge</color>.
+تجنب الهجمات عن طريق <color=#F2E6BD>النقر على</color> [dodge] <color=#F2E6BD>للتفادي</color>.
 
-These actions <color=#F2E6BD>consume</color> [IconStamina].
-Without [IconNoStamina], you can’t attack or dodge."
+هذه الإجراءات <color=#F2E6BD>تستهلك</color> [IconStamina].
+من دون [IconNoStamina]، لن تتمكن من الهجوم أو التفادي."
 "ui.hints.tutorial.shipTutorial.tutorialCombatBasics.hint","[attack] Attack  <color=#F2E6BD>(Hold)</color> [attack] Charged Attack   [dodge] Dodge","[attack] هجوم  <color=#F2E6BD>(استمرار)</color> [attack] هجوم مشحون   [dodge] تفادٍ"
 "ui.hints.tutorial.shipTutorial.tutorialCombatBasics.title","Combat Basics","أساسيات القتال"
 "ui.hints.tutorial.shipTutorial.tutorialIntermediateCombat.hint","<color=#F2E6BD>(Hold)</color> [ohspecial] Ready Shield","<color=#F2E6BD>(استمرار)</color> [ohspecial] تجهيز الدرع"
@@ -919,31 +919,31 @@ Without [IconNoStamina], you can’t attack or dodge."
 Equip it from inside the <color=#F2E6BD>Inventory</color>.
 
 Open the <color=#F2E6BD>Inventory</color> by <color=#F2E6BD>holding</color> [start]
-or by using the [start] <color=#F2E6BD>Menu Selector</color>.","You've obtained an equippable <color=#5B9968>item</color>! 
-Equip it from inside the <color=#F2E6BD>Inventory</color>.
+or by using the [start] <color=#F2E6BD>Menu Selector</color>.","لقد حصلت على <color=#5B9968>عنصر</color> قابل للتجهيز!
+جهّزه من داخل <color=#F2E6BD>المخزون</color>.
 
-Open the <color=#F2E6BD>Inventory</color> by <color=#F2E6BD>holding</color> [start]
-or by using the [start] <color=#F2E6BD>Menu Selector</color>."
+افتح <color=#F2E6BD>المخزون</color> من خلال <color=#F2E6BD>الاستمرار بالضغط على</color> [start]
+أو باستخدام [start] <color=#F2E6BD>محدد القائمة</color>."
 "ui.hints.tutorial.shipTutorial.tutorialInventory.descriptionalt","You've obtained an equippable <color=#5B9968>item</color>! 
 Equip it from inside the <color=#F2E6BD>Inventory</color>.
 
 Open the <color=#F2E6BD>Inventory</color> by <color=#F2E6BD>pressing</color> [toggle_inventory]
-or by using the [start] <color=#F2E6BD>Menu Selector</color>.","You've obtained an equippable <color=#5B9968>item</color>! 
-Equip it from inside the <color=#F2E6BD>Inventory</color>.
+or by using the [start] <color=#F2E6BD>Menu Selector</color>.","لقد حصلت على <color=#5B9968>عنصر</color> قابل للتجهيز!
+جهّزه من داخل <color=#F2E6BD>المخزون</color>.
 
-Open the <color=#F2E6BD>Inventory</color> by <color=#F2E6BD>pressing</color> [toggle_inventory]
-or by using the [start] <color=#F2E6BD>Menu Selector</color>."
+افتح <color=#F2E6BD>المخزون</color> عن طريق <color=#F2E6BD>الضغط على</color> [toggle_inventory]
+أو باستخدام [start] <color=#F2E6BD>محدد القائمة</color>."
 "ui.hints.tutorial.shipTutorial.tutorialShields.controls1.action","Ready Shield","تجهيز الدرع"
 "ui.hints.tutorial.shipTutorial.tutorialShields.controls1.binding","[ohspecial] <os>(Hold)</os>","[ohspecial] <os>(استمرار)</os>"
 "ui.hints.tutorial.shipTutorial.tutorialShields.description","[ohspecial] <color=#F2E6BD>Ready a Shield</color> to block enemy attacks and <color=#F2E6BD>reduce damage received</color>.
 
 Shields <color=#F2E6BD>consume</color> [IconStamina].
 
-If [IconNoStamina] runs out while blocking an attack, <color=#F2E6BD>your stance will be broken</color>.","[ohspecial] <color=#F2E6BD>Ready a Shield</color> to block enemy attacks and <color=#F2E6BD>reduce damage received</color>.
+If [IconNoStamina] runs out while blocking an attack, <color=#F2E6BD>your stance will be broken</color>.","[ohspecial] <color=#F2E6BD>جهّز الدرع</color> لصد هجمات العدو و<color=#F2E6BD>تقليل الضرر المتلقى</color>.
 
-Shields <color=#F2E6BD>consume</color> [IconStamina].
+الدروع <color=#F2E6BD>تستهلك</color> [IconStamina].
 
-If [IconNoStamina] runs out while blocking an attack, <color=#F2E6BD>your stance will be broken</color>."
+إذا نفد [IconNoStamina] أثناء صد هجوم، <color=#F2E6BD>فسيتم كسر وضعيتك الدفاعية</color>."
 "ui.hints.tutorial.shipTutorial.tutorialShields.title","Shields","الدروع"
 "ui.hints.tutorial.smart.focus.description","Remember to <color=#F2E6BD>spend</color> [IconFocus] by executing <color=#F2E6BD>Runes</color> imbued in your weapons.","تذكر أن <color=#F2E6BD>تنفق</color> [IconFocus] عن طريق تنفيذ <color=#F2E6BD>الرون</color> المضمنة في أسلحتك."
 "ui.hints.tutorial.smart.sprintattack.description","[run] <color=#F2E6BD>Sprint</color> or [dodge] <color=#F2E6BD>Dodge</color> and <color=#F2E6BD>press</color> [attack] to perform a <color=#F2E6BD>Combo Attack</color>.","[run] <color=#F2E6BD>اركض</color> أو [dodge] <color=#F2E6BD>تفادَ</color> و<color=#F2E6BD>اضغط على</color> [attack] لتنفيذ <color=#F2E6BD>هجوم متتابع</color>."
@@ -954,9 +954,9 @@ If [IconNoStamina] runs out while blocking an attack, <color=#F2E6BD>your stance
 "ui.hints.tutorial.smart.weightClass.descriptionalt","You can [key_shoulder_barge] <color=#F2E6BD>Shoulder Barge</color> while <color=#FF2D2D>Heavy</color> to briefly <color=#F2E6BD>stagger</color> enemies.","يمكنك الضغط على [key_shoulder_barge] لتنفيذ <color=#F2E6BD>دفعة بالكتف</color> أثناء فئة الوزن <color=#FF2D2D>ثقيل</color> من أجل <color=#F2E6BD>ترنيح</color> الأعداء لفترة وجيزة."
 "ui.hints.tutorial.systems.tutorialExaltingItems.description","<color=#F2E6BD>Exalting</color> an item will raise its primary stats, and increase the benefits bestowed from any Enchantments.
 
-Exalting items is <color=#F2E6BD>permanent</color> and cannot be undone.","<color=#F2E6BD>Exalting</color> an item will raise its primary stats, and increase the benefits bestowed from any Enchantments.
+Exalting items is <color=#F2E6BD>permanent</color> and cannot be undone.","سيؤدي <color=#F2E6BD>تمجيد</color> العنصر إلى رفع إحصائياته الأساسية، وزيادة الفوائد الممنوحة من أي تعزيزات سحرية.
 
-Exalting items is <color=#F2E6BD>permanent</color> and cannot be undone."
+تمجيد العناصر <color=#F2E6BD>دائم</color> ولا يمكن التراجع عنه."
 "ui.hints.tutorial.systems.tutorialExaltingItems.title","Exalting Items","تمجيد العناصر"
 "ui.hints.tutorial.systems.tutorialWeightClass.description","<color=#F2E6BD>Weight Class</color> controls the <color=#F2E6BD>dodge</color> you perform.
 
@@ -966,15 +966,15 @@ Exalting items is <color=#F2E6BD>permanent</color> and cannot be undone."
             with [ohspecial] + [mhspecial] <color=#F2E6BD>Shoulder Barge</color>.
 
 
-Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equipped items and  [IconEquipLoad].","<color=#F2E6BD>Weight Class</color> controls the <color=#F2E6BD>dodge</color> you perform.
+Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equipped items and  [IconEquipLoad].","تحدد <color=#F2E6BD>فئة الوزن</color> نوع حركة <color=#F2E6BD>التفادي</color> التي تنفذها.
 
-<color=#5B9968>Fast</color>: [dodge] Quickstep.
-<color=#F2E6BD>Normal</color>: [dodge] Roll.
-<color=#FF2D2D>Heavy</color>: [dodge] Slow Roll + Stagger Enemies
-            with [ohspecial] + [mhspecial] <color=#F2E6BD>Shoulder Barge</color>.
+<color=#5B9968>خفيف</color>: [dodge] خطوة سريعة.
+<color=#F2E6BD>متوسط</color>: [dodge] دحرجة.
+<color=#FF2D2D>ثقيل</color>: [dodge] دحرجة بطيئة + ترنيح الأعداء
+            باستخدام [ohspecial] + [mhspecial] <color=#F2E6BD>دفعة بالكتف</color>.
 
 
-Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equipped items and  [IconEquipLoad]."
+يتم تحديد فئة الوزن بواسطة <color=#F2E6BD>الوزن الإجمالي</color> للعتاد المجهز و [IconEquipLoad]."
 "ui.hints.tutorial.systems.tutorialWeightClass.descriptionalt","<color=#F2E6BD>Weight Class</color> controls the <color=#F2E6BD>dodge</color> you perform.
 
 <color=#5B9968>Fast</color>: [dodge] Quickstep.
@@ -983,15 +983,15 @@ Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equip
             with [key_shoulder_barge] <color=#F2E6BD>Shoulder Barge</color>.
 
 
-Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equipped items and  [IconEquipLoad].","<color=#F2E6BD>Weight Class</color> controls the <color=#F2E6BD>dodge</color> you perform.
+Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equipped items and  [IconEquipLoad].","تحدد <color=#F2E6BD>فئة الوزن</color> نوع حركة <color=#F2E6BD>التفادي</color> التي تنفذها.
 
-<color=#5B9968>Fast</color>: [dodge] Quickstep.
-<color=#F2E6BD>Normal</color>: [dodge] Roll.
-<color=#FF2D2D>Heavy</color>: [dodge] Slow Roll + Stagger Enemies
-            with [key_shoulder_barge] <color=#F2E6BD>Shoulder Barge</color>.
+<color=#5B9968>خفيف</color>: [dodge] خطوة سريعة.
+<color=#F2E6BD>متوسط</color>: [dodge] دحرجة.
+<color=#FF2D2D>ثقيل</color>: [dodge] دحرجة بطيئة + ترنيح الأعداء
+            باستخدام [key_shoulder_barge] <color=#F2E6BD>دفعة بالكتف</color>.
 
 
-Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equipped items and  [IconEquipLoad]."
+يتم تحديد فئة الوزن بواسطة <color=#F2E6BD>الوزن الإجمالي</color> للعتاد المجهز و [IconEquipLoad]."
 "ui.hints.vendors.hintEquipmentRepaired","You have <color=#F2E6BD>repaired your equipment</color>.","لقد قمت <color=#F2E6BD>بإصلاح عتادك</color>."
 "ui.hints.vendors.hintItemCannotBeDestroyed","This item <color=#F2E6BD>can not be destroyed</color>.","هذا العنصر <color=#F2E6BD>لا يمكن تدميره</color>."
 "ui.hints.vendors.hintItemCannotBeSold","This item <color=#F2E6BD>can not be sold</color>.","هذا العنصر <color=#F2E6BD>لا يمكن بيعه</color>."
@@ -1128,8 +1128,8 @@ Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equip
 "ui.loadingScreenHints.whittacker","Whittacker the woodcrafter sells a wide variety of wooden objects to decorate and improve your home, including wooden storage chests.","يبيع حِرَفيّ الخشب ويتكر مجموعة واسعة من الأجسام الخشبية لتزيين منزلك وتحسينه، بما في ذلك صناديق التخزين الخشبية."
 "ui.login.accountLabel","Account","الحساب"
 "ui.login.chooseDescription","Online and Offline characters and realms are separate.
-They <b><color=#fbcb01>cannot be transferred</color></b> between modes.","Online and Offline characters and realms are separate.
-They <b><color=#fbcb01>cannot be transferred</color></b> between modes."
+They <b><color=#fbcb01>cannot be transferred</color></b> between modes.","شخصيات وعوالم اللعب الجماعي عبر الإنترنت واللعب الفردي دون اتصال منفصلة تماماً.
+<b><color=#fbcb01>لا يمكن نقلها</color></b> بين الوضعين."
 "ui.login.chooseTitle","Choose How You Play","اختر أسلوب لعبك"
 "ui.login.confirmpasswordLabel","Confirm Password","تأكيد كلمة المرور"
 "ui.login.createAccountLabel","Create Account","إنشاء حساب"
@@ -1178,13 +1178,13 @@ They <b><color=#fbcb01>cannot be transferred</color></b> between modes."
 "ui.mainMenu.goOffline","Go Offline","الانتقال إلى وضع دون اتصال"
 "ui.mainMenu.goOnline","Go Online","الانتقال إلى وضع عبر الإنترنت"
 "ui.mainMenu.joinFailMessage","You and {} aren’t citizens of the same realm.
-To play together, <b><color=#fbcb01>enter your realm session and invite your friend</color></b> as a citizen from the Realms screen.","You and {} aren’t citizens of the same realm.
-To play together, <b><color=#fbcb01>enter your realm session and invite your friend</color></b> as a citizen from the Realms screen."
+To play together, <b><color=#fbcb01>enter your realm session and invite your friend</color></b> as a citizen from the Realms screen.","أنت و {} لستما مواطنين في العالم نفسه.
+للعب معاً، <b><color=#fbcb01>ادخل إلى جلسة عالمك وادعُ صديقك</color></b> كمواطن من شاشة العوالم."
 "ui.mainMenu.legacyRealmsMessage","All existing saves from launch to the Crucible update hotfixes have been <b><color=#fbcb01>moved to legacy.</color></b> 
 You <b><color=#fbcb01>can access</color></b> your old saves on the <b><color=#fbcb01>crucible_legacy beta</color></b> on Steam. 
-Check the <b>NRFTW forum</b> for details. ","All existing saves from launch to the Crucible update hotfixes have been <b><color=#fbcb01>moved to legacy.</color></b> 
-You <b><color=#fbcb01>can access</color></b> your old saves on the <b><color=#fbcb01>crucible_legacy beta</color></b> on Steam. 
-Check the <b>NRFTW forum</b> for details. "
+Check the <b>NRFTW forum</b> for details. ","تم <b><color=#fbcb01>نقل جميع ملفات الحفظ السابقة</color></b> من تاريخ الإطلاق حتى التحديثات العاجلة للبوتقة إلى الإصدار القديم.
+<b><color=#fbcb01>يمكنك الوصول</color></b> إلى ملفات حفظك القديمة عبر النسخة التجريبية <b><color=#fbcb01>crucible_legacy</color></b> على Steam.
+راجع <b>منتدى NRFTW</b> للمزيد من التفاصيل."
 "ui.mainMenu.news","NEWS","الأخبار"
 "ui.mainMenu.nextLevel","Next Level","المستوى التالي"
 "ui.mainMenu.openLink","OPEN LINK","فتح الرابط"
@@ -1193,25 +1193,25 @@ Check the <b>NRFTW forum</b> for details. "
 "ui.mainMenu.pathTier1","Path of the Torn ","مسار الممزقين"
 "ui.mainMenu.pathTier1Description","Ideal for Cerim who seek a story-focused experience. 
 
-Enemy HP is reduced by 20% and Enemy Damage by 50%.","Ideal for Cerim who seek a story-focused experience. 
+Enemy HP is reduced by 20% and Enemy Damage by 50%.","مثالي للسيريم الذين يبحثون عن تجربة تركز على القصة.
 
-Enemy HP is reduced by 20% and Enemy Damage by 50%."
+تنخفض نقاط صحة الأعداء بنسبة 20% وضرر الأعداء بنسبة 50%."
 "ui.mainMenu.pathTier2","Path of the Chosen ","مسار المختارين"
 "ui.mainMenu.pathTier2Description","Balanced for Cerim who prefer an equal blend of difficulty and story. 
 
-This is the intended experience.","Balanced for Cerim who prefer an equal blend of difficulty and story. 
+This is the intended experience.","متوازن للسيريم الذين يفضلون مزيجاً متساوياً بين الصعوبة والقصة.
 
-This is the intended experience."
+هذه هي التجربة المنشودة للعبة."
 "ui.mainMenu.pathTier3","Path of the Unspoken ","مسار غير المنطوقين"
 "ui.mainMenu.pathTier3Description","Only for the bravest of Cerim.
 
 Face more enemies than ever, Enemy HP is increased by 20% and Enemy Damage by 35%, while greater Poise makes enemy attacks harder to interrupt.
 
-A brutal, punishing world awaits.","Only for the bravest of Cerim.
+A brutal, punishing world awaits.","فقط لأشجع السيريم.
 
-Face more enemies than ever, Enemy HP is increased by 20% and Enemy Damage by 35%, while greater Poise makes enemy attacks harder to interrupt.
+واجه أعداء أكثر من أي وقت مضى، تزداد نقاط صحة الأعداء بنسبة 20% وضرر الأعداء بنسبة 35%، بينما يجعل التوازن الأكبر مقاطعة هجمات الأعداء أصعب.
 
-A brutal, punishing world awaits."
+عالم قارس وقاسٍ في انتظارك."
 "ui.mainMenu.quitGame","QUIT GAME","الخروج من اللعبة"
 "ui.mainMenu.realms","REALMS","العوالم"
 "ui.mainMenu.reconnect","Reconnect","إعادة الاتصال"
@@ -1255,11 +1255,11 @@ A brutal, punishing world awaits."
 
 The local {0} save for ""{1}"" conflicts with the cloud save.
 
-Please choose which version to keep. The other will be overwritten.","CLOUD SYNC CONFLICT
+Please choose which version to keep. The other will be overwritten.","تعارض في المزامنة السحابية
 
-The local {0} save for ""{1}"" conflicts with the cloud save.
+ملف الحفظ المحلي {0} لـ ""{1}"" يتعارض مع ملف الحفظ السحابي.
 
-Please choose which version to keep. The other will be overwritten."
+يرجى اختيار الإصدار الذي ترغب بالاحتفاظ به. سيتم استبدال الإصدار الآخر."
 "ui.network.fatalError","Save data is unavailable or corrupted.","بيانات الحفظ غير متوفرة أو تالفة."
 "ui.network.genericFailure","Failed to load save data.","فشل تحميل بيانات الحفظ."
 "ui.network.inviteRealmFull","Cannot invite account to realm. Realm is full.","لا يمكن دعوة الحساب إلى العالم. العالم ممتلئ."
@@ -1276,8 +1276,8 @@ Please choose which version to keep. The other will be overwritten."
 "ui.network.resync.failedToParseDatabaseResponse","Server Parse Error","خطأ في تحليل استجابة الخادم"
 "ui.network.resync.invalidSaveData","Save Validation Failed","فشل التحقق من صحة ملف الحفظ"
 "ui.network.sessionHandlerError","Session error.
-Error = {0}","Session error.
-Error = {0}"
+Error = {0}","خطأ في الجلسة.
+الخطأ = {0}"
 "ui.network.setOwnershipRealmNotOwned","Cannot set ownership. Realm is not owned by user.","لا يمكن نقل الملكية. العالم ليس ملكاً للمستخدم."
 "ui.network.setOwnershipTargetNotOnRealm","Cannot set ownership. Target account is not on the realm.","لا يمكن نقل الملكية. الحساب المستهدف غير موجود في هذا العالم."
 "ui.network.shareRealmConfirmation","Sharing a realm will make it accessible only when online. Do you want to proceed?","مشاركة العالم ستجعله متاحاً فقط عند الاتصال بالإنترنت. هل ترغب في المتابعة؟"
@@ -1309,9 +1309,9 @@ Error = {0}"
 "ui.perfectGather.rankPerfect","Perfect","مثالي"
 "ui.photosensitivityScreen.warningText","A very small percentage of individuals may experience epileptic seizures when exposed to certain light patterns or flashing lights, including some of the visual effects that appear in certain video games. Symptoms may even be experienced by individuals with no history of epilepsy or photosensitivity. If you or anyone in your family have an epileptic or photosensitivity condition, please consult your physician before playing.
 
-If you experience any of the following symptoms while playing this video game, immediately discontinue use and consult your physician before resuming play: dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions.","A very small percentage of individuals may experience epileptic seizures when exposed to certain light patterns or flashing lights, including some of the visual effects that appear in certain video games. Symptoms may even be experienced by individuals with no history of epilepsy or photosensitivity. If you or anyone in your family have an epileptic or photosensitivity condition, please consult your physician before playing.
+If you experience any of the following symptoms while playing this video game, immediately discontinue use and consult your physician before resuming play: dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions.","قد تعاني نسبة ضئيلة جداً من الأشخاص من نوبات صرع عند تعرضهم لأنماط معينة من الضوء أو الأضواء الساطعة، بما في ذلك بعض التأثيرات البصرية التي تظهر في ألعاب فيديو معينة. وقد يعاني الأفراد من هذه الأعراض حتى لو لم يكن لديهم تاريخ سابق من الصرع أو الحساسية للضوء. إذا كنت أنت أو أي شخص في عائلتك تعاني من الصرع أو الحساسية للضوء، فيرجى استشارة طبيبك قبل اللعب.
 
-If you experience any of the following symptoms while playing this video game, immediately discontinue use and consult your physician before resuming play: dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions."
+إذا واجهت أياً من الأعراض التالية أثناء لعب لعبة الفيديو هذه، فتوقف فوراً عن اللعب واستشر طبيبك قبل استئنافه: الدوخة، تشوش الرؤية، تشنجات العين أو العضلات، فقدان الوعي، التوهان، أي حركة لاإرادية، أو التشنجات."
 "ui.photosensitivityScreen.warningTitle","IMPORTANT HEALTH WARNING: READ BEFORE PLAYING","تحذير صحي مهم: اقرأ قبل اللعب"
 "ui.plagueBurn.bosswillbecalled","Pestilence will be Summoned","سيتم استدعاء الوباء"
 "ui.plagueBurn.burn","Burn","حرق"
@@ -1347,16 +1347,16 @@ By playing on this branch you are acknowledging the following:
 
 That said, we do encourage you to give feedback on our forum in the Experimental section, so that we can improve the game for the next launch.
 
-If you agree to these terms, then onward to Sacra!","Welcome to the NRFTW Experimental Branch!
+If you agree to these terms, then onward to Sacra!","مرحباً بك في فرع NRFTW التجريبي!
 
-By playing on this branch you are acknowledging the following:
-- This branch may be buggy and unstable
-- Combat and systems balance may not be optimal
-- Languages other than English may not be fully supported
+بلعبك على هذا الفرع فإنك تقر بما يلي:
+- قد يحتوي هذا الفرع على أخطاء برمجية وقد يكون غير مستقر
+- قد لا يكون توازن القتال والأنظمة مثالياً
+- قد لا يتم دعم اللغات غير الإنجليزية بشكل كامل
 
-That said, we do encourage you to give feedback on our forum in the Experimental section, so that we can improve the game for the next launch.
+مع ذلك، فإننا نحثك على تقديم ملاحظاتك في منتدانا في قسم التجريبي حتى نتمكن من تحسين اللعبة للإطلاق القادم.
 
-If you agree to these terms, then onward to Sacra!"
+إذا كنت توافق على هذه الشروط، فهيا إلى ساكرا!"
 "ui.purchaseScreen.amountMinMax","Amount /Max, Min","الكمية /الحد الأقصى، الحد الأدنى"
 "ui.purchaseScreen.howMany","How many?","كم العدد؟"
 "ui.realmDiary.activityActivatedEvent","{0} activated by {1}","تم تفعيل {0} بواسطة {1}"
@@ -1405,14 +1405,13 @@ If you agree to these terms, then onward to Sacra!"
 "ui.realmsScreen.CodePlaceholder","Enter code","أدخل الرمز"
 "ui.realmsScreen.Demote","Demote","تخفيض الرتبة"
 "ui.realmsScreen.InRealm","In Realm
-","In Realm
-"
+","داخل العالم"
 "ui.realmsScreen.Invite","Invite","دعوة"
 "ui.realmsScreen.InviteErrorSteam","Error connecting to Steam.","خطأ في الاتصال بـ Steam."
 "ui.realmsScreen.InviteLoading","Loading","جارٍ التحميل"
 "ui.realmsScreen.InviteNoFriends","All your friends are missing out on the fun! 
-Recommend <color=#F2E6BD>No Rest For The Wicked </color>to them.","All your friends are missing out on the fun! 
-Recommend <color=#F2E6BD>No Rest For The Wicked </color>to them."
+Recommend <color=#F2E6BD>No Rest For The Wicked </color>to them.","يفوت جميع أصدقائك الكثير من المتعة! 
+اقترح عليهم تجربة <color=#F2E6BD>No Rest For The Wicked </color>."
 "ui.realmsScreen.InviteNumberofFriends","Number of friends you can invite: ","عدد الأصدقاء الذين يمكنك دعوتهم: "
 "ui.realmsScreen.InvitePlayerToRealm","Invite player {0} to realm {1}?","هل تريد دعوة اللاعب {0} إلى العالم {1}؟"
 "ui.realmsScreen.InviteText","friends who own <color=#F2E6BD>No Rest For The Wicked</color>.","أصدقاء يمتلكون <color=#F2E6BD>No Rest For The Wicked</color>."
@@ -1452,15 +1451,15 @@ We are grateful to have you with us on this journey, and we deeply value your fe
 
 Be prepared for an epic adventure; visceral, challenging combat; and the fact that this is still a work in progress!
 
-If you are ready... onwards to Sacra!","Over the past six years, we've poured our hearts and souls into creating a next-level ARPG experience.
-One that we hope will push the genre forward.
+If you are ready... onwards to Sacra!","على مدار السنوات الست الماضية، وضعنا كل ما نملك من شغف وإخلاص لابتكار تجربة تقمص أدوار وأكشن ترتقي إلى آفاق جديدة.
+تجربة نأمل أن تدفع هذا النوع من الألعاب إلى الأمام.
 
-This Early Access launch of No Rest for the Wicked marks a new era for us at Moon Studios. 
-We are grateful to have you with us on this journey, and we deeply value your feedback and help in shaping this game on the road to our 1.0 release.
+يمثل إطلاق الوصول المبكر للعبة No Rest for the Wicked حقبة جديدة لنا في Moon Studios. 
+نحن ممتنون لوجودك معنا في هذه الرحلة، ونقدّر بشدة ملاحظاتك ومساعدتك في تشكيل هذه اللعبة في طريقنا نحو الإصدار 1.0.
 
-Be prepared for an epic adventure; visceral, challenging combat; and the fact that this is still a work in progress!
+استعد لمغامرة ملحمية، وقتال حماسي وتحديات قوية؛ مع مراعاة أن هذا العمل لا يزال قيد التطوير!
 
-If you are ready... onwards to Sacra!"
+إذا كنت مستعداً... فهيا إلى ساكرا!"
 "ui.realmsScreen.confirmationPopupTitle","Welcome!","مرحباً بك!"
 "ui.realmsScreen.continueAdventure","Continue Adventure","متابعة المغامرة"
 "ui.realmsScreen.createARealm","create a realm","إنشاء عالم"
@@ -1485,7 +1484,7 @@ If you are ready... onwards to Sacra!"
 "ui.realmsScreen.leavingRealmDescription","Exiting this realm will result in the loss of all progress and accomplishments achieved within this specific world. Please note, character progress will remain intact. Would you like to proceed?","سيؤدي الخروج من هذا العالم إلى فقدان كل التقدم والإنجازات التي تحققت داخل هذا العالم تحديداً. يُرجى ملاحظة أن تقدم الشخصية سيبقى محفوظاً. هل ترغب في المتابعة؟"
 "ui.realmsScreen.leavingRealmMP","{0}
 cannot be left without an owner. Promote one of the citizens to owner before leaving.","{0}
-cannot be left without an owner. Promote one of the citizens to owner before leaving."
+لا يمكن تركه من دون مالك. قم بترقية أحد المواطنين إلى مالك قبل المغادرة."
 "ui.realmsScreen.leavingRealmTitle","Are You Sure You Want to Leave this Realm?","هل أنت متأكد من أنك تريد مغادرة هذا العالم؟"
 "ui.realmsScreen.levelShort","Lvl","مستوى"
 "ui.realmsScreen.loadingRealm","Preparing realms…","جارٍ تجهيز العوالم…"
@@ -1494,12 +1493,12 @@ cannot be left without an owner. Promote one of the citizens to owner before lea
 "ui.realmsScreen.privateRealm","Private","خاص"
 "ui.realmsScreen.prologueCheckbox","Prologue","المقدمة"
 "ui.realmsScreen.prologueDescription","Start at the beginning of the story as you journey towards Sacra. 
-The prologue can be skipped on future runs.","Start at the beginning of the story as you journey towards Sacra. 
-The prologue can be skipped on future runs."
+The prologue can be skipped on future runs.","ابدأ من بداية القصة في رحلتك نحو ساكرا. 
+يمكن تخطي المقدمة في جولات اللعب المستقبلية."
 "ui.realmsScreen.prologueDisabledDescription","When your existing character joins a new realm, gameplay begins on Sacra's coast by default.","عندما تنضم شخصيتك الحالية إلى عالم جديد، يبدأ اللعب على ساحل ساكرا بشكل افتراضي."
 "ui.realmsScreen.prologueOffDescription","For those who have played the prologue before. 
-Begin your journey on Sacra's coast.","For those who have played the prologue before. 
-Begin your journey on Sacra's coast."
+Begin your journey on Sacra's coast.","للذين خاضوا المقدمة من قبل. 
+ابدأ رحلتك على ساحل ساكرا."
 "ui.realmsScreen.prologueOnDescription","Start at the beginning of the story as you journey towards Sacra.","ابدأ من بداية القصة في رحلتك نحو ساكرا."
 "ui.realmsScreen.realmCreated","created:","تاريخ الإنشاء:"
 "ui.realmsScreen.realmNameFieldPlaceholder","Name your realm","سمِّ عالمك"
