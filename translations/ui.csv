@@ -384,15 +384,15 @@ to claim rewards this time.","لم تُسهم بما يكفي
 "ui.compendium.categoryDescriptionDiscovery","Insights gained from exploration","رؤى مستفادة من الاستكشاف"
 "ui.compendium.categoryDescriptionMechanics","The fundamental rules that shape how the world responds","القواعد الأساسية التي تُحدد كيفية استجابة العالم"
 "ui.compendium.categoryDescriptionSystems","An overview of the broader structures, progression features, and world management functions.","نظرة عامة على الهياكل الأوسع، وميزات التقدم، ووظائف إدارة العالم."
-"ui.compendium.replayableCinematics.darakEscapes.Description","After a fierce battle we have Darak on his knees, but he escapes before we can deliver the killing blow.","بعد معركة شرسة نجعل دارك يجثو على ركبتيه، لكنه يفرّ قبل أن نتمكن من توجيه ضربة الموت."
-"ui.compendium.replayableCinematics.darakEscapes.Name.Description","Darak Escapes","فرار دارك"
-"ui.compendium.replayableCinematics.darakOnTheBridge.Description","The Risen warlord Darak slaughters a group of Sacrament soldiers in Orban Glades.","يذبح سيد الناهضين دارك مجموعة من جنود ساكرامنت في غابات أوربان."
-"ui.compendium.replayableCinematics.darakOnTheBridge.Name","Darak on the Bridge","دارك على الجسر"
-"ui.compendium.replayableCinematics.fealtyOfBainbridge.Description","As we make our way through the Nameless Pass, we encounter Primus Bainbridge, leader of the contingent of Bolein Knights on Sacra. He meets with Speaker Lucian to settle the matter of desertion once and for all.","في طريقنا عبر النفق المجهول، نلتقي بالبريموس بينبريدج، قائد فرقة فرسان بولين في ساكرا. يلتقي بالمتحدث لوسيان لحسم مسألة الفرار من الخدمة بشكل نهائي."
+"ui.compendium.replayableCinematics.darakEscapes.Description","After a fierce battle we have Darak on his knees, but he escapes before we can deliver the killing blow.","بعد معركة شرسة نجعل داراك يجثو على ركبتيه، لكنه يفرّ قبل أن نتمكن من توجيه ضربة الموت."
+"ui.compendium.replayableCinematics.darakEscapes.Name.Description","Darak Escapes","فرار داراك"
+"ui.compendium.replayableCinematics.darakOnTheBridge.Description","The Risen warlord Darak slaughters a group of Sacrament soldiers in Orban Glades.","يذبح سيد الناهضين داراك مجموعة من جنود ساكرامنت في غابات أوربان."
+"ui.compendium.replayableCinematics.darakOnTheBridge.Name","Darak on the Bridge","داراك على الجسر"
+"ui.compendium.replayableCinematics.fealtyOfBainbridge.Description","As we make our way through the Nameless Pass, we encounter Primus Bainbridge, leader of the contingent of Bolein Knights on Sacra. He meets with Speaker Lucian to settle the matter of desertion once and for all.","في طريقنا عبر الممر المجهول، نلتقي بالقائد بينبريدج، قائد فرقة فرسان بولين في ساكرا. يلتقي بالمتحدث لوسيان لحسم مسألة الفرار من الخدمة بشكل نهائي."
 "ui.compendium.replayableCinematics.fealtyOfBainbridge.Name","Fealty of Bainbridge","ولاء بينبريدج"
 "ui.compendium.replayableCinematics.findingIrmgard.Description","With Odessa close behind, we track down the Dasha Mender Irmgard, who reveals the source of the corruption that has ensnared Marin Village.","بينما تلاحقنا أوديسا، نتعقب مُعالِجة داشا إيرمغارد، التي تكشف مصدر الفساد الذي أحكم قبضته على قرية مارين."
 "ui.compendium.replayableCinematics.findingIrmgard.Name","Finding Irmgard","البحث عن إيرمغارد"
-"ui.compendium.replayableCinematics.historyWillRemember.Description","Returning to Sacrament from the Nameless Pass, Governor Ellsworth gives a speech to the gathered townsfolk.","عند عودتنا إلى ساكرامنت من النفق المجهول، يُلقي الحاكم إلسورث خطاباً أمام سكان المدينة المحتشدين."
+"ui.compendium.replayableCinematics.historyWillRemember.Description","Returning to Sacrament from the Nameless Pass, Governor Ellsworth gives a speech to the gathered townsfolk.","عند عودتنا إلى ساكرامنت من الممر المجهول، يُلقي الحاكم إلسورث خطاباً أمام سكان المدينة المحتشدين."
 "ui.compendium.replayableCinematics.historyWillRemember.Name","History Will Remember","التاريخ سيتذكر"
 "ui.compendium.replayableCinematics.huntersAttacked.Description","In the Lowland Meadows, we came upon a camp of hunters gathering food for the Rites of the Fallen. After draining the corrupted water from a nearby reservoir, we come upon two of the hunters who have fled from their camp - claiming something monstrous attacked them.","في السهول المنخفضة، وجدنا مخيم صيادين يجمعون الطعام لطقوس الساقطين. بعد تصريف المياه الملوثة من خزان قريب، صادفنا اثنين من الصيادين الفارين من مخيمهم، يدّعيان أن شيئاً وحشياً هاجمهما."
 "ui.compendium.replayableCinematics.huntersAttacked.Name","Hunters Attacked","هجوم على الصيادين"
@@ -410,7 +410,7 @@ to claim rewards this time.","لم تُسهم بما يكفي
 "ui.compendium.replayableCinematics.theCerimChamber.Name","The Cerim Chamber","غرفة السيريم"
 "ui.compendium.replayableCinematics.theCerimVision.Description","The Sayer whispers to us, and offers a glimpse of darkness to come. ","يهمس إلينا القاريء، ويمنحنا لمحة عن الظلام القادم."
 "ui.compendium.replayableCinematics.theCerimVision.Name","The Cerim Vision","رؤية السيريم"
-"ui.compendium.replayableCinematics.theFallenCity.Description","The Madrigal finally sees with her own eyes what has become of Caylen.","ترى المادريغال أخيراً بعينيها ما آل إليه حال كيلن."
+"ui.compendium.replayableCinematics.theFallenCity.Description","The Madrigal finally sees with her own eyes what has become of Caylen.","ترى المادريغال أخيراً بعينيها ما آل إليه حال كايلن."
 "ui.compendium.replayableCinematics.theFallenCity.Name","The Fallen City","المدينة الساقطة"
 "ui.compendium.replayableCinematics.theInquisitionArrives.Description","At the top of the rookery tower, we finally meet the Watcher who summoned us to Sacra. But our meeting is cut short by the arrival of Madrigal Seline.","في قمة برج الغربان، نلتقي أخيراً بالمراقب الذي استدعانا إلى ساكرا. لكن لقاءنا ينقطع بوصول المادريغال سيلين."
 "ui.compendium.replayableCinematics.theInquisitionArrives.Name","The Inquisition Arrives","وصول التحقيق"
@@ -418,7 +418,7 @@ to claim rewards this time.","لم تُسهم بما يكفي
 "ui.compendium.replayableCinematics.theLostHuntress.Name","The Lost Huntress","الصيادة الضائعة"
 "ui.compendium.replayableCinematics.theMainland.Description","In the mainland capital of Phalen, the new king weighs the growing threat of the Pestilence on Sacra. ","في عاصمة فالن بالبر الرئيسي، يقيّم الملك الجديد التهديد المتصاعد للوباء في ساكرا."
 "ui.compendium.replayableCinematics.theMainland.Name","The Mainland","البر الرئيسي"
-"ui.compendium.replayableCinematics.theMountainGate.Description","Madrigal Seline and Governor Ellsworth meet at the ancient Cerim gate in the Nameless Pass.","تلتقي المادريغال سيلين والحاكم إلسورث عند بوابة السيريم القديمة في النفق المجهول."
+"ui.compendium.replayableCinematics.theMountainGate.Description","Madrigal Seline and Governor Ellsworth meet at the ancient Cerim gate in the Nameless Pass.","تلتقي المادريغال سيلين والحاكم إلسورث عند بوابة السيريم القديمة في الممر المجهول."
 "ui.compendium.replayableCinematics.theMountainGate.Name","The Mountain Gate","بوابة الجبل"
 "ui.compendium.replayableCinematics.theRisenAttack.Description","The ship carrying us to Sacra is boarded by a group of raiders with a fiery leader.","تتعرض السفينة التي تقلّنا إلى ساكرا لهجوم من مجموعة من الغزاة بقيادة زعيم ملتهب."
 "ui.compendium.replayableCinematics.theRisenAttack.Name","The Risen Attack","هجوم الناهضين"
@@ -428,7 +428,7 @@ to claim rewards this time.","لم تُسهم بما يكفي
 "ui.compendium.replayableCinematics.theSeneschal.Name","The Seneschal","السينيشال"
 "ui.compendium.replayableCinematics.theSovannCircle.Description","Marin Village seems to be in some kind of catatonic trance. Arriving at the Dasha prayer circle, we find Odessa fending off a group of Balak Taw.","يبدو أن قرية مارين في حالة من الذهول التام. عند وصولنا إلى دائرة صلاة داشا، نجد أوديسا تصدّ مجموعة من بالاك تاو."
 "ui.compendium.replayableCinematics.theSovannCircle.Name","The Sovann Circle","دائرة سوفان"
-"ui.compendium.replayableCinematics.theTornFalstead.Description","Deep in the Black Trench, we finally track down Darak again - only to find he is not the same man…","في أعماق الخندق الأسود، نتعقب دارك مجدداً — لنجده ليس الرجل ذاته…"
+"ui.compendium.replayableCinematics.theTornFalstead.Description","Deep in the Black Trench, we finally track down Darak again - only to find he is not the same man…","في أعماق الخندق الأسود، نتعقب داراك مجدداً — لنجده ليس الرجل ذاته…"
 "ui.compendium.replayableCinematics.theTornFalstead.Name","The Torn Falstead","فالستيد الممزق"
 "ui.compendium.replayableCinematics.theWarRoom.Description","Ellsworth has his daughter Odessa summoned to the war room.","يستدعي إلسورث ابنته أوديسا إلى غرفة الحرب."
 "ui.compendium.replayableCinematics.theWarRoom.Name","The War Room","غرفة الحرب"
@@ -440,7 +440,7 @@ to claim rewards this time.","لم تُسهم بما يكفي
 "ui.compendium.replayableCinematics.warrickTheTorn.Name","Warrick the Torn ","وارك الممزق"
 "ui.compendium.replayableCinematics.welcomeToSacrament.Description","We reach the sanctuary of a great city at last.","نصل أخيراً إلى ملاذ مدينة عظيمة."
 "ui.compendium.replayableCinematics.welcomeToSacrament.Name","Welcome to Sacrament","أهلاً بك في ساكرامنت"
-"ui.compendium.replayableCinematics.winnickArrives.Description","With Darak defeated, Baron Winnick reveals that he knew more about our mission than he let on.","بعد هزيمة دارك، يكشف البارون وينيك أنه كان يعرف عن مهمتنا أكثر مما أبدى."
+"ui.compendium.replayableCinematics.winnickArrives.Description","With Darak defeated, Baron Winnick reveals that he knew more about our mission than he let on.","بعد هزيمة داراك، يكشف البارون وينيك أنه كان يعرف عن مهمتنا أكثر مما أبدى."
 "ui.compendium.replayableCinematics.winnickArrives.Name","Winnick Arrives","وصول وينيك"
 "ui.containerLootScreen.takeAll","Take All","أخذ الكل"
 "ui.containerLootScreen.takeRefined","Take Refined","أخذ المكرَّر"
@@ -732,7 +732,7 @@ At <color=#F2E6BD>0%</color>, items become <color=#F2E6BD>unequippable</color>. 
 عند <color=#F2E6BD>0%</color>، تصبح العناصر <color=#F2E6BD>غير قابلة للتجهيز</color>. قم بإصلاح العناصر لدى <color=#F2E6BD>فيلمور</color> أو باستخدام <color=#F2E6BD>مسحوق الإصلاح</color> الموجود في الصناديق والغنائم."
 "ui.hints.sideNotifications.items.firstLowDurability.title","Item Durability","متانة العناصر"
 "ui.hints.sideNotifications.items.firstRareItem.description","Items above <color=#808080>Common</color> rarity come with various <color=#F2E6BD>enchantments</color> and a <color=#F2E6BD>gem slot</color>.","العناصر التي تتجاوز ندرتها درجة <color=#808080>شائع</color> تأتي مزودة بعدة <color=#F2E6BD>تعزيزات سحرية</color> و<color=#F2E6BD>خانة جوهرة</color>."
-"ui.hints.sideNotifications.items.firstResource.description","Across Isola Sacra, you'll discover various <color=#F2E6BD>resources</color>. Gathering resources is key to <color=#F2E6BD>progression</color> and <color=#F2E6BD>survival</color>.","عبر إيزولا ساكرا، ستكتشف العديد من <color=#F2E6BD>المصادر</color>. جمع المصادر هو مفتاح <color=#F2E6BD>التقدم</color> و<color=#F2E6BD>البقاء</color>."
+"ui.hints.sideNotifications.items.firstResource.description","Across Isola Sacra, you'll discover various <color=#F2E6BD>resources</color>. Gathering resources is key to <color=#F2E6BD>progression</color> and <color=#F2E6BD>survival</color>.","عبر إيسولا ساكرا، ستكتشف العديد من <color=#F2E6BD>المصادر</color>. جمع المصادر هو مفتاح <color=#F2E6BD>التقدم</color> و<color=#F2E6BD>البقاء</color>."
 "ui.hints.sideNotifications.items.firstTool.description","You've obtained a <color=#5B9968>tool</color>! Tools allow you to harvest <color=#F2E6BD>new resources</color>.
 
 Equip it to via the <color=#F2E6BD>Inventory</color>.","لقد حصلت على <color=#5B9968>أداة</color>! تتيح لك الأدوات جمع <color=#F2E6BD>مصادر جديدة</color>.
@@ -820,7 +820,7 @@ Equip it to your off-hand via the <color=#F2E6BD>Inventory</color>.","لقد ح�
 "ui.hints.systems.hintHouseSellSuccess","You have <color=#F2E6BD>sold this house</color>.","لقد <color=#F2E6BD>بعت هذا المنزل</color>."
 "ui.hints.systems.hintNotEnoughRoomInFoodBag","Your food bag and inventory are <color=#F2E6BD>already full</color>.","حقيبة الطعام والمخزون <color=#F2E6BD>ممتلئان بالفعل</color>."
 "ui.hints.systems.hintNotEnoughRoomInInventory","Not <color=#F2E6BD>enough space</color> in your {} inventory.","لا توجد <color=#F2E6BD>مساحة كافية</color> في مخزون {} لديك."
-"ui.hints.systems.hintOpenMap","Over your journey, you’ll uncover more of Isola Sacra in your <color=#F2E6BD>map</color>.","خلال رحلتك، ستكشف المزيد عن إيزولا ساكرا في <color=#F2E6BD>الخريطة</color>."
+"ui.hints.systems.hintOpenMap","Over your journey, you’ll uncover more of Isola Sacra in your <color=#F2E6BD>map</color>.","خلال رحلتك، ستكشف المزيد عن إيسولا ساكرا في <color=#F2E6BD>الخريطة</color>."
 "ui.hints.systems.hintOverEncumbered","You are <color=#F2E6BD>encumbered</color>.","أنت <color=#F2E6BD>مثقل بالحمولة</color>."
 "ui.hints.systems.hintPlayerInteractFailMenu","Other player is <color=#F2E6BD>in a menu</color> and cannot be interacted with.","اللاعب الآخر <color=#F2E6BD>داخل قائمة</color> ولا يمكن التفاعل معه الآن."
 "ui.hints.systems.hintRespawn","Hold [interact] to respawn at a <color=#F2E6BD>Whisper</color>.","استمر بالضغط على [interact] لمعاودة الظهور عند <color=#F2E6BD>الهمسة</color>."
@@ -1006,13 +1006,13 @@ Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equip
 "ui.hints.worlds.sacrament.doorToCaroline","Press [interact] to <color=#F2E6BD>enter Caroline's Inn</color>.","اضغط على [interact] <color=#F2E6BD>لدخول نُزُل كارولاين</color>."
 "ui.hints.worlds.sacrament.doorToCerimCrypt","Press [interact] to <color=#F2E6BD>enter the stone mason's shop</color>.","اضغط على [interact] <color=#F2E6BD>لدخول متجر بنّاء الحجارة</color>."
 "ui.hints.worlds.sacrament.doorToDanosStudy","Press [interact] to <color=#F2E6BD>enter Danos' Architecture Study</color>.","اضغط على [interact] <color=#F2E6BD>لدخول مكتب دانوس المعماري</color>."
-"ui.hints.worlds.sacrament.doorToEleanor","Press [interact] to <color=#F2E6BD>enter Eleanor's Enchantment Shop</color>.","اضغط على [interact] <color=#F2E6BD>لدخول متجر إلينور للتعزيز السحري</color>."
+"ui.hints.worlds.sacrament.doorToEleanor","Press [interact] to <color=#F2E6BD>enter Eleanor's Enchantment Shop</color>.","اضغط على [interact] <color=#F2E6BD>لدخول متجر إليانور للتعزيز السحري</color>."
 "ui.hints.worlds.sacrament.doorToGordon","Press [interact] to <color=#F2E6BD>enter Gordon's Restaurant</color>.","اضغط على [interact] <color=#F2E6BD>لدخول مطعم غوردون</color>."
 "ui.hints.worlds.sacrament.doorToMiraAndMeri","Press [interact] to <color=#F2E6BD>enter Mirabelle and Meriweather's Sewing Hut</color>.","اضغط على [interact] <color=#F2E6BD>لدخول كوخ حياكة ميرابيل وميريويذر</color>."
 "ui.hints.worlds.sacrament.doorToRookeryLodgingsDownstairs","Press [interact] to <color=#F2E6BD>enter the Rookery Lodgings</color>.","اضغط على [interact] <color=#F2E6BD>لدخول مساكن برج الغربان</color>."
 "ui.hints.worlds.sacrament.doorToSacramentRookery","Press [interact] to <color=#F2E6BD>return to the Rookery</color>.","اضغط على [interact] <color=#F2E6BD>للعودة إلى برج الغربان</color>."
 "ui.hints.worlds.sacrament.doorToWarRoom","Press [interact] to <color=#F2E6BD>enter the War Room</color>.","اضغط على [interact] <color=#F2E6BD>لدخول غرفة الحرب</color>."
-"ui.hints.worlds.sacrament.doorToWhittacker","Press [interact] to <color=#F2E6BD>enter Whittacker's Crafting Shack</color>.","اضغط على [interact] <color=#F2E6BD>لدخول كوخ صناعة ويتيكر</color>."
+"ui.hints.worlds.sacrament.doorToWhittacker","Press [interact] to <color=#F2E6BD>enter Whittacker's Crafting Shack</color>.","اضغط على [interact] <color=#F2E6BD>لدخول كوخ صناعة ويتكر</color>."
 "ui.houseManagementScreen.chestAccess","Chest Access","الوصول إلى الصندوق"
 "ui.houseManagementScreen.chestPrivateHelperText","Only selected guests may access this chest. Grant individual permissions, or leave it private for yourself.","يمكن للضيوف المحددين فقط الوصول إلى هذا الصندوق. امنح أذونات فردية، أو اتركه خاصاً بك وحدك."
 "ui.houseManagementScreen.chestSharedHelperText","All guests can access this chest.","يمكن لجميع الضيوف الوصول إلى هذا الصندوق."
@@ -1104,7 +1104,7 @@ Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equip
 "ui.loadingScreenHints.infusionEnchantments","Infusions convert weapon damage to a specific elemental damage type. You can gain permanent infusions from gems & facets and temporary infusions from oils.","يحول التضمين ضرر السلاح إلى نوع ضرر عنصري محدد. يمكنك الحصول على تضمينات دائمة من الجواهر والأوجه وتضمينات مؤقتة من الزيوت."
 "ui.loadingScreenHints.jumping","Sprint off surfaces or ledges to jump across small gaps.","اركض مسرعاً نحو الحواف أو المنصات للقفز عبر الفجوات الصغيرة."
 "ui.loadingScreenHints.makerDanos","Visit Maker Danos to upgrade vendor stalls, purchase crafting stations and refineries for your house, and undertake various building projects to improve the city.","قم بزيارة الصانع دانوس لترقية أكشاك التجار، وشراء محطات الصناعة والمصافي لمنزلك، والبدء بمشاريع بناء متنوعة لتطوير المدينة."
-"ui.loadingScreenHints.map","The map reveals your path throughout Isola Sacra. However, this path will gradually fade over time. Revisit these shrouded regions to discover new dangers and loot.","تكشف الخريطة مسارك عبر إيزولا ساكرا. ومع ذلك، سيتلاشى هذا المسار تدريجياً بمرور الوقت. أعد زيارة هذه المناطق المحجوبة لاكتشاف مخاطر وغنائم جديدة."
+"ui.loadingScreenHints.map","The map reveals your path throughout Isola Sacra. However, this path will gradually fade over time. Revisit these shrouded regions to discover new dangers and loot.","تكشف الخريطة مسارك عبر إيسولا ساكرا. ومع ذلك، سيتلاشى هذا المسار تدريجياً بمرور الوقت. أعد زيارة هذه المناطق المحجوبة لاكتشاف مخاطر وغنائم جديدة."
 "ui.loadingScreenHints.markos","Once unlocked, Markos the alchemist sells a wide variety of potions, elixirs, and explosive concoctions.","بمجرد فتحه، يبيع الخيميائي ماركوس تشكيلة واسعة من الجرعات والإكسيرات والمركبات المتفجرة."
 "ui.loadingScreenHints.mirabelleAndMeriweather","Mirabelle and Meriweather the tailor sisters can repair and upgrade armor, as well as sell additional armor and blueprints. Upgrade their station with Maker Danos to gain access to their spinning wheel and leather tanning bench.","تستطيع الأختان الخياطتان ميرابيل وميريويذر إصلاح الدروع وترقيتها، فضلاً عن بيع دروع ومخططات إضافية. قم بترقية محطتهما لدى الصانع دانوس للوصول إلى عجلة الغزل ومنضدة دباغة الجلود."
 "ui.loadingScreenHints.parry","Parry just before an enemy attack lands to temporarily stagger them.","نفّذ صداً متقناً قبل وصول هجوم العدو مباشرة لترنيحه مؤقتاً."
@@ -2461,7 +2461,7 @@ You can also find other Utility Runes throughout the game, which can be equipped
 [!sbpicon][!sNegative][!iWeight][/s][/s][!sbpbody]دحرجة بطيئة. يمكن تنفيذ [!sHighlight][action_shoulder_barge][/s].
 [!ssubtext]الدفعة بالكتف ترنح الأعداء مؤقتاً.[/s][/s][/s]"
 "ui.tutorials.mechanics.weightClass.title","Weight Class","فئة الوزن"
-"ui.tutorials.mechanics.worldCleanse.description","The Seneschal has unlocked the ability to cleanse the [!sPlagued]Pestilence[/s] from Isola Sacra.","فتح السينيشال القدرة على تطهير [!sPlagued]الوباء[/s] من إيزولا ساكرا."
+"ui.tutorials.mechanics.worldCleanse.description","The Seneschal has unlocked the ability to cleanse the [!sPlagued]Pestilence[/s] from Isola Sacra.","فتح السينيشال القدرة على تطهير [!sPlagued]الوباء[/s] من إيسولا ساكرا."
 "ui.tutorials.mechanics.worldCleanse.title","World Cleanse","تطهير العالم"
 "ui.tutorials.multiplayer.advancedstatuseffects.description","You can combine different [!sHighlight]elemental status effects[/s].
 
@@ -2702,12 +2702,12 @@ Always be on the lookout for food [!sHighlight]recipes[/s] to cook a wider varie
 
 However, the world is constantly shifting so this path will gradually [!sHighlight]fade[/s] over time. 
 
-Revisit these shrouded regions to discover [!sHighlight]new dangers[/s] and [!sHighlight]loot[/s].","تكشف الخريطة مسارك عبر إيزولا ساكرا.
+Revisit these shrouded regions to discover [!sHighlight]new dangers[/s] and [!sHighlight]loot[/s].","تكشف الخريطة مسارك عبر إيسولا ساكرا.
 
 ومع ذلك، فإن العالم يتغير باستمرار لذلك سيتلاشى هذا المسار تدريجياً [!sHighlight]بمرور الوقت[/s].
 
 أعد زيارة هذه المناطق المحجوبة لاكتشاف [!sHighlight]مخاطر جديدة[/s] و[!sHighlight]غنائم[/s]."
-"ui.tutorials.systems.fogOfWarRespawn.descriptionMini","Over your journey, you’ll uncover more of Isola Sacra in your <color=#F2E6BD>map</color>.","خلال رحلتك، ستكشف المزيد عن إيزولا ساكرا في <color=#F2E6BD>الخريطة</color>."
+"ui.tutorials.systems.fogOfWarRespawn.descriptionMini","Over your journey, you’ll uncover more of Isola Sacra in your <color=#F2E6BD>map</color>.","خلال رحلتك، ستكشف المزيد عن إيسولا ساكرا في <color=#F2E6BD>الخريطة</color>."
 "ui.tutorials.systems.fogOfWarRespawn.popoutMini","[select] Open Map","[select] فتح الخريطة"
 "ui.tutorials.systems.fogOfWarRespawn.title","Fog of War","ضباب الحرب"
 "ui.tutorials.systems.infusing.description1","Socket gems to infuse gear with a distinct [!sHighlight]enchantment[/s] that has a guaranteed value.","قم بتركيب الجواهر لتضمين العتاد [!sHighlight]بتعزيز سحري[/s] مميز ذي قيمة مضمونة."
