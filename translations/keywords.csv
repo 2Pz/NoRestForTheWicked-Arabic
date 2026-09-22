@@ -1,7 +1,7 @@
-﻿"key","source","target"
+"key","source","target"
 "keywords.buffs.Name","Status Effect - Buff","تأثير حالة - تعزيز"
 "keywords.debuffs.Name","Status Effect - Debuff","تأثير حالة - إضعاف"
-"keywords.facets.Name","Item Facet","جانب العنصر"
+"keywords.facets.Name","Item Facet","سمة العنصر"
 "keywords.facets.armorIncreased1.Description","Armor increased
 Poise Defense reduced","زيادة الدرع
 تقليل دفاع التوازن"
@@ -52,7 +52,7 @@ Focus Gain reduced","زيادة الضرر
 Attack Speed reduced","زيادة الضرر
 تقليل سرعة الهجوم"
 "keywords.facets.damageIncreased3.Name","Clumsy","أخرق"
-"keywords.facets.durabilityDisabled.Description","Durability removed","إزالة المتانة"
+"keywords.facets.durabilityDisabled.Description","Durability removed","لا يفقد المتانة أبداً"
 "keywords.facets.durabilityDisabled.Name","Indestructible","منيع"
 "keywords.facets.durabilityIncreased.Description","Durability increased
 Focus Gain reduced","زيادة المتانة
@@ -118,8 +118,8 @@ Stamina Regen reduced","زيادة دفاع التوازن
 Focus Gain reduced","زيادة تجدد التحمل
 تقليل اكتساب التركيز"
 "keywords.facets.staminaRegenIncreased1.Name","Agile","مرن"
-"keywords.triggers.Name","Triggered Effect","تأثير مُفعل"
-"keywords.triggers.fatality.Description","Triggers when a character is killed with Charged Attack or Rune Attack","يُفعل عند قتل شخصية بهجوم مشحون أو هجوم روني"
+"keywords.triggers.Name","Triggered Effect","تأثير مشروط"
+"keywords.triggers.fatality.Description","Triggers when a character is killed with Charged Attack or Rune Attack","يُفعّل عند القضاء على عدو بهجوم مشحون أو هجوم روني"
 "keywords.triggers.fatality.Name","Fatality","فتك"
-"keywords.triggers.lowHealth.Description","Is active when a character is below 50% Health","يكون نشطاً عندما تكون صحة الشخصية أقل من 50%"
+"keywords.triggers.lowHealth.Description","Is active when a character is below 50% Health","يَنشط عندما تنخفض الصحة إلى أقل من 50%"
 "keywords.triggers.lowHealth.Name","Low Health","صحة منخفضة"

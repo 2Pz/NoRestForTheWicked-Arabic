@@ -4,6 +4,9 @@ import sys
 import os
 import glob
 
+if sys.stdout and hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
 
 def load_glossaries(glossaries_dir):
     glossary = {}

@@ -3,6 +3,9 @@ import re
 import sys
 import os
 
+if sys.stdout and hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
 
 def get_placeholders(text):
     # Find all placeholders like {0}, {1}, {amount}
