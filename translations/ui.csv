@@ -24,19 +24,19 @@
 "ui.activityScreen.targetEnemyTypeLabel","Target","الهدف"
 "ui.activityScreen.targetWeaponTypeLabel","Weapon","السلاح"
 "ui.activityScreen.unpinToLog","Unpin from HUD Log","إلغاء التثبيت من واجهة اللعب"
-"ui.activityVendorScreen.abandonBountyLabel","ABANDON BOUNTY","التخلي عن المكافأة"
+"ui.activityVendorScreen.abandonBountyLabel","ABANDON BOUNTY","إلغاء مهمة التعقب"
 "ui.activityVendorScreen.abandonBountyPromptLabel","All progress will be lost. 
 Would you like to abandon the current Bounty?","سيتم فقدان كل التقدم.
-هل تريد التخلي عن المكافأة الحالية؟"
+هل تريد التخلي عن مهمة التعقب الحالية؟"
 "ui.activityVendorScreen.abandonChallengeLabel","ABANDON CHALLENGE","التخلي عن التحدي"
 "ui.activityVendorScreen.abandonChallengePromptLabel","All progress will be lost.
 Any contributions, if made, will be forfeited.
 Would you like to abandon the current Challenge?","سيتم فقدان كل التقدم.
 أي مساهمات، إن وُجدت، سيتم التنازل عنها.
 هل تريد التخلي عن التحدي الحالي؟"
-"ui.activityVendorScreen.acceptBountyLabel","ACCEPT BOUNTY","قبول المكافأة"
+"ui.activityVendorScreen.acceptBountyLabel","ACCEPT BOUNTY","قبول مهمة التعقب"
 "ui.activityVendorScreen.acceptChallengeLabel","ACCEPT CHALLENGE","قبول التحديات"
-"ui.activityVendorScreen.bountiesTitleLabel","BOUNTIES","مكافآت الصيد"
+"ui.activityVendorScreen.bountiesTitleLabel","BOUNTIES","المطلوبون"
 "ui.activityVendorScreen.bountyHits","HITS","ضربات"
 "ui.activityVendorScreen.bountyHunts","HUNTS","مطاردات"
 "ui.activityVendorScreen.challengeGrand","GRAND CHALLENGES","التحديات الكبرى"
@@ -47,10 +47,10 @@ Would you like to abandon the current Challenge?","سيتم فقدان كل ال
 "ui.activityVendorScreen.kills","Kills","القتلى"
 "ui.activityVendorScreen.noLabel","No","لا"
 "ui.activityVendorScreen.outOfBountiesLabel","I'm out of Bounties to give.
-Please check back tomorrow.","لقد نفذت المكافآت التي يمكنني تقديمها.
-يرجى العودة غدًا."
+Please check back tomorrow.","لقد نفدت مهمات التعقب التي يمكنني تقديمها.
+يرجى العودة غداً."
 "ui.activityVendorScreen.outOfBountiesWeeklyLabel","I'm out of Bounties to give.
-Please check back next week","لقد نفذت المكافآت التي يمكنني تقديمها.
+Please check back next week","لقد نفدت مهمات التعقب التي يمكنني تقديمها.
 يرجى العودة الأسبوع المقبل"
 "ui.activityVendorScreen.outOfChallengesLabel","I'm out of Challenges to give.
 Please check back tomorrow.","لقد نفذت التحديات التي يمكنني تقديمها.
@@ -58,13 +58,13 @@ Please check back tomorrow.","لقد نفذت التحديات التي يمكن
 "ui.activityVendorScreen.outOfChallengesWeeklyLabel","I'm out of Challenges to give.
 Please check back next week","لقد نفدت التحديات التي يمكنني تقديمها.
 يرجى العودة الأسبوع المقبل"
-"ui.activityVendorScreen.replaceBountyLabel","REPLACE BOUNTY","استبدال المكافأة"
-"ui.activityVendorScreen.replaceBountyPromptLabel","Would you like to abandon the current Bounty and accept this one instead?","هل ترغب في التخلي عن المكافأة الحالية وقبول هذه بدلاً منها؟"
+"ui.activityVendorScreen.replaceBountyLabel","REPLACE BOUNTY","استبدال مهمة التعقب"
+"ui.activityVendorScreen.replaceBountyPromptLabel","Would you like to abandon the current Bounty and accept this one instead?","هل ترغب في التخلي عن مهمة التعقب الحالية وقبول هذه بدلاً منها؟"
 "ui.activityVendorScreen.replaceChallengeLabel","REPLACE CHALLENGE","استبدال التحدي"
 "ui.activityVendorScreen.replaceChallengePromptLabel","Would you like to abandon the current Challenge and accept this one instead?","هل ترغب في التخلي عن التحدي الحالي وقبول هذا التحدي بدلاً منه؟"
-"ui.activityVendorScreen.selectBountyLabel","SELECT BOUNTY","اختر المكافأة"
+"ui.activityVendorScreen.selectBountyLabel","SELECT BOUNTY","اختر مهمة التعقب"
 "ui.activityVendorScreen.selectChallengeLabel","SELECT CHALLENGE","اختر التحدي"
-"ui.activityVendorScreen.turnInBountyLabel","TURN IN BOUNTY","استلام مكافأة المهمة"
+"ui.activityVendorScreen.turnInBountyLabel","TURN IN BOUNTY","تسليم مهمة التعقب"
 "ui.activityVendorScreen.turnInChallengeLabel","TURN IN CHALLENGE","استلام مكافأة التحدي"
 "ui.activityVendorScreen.use","Use {0}","استخدم {0}"
 "ui.activityVendorScreen.yesLabel","Yes","نعم"
@@ -1236,7 +1236,7 @@ A brutal, punishing world awaits.","فقط لأشجع السيريم.
 "ui.map.playerDeathIndicator","R.I.P.","هنا يرقد"
 "ui.map.playerPath","Player Path","مسار اللاعب"
 "ui.map.removeMarkerLabel","Remove Marker","إزالة العلامة"
-"ui.map.showBountyLog","Show Bounty Log","إظهار سجل مكافآت الصيد"
+"ui.map.showBountyLog","Show Bounty Log","إظهار سجل المطلوبين"
 "ui.map.showChallengeLog","Show Challenge Log","إظهار سجل التحديات"
 "ui.map.showQuestLog","Show Quest Log","إظهار سجل المهام"
 "ui.map.timeCreepBackLabel","Time to Creep Back","وقت زحف الوباء مجدداً"
@@ -1291,7 +1291,7 @@ Error = {0}","خطأ في الجلسة.
 "ui.notifications.regionStateUpdateSubTitle","You will be moved to the nearest stable location:","سيتم نقلك إلى أقرب موقع مستقر:"
 "ui.notifications.regionStateUpdateTitle","Region State Updated","تحديث حالة المنطقة"
 "ui.notifications.respawnBeforeWhisper","Hold [interact] to respawn.","استمر بالضغط على [interact] لمعاودة الظهور."
-"ui.notifications.toasts.bountyCompleteRef","Bounty Completed","اكتملت مكافأة الصيد"
+"ui.notifications.toasts.bountyCompleteRef","Bounty Completed","اكتملت مهمة التعقب"
 "ui.notifications.toasts.challengeCompleteRef","Challenge Completed","اكتمل التحدي"
 "ui.notifications.toasts.jumpToDetailsHint","Press [start] to see details","اضغط على [start] للاطلاع على التفاصيل"
 "ui.notifications.toasts.newQuestCoop","Started by {0}","بدأها {0}"
@@ -1362,7 +1362,7 @@ If you agree to these terms, then onward to Sacra!","مرحباً بك في فر
 "ui.realmDiary.activityActivatedEvent","{0} activated by {1}","تم تفعيل {0} بواسطة {1}"
 "ui.realmDiary.activityCompleteEvent","{0} completed by {1}","تم إكمال {0} بواسطة {1}"
 "ui.realmDiary.areaDiscoveredEvent","{0} discovered {1}","اكتشف {0} {1}"
-"ui.realmDiary.bountyCompleteEvent","{0} has completed bounty {1}","أكمل {0} مكافأة الصيد {1}"
+"ui.realmDiary.bountyCompleteEvent","{0} has completed bounty {1}","أكمل {0} مهمة التعقب {1}"
 "ui.realmDiary.builderProjectCompleteEvent","{0} completed","اكتمل {0}"
 "ui.realmDiary.chestLootedEvent","Chest looted by {0}","نهب {0} صندوقاً"
 "ui.realmDiary.cinematicStartedEvent","{0} started {1} cinematic","بدأ {0} المشهد السينمائي {1}"
@@ -2243,7 +2243,7 @@ AMD FSR: زيادة معدل الإطارات على حساب بعض الدقة 
 "ui.trading.yourOffer","Your Offer","عرضك"
 "ui.tutorialdirector.bigtutorial.close.text","CLOSE","إغلاق"
 "ui.tutorialdirector.bigtutorial.next.text","NEXT","التالي"
-"ui.tutorialdirector.progression.bounty.title","<color=#5B9968>Bounty Updated</color>","<color=#5B9968>تحديث مكافأة الصيد</color>"
+"ui.tutorialdirector.progression.bounty.title","<color=#5B9968>Bounty Updated</color>","<color=#5B9968>تحديث مهمة التعقب</color>"
 "ui.tutorialdirector.progression.buildingproject.leveltitle","<color=#CBCBCB>Upgraded to</color> <color=#F2E6BD>Level [tiernumber]</color>","<color=#CBCBCB>تمت الترقية إلى</color> <color=#F2E6BD>المستوى [tiernumber]</color>"
 "ui.tutorialdirector.progression.buildingproject.title","<color=#F2E6BD>Danos Project Completed</color>","<color=#F2E6BD>اكتمل مشروع دانوس</color>"
 "ui.tutorialdirector.progression.buildingproject.upgradedtitle","<color=#CBCBCB>Structure</color> <color=#F2E6BD>Repaired</color>","<color=#CBCBCB>اكتمال إصلاح</color> <color=#F2E6BD>الهيكل</color>"
@@ -2598,16 +2598,16 @@ Upon completion, visit Randolph to claim your rewards.
 [!sSubtext]Activities can be cancelled at any time.[/s]
 
 [!sHeadingMuted][IconBounty] Bounty Markers[/s]
-Active bounties can be located on the map and next to targets.","تعقّب أهداف مكافآت الصيد أو أكمل التحديات للمطالبة بمكافآت [!sHighlight]يومية[/s] و[!sHighlight]أسبوعية[/s].
+Active bounties can be located on the map and next to targets.","تعقّب أهداف المطلوبين أو أكمل التحديات للمطالبة بمكافآت [!sHighlight]يومية[/s] و[!sHighlight]أسبوعية[/s].
 
 ثبّت الأنشطة من شاشة [!sHighlight]النشاط[/s] ثم استخدم [!sHighlight][action_activities_log][/s] لتتبع تقدم الأنشطة المقبولة.
 
 عند الاكتمال، قم بزيارة راندولف للمطالبة بمكافآتك.
 [!sSubtext]يمكن إلغاء الأنشطة في أي وقت.[/s]
 
-[!sHeadingMuted][IconBounty] علامات مكافآت الصيد[/s]
-يمكن تحديد مواقع مكافآت الصيد النشطة على الخريطة وبجوار الأهداف."
-"ui.tutorials.systems.bountiesChallenges.title","Bounties & Challenges","مكافآت الصيد والتحديات"
+[!sHeadingMuted][IconBounty] علامات المطلوبين[/s]
+يمكن تحديد مواقع مهمات التعقب النشطة على الخريطة وبجوار الأهداف."
+"ui.tutorials.systems.bountiesChallenges.title","Bounties & Challenges","المطلوبون والتحديات"
 "ui.tutorials.systems.burning.description","Burn resources to [!sHighlight]increase[/s] an outbreak's plague level.
 
 A higher level means more challenging corruptions, but also greater rewards.","احرق المصادر [!sHighlight]لزيادة[/s] مستوى وباء التفشي.
@@ -2809,7 +2809,7 @@ If death should find you, you will incur a <color=#F2E6BD>durability loss</color
 "ui.twitchScreen.failedConnect","Connection Failed","فشل الاتصال"
 "ui.twitchScreen.noRewardsToClaim","No rewards to claim","لا توجد مكافآت للمطالبة بها"
 "ui.vendors.artificerTable","Artificer Table","طاولة الحِرَفيّ"
-"ui.vendors.bountyHunting","Bounty Hunting","صيد المكافآت"
+"ui.vendors.bountyHunting","Bounty Hunting","تعقّب المطلوبين"
 "ui.vendors.caroline","Caroline","كارولاين"
 "ui.vendors.danos","Maker Danos","الصانع دانوس"
 "ui.vendors.eleanor","Eleanor","إليانور"

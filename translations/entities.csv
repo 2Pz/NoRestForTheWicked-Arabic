@@ -19,7 +19,7 @@
 "entities.hero.resurrectHeroHint","Hold [interact] to <color=#F2E6BD>resurrect (PLAYER)</color>.","اضغط مطولاً على [interact] <color=#F2E6BD>لإنعاش (PLAYER)</color>."
 "entities.hero.resurrectHeroHintShort","Resurrect","إنعاش"
 "entities.interactives.bossBattle.bossGateData.assetCanCrossHintRecordRef","Press [interact] to <color=#F2E6BD>traverse the fog</color>.","اضغط على [interact] <color=#F2E6BD>لاجتياز الضباب</color>."
-"entities.interactives.bountyBoard.bountyBoardInteractable.assetInteractionHintRef","Press [interact] to  read the <color=#F2E6BD>Bounty Board</color>.","اضغط على [interact] <color=#F2E6BD>لقراءة لوحة المكافآت</color>."
+"entities.interactives.bountyBoard.bountyBoardInteractable.assetInteractionHintRef","Press [interact] to  read the <color=#F2E6BD>Bounty Board</color>.","اضغط على [interact] <color=#F2E6BD>لقراءة لوحة المطلوبين</color>."
 "entities.interactives.chests.chest.chestData.assetGrabHintTextRecordRef","Press [interact] to <color=#F2E6BD>inspect the chest</color>.","اضغط على [interact] <color=#F2E6BD>لتفحص الصندوق</color>."
 "entities.interactives.chests.chest.chestData.assetHintTextRecordRef","Press [interact] to <color=#F2E6BD>open the chest</color>.","اضغط على [interact] <color=#F2E6BD>لفتح الصندوق</color>."
 "entities.interactives.chests.chest.communityChestData.assetContainerNameRef","Community Chest","صندوق المجتمع"
