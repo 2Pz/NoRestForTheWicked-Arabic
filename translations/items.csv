@@ -1868,7 +1868,7 @@ Once a Sublime Ember is used on an item, it can no longer have its enchantments 
 "items.gear.weapons.2Handed.greataxes.cerimsSkyrend.Description","Those who can no longer hear the Sayer over the howl of their own madness should be pitied. Pitied and feared.","أولئك الذين لم يعودوا قادرين على سماع صوت المتحدث وسط دوي المعركة، يتركون هذه الفأس لتتحدث بنيابة عنهم."
 "items.gear.weapons.2Handed.greataxes.cerimsSkyrend.Name","Cerim's Skyrend","شاق سماء السيريم"
 "items.gear.weapons.2Handed.greataxes.gildedTwibill.Description","""Paint your axe gold, so that your enemies may mistake the shine in their skull for heaven."" - old proverb","""اطلِ فأسك بالذهب، حتى يرى أعداؤك ثروتك تنزل على رؤوسهم قبل أن يفقدوا البصر."""
-"items.gear.weapons.2Handed.greataxes.gildedTwibill.Name","Gilded Twibill","بلطة مذهبة ذات حدين"
+"items.gear.weapons.2Handed.greataxes.gildedTwibill.Name","Gilded Twibill","فأس مذهبة ذات حدين"
 "items.gear.weapons.2Handed.greataxes.harvestersDread.Description","Before being twisted into Harvesters, many woodsmen would set camp for their families near the forest. Hence the oldest blood on their axes.","قبل تحولهم إلى حصادين مسوخ، كان العديد منهم حطابين بسطاء يقدسون هذه الفؤوس الضخمة."
 "items.gear.weapons.2Handed.greataxes.harvestersDread.Name","Harvester's Dread","فزع الحصّاد"
 "items.gear.weapons.2Handed.greataxes.hurosGreatAxe.Description","In the legend of Huro, he used his axe to fell an entire forest, as well as the minor god he angered in doing so.","في أسطورة هورو، استخدم فأسه لإسقاط أشجار الغابة المحرمة وصنع سفينة عبرت بحر الرماد."
@@ -5341,9 +5341,9 @@ This item can only be crafted at a <color=#F2E6BD>Workbench</color>.","تعلي�
 لا يمكن صنع هذا العنصر إلا عند <color=#F2E6BD>طاولة العمل</color>."
 "items.scrolls.blueprintsAndPatterns.tools.veridiumWateringCanBlueprint.Name","Veridium Watering Can Blueprint","مخطط مرش مياه الفيريديوم"
 "items.scrolls.blueprintsAndPatterns.tools.veridiumWoodcuttersAxeBlueprint.Description","Detailed Instructions for how to craft a <color=#F2E6BD>Veridium Woodcutter's Axe</color>.
-This item can only be crafted at a <color=#F2E6BD>Workbench</color>.","تعليمات مفصلة لكيفية صنع <color=#F2E6BD>بلطة حطاب الفيريديوم</color>.
+This item can only be crafted at a <color=#F2E6BD>Workbench</color>.","تعليمات مفصلة لكيفية صنع <color=#F2E6BD>فأس حطاب الفيريديوم</color>.
 لا يمكن صنع هذا العنصر إلا عند <color=#F2E6BD>طاولة العمل</color>."
-"items.scrolls.blueprintsAndPatterns.tools.veridiumWoodcuttersAxeBlueprint.Name","Veridium Woodcutter's Axe Blueprint","مخطط بلطة حطاب الفيريديوم"
+"items.scrolls.blueprintsAndPatterns.tools.veridiumWoodcuttersAxeBlueprint.Name","Veridium Woodcutter's Axe Blueprint","مخطط فأس حطاب الفيريديوم"
 "items.scrolls.blueprintsAndPatterns.traps.snapTrapBlueprint.Description","Detailed instructions for how to craft a <color=#F2E6BD>Snap Trap</color>.
 This item can only be crafted at an <color=#F2E6BD>Anvil</color>.","تعليمات مفصلة لكيفية صنع <color=#F2E6BD>فخ الانطباق</color>.
 لا يمكن صنع هذا العنصر إلا عند <color=#F2E6BD>السندان</color>."
