@@ -3036,7 +3036,7 @@ Must be used inside a <color=#F2E6BD>house</color>.","شظية من همس تت�
 "items.projectiles.bombs.corrosiveGrenade.Description","Can be hurled to deal <color=#5B9968>{0:0}</color> <color=#F2E6BD>Damage</color> at a distance.","يمكن إلقاؤها لإلحاق <color=#5B9968>{0:0}</color> من <color=#F2E6BD>الضرر</color> عن بعد."
 "items.projectiles.bombs.corrosiveGrenade.Name","Corrosive Bomb","قنبلة أكّالة"
 "items.projectiles.bombs.direNettleSpores.Description","If there's a creature, insect, or plant that can feed upon this humble fungus and live, it has yet to be found. Unless your motives are dark, grant it a wide berth.","إن وُجد مخلوق أو حشرة أو نبات يمكنه التغذي على هذا الفطر المتواضع والبقاء حياً، فلم يُعثر عليه بعد. ما لم تكن دوافعك مظلمة، فابتعد عنه قدر الإمكان."
-"items.projectiles.bombs.direNettleSpores.Name","Dire Nettle Spores","أبواغ القراص الرهيب"
+"items.projectiles.bombs.direNettleSpores.Name","Dire Nettle Spores","أبواغ القراص الضاري"
 "items.projectiles.bombs.poisonGrenade.Description","Can be hurled to deal <color=#5B9968>{0:0}</color> <color=#F2E6BD>Plague Damge</color> at a distance.","يمكن إلقاؤها لإلحاق <color=#5B9968>{0:0}</color> من <color=#F2E6BD>ضرر الوباء</color> عن بعد."
 "items.projectiles.bombs.poisonGrenade.Name","Poison Bomb","قنبلة سامة"
 "items.projectiles.bombs.scrapBomb.Description","Can be hurled to deal <color=#5B9968>{0:0}</color> <color=#F2E6BD>Damage</color> at a distance.","يمكن إلقاؤها لإلحاق <color=#5B9968>{0:0}</color> من <color=#F2E6BD>الضرر</color> عن بعد."

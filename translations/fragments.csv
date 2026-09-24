@@ -1,0 +1,19 @@
+"key","source","target"
+"fragment.arabic","Arabic",
+"fragment.vsync","VSync",
+"fragment.random","random","عشوائي"
+"fragment.offhand","Offhand","عتاد اليد الثانوية"
+"fragment.tools","Tools","أدوات"
+"fragment.food","Food","طعام"
+"fragment.consumable","Consumable","مستهلكات""fragment.taa","TAA",
+"fragment.amd","AMD",
+"fragment.cas","CAS",
+"fragment.nvidia","Nvidia",
+"fragment.dlss","DLSS",
+"fragment.deep","Deep",
+"fragment.learning","Learning",
+"fragment.super","Super",
+"fragment.sampling","Sampling",
+"fragment.fsr","FSR",
+"fragment.fidelityfx","FidelityFX",
+"fragment.resolution","Resolution",
