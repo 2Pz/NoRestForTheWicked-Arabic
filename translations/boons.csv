@@ -311,7 +311,7 @@
 "boons.rare.focus.sublimePower.Description","[StatDamage] <b>Damage</b> increased by {0} of [StatFocus] Current Focus","زيادة [StatDamage] <b>الضرر</b> بنسبة {0} من التركيز الحالي [StatFocus]"
 "boons.rare.focus.sublimePower.Name","Sublime Power","قوة سامية"
 "boons.rare.focus.unspokenResolve.Description","[StatMaxFocus] <b>Max Focus</b> increased by {0}","زيادة [StatMaxFocus] <b>الحد الأقصى للتركيز</b> بمقدار {0}"
-"boons.rare.focus.unspokenResolve.Name","Unspoken Resolve","عزم غير منطوق"
+"boons.rare.focus.unspokenResolve.Name","Unspoken Resolve","عزم الصامت"
 "boons.rare.focus.wretchedStrength.Description","Gain {0} [StatFocus] <b>Focus</b> on Kill","اكتساب {0} من [StatFocus] <b>التركيز</b> عند القتل"
 "boons.rare.focus.wretchedStrength.Name","Wretched Strength","قوة بائسة"
 "boons.rare.health.innerStrength.Description","<b>Health regenerates rapidly</b> over time","تجديد <b>الصحة سريعاً</b> بمرور الوقت"
