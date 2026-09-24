@@ -220,7 +220,7 @@ Please check back next week","لقد نفدت التحديات التي يمكن
 "ui.common.craft","Craft","صناعة"
 "ui.common.craftableAt","Craftable at <color=""orange"">{0}</color>.","يمكن صناعته عند <color=""orange"">{0}</color>."
 "ui.common.create","Create","إنشاء"
-"ui.common.crucibleVendorBuildProjects","Offerings","العروض"
+"ui.common.crucibleVendorBuildProjects","Offerings","القرابين"
 "ui.common.custom","Custom","مخصص"
 "ui.common.customize","Customize","تخصيص"
 "ui.common.day","day","يوم"
@@ -425,7 +425,7 @@ to claim rewards this time.","لم تُسهم بما يكفي
 "ui.compendium.replayableCinematics.theRivenTwins.Description","Inside a mysterious chamber next to the Mountain Gate, we cross paths with two notorious criminals who escaped from the quarry.","داخل غرفة غامضة بجوار بوابة الجبل، نعترض طريق مجرمَين مشهورَين فرّا من المحجر."
 "ui.compendium.replayableCinematics.theRivenTwins.Name","The Riven Twins","التوأمان المشقوقان"
 "ui.compendium.replayableCinematics.theSeneschal.Description","Somewhere within the Cerim Crucible, we meet a curious being from another time.","في مكان ما داخل بوتقة السيريم، نلتقي بكيان غريب من زمن آخر."
-"ui.compendium.replayableCinematics.theSeneschal.Name","The Seneschal","السينيشال"
+"ui.compendium.replayableCinematics.theSeneschal.Name","The Seneschal","القيّم"
 "ui.compendium.replayableCinematics.theSovannCircle.Description","Marin Village seems to be in some kind of catatonic trance. Arriving at the Dasha prayer circle, we find Odessa fending off a group of Balak Taw.","يبدو أن قرية مارين في حالة من الذهول التام. عند وصولنا إلى دائرة صلاة داشا، نجد أوديسا تصدّ مجموعة من بالاك تاو."
 "ui.compendium.replayableCinematics.theSovannCircle.Name","The Sovann Circle","دائرة سوفان"
 "ui.compendium.replayableCinematics.theTornFalstead.Description","Deep in the Black Trench, we finally track down Darak again - only to find he is not the same man…","في أعماق الخندق الأسود، نتعقب داراك مجدداً — لنجده ليس الرجل ذاته…"
@@ -2461,7 +2461,7 @@ You can also find other Utility Runes throughout the game, which can be equipped
 [!sbpicon][!sNegative][!iWeight][/s][/s][!sbpbody]دحرجة بطيئة. يمكن تنفيذ [!sHighlight][action_shoulder_barge][/s].
 [!ssubtext]الدفعة بالكتف ترنح الأعداء مؤقتاً.[/s][/s][/s]"
 "ui.tutorials.mechanics.weightClass.title","Weight Class","فئة الوزن"
-"ui.tutorials.mechanics.worldCleanse.description","The Seneschal has unlocked the ability to cleanse the [!sPlagued]Pestilence[/s] from Isola Sacra.","فتح السينيشال القدرة على تطهير [!sPlagued]الوباء[/s] من إيسولا ساكرا."
+"ui.tutorials.mechanics.worldCleanse.description","The Seneschal has unlocked the ability to cleanse the [!sPlagued]Pestilence[/s] from Isola Sacra.","فتح القيّم القدرة على تطهير [!sPlagued]الوباء[/s] من إيسولا ساكرا."
 "ui.tutorials.mechanics.worldCleanse.title","World Cleanse","تطهير العالم"
 "ui.tutorials.multiplayer.advancedstatuseffects.description","You can combine different [!sHighlight]elemental status effects[/s].
 
