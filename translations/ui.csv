@@ -96,7 +96,7 @@ Please check back next week","لقد نفدت التحديات التي يمكن
 "ui.boonScreen.RerollAll","to re-roll all","لإعادة سحب الكل"
 "ui.boonScreen.Types.CriticalDamage","Critical Damage","ضرر الضربة الحرجة"
 "ui.boonScreen.Types.Damage","Damage","الضرر"
-"ui.boonScreen.Types.Elemental","Elemental","عنصري"
+"ui.boonScreen.Types.Elemental","Elemental","العناصر"
 "ui.boonScreen.Types.Enchantment","Enchantment","التعزيز السحري"
 "ui.boonScreen.Types.Equipment","Equipment","العتاد"
 "ui.boonScreen.Types.Fire","Fire","النار"
@@ -109,7 +109,7 @@ Please check back next week","لقد نفدت التحديات التي يمكن
 "ui.boonScreen.Types.Punishment","Punishment","العقاب"
 "ui.boonScreen.Types.Rush","Rush","الاندفاع"
 "ui.boonScreen.Types.Stamina","Stamina","التحمل"
-"ui.boonScreen.Types.Utility","Utility","المنفعة"
+"ui.boonScreen.Types.Utility","Utility","المساعدة"
 "ui.builderProjects.buildingProjects","Building Projects","مشاريع البناء"
 "ui.builderProjects.completedProjects","Completed Projects","المشاريع المكتملة"
 "ui.builderProjects.confirmContribution","Confirm Contribution","تأكيد المساهمة"
@@ -398,7 +398,7 @@ to claim rewards this time.","لم تُسهم بما يكفي
 "ui.compendium.replayableCinematics.huntersAttacked.Name","Hunters Attacked","هجوم على الصيادين"
 "ui.compendium.replayableCinematics.openingPrologue.Description","Our journey to Sacra begins.","تبدأ رحلتنا إلى ساكرا."
 "ui.compendium.replayableCinematics.openingPrologue.Name","Opening Prologue","المقدمة الافتتاحية"
-"ui.compendium.replayableCinematics.rattiganAtTheSewers.Description","A conniving criminal named Rattigan has made a deal to give us access to the Black Trench.","أبرم مجرم ماكر يُدعى راتيغان صفقة لمنحنا الوصول إلى الخندق الأسود."
+"ui.compendium.replayableCinematics.rattiganAtTheSewers.Description","A conniving criminal named Rattigan has made a deal to give us access to the Black Trench.","أبرم مجرم ماكر يُدعى راتيغان صفقة لمنحنا الوصول إلى المجرى الأسود."
 "ui.compendium.replayableCinematics.rattiganAtTheSewers.Name","Rattigan at the Sewers","راتيغان عند المجاري"
 "ui.compendium.replayableCinematics.rememberingAlden.Description","Returning to Marin Village, we find that Irmgard has decided to lay Alden to rest in a traditional ceremony.","عند عودتنا إلى قرية مارين، نجد أن إيرمغارد قررت إقامة مراسم تقليدية لدفن ألدن."
 "ui.compendium.replayableCinematics.rememberingAlden.Name","Remembering Alden","تذكُّر ألدن"
@@ -428,7 +428,7 @@ to claim rewards this time.","لم تُسهم بما يكفي
 "ui.compendium.replayableCinematics.theSeneschal.Name","The Seneschal","القيّم"
 "ui.compendium.replayableCinematics.theSovannCircle.Description","Marin Village seems to be in some kind of catatonic trance. Arriving at the Dasha prayer circle, we find Odessa fending off a group of Balak Taw.","يبدو أن قرية مارين في حالة من الذهول التام. عند وصولنا إلى دائرة صلاة داشا، نجد أوديسا تصدّ مجموعة من بالاك تاو."
 "ui.compendium.replayableCinematics.theSovannCircle.Name","The Sovann Circle","دائرة سوفان"
-"ui.compendium.replayableCinematics.theTornFalstead.Description","Deep in the Black Trench, we finally track down Darak again - only to find he is not the same man…","في أعماق الخندق الأسود، نتعقب داراك مجدداً — لنجده ليس الرجل ذاته…"
+"ui.compendium.replayableCinematics.theTornFalstead.Description","Deep in the Black Trench, we finally track down Darak again - only to find he is not the same man…","في أعماق المجرى الأسود، نتعقب داراك مجدداً — لنجده ليس الرجل ذاته…"
 "ui.compendium.replayableCinematics.theTornFalstead.Name","The Torn Falstead","فالستيد المسوخ"
 "ui.compendium.replayableCinematics.theWarRoom.Description","Ellsworth has his daughter Odessa summoned to the war room.","يستدعي إلسورث ابنته أوديسا إلى غرفة الحرب."
 "ui.compendium.replayableCinematics.theWarRoom.Name","The War Room","غرفة الحرب"
@@ -530,10 +530,10 @@ Hold: Quick Item Picker","نقر: استهلاك العنصر السريع
 "ui.controlsScreen.toggleoffhanditem","Toggle Offhand Item","تبديل عنصر اليد الثانوية"
 "ui.controlsScreen.togglerunes","Toggle Mainhand/Offhand Runes ","تبديل رون اليد الرئيسية/الثانوية"
 "ui.controlsScreen.usealternative","Use Alternative Scheme","استخدام مخطط بديل"
-"ui.controlsScreen.utilityruneswitch","Utility Rune Switch","تبديل رون المرافق"
+"ui.controlsScreen.utilityruneswitch","Utility Rune Switch","تبديل رون المساعدة"
 "ui.controlsScreen.utilityruneswitchuse","Hold: Utility Use
-Hold: Utility Rune Switch","استمرار: استخدام المرافق
-استمرار: تبديل رون المرافق"
+Hold: Utility Rune Switch","استمرار: استخدام المساعدة
+استمرار: تبديل رون المساعدة"
 "ui.controlsScreen.walktocursor","Hold: Walk to cursor","استمرار: المشي نحو المؤشر"
 "ui.crucible.chamberCompleted","Chamber Completed","الغرفة مكتملة"
 "ui.crucible.chamberCompletedPrompt","Hold [interact] to ","استمرار [interact] لـ"
@@ -1046,7 +1046,7 @@ Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equip
 "ui.inventory.requiredLevel","Required Level:","المستوى المطلوب:"
 "ui.inventory.scalesWith","Scales with:","يتناسب مع:"
 "ui.inventory.useThisItemToLearnThisRecipe","Use this item to learn this recipe.","استخدم هذا العنصر لتعلّم هذه الوصفة."
-"ui.inventory.utilityRune","Utility Rune","رون نفعي"
+"ui.inventory.utilityRune","Utility Rune","رون مساعدة"
 "ui.inventory.weaponRune","Weapon Rune","رون سلاح"
 "ui.inventory.youDontMeetReq","Requirements not met. Damage reduced.","المتطلبات غير مستوفاة. انخفض الضرر."
 "ui.inventory.youHaveAlreadyLearnedThisRecipe","You have already learned this recipe.","لقد تعلمت هذه الوصفة بالفعل."
@@ -1076,11 +1076,11 @@ Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equip
 "ui.loadingScreenHints.crafting2","Different types of crafting stations will craft different items. Crafting stations are available at upgraded vendor stalls or can be purchased to place within your own house. ","تصنع الأنواع المختلفة من محطات الصناعة عناصر مختلفة. تتوفر محطات الصناعة في أكشاك التجار بعد ترقيتها أو يمكن شراؤها لوضعها داخل منزلك الخاص."
 "ui.loadingScreenHints.durability","Death will diminish the durability of the gear you currently have equipped. Broken gear is rendered inoperable. Repair gear at a blacksmith or by using repair powder.","يؤدي الموت إلى تقليل متانة العتاد المجهز لديك حالياً. يصبح العتاد المكسور غير قابل للاستخدام. قم بإصلاح العتاد لدى الحداد أو باستخدام مسحوق الإصلاح."
 "ui.loadingScreenHints.eleanor","Eleanor the enchanter can infuse gems, attach and extract runes, and enchant common items, as well as sell various gems, runes, and other mystical items.","تستطيع المعززة السحرية إليانور تضمين الجواهر، وتركيب الرون واستخراجها، وتعزيز العناصر الشائعة سحرياً، بالإضافة إلى بيع العديد من الجواهر والرون والعناصر الصوفية الأخرى."
-"ui.loadingScreenHints.elementalDamage","Elemental damage builds up status effects on targets. Different elemental damage types apply different status effects.","يؤدي الضرر العنصري إلى تراكم تأثيرات الحالة على الأهداف. تطبق أنواع الضرر العنصري المختلفة تأثيرات حالة مختلفة."
-"ui.loadingScreenHints.elementalDamageFire","Burning enemies take fire damage over time. Once dealt enough fire elemental damage to fill their status effect bar, enemies take additional damage.","يتلقى الأعداء المحترقون ضرراً نارياً بمرور الوقت. وبمجرد إلحاق قدر كافٍ من الضرر العنصري الناري لملء شريط تأثير الحالة لديهم، يتلقى الأعداء ضرراً إضافياً."
-"ui.loadingScreenHints.elementalDamageIce","When dealt enough ice elemental damage, enemies are frozen for a limited amount of time. In this state, they can be shattered with physical damage. ","عند إلحاق قدر كافٍ من الضرر العنصري الجليدي، يتجمد الأعداء لفترة محدودة. في هذه الحالة، يمكن تحطيمهم بالضرر الجسدي."
-"ui.loadingScreenHints.elementalDamageLightning","When dealt enough lightning elemental damage, enemies are shocked, damaging themselves and nearby enemies.","عند إلحاق قدر كافٍ من الضرر العنصري الصاعق، يُصاب الأعداء بالصعق، مما يُلحق الضرر بهم وبالأعداء المجاورين."
-"ui.loadingScreenHints.elementalDamagePlague","When dealt enough plague elemental damage, enemies are infected, and take additional damage with each subsequent blow. Any of their healing effects are also decreased.","عند إلحاق قدر كافٍ من ضرر الوباء العنصري، يُصاب الأعداء بالعدوى ويتلقون ضرراً إضافياً مع كل ضربة لاحقة. كما تنخفض أي من تأثيرات الشفاء لديهم."
+"ui.loadingScreenHints.elementalDamage","Elemental damage builds up status effects on targets. Different elemental damage types apply different status effects.","يؤدي ضرر العناصر إلى تراكم تأثيرات الحالة على الأهداف. تطبق أنواع ضرر العناصر المختلفة تأثيرات حالة مختلفة."
+"ui.loadingScreenHints.elementalDamageFire","Burning enemies take fire damage over time. Once dealt enough fire elemental damage to fill their status effect bar, enemies take additional damage.","يتلقى الأعداء المحترقون ضرراً نارياً بمرور الوقت. وبمجرد إلحاق قدر كافٍ من ضرر العناصر الناري لملء شريط تأثير الحالة لديهم، يتلقى الأعداء ضرراً إضافياً."
+"ui.loadingScreenHints.elementalDamageIce","When dealt enough ice elemental damage, enemies are frozen for a limited amount of time. In this state, they can be shattered with physical damage. ","عند إلحاق قدر كافٍ من ضرر العناصر الجليدي، يتجمد الأعداء لفترة محدودة. في هذه الحالة، يمكن تحطيمهم بالضرر الجسدي."
+"ui.loadingScreenHints.elementalDamageLightning","When dealt enough lightning elemental damage, enemies are shocked, damaging themselves and nearby enemies.","عند إلحاق قدر كافٍ من ضرر العناصر الصاعق، يُصاب الأعداء بالصعق، مما يُلحق الضرر بهم وبالأعداء المجاورين."
+"ui.loadingScreenHints.elementalDamagePlague","When dealt enough plague elemental damage, enemies are infected, and take additional damage with each subsequent blow. Any of their healing effects are also decreased.","عند إلحاق قدر كافٍ من ضرر عناصر الوباء، يُصاب الأعداء بالعدوى ويتلقون ضرراً إضافياً مع كل ضربة لاحقة. كما تنخفض أي من تأثيرات الشفاء لديهم."
 "ui.loadingScreenHints.enchanting","Eleanor the enchanter can enchant common weapons and armor. Enchanting an item randomly makes it either magical or plagued, adding enchantments as well as removing all but its first gem.","يمكن للمعززة السحرية إليانور تعزيز الأسلحة والدروع الشائعة سحرياً. تعزيز العنصر سحرياً يجعله عشوائياً إما سحرياً أو موبوءاً، مما يضيف تعزيزات سحرية ويزيل جميع جواهره باستثناء الجوهرة الأولى."
 "ui.loadingScreenHints.enchantmentCategories","Each individual enchantment belongs to a specific category. Two enchantments of the same category can never be found or rolled on the same item.","ينتمي كل تعزيز سحري فردي إلى فئة محددة. لا يمكن أبداً العثور على تعزيزين سحريين من الفئة نفسها أو الحصول عليهما على العنصر ذاته."
 "ui.loadingScreenHints.fallenEmbers","Fallen Embers can be used to add enchantments or re-roll enchantments on magical and plagued gear. They can also be used to reassign attribute points once unlocked from the Crucible.","يمكن استخدام الجمر الساقط لإضافة تعزيزات سحرية أو إعادة سحب التعزيزات على العتاد السحري والموبوء. يمكن استخدامها أيضاً لإعادة توزيع نقاط السمات بمجرد فتحها من البوتقة."
@@ -1101,7 +1101,7 @@ Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equip
 "ui.loadingScreenHints.housing1","There are several houses in Sacrament available for purchase. You can buy or sell a home by interacting with the sign posted outside. ","توجد عدة منازل في ساكرامنت متاحة للشراء. يمكنك شراء منزل أو بيعه من خلال التفاعل مع اللافتة الموضوعة بالخارج."
 "ui.loadingScreenHints.housing2","Once you own a home, you can buy furniture, crafting equipment, and decorations to customize your space.","بمجرد امتلاكك لمنزل، يمكنك شراء الأثاث ومعدات الصناعة والزينة لتخصيص مساحتك الخاصة."
 "ui.loadingScreenHints.ilaria","Ilaria the martial arts vendor sells weapons and tools related to hand-to-hand combat.","تبيع تاجرة الفنون القتالية إيلاريا أسلحة وأدوات تتعلق بالقتال اليدوي المباشر."
-"ui.loadingScreenHints.infusionEnchantments","Infusions convert weapon damage to a specific elemental damage type. You can gain permanent infusions from gems & facets and temporary infusions from oils.","يحول التضمين ضرر السلاح إلى نوع ضرر عنصري محدد. يمكنك الحصول على تضمينات دائمة من الجواهر والأوجه وتضمينات مؤقتة من الزيوت."
+"ui.loadingScreenHints.infusionEnchantments","Infusions convert weapon damage to a specific elemental damage type. You can gain permanent infusions from gems & facets and temporary infusions from oils.","يحول الشحن ضرر السلاح إلى نوع ضرر عناصر محدد. يمكنك الحصول على شحن دائم من الجواهر والأوجه وشحن مؤقت من الزيوت."
 "ui.loadingScreenHints.jumping","Sprint off surfaces or ledges to jump across small gaps.","اركض مسرعاً نحو الحواف أو المنصات للقفز عبر الفجوات الصغيرة."
 "ui.loadingScreenHints.makerDanos","Visit Maker Danos to upgrade vendor stalls, purchase crafting stations and refineries for your house, and undertake various building projects to improve the city.","قم بزيارة الصانع دانوس لترقية أكشاك التجار، وشراء محطات الصناعة والمصافي لمنزلك، والبدء بمشاريع بناء متنوعة لتطوير المدينة."
 "ui.loadingScreenHints.map","The map reveals your path throughout Isola Sacra. However, this path will gradually fade over time. Revisit these shrouded regions to discover new dangers and loot.","تكشف الخريطة مسارك عبر إيسولا ساكرا. ومع ذلك، سيتلاشى هذا المسار تدريجياً بمرور الوقت. أعد زيارة هذه المناطق المحجوبة لاكتشاف مخاطر وغنائم جديدة."
@@ -1113,7 +1113,7 @@ Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equip
 "ui.loadingScreenHints.refinedMaterials1","Refined materials are necessary for crafting and upgrading gear. Materials can be refined at upgraded vendor stalls, or at refineries added to your house. ","المواد المكررة ضرورية لصناعة العتاد وترقيته. يمكن تحسين المواد في أكشاك التجار بعد ترقيتها، أو في المصافي المضافة إلى منزلك."
 "ui.loadingScreenHints.refinedMaterials2","Higher tier refineries and upgraded vendor stalls reduce the time required to refine materials.","تقلل المصافي ذات المستوى الأعلى وأكشاك التجار بعد ترقيتها من الوقت اللازم لتحسين المواد وتكريرها."
 "ui.loadingScreenHints.regainableHealthEnchantments","The Regainable Health enchantment allows you to regain lost health by attacking an enemy in a short interval after taking damage.","يتيح لك تعزيز الصحة القابلة للاسترداد استعادة الصحة المفقودة عن طريق مهاجمة العدو خلال فترة وجيزة بعد تلقي الضرر."
-"ui.loadingScreenHints.runes1","Runes provide special abilities. Many are unique attacks, while others are utility based, such as healing, repair, or teleportation back to Sacrament. Most runes consume focus.","توفر الرون قدرات خاصة. الكثير منها عبارة عن هجمات فريدة، بينما يعتمد البعض الآخر على المنفعة، مثل الشفاء أو الإصلاح أو الانتقال الآني إلى ساكرامنت. معظم الرون تستهلك التركيز."
+"ui.loadingScreenHints.runes1","Runes provide special abilities. Many are unique attacks, while others are utility based, such as healing, repair, or teleportation back to Sacrament. Most runes consume focus.","توفر الرون قدرات خاصة. الكثير منها عبارة عن هجمات فريدة، بينما يركّز بعضها الآخر على المساعدة، مثل الشفاء أو الإصلاح أو الانتقال الآني إلى ساكرامنت. معظم الرون تستهلك التركيز."
 "ui.loadingScreenHints.runes2","Some runes affix to your weapons, while others affix to you directly. Many weapons come with a rune, and Eleanor the enchanter can socket additional runes into your weapons or person.","تُثبَّت بعض الرون على أسلحتك، بينما يُثبَّت بعضها الآخر عليك مباشرة. تأتي العديد من الأسلحة برون مدمج، ويمكن للمعززة السحرية إليانور تركيب رون إضافي في أسلحتك أو شخصيتك."
 "ui.loadingScreenHints.runes3","Eleanor can extract a rune, which sacrifices the weapon it's attached to. Or she can destroy the rune, which preserves the weapon.","تستطيع إليانور استخراج الرون، مما يؤدي إلى التضحية بالسلاح المثبت عليه. أو يمكنها تدمير الرون، مما يحافظ على السلاح."
 "ui.loadingScreenHints.shields","Use a shield to block enemy attacks and reduce damage received, but shields do not reduce poise damage dealt to you.","استخدم الدرع لصد هجمات العدو وتقليل الضرر المتلقى، ولكن الدروع لا تقلل من ضرر التوازن الذي يُلحق بك."
@@ -1336,7 +1336,7 @@ If you experience any of the following symptoms while playing this video game, i
 "ui.plagueIchorScreen.resourcesSlotButton","+5 Resource Inventory Slots","+5 خانات في مخزون المصادر"
 "ui.plagueIchorScreen.ringsSlotButton","+1 Ring Slot","+1 خانة للخواتم"
 "ui.plagueIchorScreen.toolsSlotButton","+1 Tool Slot","+1 خانة للأدوات"
-"ui.plagueIchorScreen.utilityButton","+1 Utility Rune Slot","+1 خانة لرون النفعية"
+"ui.plagueIchorScreen.utilityButton","+1 Utility Rune Slot","+1 خانة لرون المساعدة"
 "ui.ptrMessage.confirm","I agree!","أوافق!"
 "ui.ptrMessage.message","Welcome to the NRFTW Experimental Branch!
 
@@ -1432,8 +1432,8 @@ Recommend <color=#F2E6BD>No Rest For The Wicked </color>to them.","يفوت جم
 "ui.realmsScreen.LocationSewers","Sewers","المجاري"
 "ui.realmsScreen.LocationShip","Ship","السفينة"
 "ui.realmsScreen.ManagePlayerInRealm","Manage player {0} in realm {1}.","إدارة اللاعب {0} في العالم {1}."
-"ui.realmsScreen.Offline","Offline","دون اتصال"
-"ui.realmsScreen.Online","Online","عبر الإنترنت"
+"ui.realmsScreen.Offline","Offline","غير متصل
+"ui.realmsScreen.Online","Online","متصل
 "ui.realmsScreen.Promote","Promote","ترقية"
 "ui.realmsScreen.SearchFriends","Search friends","البحث عن أصدقاء"
 "ui.realmsScreen.VotetoKick","Vote to Kick","تصويت على الطرد"
@@ -1524,20 +1524,20 @@ Begin your journey on Sacra's coast.","للذين خاضوا المقدمة من
 "ui.runeScreen.destroy","Destroy","تدمير"
 "ui.runeScreen.destroyPrompt","Remove {0} from {1}? This is permanent and the rune will be destroyed.","إزالة {0} من {1}؟ هذا الإجراء دائم وسيتم تدمير الرون."
 "ui.runeScreen.extractConfirmation","Extract {0} from {1}? This will destroy the weapon.","استخراج {0} من {1}؟ سيؤدي هذا إلى تدمير السلاح."
-"ui.runeScreen.extractUtilityConfirmation","Extract {0} from Utility Runes?","استخراج {0} من رُون النفعية؟"
+"ui.runeScreen.extractUtilityConfirmation","Extract {0} from Utility Runes?","استخراج {0} من رُون المساعدة؟"
 "ui.runeScreen.lockedRunesRemoveText","Locked rune cannot be removed","لا يمكن إزالة الرون المقفل"
-"ui.runeScreen.manageUtility","Manage Utility Runes","إدارة رُون النفعية"
+"ui.runeScreen.manageUtility","Manage Utility Runes","إدارة رُون المساعدة"
 "ui.runeScreen.move","Move","نقل"
 "ui.runeScreen.movePrompt","Move {0} to slot {1}?","نقل {0} إلى الخانة {1}؟"
 "ui.runeScreen.slotConfirmation","Slot {0} into {1}? This is permanent and the rune can not be extracted without destroying the weapon.","تركيب {0} في {1}؟ هذا الإجراء دائم ولا يمكن استخراج الرون دون تدمير السلاح."
 "ui.runeScreen.slotLocked","Slot Locked","الخانة مقفلة"
-"ui.runeScreen.slotUtilityConfirmation","Slot {0} into Utility Runes?","تركيب {0} في رُون النفعية؟"
+"ui.runeScreen.slotUtilityConfirmation","Slot {0} into Utility Runes?","تركيب {0} في رُون المساعدة؟"
 "ui.runeScreen.swapPrompt","Swap {0} with {1}?","تبديل {0} بـ {1}؟"
 "ui.runeScreen.switchRuneSlots","Swap Slot","تبديل الخانة"
 "ui.runeScreen.switchRunesModalConfirmation","Swap slot with <style=Highlight>{0}</style>.","تبديل الخانة بـ <style=Highlight>{0}</style>."
 "ui.runeScreen.switchRunesSameRuneWarning","Select a different rune to swap with.","اختر روناً مختلفاً للتبديل معه."
 "ui.runeScreen.uniqueItemWarning","Unique items cannot be slotted with new runes.","العناصر الفريدة لا يمكن تركيب رُون جديدة فيها."
-"ui.runeScreen.utilityRunes","Utility Runes","رُون النفعية"
+"ui.runeScreen.utilityRunes","Utility Runes","رُون المساعدة"
 "ui.sellScreen.sell","Sell {0} ?","بيع {0}؟"
 "ui.settings.account.account","Account","الحساب"
 "ui.settings.account.credits","Credits","فريق العمل"
@@ -1970,7 +1970,7 @@ Consume Quick Item | Hold: Item Picker","لهذا المفتاح وظيفتان:
 "ui.settings.controls.mappingsShoulderBarge","Shoulder Barge","دفعة بالكتف"
 "ui.settings.controls.mappingsTargetLock","Target Lock","تثبيت الهدف"
 "ui.settings.controls.mappingsTogglerunes","Toggle Runes","تبديل الرون"
-"ui.settings.controls.mappingsUtilityRunes","Utility Runes","رُون النفعية"
+"ui.settings.controls.mappingsUtilityRunes","Utility Runes","رُون المساعدة"
 "ui.settings.controls.mappingsattack","Attack","هجوم"
 "ui.settings.controls.mappingsdodge","Dodge","تفادٍ"
 "ui.settings.controls.mappingsmainhanditem","Mainhand item","عنصر اليد الرئيسية"
@@ -2001,10 +2001,10 @@ Target Lock | Hold: Exit Manual Target Lock","لهذا المفتاح وظيفت
 "ui.settings.controls.selectandassign","Select and assign a key of your preference","اختر وعيّن المفتاح المفضل لديك"
 "ui.settings.controls.unassignedKeysMessage","You have unassigned keys. Please assign all keys before saving.","لديك مفاتيح غير معينة. يرجى تعيين جميع المفاتيح قبل الحفظ."
 "ui.settings.controls.unassignedKeysTitle","Unassigned Keys","مفاتيح غير معينة"
-"ui.settings.controls.utilityRune1","Utility Rune 1","رون النفعية 1"
-"ui.settings.controls.utilityRune2","Utility Rune 2","رون النفعية 2"
-"ui.settings.controls.utilityRune3","Utility Rune 3","رون النفعية 3"
-"ui.settings.controls.utilityRune4","Utility Rune 4","رون النفعية 4"
+"ui.settings.controls.utilityRune1","Utility Rune 1","رون المساعدة 1"
+"ui.settings.controls.utilityRune2","Utility Rune 2","رون المساعدة 2"
+"ui.settings.controls.utilityRune3","Utility Rune 3","رون المساعدة 3"
+"ui.settings.controls.utilityRune4","Utility Rune 4","رون المساعدة 4"
 "ui.settings.display.brightness","Brightness","السطوع"
 "ui.settings.display.brightnessDescription","Adjust picture brightness if you find the game to be too bright or dark.","اضبط سطوع الصورة إذا وجدت أن اللعبة شديدة السطوع أو مظلمة."
 "ui.settings.display.contrast","Contrast","التباين"
@@ -2180,7 +2180,7 @@ AMD FSR: زيادة معدل الإطارات على حساب بعض الدقة 
 "ui.stats.defense","DEFENSE","الدفاع"
 "ui.stats.dexterity","Dexterity","الرشاقة"
 "ui.stats.dexterityDescription","Increases the dexterity of your character: Weapons that scale with dexterity receive an attribute bonus.","يزيد من رشاقة شخصيتك: الأسلحة التي تتناسب مع الرشاقة تتلقى مكافأة سمة."
-"ui.stats.elementalDamage","Elemental Damage","الضرر العنصري"
+"ui.stats.elementalDamage","Elemental Damage","ضرر العناصر"
 "ui.stats.equipLoad","Equip Load","حمولة العتاد"
 "ui.stats.equipLoad2Description","Maximum equipment weight allowed.","الحد الأقصى المسموح به لوزن العتاد."
 "ui.stats.equipLoadDescription","Raises the limit for equipped gear weight before encumbrance sets in. Your dodge type is determined by movement speed: fast speed allows for a quickstep, normal speed grants a roll, and heavy speed results in a more substantial roll coupled with the capability to execute a shoulder barge, knocking down enemies.","يرفع الحد الأقصى لوزن العتاد المجهز قبل أن تصبح مثقلاً بالحمل. يتم تحديد نوع التفادي لديك حسب سرعة الحركة: السرعة العالية تتيح خطوة سريعة، والسرعة العادية تمنح دحرجة، والسرعة الثقيلة تؤدي إلى دحرجة أثقل مع القدرة على تنفيذ دفعة بالكتف لإسقاط الأعداء أرضاً."
@@ -2347,14 +2347,14 @@ Be careful - These spells <color=#F2E6BD>can be interrupted</color> while castin
 [!sBpIcon][StatColdDamage][/s][!sBpBody][!sIce]Freeze[/s] temporarily solidifies. Physical damage will shatter frozen targets.[/s]
 [!sBpIcon][StatLightningDamage][/s][!sBpBody][!sLightning]Shock[/s] will chain to multiple targets.[/s]
 [!sBpIcon][StatPlagueDamage][/s][!sBpBody][!sPlague]Infection[/s] temporarily gives the attacker [!sHighlight]Lifesteal[/s].[/s]
-[!sBpIcon][StatBleed][/s][!sBpBody][!sBleed]Bleed[/s] deals damage to moving enemies.[/s]","يؤدي الضرر العنصري إلى تراكم تأثيرات الحالة.
+[!sBpIcon][StatBleed][/s][!sBpBody][!sBleed]Bleed[/s] deals damage to moving enemies.[/s]","يؤدي ضرر العناصر إلى تراكم تأثيرات الحالة.
  
 [!sBpIcon][StatFireDamage][/s][!sBpBody][!sFire]الاحتراق[/s] يلحق ضرراً بمرور الوقت.[/s]
 [!sBpIcon][StatColdDamage][/s][!sBpBody][!sIce]التجمد[/s] يُجمد مؤقتاً. الضرر الجسدي سيحطم الأهداف المجمدة.[/s]
 [!sBpIcon][StatLightningDamage][/s][!sBpBody][!sLightning]الصعق[/s] سينتقل إلى أهداف متعددة.[/s]
 [!sBpIcon][StatPlagueDamage][/s][!sBpBody][!sPlague]العدوى[/s] تمنح المهاجم مؤقتاً [!sHighlight]سرقة الحياة[/s].[/s]
 [!sBpIcon][StatBleed][/s][!sBpBody][!sBleed]النزيف[/s] يلحق ضرراً بالأعداء أثناء حركتهم.[/s]"
-"ui.tutorials.mechanics.elementalDamage.title","Elemental Damage","الضرر العنصري"
+"ui.tutorials.mechanics.elementalDamage.title","Elemental Damage","ضرر العناصر"
 "ui.tutorials.mechanics.firstBow.description","<color=#F2E6BD>Bows</color> carry unique Runes, allowing you to unleash a <color=#F2E6BD>deadly barrage of arrows</color> from afar.
 
 Using a bow <color=#F2E6BD>consumes</color> [IconFocus].","تحمل <color=#F2E6BD>الأقواس</color> رُوناً فريدة، مما يتيح لك إطلاق <color=#F2E6BD>وابل مميت من السهام</color> من مسافة بعيدة.
@@ -2434,19 +2434,19 @@ Most Runes can be performed using [IconFocus].
 "ui.tutorials.mechanics.runes.title","Runes","الرون"
 "ui.tutorials.mechanics.shoulderBarge.description","While [!sHeavy][!iWeight] Heavy[/s], temporarily stagger nearby enemies with a [!sHighlight][action_shoulder_barge][/s].","أثناء فئة الوزن [!sHeavy][!iWeight] ثقيل[/s]، يمكنك ترنيح الأعداء القريبين مؤقتاً باستخدام [!sHighlight][action_shoulder_barge][/s]."
 "ui.tutorials.mechanics.shoulderBarge.title","Shoulder Barge","دفعة بالكتف"
-"ui.tutorials.mechanics.utilityRunes.controls1.action","Ready Utility Runes","تجهيز رُون النفعية"
+"ui.tutorials.mechanics.utilityRunes.controls1.action","Ready Utility Runes","تجهيز رُون المساعدة"
 "ui.tutorials.mechanics.utilityRunes.controls1.binding","[utility] <os>(Hold)</os>","[utility] <os>(استمرار)</os>"
 "ui.tutorials.mechanics.utilityRunes.description","You begin with a [!sHighlight]Heal[/s] Utility Rune equipped. This rune allows you to heal by using focus [utility] + [key_special_1].
 
 Utility Runes are character bound abilities which [!sHighlight]aid[/s] and [!sHighlight]assist[/s] in your journey.
 
 [!sHeadingMuted]Equipping[/s]
-You can also find other Utility Runes throughout the game, which can be equipped at an Enchanter.","تبدأ برون نفعية [!sHighlight]شفاء[/s] مجهزة. يتيح لك هذا الرون الشفاء باستخدام التركيز [utility] + [key_special_1].
+You can also find other Utility Runes throughout the game, which can be equipped at an Enchanter.","تبدأ برون مساعدة [!sHighlight]شفاء[/s] مجهزة. يتيح لك هذا الرون الشفاء باستخدام التركيز [utility] + [key_special_1].
 
-رُون النفعية هي قدرات مرتبطة بالشخصية تقوم [!sHighlight]بمساعدتك[/s] و[!sHighlight]مساندتك[/s] في رحلتك.
+رُون المساعدة هي قدرات مرتبطة بالشخصية تقوم [!sHighlight]بمساعدتك[/s] و[!sHighlight]مساندتك[/s] في رحلتك.
 
 [!sHeadingMuted]التجهيز[/s]
-يمكنك أيضاً العثور على رُون نفعية أخرى طوال اللعبة، والتي يمكن تجهيزها لدى معزز سحري."
+يمكنك أيضاً العثور على رُون مساعدة أخرى طوال اللعبة، والتي يمكن تجهيزها لدى معزز سحري."
 "ui.tutorials.mechanics.utilityRunes.title","Heal Rune","رون الشفاء"
 "ui.tutorials.mechanics.weightClass.description","Weight is divided into classes based on the total weight of equipped gear. [IconEquipLoad] increases class limits.
 [!ssubtext]Broken gear will not contribute weight.[/s]","يتم تقسيم الوزن إلى فئات بناءً على الوزن الإجمالي للعتاد المجهز. يرفع [IconEquipLoad] حدود الفئات.
@@ -2467,7 +2467,7 @@ You can also find other Utility Runes throughout the game, which can be equipped
 
 [!sHighlight]Searing[/s] - Dealing Fire damage to an infected target will increase fire damage taken
 [!sHighlight]Overload[/s] - Dealing Lightning damage to a burned target will create a powerful lightning AoE
-[!sHighlight]Fester[/s] - Dealing Plague damage to a bleeding target will reduce enemy buildup recovery speed","يمكنك الجمع بين مختلف [!sHighlight]تأثيرات الحالة العنصرية[/s].
+[!sHighlight]Fester[/s] - Dealing Plague damage to a bleeding target will reduce enemy buildup recovery speed","يمكنك الجمع بين مختلف [!sHighlight]تأثيرات حالة العناصر[/s].
 
 [!sHighlight]الحرق الشديد[/s] - إلحاق ضرر ناري بهدف مصاب بالعدوى سيزيد من الضرر الناري المتلقى
 [!sHighlight]الحمل الزائد[/s] - إلحاق ضرر صاعق بهدف محترق سينشئ صاعقة قوية واسعة النطاق
@@ -2782,7 +2782,7 @@ Equip heavier gear to raise [StatPoiseDefense] [!tNoBr][!sHighlight]Poise Defens
 [!sSubtext]Extracting a Rune will [!sNegative]destroy[/s] the item.[/s]","[!sHighlight]جهّز[/s] الرون أو [!sHighlight]استخرجها[/s] أو [!sHighlight]دمّرها[/s] على العنصر.
 
 [!sSubtext]استخراج الرون سيؤدي إلى [!sNegative]تدمير[/s] العنصر.[/s]"
-"ui.tutorials.systems.runesScreen.description2","Modify your equipped [utility] [!sHighlight]Utility Runes[/s].","عدّل [utility] [!sHighlight]رُون النفعية[/s] المجهزة لديك."
+"ui.tutorials.systems.runesScreen.description2","Modify your equipped [utility] [!sHighlight]Utility Runes[/s].","عدّل [utility] [!sHighlight]رُون المساعدة[/s] المجهزة لديك."
 "ui.tutorials.systems.runesScreen.title","Rune Management","إدارة الرون"
 "ui.tutorials.systems.vendors.description","Within Sacrament, you'll encounter a variety of vendors, each offering unique services. 
 

@@ -507,13 +507,13 @@ Can be eaten in a pinch, but is more effective when used as an <color=#F2E6BD>in
 "items.craftingMaterials.rocks.alabaster.Name","Alabaster","مرمر"
 "items.craftingMaterials.rocks.blackrock.Description","Can be used for <color=#F2E6BD>crafting</color> or to <color=#F2E6BD>repair structures and buildings</color>.","يمكن استخدامه لـ <color=#F2E6BD>التصنيع</color> أو لـ <color=#F2E6BD>إصلاح الهياكل والمباني</color>."
 "items.craftingMaterials.rocks.blackrock.Name","Blackrock","الصخر الأسود"
-"items.craftingMaterials.rocks.chippedCoal.Description","Can be used as <color=#F2E6BD>fuel</color> to speed up the refining process of Furnaces. Can also be used to craft <color=#F2E6BD>utilities</color>.","يمكن استخدامه كـ <color=#F2E6BD>وقود</color> لتسريع عملية التكرير في الأفران. يمكن استخدامه أيضاً لتصنيع <color=#F2E6BD>الأدوات النفعية</color>."
+"items.craftingMaterials.rocks.chippedCoal.Description","Can be used as <color=#F2E6BD>fuel</color> to speed up the refining process of Furnaces. Can also be used to craft <color=#F2E6BD>utilities</color>.","يمكن استخدامه كـ <color=#F2E6BD>وقود</color> لتسريع عملية التكرير في الأفران. يمكن استخدامه أيضاً لتصنيع <color=#F2E6BD>الأدوات المساعدة</color>."
 "items.craftingMaterials.rocks.chippedCoal.Name","Chipped Coal","فحم مجزأ"
 "items.craftingMaterials.rocks.clay.Description","Can be used for <color=#F2E6BD>crafting</color> or to <color=#F2E6BD>repair structures and buildings</color>.","يمكن استخدامه لـ <color=#F2E6BD>التصنيع</color> أو لـ <color=#F2E6BD>إصلاح الهياكل والمباني</color>."
 "items.craftingMaterials.rocks.clay.Name","Clay","طين"
 "items.craftingMaterials.rocks.granite.Description","Can be used for <color=#F2E6BD>crafting</color> or to <color=#F2E6BD>repair structures and buildings</color>.","يمكن استخدامه لـ <color=#F2E6BD>التصنيع</color> أو لـ <color=#F2E6BD>إصلاح الهياكل والمباني</color>."
 "items.craftingMaterials.rocks.granite.Name","Granite","جرانيت"
-"items.craftingMaterials.rocks.highDensityCoal.Description","Can be used as <color=#F2E6BD>fuel</color> to speed up the refining process of Furnaces. Can also be used to craft <color=#F2E6BD>utilities</color>.","يمكن استخدامه كـ <color=#F2E6BD>وقود</color> لتسريع عملية التكرير في الأفران. يمكن استخدامه أيضاً لتصنيع <color=#F2E6BD>الأدوات النفعية</color>."
+"items.craftingMaterials.rocks.highDensityCoal.Description","Can be used as <color=#F2E6BD>fuel</color> to speed up the refining process of Furnaces. Can also be used to craft <color=#F2E6BD>utilities</color>.","يمكن استخدامه كـ <color=#F2E6BD>وقود</color> لتسريع عملية التكرير في الأفران. يمكن استخدامه أيضاً لتصنيع <color=#F2E6BD>الأدوات المساعدة</color>."
 "items.craftingMaterials.rocks.highDensityCoal.Name","High-Density Coal","فحم عالي الكثافة"
 "items.craftingMaterials.rocks.limestone.Description","Can be used for <color=#F2E6BD>crafting</color> or to <color=#F2E6BD>repair structures and buildings</color>.","يمكن استخدامه لـ <color=#F2E6BD>التصنيع</color> أو لـ <color=#F2E6BD>إصلاح الهياكل والمباني</color>."
 "items.craftingMaterials.rocks.limestone.Name","Limestone","حجر جيري"
@@ -3012,15 +3012,15 @@ Must be used inside a <color=#F2E6BD>house</color>.","شظية من همس تت�
 "items.keyItems.sewerDungeon.drainageCellasrKey.Description","Grants access to the <color=lightblue>southern drainage section</color> of Sacrament's sewers.","يمنح حق الوصول إلى <color=lightblue>قسم الصرف الجنوبي</color> في مجاري ساكرامنت."
 "items.keyItems.sewerDungeon.sacramentSewersKey.Description","Grants access to the <color=lightblue>central maintenance section</color> of Sacrament's sewers.","يمنح حق الوصول إلى <color=lightblue>قسم الصيانة المركزي</color> في مجاري ساكرامنت."
 "items.keyItems.sewerDungeon.sacramentSewersKey.Name","Moldy Key","مفتاح متعفن"
-"items.keyItems.sewerDungeon.sewerCellKeyGenericItem.Description","Unlocks a door somewhere in the Black Trench.","يفتح بابًا في مكان ما في الخندق الأسود."
+"items.keyItems.sewerDungeon.sewerCellKeyGenericItem.Description","Unlocks a door somewhere in the Black Trench.","يفتح بابًا في مكان ما في المجرى الأسود."
 "items.keyItems.sewerDungeon.sewerCellKeyGenericItem.Name","Filthy Key","مفتاح قذر"
-"items.keyItems.sewerDungeon.sewerKey.Description","Unlocks a door somewhere in the Black Trench.","يفتح بابًا في مكان ما في الخندق الأسود."
+"items.keyItems.sewerDungeon.sewerKey.Description","Unlocks a door somewhere in the Black Trench.","يفتح بابًا في مكان ما في المجرى الأسود."
 "items.keyItems.sewerDungeon.sewerKey.Name","Disgusting Key","مفتاح مقزز"
-"items.keyItems.sewerDungeon.sewerLeverHandle.Description","A handle which can be used to activate <color=lightblue>multiple levers</color> throughout the Black Trench.","مقبض يمكن استخدامه لتفعيل <color=lightblue>رافعات متعددة</color> عبر أرجاء الخندق الأسود."
+"items.keyItems.sewerDungeon.sewerLeverHandle.Description","A handle which can be used to activate <color=lightblue>multiple levers</color> throughout the Black Trench.","مقبض يمكن استخدامه لتفعيل <color=lightblue>رافعات متعددة</color> عبر أرجاء المجرى الأسود."
 "items.keyItems.sewerDungeon.sewerLeverHandle.Name","Sewer Lever Handle","مقبض رافعة المجاري"
 "items.keyItems.sewerDungeon.waterChannelKey.Description","Grants access to the <color=lightblue>central drainage area</color> of Sacrament's sewers.","يمنح حق الوصول إلى <color=lightblue>منطقة الصرف المركزية</color> في مجاري ساكرامنت."
 "items.keyItems.sewerDungeon.waterChannelKey.Name","Water Channel Key","مفتاح قناة المياه"
-"items.keyItems.sewerDungeon.wetCorpseKey.Description","Unlocks a door somewhere in the Black Trench.","يفتح بابًا في مكان ما في الخندق الأسود."
+"items.keyItems.sewerDungeon.wetCorpseKey.Description","Unlocks a door somewhere in the Black Trench.","يفتح بابًا في مكان ما في المجرى الأسود."
 "items.keyItems.sewerDungeon.wetCorpseKey.Name","Wet Corpse Key","مفتاح الجثة المبتلة"
 "items.keyItems.shallows.rustedBarnacleKey.Description","An old key, crusted with salt and sea spray. Exchanged hands with many smugglers over the decades.","مفتاح قديم مكسو بالملح ورذاذ البحر. تناقله العديد من المهربين على مدار عقود."
 "items.keyItems.shallows.rustedBarnacleKey.Name","Rusted Barnacle Key","مفتاح صدئ مغطى بالبرنقيل"
@@ -3178,7 +3178,7 @@ Smash your weapon into the ground to create a fiery explosion, then spin in a se
 "items.runes.blazingRupture.Name","Blazing Rupture","تمزق متوهج"
 "items.runes.blink.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Blink</color> Spell.
 
-Harness mystical energy to teleport forward a short distance, even passing through enemies to evade or position strategically.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>وميض</color>.
+Harness mystical energy to teleport forward a short distance, even passing through enemies to evade or position strategically.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>وميض</color>.
 
 سخّر الطاقة الغامضة للانتقال الآني لمسافة قصيرة للأمام، وحتى العبور من خلال الأعداء للتفادي أو التمركز استراتيجيًا."
 "items.runes.blink.Name","Blink","وميض"
@@ -3226,7 +3226,7 @@ Unleash a lightning bolt that strikes your target and, when charged, arcs to hit
 "items.runes.chainLightning.Name","Chain Lightning","برق متسلسل"
 "items.runes.channel.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Channel</color> Spell.
 
-Charge this spell to draw in sacred energy, sacrificing health to gain focus and amplify your mystical power.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>قناة الطاقة</color>.
+Charge this spell to draw in sacred energy, sacrificing health to gain focus and amplify your mystical power.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>قناة الطاقة</color>.
 
 اشحن هذه التعويذة لسحب الطاقة المقدسة، مضحياً بالصحة لاكتساب التركيز وتضخيم قوتك الصوفية."
 "items.runes.channel.Name","Channel","قناة الطاقة"
@@ -3256,19 +3256,19 @@ Execute a swift spin, striking enemies twice with a powerful circular attack tha
 "items.runes.circular.Name","Circular","دائري"
 "items.runes.coldAffliction.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Cold Affliction</color> Spell.
 
-Envelop enemies in biting frost, increasing the ice damage and freeze buildup they receive for a short duration.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>بلاء البرد</color>.
+Envelop enemies in biting frost, increasing the ice damage and freeze buildup they receive for a short duration.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>بلاء البرد</color>.
 
 طوّق الأعداء بصقيع قارس، مما يزيد من ضرر الجليد وتراكم التجميد الذي يتلقونه لفترة وجيزة."
 "items.runes.coldAffliction.Name","Cold Affliction","بلاء البرد"
 "items.runes.coldEnchantment.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Cold Enchantment</color> Spell.
 
-Infuse your weapon with the essence of cold, chilling foes with frosty strikes that slow their advance.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>سحر البرد</color>.
+Infuse your weapon with the essence of cold, chilling foes with frosty strikes that slow their advance.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>سحر البرد</color>.
 
 اشحن سلاحك بجوهر البرودة، لتجمّد خصومك بضربات صقيعية تبطئ تقدمهم."
 "items.runes.coldEnchantment.Name","Cold Enchantment","سحر البرد"
 "items.runes.coldResistance.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Cold Resistance</color> Spell.
 
-Fortify yourself against cold-based attacks, reducing ice damage and increasing your resilience to freezing effects.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>مقاومة البرد</color>.
+Fortify yourself against cold-based attacks, reducing ice damage and increasing your resilience to freezing effects.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>مقاومة البرد</color>.
 
 حصّن نفسك ضد الهجمات المعتمدة على البرد، مما يقلل ضرر الجليد ويزيد مرونتك أمام تأثيرات التجميد."
 "items.runes.coldResistance.Name","Cold Resistance","مقاومة البرد"
@@ -3358,7 +3358,7 @@ Swipe your weapon in a circular motion to deal great damage to surrounding enemi
 "items.runes.cycloneSwipe.Name","Cyclone Swipe","ضربة الإعصار الكاسحة"
 "items.runes.damage.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Damage Surge</color> Spell.
 
-Temporarily boost your Attack, unleashing a surge of strength that increases your damage output for 120s.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>فورة الضرر</color>.
+Temporarily boost your Attack, unleashing a surge of strength that increases your damage output for 120s.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>فورة الضرر</color>.
 
 عزّز هجومك مؤقتًا، مطلقًا موجة من القوة تزيد من ناتج ضررك لمدة 120 ثانية."
 "items.runes.damage.Name","Damage Surge","فورة الضرر"
@@ -3368,7 +3368,7 @@ Stab your opponent with a powerful, piercing series of attacks.","ركّب هذ�
 
 اطفر نحو خصمك بسلسلة قوية وخارقة من الهجمات الطاعنة."
 "items.runes.dashingStab.Name","Dashing Stab","طعنة مندفعة"
-"items.runes.deflect.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Deflect</color> Spell.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>انحراف</color>."
+"items.runes.deflect.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Deflect</color> Spell.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>انحراف</color>."
 "items.runes.deflect.Name","Deflect","انحراف"
 "items.runes.dodgeSlamdown.Description","Slot this Rune into a <color=#F2E6BD>Two-Handed Weapon</color> to gain the <color=#F2E6BD>Dodge Slamdown</color> Rune Attack.
 
@@ -3436,23 +3436,23 @@ Strike from above, deeply cleaving your opponent with your daggers.","ركّب �
 
 اضرب من الأعلى، مشاطرًا خصمك بخناجرك بعمق."
 "items.runes.dualSlash.Name","Dual Slash","شق مزدوج"
-"items.runes.eagleEye.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Eagle Eye</color> Spell.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>عين الصقر</color>."
+"items.runes.eagleEye.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Eagle Eye</color> Spell.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>عين الصقر</color>."
 "items.runes.eagleEye.Name","Eagle Eye","عين الصقر"
 "items.runes.electricAffliction.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Electric Affliction</color> Spell.
 
-Jolt enemies with unstable currents, increasing the lightning damage and shock buildup they receive for a short duration.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>بلاء الكهرباء</color>.
+Jolt enemies with unstable currents, increasing the lightning damage and shock buildup they receive for a short duration.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>بلاء الكهرباء</color>.
 
 اصعق الأعداء بتيارات غير مستقرة، مما يزيد ضرر البرق وتراكم الصدمة الذي يتلقونه لفترة وجيزة."
 "items.runes.electricAffliction.Name","Electric Affliction","بلاء الكهرباء"
 "items.runes.electricEnchantment.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Electric Enchantment</color> Spell.
 
-Charge your weapon with electric power, electrifying each strike to shock and stun your adversaries.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>سحر الكهرباء</color>.
+Charge your weapon with electric power, electrifying each strike to shock and stun your adversaries.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>سحر الكهرباء</color>.
 
 اشحن سلاحك بقوة كهربائية، مكهربًا كل ضربة لصعق خصومك وشل حركتهم."
 "items.runes.electricEnchantment.Name","Electric Enchantment","سحر الكهرباء"
 "items.runes.electricResistance.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Electric Resistance</color> Spell.
 
-Enhance your defenses against lightning-based attacks, reducing lightning damage and preventing shock status.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>مقاومة الكهرباء</color>.
+Enhance your defenses against lightning-based attacks, reducing lightning damage and preventing shock status.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>مقاومة الكهرباء</color>.
 
 عزّز دفاعاتك ضد الهجمات المعتمدة على البرق، مما يقلل ضرر البرق ويمنع حالة الصدمة."
 "items.runes.electricResistance.Name","Electric Resistance","مقاومة الكهرباء"
@@ -3620,7 +3620,7 @@ Launch an upward kick to propel yourself into a tight backflip, loosing three ra
 "items.runes.flipkickBurst.Name","Flipkick Burst","دفقة ركلة الشقلبة"
 "items.runes.focus.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Focus Halo</color> Spell.
 
-Elevate your Focus, enhancing your Cerim abilities by increasing your maximum focus points for 120s.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>هالة التركيز</color>.
+Elevate your Focus, enhancing your Cerim abilities by increasing your maximum focus points for 120s.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>هالة التركيز</color>.
 
 ارفع مستوى تركيزك، معززًا قدرات السيريم لديك بزيادة اكتساب التركيز لمدة 120 ثانية."
 "items.runes.focus.Name","Focus Halo","هالة التركيز"
@@ -3716,37 +3716,37 @@ Launch a wave of icebolts to freeze multiple foes. Charge it to amplify their da
 "items.runes.hail.Name","Hail","بَرَد"
 "items.runes.heal.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Heal</color> Spell.
 
-Spend focus to restore your health, calling on inner power to recover from wounds.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>شفاء</color>.
+Spend focus to restore your health, calling on inner power to recover from wounds.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>شفاء</color>.
 
 استهلك التركيز لاستعادة صحتك، مستدعيًا القوة الداخلية لتضميد الجراح وتجديد حيويتك."
 "items.runes.heal.Name","Heal","شفاء"
 "items.runes.healAura.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Heal Aura</color> Spell.
 
-Charge this spell to convert focus into health, surrounding yourself with a restorative aura that heals you over time.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>هالة الشفاء</color>.
+Charge this spell to convert focus into health, surrounding yourself with a restorative aura that heals you over time.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>هالة الشفاء</color>.
 
 اشحن هذه التعويذة لتحويل التركيز إلى صحة، محيطًا نفسك بحلقة شافية تطبب جراحك بمرور الوقت."
 "items.runes.healAura.Name","Heal Aura","هالة الشفاء"
 "items.runes.health.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Pulse of Health</color> Spell.
 
-Restore your Health and increase your maximum health for 120s, ensuring you can withstand more damage in battle.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>نبضة الصحة</color>.
+Restore your Health and increase your maximum health for 120s, ensuring you can withstand more damage in battle.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>نبضة الصحة</color>.
 
 استعد صحتك وزد من الحد الأقصى لصحتك لمدة 120 ثانية، معززًا قدرتك على الصمود في المعركة."
 "items.runes.health.Name","Pulse of Health","نبضة الصحة"
 "items.runes.heatAffliction.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Heat Affliction</color> Spell.
 
-Afflict enemies with smoldering heat, increasing the fire damage and fire buildup they receive for a short duration.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>بلاء الحرارة</color>.
+Afflict enemies with smoldering heat, increasing the fire damage and fire buildup they receive for a short duration.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>بلاء الحرارة</color>.
 
 أصب الأعداء بحرارة مشتعلة، مما يزيد من ضرر النار وتراكم الحرق الذي يتلقونه لفترة وجيزة."
 "items.runes.heatAffliction.Name","Heat Affliction","بلاء الحرارة"
 "items.runes.heatEnchantment.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Heat Enchantment</color> Spell.
 
-Imbue your weapon with fiery energy, igniting your strikes to scorch enemies and set the battlefield ablaze.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>سحر الحرارة</color>.
+Imbue your weapon with fiery energy, igniting your strikes to scorch enemies and set the battlefield ablaze.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>سحر الحرارة</color>.
 
 اشحن سلاحك بطاقة نارية، مشعلًا ضرباتك لإحراق الخصوم مع كل اشتباك."
 "items.runes.heatEnchantment.Name","Heat Enchantment","سحر الحرارة"
 "items.runes.heatResistance.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Heat Resistance</color> Spell.
 
-Gain resistance to heat-based attacks, reducing fire damage and improving your survival against fiery blows.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>مقاومة الحرارة</color>.
+Gain resistance to heat-based attacks, reducing fire damage and improving your survival against fiery blows.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>مقاومة الحرارة</color>.
 
 اكتسب مقاومة ضد الهجمات المعتمدة على النار، مما يقلل ضرر النار ويمنع احتراقك."
 "items.runes.heatResistance.Name","Heat Resistance","مقاومة الحرارة"
@@ -3801,7 +3801,7 @@ Cast a chilling iceball that freezes enemies on impact. Charge it to increase it
 "items.runes.icebolt.Name","Icebolt","صاعقة جليدية"
 "items.runes.illuminate.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Illuminate</color> Spell.
 
-Summon a radiant light that follows you, illuminating dark areas and revealing hidden paths.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>إنارة</color>.
+Summon a radiant light that follows you, illuminating dark areas and revealing hidden paths.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>إنارة</color>.
 
 استدعِ ضوءًا مشعًا يتبعك، لينير المناطق المظلمة ويكشف المخاطر الخفية."
 "items.runes.illuminate.Name","Illuminate","إنارة"
@@ -3847,7 +3847,7 @@ Leap forward with agility and grace, closing the distance to your enemies and cr
 
 اقفز للأمام برشاقة ومرونة، مقلصًا المسافة لمباغتة خصمك بضربة حاسمة."
 "items.runes.leap.Name","Leap","وثبة"
-"items.runes.lifeLeech.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Life Leech</color> Spell.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>امتصاص الحياة</color>."
+"items.runes.lifeLeech.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Life Leech</color> Spell.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>امتصاص الحياة</color>."
 "items.runes.lifeLeech.Name","Life Leech","امتصاص الحياة"
 "items.runes.lightningArrow.Description","Slot this Rune into a <color=#F2E6BD>Bow</color> to gain the <color=#F2E6BD>Lightning Arrow</color> Rune Attack.
 
@@ -4019,7 +4019,7 @@ Unleash a piercing double-strike whirlwind.","ركّب هذا الرون في <c
 "items.runes.piercingSpin.Name","Piercing Spin","دوران خارق"
 "items.runes.plagueAffliction.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Plague Affliction</color> Spell.
 
-Infect enemies with virulent decay, increasing the plague damage and poison buildup they receive for a short duration.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>بلاء الوباء</color>.
+Infect enemies with virulent decay, increasing the plague damage and poison buildup they receive for a short duration.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>بلاء الوباء</color>.
 
 أصب الأعداء بتحلل وبائي خبيث، مما يزيد ضرر الوباء وتراكم العدوى لديهم لفترة وجيزة."
 "items.runes.plagueAffliction.Name","Plague Affliction","بلاء الوباء"
@@ -4073,7 +4073,7 @@ Dash toward your foes with a weapon, covered in plague, to land a toxic strike t
 "items.runes.plagueDash.Name","Plague Dash","اندفاعة وبائية"
 "items.runes.plagueEnchantment.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Plague Enchantment</color> Spell.
 
-Coat your weapon with a virulent plague, enhancing its strikes to rapidly build up plague damage.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>سحر الوباء</color>.
+Coat your weapon with a virulent plague, enhancing its strikes to rapidly build up plague damage.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>سحر الوباء</color>.
 
 اطلِ سلاحك بوباء خبيث، لتعزيز ضرباتك بنشر التحلل والمرض مع كل إصابة."
 "items.runes.plagueEnchantment.Name","Plague Enchantment","سحر الوباء"
@@ -4097,7 +4097,7 @@ Unleash a burst of plague energy around you, infecting all nearby enemies. Charg
 "items.runes.plagueNova.Name","Plague Nova","مستعر وبائي"
 "items.runes.plagueResistance.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Plague Resistance</color> Spell.
 
-Build up immunity to plague-based attacks, reducing toxin damage and mitigating poison effects.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>مقاومة الوباء</color>.
+Build up immunity to plague-based attacks, reducing toxin damage and mitigating poison effects.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>مقاومة الوباء</color>.
 
 ابنِ مناعة ضد الهجمات المعتمدة على الوباء، مما يقلل ضرر السموم ويمنع تراكم المرض."
 "items.runes.plagueResistance.Name","Plague Resistance","مقاومة الوباء"
@@ -4157,7 +4157,7 @@ Spin in a prolonged toxic whirlwind, poisoning enemies to decay.","ركّب هذ
 "items.runes.plagueWhirl.Name","Plague Whirl","إعصار الوباء"
 "items.runes.poiseDefense.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Poise Shield</color> Spell.
 
-Bolster your Poise, increasing your stability and resistance to being staggered by enemy attacks for 120s.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>درع الثبات</color>.
+Bolster your Poise, increasing your stability and resistance to being staggered by enemy attacks for 120s.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>درع الثبات</color>.
 
 عزّز ثباتك، مما يزيد من اتزانك ومقاومتك للترنح أمام ضربات العدو."
 "items.runes.poiseDefense.Name","Poise Shield","درع الثبات"
@@ -4200,7 +4200,7 @@ Vomit a stream of toxic bile at your enemy, dousing them in filth and corruption
 "items.runes.regurgitate.Name","Regurgitate","تقيؤ"
 "items.runes.rejuvenate.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Rejuvenate</color> Spell.
 
-Channels a mystical energy, allowing you to restore fallen foes back to strength.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>إنعاش</color>.
+Channels a mystical energy, allowing you to restore fallen foes back to strength.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>إنعاش</color>.
 
 يوجه طاقة صوفية تتيح لك إنعاش الحلفاء الساقطين وإعادتهم إلى المعركة."
 "items.runes.rejuvenate.Name","Rejuvenate","إنعاش"
@@ -4212,7 +4212,7 @@ Unleash three brutal swings in rapid succession, then smash your weapon into the
 "items.runes.relentlessCleave.Name","Relentless Cleave","شق لا هوادة فيه"
 "items.runes.repair.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Repair</color> Spell.
 
-Channel sacred energy to repair and restore durability to your equipped items, ensuring they remain battle-ready.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>إصلاح</color>.
+Channel sacred energy to repair and restore durability to your equipped items, ensuring they remain battle-ready.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>إصلاح</color>.
 
 وجّه الطاقة المقدسة لإصلاح واستعادة متانة عتادك المجهز بالكامل."
 "items.runes.repair.Name","Repair","إصلاح"
@@ -4224,7 +4224,7 @@ Execute a swift backward somersault while loosing three arrows in rapid successi
 "items.runes.retreatingTrimshot.Name","Retreating Trimshot","رمية التراجع الثلاثية"
 "items.runes.return.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Return</color> Spell.
 
-Fast Travel to any unlocked whisper of your choice.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>عودة</color>.
+Fast Travel to any unlocked whisper of your choice.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>عودة</color>.
 
 انتقال سريع إلى أي همس مفتوح من اختيارك."
 "items.runes.return.Name","Return","عودة"
@@ -4248,7 +4248,7 @@ Summon a massive, rolling mass of plague that barrels forward, infecting and cor
 "items.runes.rotwheel.Name","Rotwheel","عجلة العفن"
 "items.runes.scream.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Scream</color> Spell.
 
-Let out a powerful scream that knocks down enemies in front of you, leaving them vulnerable to follow-up attacks.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>صرخة</color>.
+Let out a powerful scream that knocks down enemies in front of you, leaving them vulnerable to follow-up attacks.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>صرخة</color>.
 
 أطلق صرخة مدوية تطيح بالأعداء الواقفين أمامك أرضًا وتشل تركيزهم."
 "items.runes.scream.Name","Scream","صرخة"
@@ -4330,7 +4330,7 @@ Charge and unleash a devastating swinging blow.","ركّب هذا الرون ف�
 
 اشحن هجومك وأطلق ضربة متأرجحة مدمرة تصيب كل ما حولك."
 "items.runes.slashingSpin.Name","Slashing Spin","دوران قاطع"
-"items.runes.slowAura.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Slow Aura</color> Spell.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>هالة الإبطاء</color>."
+"items.runes.slowAura.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Slow Aura</color> Spell.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>هالة الإبطاء</color>."
 "items.runes.slowAura.Name","Slow Aura","هالة الإبطاء"
 "items.runes.somersault.Description","Slot this Rune into a <color=#F2E6BD>One-Handed Weapon</color> to gain the <color=#F2E6BD>Surge Slash</color> Rune Attack.
 
@@ -4344,11 +4344,11 @@ Launch a wave of lightning bolts to shock multiple foes. Charge it to amplify th
 
 أطلق موجة من صواعق البرق لصعق أعداء متعددين. اشحنها لتضخيم قوتها الصاعقة."
 "items.runes.spark.Name","Spark","شرارة"
-"items.runes.spectre.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Spectre</color> Spell.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>طيف</color>."
+"items.runes.spectre.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Spectre</color> Spell.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>طيف</color>."
 "items.runes.spectre.Name","Spectre","طيف"
 "items.runes.speed.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Gale of Speed</color> Spell.
 
-Harness the power of the wind to increase your movement Speed, allowing you to traverse the battlefield swiftly for 120s.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>رياح السرعة</color>.
+Harness the power of the wind to increase your movement Speed, allowing you to traverse the battlefield swiftly for 120s.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>رياح السرعة</color>.
 
 سخّر قوة الرياح لزيادة سرعة حركتك وسرعة هجومك لمدة 120 ثانية."
 "items.runes.speed.Name","Gale of Speed","رياح السرعة"
@@ -4384,7 +4384,7 @@ Project a focused blast of inner energy from your fists, striking foes at range 
 "items.runes.spiritBurst.Name","Spirit Burst","دفقة الروح"
 "items.runes.stamina.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Stamina Wellspring</color> Spell.
 
-Tap into a wellspring of energy, increasing your Stamina and enabling you to perform more actions for 120s.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>ينبوع قوة التحمل</color>.
+Tap into a wellspring of energy, increasing your Stamina and enabling you to perform more actions for 120s.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>ينبوع قوة التحمل</color>.
 
 استمد الطاقة من ينبوع داخلي، مما يزيد قدرة تحملك ومعدل تعافيها لمدة 120 ثانية."
 "items.runes.stamina.Name","Stamina Wellspring","ينبوع قوة التحمل"
@@ -4420,7 +4420,7 @@ Launch into a spinning aerial assault, striking multiple times with a whirlwind 
 "items.runes.tempestKick.Name","Tempest Kick","ركلة العاصفة"
 "items.runes.thorns.Description","Slot this Rune into a <color=#F2E6BD>Utility Slot</color> to gain the <color=#F2E6BD>Thorns</color> Spell.
 
-Channel sacred energy to get a mark of protection, reflecting damage back to enemies who strike you.","ركّب هذا الرون في <color=#F2E6BD>خانة الأدوات</color> لاكتساب تعويذة <color=#F2E6BD>أشواك</color>.
+Channel sacred energy to get a mark of protection, reflecting damage back to enemies who strike you.","ركّب هذا الرون في <color=#F2E6BD>خانة المساعدة</color> لاكتساب تعويذة <color=#F2E6BD>أشواك</color>.
 
 وجّه الطاقة المقدسة للحصول على علامة حماية، عاكسًا جزءًا من الضرر المتلقى إلى المهاجمين."
 "items.runes.thorns.Name","Thorns","أشواك"

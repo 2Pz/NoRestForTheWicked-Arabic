@@ -576,17 +576,17 @@ Gordon will be able to offer a wider variety of <b><color=#F2E6BD>ingredients</c
 
 Grinnich will be able to offer a wider variety of <b><color=#F2E6BD>items</color></b> and <b><color=#F2E6BD>utilities.</color></b>","يرقي كشك سوق غرينيتش إلى <b><color=#F2E6BD>المستوى 2.</color></b>
 
-سيتمكن غرينيتش من تقديم تشكيلة أوسع من <b><color=#F2E6BD>الأغراض</color></b> و<b><color=#F2E6BD>الأدوات النفعية.</color></b>"
+سيتمكن غرينيتش من تقديم تشكيلة أوسع من <b><color=#F2E6BD>الأغراض</color></b> و<b><color=#F2E6BD>الأدوات المساعدة.</color></b>"
 "entities.npcs.friendly.vendors.danos.projects.vendors.grinnich.level3description","Upgrades Grinnich’s Market Stand to <b><color=#F2E6BD>Level 3.</color></b>
 
 Grinnich will be able to offer a wider variety of <b><color=#F2E6BD>items</color></b> and <b><color=#F2E6BD>utilities.</color></b>","يرقي كشك سوق غرينيتش إلى <b><color=#F2E6BD>المستوى 3.</color></b>
 
-سيتمكن غرينيتش من تقديم تشكيلة أوسع من <b><color=#F2E6BD>الأغراض</color></b> و<b><color=#F2E6BD>الأدوات النفعية.</color></b>"
+سيتمكن غرينيتش من تقديم تشكيلة أوسع من <b><color=#F2E6BD>الأغراض</color></b> و<b><color=#F2E6BD>الأدوات المساعدة.</color></b>"
 "entities.npcs.friendly.vendors.danos.projects.vendors.grinnich.level4description","Upgrades Grinnich’s Market Stand to <b><color=#F2E6BD>Level 4.</color></b>
 
 Grinnich will be able to offer a wider variety of <b><color=#F2E6BD>items</color></b> and <b><color=#F2E6BD>utilities.</color></b>","يرقي كشك سوق غرينيتش إلى <b><color=#F2E6BD>المستوى 4.</color></b>
 
-سيتمكن غرينيتش من تقديم تشكيلة أوسع من <b><color=#F2E6BD>الأغراض</color></b> و<b><color=#F2E6BD>الأدوات النفعية.</color></b>"
+سيتمكن غرينيتش من تقديم تشكيلة أوسع من <b><color=#F2E6BD>الأغراض</color></b> و<b><color=#F2E6BD>الأدوات المساعدة.</color></b>"
 "entities.npcs.friendly.vendors.danos.projects.vendors.grinnich.name","Grinnich's General Goods","بضائع غرينيتش العامة"
 "entities.npcs.friendly.vendors.danos.projects.vendors.ilaria.level2Description","Upgrades Ilaria's Sanctum to <b><color=#F2E6BD>Level 2.</color>
 </b>
@@ -646,17 +646,17 @@ A more advanced <b><color=#F2E6BD>Sewing Table</color></b> allows for crafting e
 
 Unlocks the <b><color=#F2E6BD>Workbench</color></b> for crafting furniture and utilities as well as the <b><color=#F2E6BD>Sawmill</color></b> to refine wood into planks. Whittacker will also be able to offer a wider variety of items to buy.","يرقي كوخ تصنيع ويتكر إلى <b><color=#F2E6BD>المستوى 2.</color></b>
 
-يفتح <b><color=#F2E6BD>طاولة العمل</color></b> لتصنيع الأثاث والأدوات النفعية بالإضافة إلى <b><color=#F2E6BD>المنشرة</color></b> لتكرير الخشب إلى ألواح. سيتمكن ويتكر أيضاً من تقديم تشكيلة أوسع من الأغراض للشراء."
+يفتح <b><color=#F2E6BD>طاولة العمل</color></b> لتصنيع الأثاث والأدوات المساعدة بالإضافة إلى <b><color=#F2E6BD>المنشرة</color></b> لتكرير الخشب إلى ألواح. سيتمكن ويتكر أيضاً من تقديم تشكيلة أوسع من الأغراض للشراء."
 "entities.npcs.friendly.vendors.danos.projects.vendors.whittacker.level3description","Upgrades Whittacker's Crafting Shack to <b><color=#F2E6BD>Level 3.</color></b>
 
 A superior <b><color=#F2E6BD>Workbench</color></b> allows for crafting even more advanced furniture and utilities. An improved <b><color=#F2E6BD>Sawmill</color></b> can refine wood into planks even faster than before. Whittacker will also be able to offer a wider variety of items to buy.","يرقي كوخ تصنيع ويتكر إلى <b><color=#F2E6BD>المستوى 3.</color></b>
 
-<b><color=#F2E6BD>طاولة عمل</color></b> متفوقة تتيح تصنيع أثاث وأدوات نفعية أكثر تقدماً. و<b><color=#F2E6BD>منشرة</color></b> محسنة تكرر الخشب إلى ألواح أسرع من قبل. سيتمكن ويتكر أيضاً من تقديم تشكيلة أوسع من الأغراض للشراء."
+<b><color=#F2E6BD>طاولة عمل</color></b> متفوقة تتيح تصنيع أثاث وأدوات مساعدة أكثر تقدماً. و<b><color=#F2E6BD>منشرة</color></b> محسنة تكرر الخشب إلى ألواح أسرع من قبل. سيتمكن ويتكر أيضاً من تقديم تشكيلة أوسع من الأغراض للشراء."
 "entities.npcs.friendly.vendors.danos.projects.vendors.whittacker.level4description","Upgrades Whittacker's Crafting Shack to <b><color=#F2E6BD>Level 4.</color></b>
 
 A superior <b><color=#F2E6BD>Workbench</color></b> allows for crafting even more advanced furniture and utilities. An improved <b><color=#F2E6BD>Sawmill</color></b> can refine wood into planks even faster than before. Whittacker will also be able to offer a wider variety of items to buy.","يرقي كوخ تصنيع ويتكر إلى <b><color=#F2E6BD>المستوى 4.</color></b>
 
-<b><color=#F2E6BD>طاولة عمل</color></b> متفوقة تتيح تصنيع أثاث وأدوات نفعية أكثر تقدماً. و<b><color=#F2E6BD>منشرة</color></b> محسنة تكرر الخشب إلى ألواح أسرع من قبل. سيتمكن ويتكر أيضاً من تقديم تشكيلة أوسع من الأغراض للشراء."
+<b><color=#F2E6BD>طاولة عمل</color></b> متفوقة تتيح تصنيع أثاث وأدوات مساعدة أكثر تقدماً. و<b><color=#F2E6BD>منشرة</color></b> محسنة تكرر الخشب إلى ألواح أسرع من قبل. سيتمكن ويتكر أيضاً من تقديم تشكيلة أوسع من الأغراض للشراء."
 "entities.npcs.friendly.vendors.danos.projects.vendors.whittacker.name","Whittacker's Crafting Shack","كوخ تصنيع ويتكر"
 "entities.npcs.friendly.vendors.danosRookery.name","Danos","دانوس"
 "entities.npcs.friendly.vendors.eleanor.name","Eleanor","إليانور"

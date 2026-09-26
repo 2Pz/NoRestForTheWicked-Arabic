@@ -59,7 +59,7 @@ Focus Gain reduced","زيادة المتانة
 تقليل اكتساب التركيز"
 "keywords.facets.durabilityIncreased.Name","Durable","متين"
 "keywords.facets.fireDamageOverride.Description","Gain Fire Infusion
-Damage reduced","اكتساب شحن عنصري ناري
+Damage reduced","اكتساب شحن النار
 تقليل الضرر"
 "keywords.facets.fireDamageOverride.Name","Flaming","مشتعل"
 "keywords.facets.fireResistanceIncreased.Description","Fire Resistance increased
@@ -79,7 +79,7 @@ Stamina Cost increased","زيادة اكتساب التركيز
 زيادة تكلفة التحمل"
 "keywords.facets.focusGainOnHitIncreased1.Name","Ritualistic","شعائري"
 "keywords.facets.iceDamageOverride.Description","Gain Ice Infusion
-Damage reduced","اكتساب شحن عنصري جليدي
+Damage reduced","اكتساب شحن الجليد
 تقليل الضرر"
 "keywords.facets.iceDamageOverride.Name","Frigid","قارس"
 "keywords.facets.iceResistanceIncreased.Description","Ice Resistance increased
@@ -87,7 +87,7 @@ Weight increased","زيادة مقاومة الجليد
 زيادة الوزن"
 "keywords.facets.iceResistanceIncreased.Name","Frostwoven","منسوج بالصقيع"
 "keywords.facets.lightningDamageOverride.Description","Gain Lightning Infusion
-Damage reduced","اكتساب شحن عنصري برقي
+Damage reduced","اكتساب شحن البرق
 تقليل الضرر"
 "keywords.facets.lightningDamageOverride.Name","Voltaic","صاعق"
 "keywords.facets.lightningResistanceIncreased.Description","Lightning Resistance increased
@@ -99,7 +99,7 @@ Stamina Regen reduced","زيادة سرعة الحركة
 تقليل تجدد التحمل"
 "keywords.facets.movementSpeedIncreased.Name","Frantic","محموم"
 "keywords.facets.plagueDamageOverride.Description","Gain Plague Infusion
-Damage reduced","اكتساب شحن عنصري وبائي
+Damage reduced","اكتساب شحن الوباء
 تقليل الضرر"
 "keywords.facets.plagueDamageOverride.Name","Festering","متقيح"
 "keywords.facets.plagueResistanceIncreased.Description","Plague Resistance increased
