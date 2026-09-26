@@ -1432,8 +1432,8 @@ Recommend <color=#F2E6BD>No Rest For The Wicked </color>to them.","يفوت جم
 "ui.realmsScreen.LocationSewers","Sewers","المجاري"
 "ui.realmsScreen.LocationShip","Ship","السفينة"
 "ui.realmsScreen.ManagePlayerInRealm","Manage player {0} in realm {1}.","إدارة اللاعب {0} في العالم {1}."
-"ui.realmsScreen.Offline","Offline","غير متصل
-"ui.realmsScreen.Online","Online","متصل
+"ui.realmsScreen.Offline","Offline","غير متصل"
+"ui.realmsScreen.Online","Online","متصل"
 "ui.realmsScreen.Promote","Promote","ترقية"
 "ui.realmsScreen.SearchFriends","Search friends","البحث عن أصدقاء"
 "ui.realmsScreen.VotetoKick","Vote to Kick","تصويت على الطرد"
