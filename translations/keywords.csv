@@ -4,7 +4,7 @@
 "keywords.facets.Name","Item Facet","سمة العنصر"
 "keywords.facets.armorIncreased1.Description","Armor increased
 Poise Defense reduced","زيادة الدرع
-تقليل دفاع التوازن"
+تقليل دفاع الثبات"
 "keywords.facets.armorIncreased1.Name","Bulky","ضخم"
 "keywords.facets.armorIncreased2.Description","Armor increased
 Weight increased","زيادة الدرع
@@ -24,7 +24,7 @@ Focus Gain reduced","تقليل تكلفة التحمل
 "keywords.facets.attackStaminaCostDecreased1.Name","Nimble","رشيق"
 "keywords.facets.criticalChanceIncreased1.Description","Critical Chance increased
 Poise Damage reduced","زيادة فرصة الضربة الحرجة
-تقليل ضرر التوازن"
+تقليل ضرر الثبات"
 "keywords.facets.criticalChanceIncreased1.Name","Keen","حاد"
 "keywords.facets.criticalChanceIncreased2.Description","Critical Chance increased
 Durability reduced","زيادة فرصة الضربة الحرجة
@@ -33,7 +33,7 @@ Durability reduced","زيادة فرصة الضربة الحرجة
 "keywords.facets.criticalDamageDisabled.Description","Damage increased
 Poise Damage increased
 Critical Chance removed","زيادة الضرر
-زيادة ضرر التوازن
+زيادة ضرر الثبات
 إزالة فرصة الضربة الحرجة"
 "keywords.facets.criticalDamageDisabled.Name","Reliable","موثوق"
 "keywords.facets.criticalDamageIncreased1.Description","Critical Damage increased
@@ -72,7 +72,7 @@ Stamina Regen reduced","زيادة اكتساب التركيز
 "keywords.facets.focusGainIncreased2.Name","Mystic","غامض"
 "keywords.facets.focusGainOnBlockIncreased1.Description","Focus Gain increased
 Poise Damage reduced","زيادة اكتساب التركيز
-تقليل ضرر التوازن"
+تقليل ضرر الثبات"
 "keywords.facets.focusGainOnBlockIncreased1.Name","Meditative","تأملي"
 "keywords.facets.focusGainOnHitIncreased1.Description","Focus Gain increased
 Stamina Cost increased","زيادة اكتساب التركيز
@@ -107,11 +107,11 @@ Weight increased","زيادة مقاومة الوباء
 زيادة الوزن"
 "keywords.facets.plagueResistanceIncreased.Name","Purified","مُطهر"
 "keywords.facets.poiseDamageIncreased1.Description","Poise Damage increased
-Focus Gain reduced","زيادة ضرر التوازن
+Focus Gain reduced","زيادة ضرر الثبات
 تقليل اكتساب التركيز"
 "keywords.facets.poiseDamageIncreased1.Name","Blunt","كليل"
 "keywords.facets.poiseDefenseIncreased1.Description","Poise Defense increased
-Stamina Regen reduced","زيادة دفاع التوازن
+Stamina Regen reduced","زيادة دفاع الثبات
 تقليل تجدد التحمل"
 "keywords.facets.poiseDefenseIncreased1.Name","Stable","مستقر"
 "keywords.facets.staminaRegenIncreased1.Description","Stamina Regen increased

@@ -398,7 +398,7 @@ to claim rewards this time.","لم تُسهم بما يكفي
 "ui.compendium.replayableCinematics.huntersAttacked.Name","Hunters Attacked","هجوم على الصيادين"
 "ui.compendium.replayableCinematics.openingPrologue.Description","Our journey to Sacra begins.","تبدأ رحلتنا إلى ساكرا."
 "ui.compendium.replayableCinematics.openingPrologue.Name","Opening Prologue","المقدمة الافتتاحية"
-"ui.compendium.replayableCinematics.rattiganAtTheSewers.Description","A conniving criminal named Rattigan has made a deal to give us access to the Black Trench.","أبرم مجرم ماكر يُدعى راتيغان صفقة لمنحنا الوصول إلى المجرى الأسود."
+"ui.compendium.replayableCinematics.rattiganAtTheSewers.Description","A conniving criminal named Rattigan has made a deal to give us access to the Black Trench.","أبرم مجرم ماكر يُدعى راتيغان صفقة لمنحنا الوصول إلى قناة الصرف السوداء."
 "ui.compendium.replayableCinematics.rattiganAtTheSewers.Name","Rattigan at the Sewers","راتيغان عند المجاري"
 "ui.compendium.replayableCinematics.rememberingAlden.Description","Returning to Marin Village, we find that Irmgard has decided to lay Alden to rest in a traditional ceremony.","عند عودتنا إلى قرية مارين، نجد أن إيرمغارد قررت إقامة مراسم تقليدية لدفن ألدن."
 "ui.compendium.replayableCinematics.rememberingAlden.Name","Remembering Alden","تذكُّر ألدن"
@@ -422,13 +422,13 @@ to claim rewards this time.","لم تُسهم بما يكفي
 "ui.compendium.replayableCinematics.theMountainGate.Name","The Mountain Gate","بوابة الجبل"
 "ui.compendium.replayableCinematics.theRisenAttack.Description","The ship carrying us to Sacra is boarded by a group of raiders with a fiery leader.","تتعرض السفينة التي تقلّنا إلى ساكرا لهجوم من مجموعة من الغزاة بقيادة زعيم ملتهب."
 "ui.compendium.replayableCinematics.theRisenAttack.Name","The Risen Attack","هجوم الناهضين"
-"ui.compendium.replayableCinematics.theRivenTwins.Description","Inside a mysterious chamber next to the Mountain Gate, we cross paths with two notorious criminals who escaped from the quarry.","داخل غرفة غامضة بجوار بوابة الجبل، نعترض طريق مجرمَين مشهورَين فرّا من المحجر."
-"ui.compendium.replayableCinematics.theRivenTwins.Name","The Riven Twins","التوأمان المشقوقان"
+"ui.compendium.replayableCinematics.theRivenTwins.Description","Inside a mysterious chamber next to the Mountain Gate, we cross paths with two notorious criminals who escaped from the quarry.","داخل غرفة غامضة بجوار بوابة الجبل، نعترض طريق مجرمَين مشهورَين فرّا من المنجم."
+"ui.compendium.replayableCinematics.theRivenTwins.Name","The Riven Twins","التوأمان الممزقان"
 "ui.compendium.replayableCinematics.theSeneschal.Description","Somewhere within the Cerim Crucible, we meet a curious being from another time.","في مكان ما داخل بوتقة السيريم، نلتقي بكيان غريب من زمن آخر."
 "ui.compendium.replayableCinematics.theSeneschal.Name","The Seneschal","القيّم"
 "ui.compendium.replayableCinematics.theSovannCircle.Description","Marin Village seems to be in some kind of catatonic trance. Arriving at the Dasha prayer circle, we find Odessa fending off a group of Balak Taw.","يبدو أن قرية مارين في حالة من الذهول التام. عند وصولنا إلى دائرة صلاة داشا، نجد أوديسا تصدّ مجموعة من بالاك تاو."
 "ui.compendium.replayableCinematics.theSovannCircle.Name","The Sovann Circle","دائرة سوفان"
-"ui.compendium.replayableCinematics.theTornFalstead.Description","Deep in the Black Trench, we finally track down Darak again - only to find he is not the same man…","في أعماق المجرى الأسود، نتعقب داراك مجدداً — لنجده ليس الرجل ذاته…"
+"ui.compendium.replayableCinematics.theTornFalstead.Description","Deep in the Black Trench, we finally track down Darak again - only to find he is not the same man…","في أعماق قناة الصرف السوداء، نتعقب داراك مجدداً — لنجده ليس الرجل ذاته…"
 "ui.compendium.replayableCinematics.theTornFalstead.Name","The Torn Falstead","فالستيد المسوخ"
 "ui.compendium.replayableCinematics.theWarRoom.Description","Ellsworth has his daughter Odessa summoned to the war room.","يستدعي إلسورث ابنته أوديسا إلى غرفة الحرب."
 "ui.compendium.replayableCinematics.theWarRoom.Name","The War Room","غرفة الحرب"
@@ -801,7 +801,7 @@ Equip it to your off-hand via the <color=#F2E6BD>Inventory</color>.","لقد ح�
 
 <color=#F2E6BD>Add</color> or <color=#F2E6BD>Extract Runes</color> - Modify a weapon’s Runes. Extracting will <color=#F2E6BD>sacrifice</color> the weapon.</line-indent></indent>","<indent=2%><line-indent=-2%><color=#F2E6BD>التعزيز السحري</color> - تحويل العتاد <color=#808080>الشائع</color> إلى عنصر إما <color=#558CAC>نادر</color> أو <color=#B19CEE>موبوء</color>.
 
-<color=#F2E6BD>التضمين</color> - تركيب الجواهر في الخانات الفارغة لتطبيق تعزيزات سحرية محددة.
+<color=#F2E6BD>الشحن</color> - تركيب الجواهر في الخانات الفارغة لتطبيق تعزيزات سحرية محددة.
 
 <color=#F2E6BD>إضافة</color> أو <color=#F2E6BD>استخراج الرون</color> - تعديل رون السلاح. استخراج الرون سيؤدي إلى <color=#F2E6BD>التضحية</color> بالسلاح.</line-indent></indent>"
 "ui.hints.sideNotifications.ui.inventoryTabs.controls1.action","Change Tabs","تبديل علامات التبويب"
@@ -867,13 +867,13 @@ Alternatively, [parry] <color=#F2E6BD>Parry</color> just before an enemy attack 
 
 <color=#808080>Show the Poise Meter via the Settings Menu</color>","قم <color=#F2E6BD>بترنيح</color> العدو لخفض دفاعه لفترة وجيزة.
 
-تُلحق الأسلحة [IconPoise] <color=#F2E6BD>ضرر توازن</color>، مما يزيد من <color=#F2E6BD>مقياس التوازن</color> الأبيض فوق رأس العدو.
+تُلحق الأسلحة [IconPoise] <color=#F2E6BD>ضرر ثبات</color>، مما يزيد من <color=#F2E6BD>مقياس الثبات</color> الأبيض فوق رأس العدو.
 بمجرد امتلائه، يُصاب العدو <color=#F2E6BD>بالترنح</color>.
 
 بدلاً من ذلك، نفّذ [parry] <color=#F2E6BD>صداً متقناً</color> قبل وصول هجوم العدو مباشرة من أجل <color=#F2E6BD>ترنيحه</color> فوراً.
 
 
-<color=#808080>أظهر مقياس التوازن من خلال قائمة الإعدادات</color>"
+<color=#808080>أظهر مقياس الثبات من خلال قائمة الإعدادات</color>"
 "ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.hint","[parry] Parry","[parry] صد متقن"
 "ui.hints.tutorial.shipTutorial.tutorialAdvancedCombat.title","Enemy Vulnerability","قتال متقدم"
 "ui.hints.tutorial.shipTutorial.tutorialBackstab.controls1.action","Backstab Attack","طعنة من الخلف"
@@ -1075,7 +1075,7 @@ Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equip
 "ui.loadingScreenHints.crafting1","At crafting stations you can use known recipes and refined materials to craft new items. Some items require exotic, hard-to-obtain materials to craft.","في محطات الصناعة يمكنك استخدام الوصفات المعروفة والمواد المحسنة لصناعة عناصر جديدة. تتطلب بعض العناصر مواد غريبة يصعب الحصول عليها لصناعتها."
 "ui.loadingScreenHints.crafting2","Different types of crafting stations will craft different items. Crafting stations are available at upgraded vendor stalls or can be purchased to place within your own house. ","تصنع الأنواع المختلفة من محطات الصناعة عناصر مختلفة. تتوفر محطات الصناعة في أكشاك التجار بعد ترقيتها أو يمكن شراؤها لوضعها داخل منزلك الخاص."
 "ui.loadingScreenHints.durability","Death will diminish the durability of the gear you currently have equipped. Broken gear is rendered inoperable. Repair gear at a blacksmith or by using repair powder.","يؤدي الموت إلى تقليل متانة العتاد المجهز لديك حالياً. يصبح العتاد المكسور غير قابل للاستخدام. قم بإصلاح العتاد لدى الحداد أو باستخدام مسحوق الإصلاح."
-"ui.loadingScreenHints.eleanor","Eleanor the enchanter can infuse gems, attach and extract runes, and enchant common items, as well as sell various gems, runes, and other mystical items.","تستطيع المعززة السحرية إليانور تضمين الجواهر، وتركيب الرون واستخراجها، وتعزيز العناصر الشائعة سحرياً، بالإضافة إلى بيع العديد من الجواهر والرون والعناصر الصوفية الأخرى."
+"ui.loadingScreenHints.eleanor","Eleanor the enchanter can infuse gems, attach and extract runes, and enchant common items, as well as sell various gems, runes, and other mystical items.","تستطيع المعززة السحرية إليانور شحن الجواهر، وتركيب الرون واستخراجها، وتعزيز العناصر الشائعة سحرياً، بالإضافة إلى بيع العديد من الجواهر والرون والعناصر الصوفية الأخرى."
 "ui.loadingScreenHints.elementalDamage","Elemental damage builds up status effects on targets. Different elemental damage types apply different status effects.","يؤدي ضرر العناصر إلى تراكم تأثيرات الحالة على الأهداف. تطبق أنواع ضرر العناصر المختلفة تأثيرات حالة مختلفة."
 "ui.loadingScreenHints.elementalDamageFire","Burning enemies take fire damage over time. Once dealt enough fire elemental damage to fill their status effect bar, enemies take additional damage.","يتلقى الأعداء المحترقون ضرراً نارياً بمرور الوقت. وبمجرد إلحاق قدر كافٍ من ضرر العناصر الناري لملء شريط تأثير الحالة لديهم، يتلقى الأعداء ضرراً إضافياً."
 "ui.loadingScreenHints.elementalDamageIce","When dealt enough ice elemental damage, enemies are frozen for a limited amount of time. In this state, they can be shattered with physical damage. ","عند إلحاق قدر كافٍ من ضرر العناصر الجليدي، يتجمد الأعداء لفترة محدودة. في هذه الحالة، يمكن تحطيمهم بالضرر الجسدي."
@@ -1094,7 +1094,7 @@ Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equip
 "ui.loadingScreenHints.gearRarityMagic","Magical gear can come with up to 3 enchantments, with 1 available gem slot.","يمكن أن يأتي العتاد السحري بما يصل إلى 3 تعزيزات سحرية، مع خانة جوهرة واحدة متاحة."
 "ui.loadingScreenHints.gearRarityPlagued","Plagued gear can come with up to 4 enchantments, but always carries 1 additional negative enchantment, as well as 1 available gem slot.","يمكن أن يأتي العتاد الموبوء بما يصل إلى 4 تعزيزات سحرية، ولكنه يحمل دائماً تعزيزاً سحرياً سلبياً إضافياً، بالإضافة إلى خانة جوهرة واحدة متاحة."
 "ui.loadingScreenHints.gearRarityUnique","Unique gear carries unique enchantments, as well as 1 available gem slot. Unique gear's runes cannot be customized.","يحمل العتاد الفريد تعزيزات سحرية فريدة، بالإضافة إلى خانة جوهرة واحدة متاحة. لا يمكن تعديل رُون العتاد الفريد."
-"ui.loadingScreenHints.gems","Eleanor the enchantress can infuse gems, socketing them into your gear. She can also extract and destroy currently infused gems.","تستطيع المعززة السحرية إليانور تضمين الجواهر، وتركيبها في خانات عتادك. كما يمكنها استخراج وتدمير الجواهر المضمنة حالياً."
+"ui.loadingScreenHints.gems","Eleanor the enchantress can infuse gems, socketing them into your gear. She can also extract and destroy currently infused gems.","تستطيع المعززة السحرية إليانور شحن الجواهر، وتركيبها في خانات عتادك. كما يمكنها استخراج وتدمير الجواهر المشحونة حالياً."
 "ui.loadingScreenHints.gestures","Express yourself by performing gestures. Open the Gesture Wheel, then choose and perform a gesture.","عبّر عن نفسك بتنفيذ الإيماءات. افتح عجلة الإيماءات، ثم اختر إيماءة ونفّذها."
 "ui.loadingScreenHints.gordon","Gordon the cook sells meals and cooking ingredients. Visit the Scribe Table near Maker Danos in order to unlock additional recipes.","يبيع الطاهي غوردون الوجبات ومكونات الطهي. قم بزيارة طاولة الكاتب بالقرب من الصانع دانوس لفتح وصفات إضافية."
 "ui.loadingScreenHints.grinnich","Grinnich the merchant sells a wide array of items to improve your journey. His wares are regularly restocked.","يبيع التاجر غرينيتش مجموعة واسعة من العناصر لتحسين رحلتك. تتم إعادة تزويد بضائعه بانتظام."
@@ -1108,7 +1108,7 @@ Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equip
 "ui.loadingScreenHints.markos","Once unlocked, Markos the alchemist sells a wide variety of potions, elixirs, and explosive concoctions.","بمجرد فتحه، يبيع الخيميائي ماركوس تشكيلة واسعة من الجرعات والإكسيرات والمركبات المتفجرة."
 "ui.loadingScreenHints.mirabelleAndMeriweather","Mirabelle and Meriweather the tailor sisters can repair and upgrade armor, as well as sell additional armor and blueprints. Upgrade their station with Maker Danos to gain access to their spinning wheel and leather tanning bench.","تستطيع الأختان الخياطتان ميرابيل وميريويذر إصلاح الدروع وترقيتها، فضلاً عن بيع دروع ومخططات إضافية. قم بترقية محطتهما لدى الصانع دانوس للوصول إلى عجلة الغزل ومنضدة دباغة الجلود."
 "ui.loadingScreenHints.parry","Parry just before an enemy attack lands to temporarily stagger them.","نفّذ صداً متقناً قبل وصول هجوم العدو مباشرة لترنيحه مؤقتاً."
-"ui.loadingScreenHints.poise","Both enemies and players have a poise bar that increases as damage is dealt. If a poise bar fills, a player or enemy's poise is broken, and they are temporarily staggered.","يمتلك كل من الأعداء واللاعبين شريط توازن يزداد عند إلحاق الضرر. إذا امتلأ شريط التوازن، ينكسر توازن اللاعب أو العدو، ويُصاب بالترنح مؤقتاً."
+"ui.loadingScreenHints.poise","Both enemies and players have a poise bar that increases as damage is dealt. If a poise bar fills, a player or enemy's poise is broken, and they are temporarily staggered.","يمتلك كل من الأعداء واللاعبين شريط ثبات يزداد عند إلحاق الضرر. إذا امتلأ شريط الثبات، ينكسر ثبات اللاعب أو العدو، ويُصاب بالترنح مؤقتاً."
 "ui.loadingScreenHints.quickItem","Use a Quick Item when the situation calls for it. Quick Items may repair gear, apply temporary buffs, or damage and disrupt enemies.","استخدم عنصراً سريعاً عندما يتطلب الموقف ذلك. قد تقوم العناصر السريعة بإصلاح العتاد، أو منح تأثيرات إيجابية مؤقتة، أو إلحاق الضرر بالأعداء وإرباكهم."
 "ui.loadingScreenHints.refinedMaterials1","Refined materials are necessary for crafting and upgrading gear. Materials can be refined at upgraded vendor stalls, or at refineries added to your house. ","المواد المكررة ضرورية لصناعة العتاد وترقيته. يمكن تحسين المواد في أكشاك التجار بعد ترقيتها، أو في المصافي المضافة إلى منزلك."
 "ui.loadingScreenHints.refinedMaterials2","Higher tier refineries and upgraded vendor stalls reduce the time required to refine materials.","تقلل المصافي ذات المستوى الأعلى وأكشاك التجار بعد ترقيتها من الوقت اللازم لتحسين المواد وتكريرها."
@@ -1116,7 +1116,7 @@ Weight Class is decided by the <color=#F2E6BD>total weight</color> of your equip
 "ui.loadingScreenHints.runes1","Runes provide special abilities. Many are unique attacks, while others are utility based, such as healing, repair, or teleportation back to Sacrament. Most runes consume focus.","توفر الرون قدرات خاصة. الكثير منها عبارة عن هجمات فريدة، بينما يركّز بعضها الآخر على المساعدة، مثل الشفاء أو الإصلاح أو الانتقال الآني إلى ساكرامنت. معظم الرون تستهلك التركيز."
 "ui.loadingScreenHints.runes2","Some runes affix to your weapons, while others affix to you directly. Many weapons come with a rune, and Eleanor the enchanter can socket additional runes into your weapons or person.","تُثبَّت بعض الرون على أسلحتك، بينما يُثبَّت بعضها الآخر عليك مباشرة. تأتي العديد من الأسلحة برون مدمج، ويمكن للمعززة السحرية إليانور تركيب رون إضافي في أسلحتك أو شخصيتك."
 "ui.loadingScreenHints.runes3","Eleanor can extract a rune, which sacrifices the weapon it's attached to. Or she can destroy the rune, which preserves the weapon.","تستطيع إليانور استخراج الرون، مما يؤدي إلى التضحية بالسلاح المثبت عليه. أو يمكنها تدمير الرون، مما يحافظ على السلاح."
-"ui.loadingScreenHints.shields","Use a shield to block enemy attacks and reduce damage received, but shields do not reduce poise damage dealt to you.","استخدم الدرع لصد هجمات العدو وتقليل الضرر المتلقى، ولكن الدروع لا تقلل من ضرر التوازن الذي يُلحق بك."
+"ui.loadingScreenHints.shields","Use a shield to block enemy attacks and reduce damage received, but shields do not reduce poise damage dealt to you.","استخدم الدرع لصد هجمات العدو وتقليل الضرر المتلقى، ولكن الدروع لا تقلل من ضرر الثبات الذي يُلحق بك."
 "ui.loadingScreenHints.spells","Most spells cast by wands and staves consume focus. Some spells can be charged to become stronger. Be careful - spells can be interrupted while charging.","معظم التعاويذ التي تطلقها العصي السحرية تستهلك التركيز. يمكن شحن بعض التعاويذ لتصبح أقوى. كن حذراً — فقد تُقاطع التعاويذ أثناء الشحن."
 "ui.loadingScreenHints.tools","Use tools to harvest resources and materials. Higher tier tools work faster. Use of tools reduces their durability.","استخدم الأدوات لجمع المصادر والمواد. الأدوات ذات المستوى الأعلى تعمل بشكل أسرع. استخدام الأدوات يقلل من متانتها."
 "ui.loadingScreenHints.upgrades","Fillmore the blacksmith can upgrade your weapons. The tailor sisters Mirabelle and Meriweather can upgrade your armor. Upgrades increase a weapon's base damage as well as armor's base defense.","يستطيع الحداد فيلمور ترقية أسلحتك. وتستطيع الأختان الخياطتان ميرابيل وميريويذر ترقية دروعك. تزيد الترقيات من الضرر الأساسي للسلاح فضلاً عن الدفاع الأساسي للدروع."
@@ -1209,7 +1209,7 @@ Face more enemies than ever, Enemy HP is increased by 20% and Enemy Damage by 35
 
 A brutal, punishing world awaits.","فقط لأشجع السيريم.
 
-واجه أعداء أكثر من أي وقت مضى، تزداد نقاط صحة الأعداء بنسبة 20% وضرر الأعداء بنسبة 35%، بينما يجعل التوازن الأكبر مقاطعة هجمات الأعداء أصعب.
+واجه أعداء أكثر من أي وقت مضى، تزداد نقاط صحة الأعداء بنسبة 20% وضرر الأعداء بنسبة 35%، بينما يجعل الثبات الأكبر مقاطعة هجمات الأعداء أصعب.
 
 عالم قارس وقاسٍ في انتظارك."
 "ui.mainMenu.quitGame","QUIT GAME","الخروج من اللعبة"
@@ -2089,8 +2089,8 @@ Target Lock | Hold: Exit Manual Target Lock","لهذا المفتاح وظيفت
 "ui.settings.gameplay.showInlineHintsDescription","Inline hints are contextual prompts displayed directly in the game world, such as near items or interactable objects. When this setting is turned off, hints will instead be shown at the top of the screen.","التلميحات في العالم هي إرشادات سياقية تظهر مباشرة داخل عالم اللعبة، مثل بالقرب من العناصر أو الأجسام القابلة للتفاعل. عند تعطيل هذا الإعداد، ستظهر التلميحات في أعلى الشاشة بدلاً من ذلك."
 "ui.settings.gameplay.showMinimalControllerHUD","Minimal Controller HUD","واجهة مبسطة ليد التحكم"
 "ui.settings.gameplay.showMinimalControllerHUDDescription","Gamepad Controller only. Enables a minimal diamond HUD for gear and runes.","ليد التحكم فقط. تفعيل واجهة مصغرة على شكل ماسة للعتاد والرون."
-"ui.settings.gameplay.showPoiseBars","Show Enemy Poise Bars","إظهار أشرطة توازن الأعداء"
-"ui.settings.gameplay.showPoiseBarsDescription","Toggle poise bars on enemies on or off.","تبديل إظهار أشرطة توازن الأعداء."
+"ui.settings.gameplay.showPoiseBars","Show Enemy Poise Bars","إظهار أشرطة ثبات الأعداء"
+"ui.settings.gameplay.showPoiseBarsDescription","Toggle poise bars on enemies on or off.","تبديل إظهار أشرطة ثبات الأعداء."
 "ui.settings.gameplay.showStatNumbers","Show Stat Numbers","إظهار أرقام الإحصائيات"
 "ui.settings.gameplay.showStatNumbersDescription","Toggle stat numbers on or off.","تبديل إظهار أرقام الخصائص."
 "ui.settings.gameplay.showTutorials","Show Tutorials","إظهار الإرشادات التعليمية"
@@ -2222,7 +2222,7 @@ AMD FSR: زيادة معدل الإطارات على حساب بعض الدقة 
 "ui.stats.plagueArmorDescription","Base damage reduction from plague attacks. Each point increases the total plague damage you can take by 1.","تقليل الضرر الأساسي من هجمات الوباء. كل نقطة تزيد إجمالي ضرر الوباء الذي يمكنك تحمله بمقدار 1."
 "ui.stats.plagueDamage","Plague Damage","ضرر الوباء"
 "ui.stats.plagueResistence","Plague Resistance","مقاومة الوباء"
-"ui.stats.poise","Poise","التوازن"
+"ui.stats.poise","Poise","الثبات"
 "ui.stats.poiseDefenseDescription","Amount of force the player can take before reacting.","مقدار القوة التي يمكن للاعب تحملها قبل رد الفعل والترنح."
 "ui.stats.stamina","Stamina","التحمل"
 "ui.stats.staminaDescription","Increases the number of attacks, dodges, or blocks you can perform.","يزيد من عدد الهجمات أو التفادي أو الصد التي يمكنك تنفيذها."
@@ -2271,8 +2271,8 @@ Cerim who have proven themselves worthy can also use them to re-assign attribute
 [!sSubtext]قد توفر الوجبات المطبوخة تأثيرات إيجابية إضافية.[/s]"
 "ui.tutorials.items.discovery.food.title","Food","الطعام"
 "ui.tutorials.items.discovery.gems.description","Gems can be slotted into gear to infuse it with powerful [!sHighlight]enchantments[/s].
-[!sSubtext]Visit an enchanter to infuse gear.[/s]","يمكن تركيب الجواهر في العتاد لتضمينه [!sHighlight]بتعزيزات سحرية[/s] قوية.
-[!sSubtext]قم بزيارة معزز سحري لتضمين العتاد.[/s]"
+[!sSubtext]Visit an enchanter to infuse gear.[/s]","يمكن تركيب الجواهر في العتاد لشحنه بـ [!sHighlight]تعزيزات سحرية[/s] قوية.
+[!sSubtext]قم بزيارة معزز سحري لشحن العتاد.[/s]"
 "ui.tutorials.items.discovery.gems.title","Gems","الجواهر"
 "ui.tutorials.items.discovery.plaguedResources.description","Enemies slain within [!sPlagued]Pestilence Outbreaks[/s] may drop plagued resources. 
 
@@ -2307,7 +2307,7 @@ Materials can be refined at upgraded vendor stalls, or at refineries that you ow
 
 [!sSubtext]Shields do not reduce [IconPoise] Poise Damage.[/s]","[!sHighlight][!tnobr][shield] جهّز الدرع[/tnobr][/s] لصد هجمات العدو وتقليل الضرر المتلقى.
 
-[!sSubtext]الدروع لا تقلل من [IconPoise] ضرر التوازن.[/s]"
+[!sSubtext]الدروع لا تقلل من [IconPoise] ضرر الثبات.[/s]"
 "ui.tutorials.items.discovery.shields.title","Shields","الدروع"
 "ui.tutorials.items.discovery.tools.description","Use tools to [!sHighlight]harvest resources[/s] and [!sHighlight]materials[/s]. Higher tier tools work faster. ","استخدم الأدوات [!sHighlight]لجمع المصادر[/s] و[!sHighlight]المواد[/s]. تعمل الأدوات ذات المستوى الأعلى بشكل أسرع."
 "ui.tutorials.items.discovery.tools.title","Tools","الأدوات"
@@ -2471,11 +2471,11 @@ You can also find other Utility Runes throughout the game, which can be equipped
 
 [!sHighlight]الحرق الشديد[/s] - إلحاق ضرر ناري بهدف مصاب بالعدوى سيزيد من الضرر الناري المتلقى
 [!sHighlight]الحمل الزائد[/s] - إلحاق ضرر صاعق بهدف محترق سينشئ صاعقة قوية واسعة النطاق
-[!sHighlight]التقيح[/s] - إلحاق ضرر الوباء بهدف ينزف سيقلل من سرعة تعافي الأعداء من تراكم الحالات"
+[!sHighlight]التعفن[/s] - إلحاق ضرر الوباء بهدف ينزف سيقلل من سرعة تعافي الأعداء من تراكم الحالات"
 "ui.tutorials.multiplayer.advancedstatuseffects.title","Advanced Status Effects","تأثيرات الحالة المتقدمة"
 "ui.tutorials.multiplayer.combatbalance.description","When multiple Cerim travel together within a realm, [!sHighlight]more enemies will spawn[/s]; and the health, damage and poise resistance values of enemies will increase.
 
-If you can see another Cerim's [!sHighlight]portrait[/s], that means they're part of your group. Cerim who are far away on a realm do not affect local enemy spawning.","عندما يسافر عدة سيريم معاً داخل عالم، [!sHighlight]سيظهر المزيد من الأعداء[/s]؛ وستزداد قيم الصحة والضرر ومقاومة التوازن للأعداء.
+If you can see another Cerim's [!sHighlight]portrait[/s], that means they're part of your group. Cerim who are far away on a realm do not affect local enemy spawning.","عندما يسافر عدة سيريم معاً داخل عالم، [!sHighlight]سيظهر المزيد من الأعداء[/s]؛ وستزداد قيم الصحة والضرر ومقاومة الثبات للأعداء.
 
 إذا كان بإمكانك رؤية [!sHighlight]صورة شخصية[/s] لسيريم آخر، فهذا يعني أنه جزء من مجموعتك. السيريم البعيدون في العالم لا يؤثرون على ظهور الأعداء محلياً."
 "ui.tutorials.multiplayer.combatbalance.title","The More the Merrier","كلما زاد العدد زادت المتعة"
@@ -2710,13 +2710,13 @@ Revisit these shrouded regions to discover [!sHighlight]new dangers[/s] and [!sH
 "ui.tutorials.systems.fogOfWarRespawn.descriptionMini","Over your journey, you’ll uncover more of Isola Sacra in your <color=#F2E6BD>map</color>.","خلال رحلتك، ستكشف المزيد عن إيسولا ساكرا في <color=#F2E6BD>الخريطة</color>."
 "ui.tutorials.systems.fogOfWarRespawn.popoutMini","[select] Open Map","[select] فتح الخريطة"
 "ui.tutorials.systems.fogOfWarRespawn.title","Fog of War","ضباب الحرب"
-"ui.tutorials.systems.infusing.description1","Socket gems to infuse gear with a distinct [!sHighlight]enchantment[/s] that has a guaranteed value.","قم بتركيب الجواهر لتضمين العتاد [!sHighlight]بتعزيز سحري[/s] مميز ذي قيمة مضمونة."
+"ui.tutorials.systems.infusing.description1","Socket gems to infuse gear with a distinct [!sHighlight]enchantment[/s] that has a guaranteed value.","قم بتركيب الجواهر لشحن العتاد [!sHighlight]بتعزيز سحري[/s] مميز ذي قيمة مضمونة."
 "ui.tutorials.systems.infusing.description2","Existing Gems can be [!sHighlight]destroyed[/s] or [!sHighlight]extracted[/s].
 
 Extracting Gems from enchanted gear will [!sNegative]sacrifice[/s] the item.","يمكن [!sHighlight]تدمير[/s] الجواهر الحالية أو [!sHighlight]استخراجها[/s].
 
 استخراج الجواهر من العتاد المعزز سحرياً سيؤدي إلى [!sNegative]التضحية[/s] بالعنصر."
-"ui.tutorials.systems.infusing.title","Infusing","التضمين"
+"ui.tutorials.systems.infusing.title","Infusing","الشحن"
 "ui.tutorials.systems.itemRarity.description","Gear comes in several rarities.
 
 <style=bp><style=muted>Common</style> - Customizable, with 4 gem slots.</style>
@@ -2771,12 +2771,12 @@ Return to Sacrament and visit <color=#F2E6BD>the Rookery</color> to learn more."
 This can interrupt actions and [!sHighlight]stagger[/s] you.
 
 [!sHeadingMuted]Protection[/s]
-Equip heavier gear to raise [StatPoiseDefense] [!tNoBr][!sHighlight]Poise Defense[/s][/tNoBr], such as Mesh or Plate armor.","تلحق هجمات العدو [!tNoBr][IconPoise] [!sHighlight]ضرر توازن[/s][/tNoBr].
+Equip heavier gear to raise [StatPoiseDefense] [!tNoBr][!sHighlight]Poise Defense[/s][/tNoBr], such as Mesh or Plate armor.","تلحق هجمات العدو [!tNoBr][IconPoise] [!sHighlight]ضرر ثبات[/s][/tNoBr].
 يمكن أن يقاطع هذا أفعالك و[!sHighlight]يرنحك[/s].
 
 [!sHeadingMuted]الحماية[/s]
-جهّز عتاداً أثقل لرفع [StatPoiseDefense] [!tNoBr][!sHighlight]دفاع التوازن[/s][/tNoBr]، مثل دروع السلاسل أو دروع الصفائح المعدنية."
-"ui.tutorials.systems.poiseDamage.title","Poise Defense","دفاع التوازن"
+جهّز عتاداً أثقل لرفع [StatPoiseDefense] [!tNoBr][!sHighlight]دفاع الثبات[/s][/tNoBr]، مثل دروع السلاسل أو دروع الصفائح المعدنية."
+"ui.tutorials.systems.poiseDamage.title","Poise Defense","دفاع الثبات"
 "ui.tutorials.systems.runesScreen.description1","[!sHighlight]Equip[/s], [!sHighlight]extract[/s] or [!sHighlight]destroy[/s] Runes on an item.
 
 [!sSubtext]Extracting a Rune will [!sNegative]destroy[/s] the item.[/s]","[!sHighlight]جهّز[/s] الرون أو [!sHighlight]استخرجها[/s] أو [!sHighlight]دمّرها[/s] على العنصر.
