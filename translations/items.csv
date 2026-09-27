@@ -3342,7 +3342,7 @@ Twirl into a spin that gathers momentum and then unleash a devastating uppercut 
 
 Emit a plague beam, infecting all foes in its path. Active until releasing the Rune button.","ركّب هذا الرون في <color=#F2E6BD>عصا سحرية</color> أو <color=#F2E6BD>صولجان</color> لاكتساب هجوم الرون <color=#F2E6BD>لعنة</color>.
 
-أطلق شعاع طاعون يصيب كافة الأعداء في مساره. يظل نشطًا حتى تحرير زر الرون."
+أطلق شعاع وباء يصيب كافة الأعداء في مساره. يظل نشطًا حتى تحرير زر الرون."
 "items.runes.curse.Name","Curse","لعنة"
 "items.runes.cycloneKick.Description","Slot this Rune into <color=#F2E6BD>Gauntlets</color> to gain the <color=#F2E6BD>Cyclone Kick</color> Rune Attack.
 
@@ -5782,7 +5782,7 @@ This item can only be crafted at an <color=#F2E6BD>Alchemy Table</color>.","تع
 "items.upgradeMaterials.parts.wolf.wolfKidneys.Name","Wolf Kidney","كلية ذئب"
 "items.upgradeMaterials.parts.wolf.wolfSkull.Description","Lethal in life, useful in death. This skull can be used to <color=#F2E6BD>craft or upgrade gear</color>.","فتاكة في الحياة، ومفيدة في الممات. يمكن استخدام هذه الجمجمة لـ <color=#F2E6BD>صناعة العتاد أو ترقيته</color>."
 "items.upgradeMaterials.parts.wolf.wolfSkull.Name","Wolf Skull","جمجمة ذئب"
-"items.upgradeMaterials.plaguedResources.tornEffigy.Description","A totem of sinew, husk, and marrow, it pulls like a compass toward flame. But will its burning challenge the plague, or succumb to it?","طوطم من العصب والقشرة والنخاع، ينجذب نحو اللهب كالبوصلة. ولكن هل سيتحدى احتراقه الطاعون، أم سيستسلم له؟"
+"items.upgradeMaterials.plaguedResources.tornEffigy.Description","A totem of sinew, husk, and marrow, it pulls like a compass toward flame. But will its burning challenge the plague, or succumb to it?","طوطم من العصب والقشرة والنخاع، ينجذب نحو اللهب كالبوصلة. ولكن هل سيتحدى احتراقه الوباء، أم سيستسلم له؟"
 "items.upgradeMaterials.plaguedResources.tornEffigy.Name","Torn Effigy","تمثال المسوخ"
 "items.upgradeMaterials.plaguedResources.tornHusk.Description","The carapace of a pestilence-infected being, its foul architecture holds a great and terrible strength.
 
