@@ -384,9 +384,9 @@
 "entities.npcs.friendly.story.elsa.name","Elsa","إلسا"
 "entities.npcs.friendly.story.harol.interactionHint","Press [interact] to <color=#F2E6BD>talk to Harol</color>.","اضغط على [interact] <color=#F2E6BD>للتحدث إلى هارول</color>."
 "entities.npcs.friendly.story.harol.name","Harol","هارول"
-"entities.npcs.friendly.story.irmgard.interactionHint","Press [interact] to <color=#F2E6BD>talk to Irmgard</color>.","اضغط على [interact] <color=#F2E6BD>للتحدث إلى إرمغارد</color>."
-"entities.npcs.friendly.story.irmgard.name","Irmgard","إرمغارد"
-"entities.npcs.friendly.story.irmgard.name2","Irmgard","إرمغارد"
+"entities.npcs.friendly.story.irmgard.interactionHint","Press [interact] to <color=#F2E6BD>talk to Irmgard</color>.","اضغط على [interact] <color=#F2E6BD>للتحدث إلى إيرمغارد</color>."
+"entities.npcs.friendly.story.irmgard.name","Irmgard","إيرمغارد"
+"entities.npcs.friendly.story.irmgard.name2","Irmgard","إيرمغارد"
 "entities.npcs.friendly.story.madrigalSeline.interactionHint","Press [interact] to <color=#F2E6BD>talk to Madrigal Seline</color>.","اضغط على [interact] <color=#F2E6BD>للتحدث إلى المادريغال سيلين</color>."
 "entities.npcs.friendly.story.madrigalSeline.name","Madrigal Seline","المادريغال سيلين"
 "entities.npcs.friendly.story.madrigalSeline.name2","Madrigal Seline","المادريغال سيلين"
@@ -571,7 +571,7 @@ Gordon will be able to offer a wider variety of <b><color=#F2E6BD>ingredients</c
 
 سيتمكن غوردون من تقديم تشكيلة أوسع من <b><color=#F2E6BD>المكونات</color></b> و<b><color=#F2E6BD>الوجبات المطبوخة.</color></b> <b><color=#F2E6BD>موقد</color></b> أكثر تقدماً سيتيح طهي <b><color=#F2E6BD>وجبات أكثر تقدماً.</color>
 </b>"
-"entities.npcs.friendly.vendors.danos.projects.vendors.gordon.name","Gordon's Pantry","مؤن غوردون"
+"entities.npcs.friendly.vendors.danos.projects.vendors.gordon.name","Gordon's Pantry","مخزن طعام غوردون"
 "entities.npcs.friendly.vendors.danos.projects.vendors.grinnich.level2description","Upgrades Grinnich’s Market Stand to <b><color=#F2E6BD>Level 2.</color></b>
 
 Grinnich will be able to offer a wider variety of <b><color=#F2E6BD>items</color></b> and <b><color=#F2E6BD>utilities.</color></b>","يرقي كشك سوق غرينيتش إلى <b><color=#F2E6BD>المستوى 2.</color></b>
@@ -678,11 +678,11 @@ A superior <b><color=#F2E6BD>Workbench</color></b> allows for crafting even more
 "entities.npcs.friendly.vendors.sacramentVendors.grinnich.name","Grinnich","غرينيتش"
 "entities.npcs.friendly.vendors.sacramentVendors.markos.name","Markos","ماركوس"
 "entities.npcs.friendly.vendors.sacramentVendors.miraAndMeri.name","Meri and Mira","ميري وميرا"
-"entities.npcs.friendly.vendors.sacramentVendors.willem.name","Willem","فيليم"
+"entities.npcs.friendly.vendors.sacramentVendors.willem.name","Willem","ويليم"
 "entities.npcs.friendly.vendors.santa.name","Santa","سانتا"
 "entities.npcs.friendly.vendors.tailorSisters.name","Mira and Meri","ميرا وميري"
 "entities.npcs.friendly.vendors.whittacker.name","Whittacker","ويتكر"
-"entities.npcs.friendly.vendors.willem.sacramentFarmerHoe.name","Willem","فيليم"
+"entities.npcs.friendly.vendors.willem.sacramentFarmerHoe.name","Willem","ويليم"
 "entities.npcs.friendly.windowDressing.sacrament.alsocTheCaretaker.name","Caretaker Alden","المعتني ألدين"
 "entities.npcs.friendly.windowDressing.sacrament.altonTheFormerQuarryGuard.name","Alton","ألتون"
 "entities.npcs.friendly.windowDressing.sacrament.arguingCouple.Man.name","Durgan","دورغان"
